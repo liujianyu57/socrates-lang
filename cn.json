@@ -315,5 +315,8 @@
   "textConnectWalletToSocrates": "链接钱包到 Socrates",
   "textAddEmailAddress": "添加电子邮箱",
   "textSetupAddEmail": "添加电子邮箱",
-  "textSetupAddEmailDescription": "添加电子邮箱，可用于登录、接收通知，以及重置帐户密码"
+  "textSetupAddEmailDescription": "添加电子邮箱，可用于登录、接收通知，以及重置帐户密码",
+  "textChangeSuccess": "修改成功",
+  "textBindSuccess": "绑定成功",
+  "textEmailExisted": "邮箱已注册"
 }

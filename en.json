@@ -315,5 +315,8 @@
   "textConnectWalletToSocrates": "Connect wallet to Socrates",
   "textAddEmailAddress": "Add email address",
   "textSetupAddEmail": "textAddEmailAddress",
-  "textSetupAddEmailDescription": "Add an email address that can be used to log in, receive notifications, and reset account passwords"
+  "textSetupAddEmailDescription": "Add an email address that can be used to log in, receive notifications, and reset account passwords",
+  "textChangeSuccess": "Change success",
+  "textBindSuccess": "Bind success",
+  "textEmailExisted": "Email is registered"
 }
