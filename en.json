@@ -318,5 +318,12 @@
   "textSetupAddEmailDescription": "Add an email address that can be used to log in, receive notifications, and reset account passwords",
   "textChangeSuccess": "Change success",
   "textBindSuccess": "Bind success",
-  "textEmailExisted": "Email is registered"
+  "textEmailExisted": "Email is registered",
+  "textEnterEmail": "Please enter email",
+  "textInvalidEmail": "Invalid email format",
+  "textEnterEmailCode": "Please enter the email verification code",
+  "textVerificationCodeDigits": "Verification code must be 6 digits",
+  "textPasswordRegular": "The password length is 6-14 characters, including at least two types of letters, numbers, and symbols",
+  "textEnterNickname": "Please enter nickname",
+  "textNicknameRegular": "Nickname is 4-30 characters"
 }

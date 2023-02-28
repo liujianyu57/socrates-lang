@@ -318,5 +318,12 @@
   "textSetupAddEmailDescription": "添加电子邮箱，可用于登录、接收通知，以及重置帐户密码",
   "textChangeSuccess": "修改成功",
   "textBindSuccess": "绑定成功",
-  "textEmailExisted": "邮箱已注册"
+  "textEmailExisted": "邮箱已注册",
+  "textEnterEmail": "请输入邮箱",
+  "textInvalidEmail": "邮箱格式不合法",
+  "textEnterEmailCode": "请输入邮箱验证码",
+  "textVerificationCodeDigits": "验证码必须为6位数字",
+  "textPasswordRegular": "密码长度6-14位，至少包括字母、数字、符号中的两种",
+  "textEnterNickname": "请输入昵称",
+  "textNicknameRegular": "昵称为4-30位字符"
 }
