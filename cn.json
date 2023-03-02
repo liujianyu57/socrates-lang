@@ -117,7 +117,7 @@
   "textAskRankingDescription": "根据用户创建问题数量生成，每天更新",
   "textAvailable": "可用",
   "textBalance": "余额",
-  "textBindEmail": "榜单邮箱",
+  "textBindEmail": "绑定邮箱",
   "textBindWallet": "绑定钱包",
   "textBindWalletDescription": "可创建新钱包，或导入已有web3钱包进行绑定，绑定钱包后可参与答题、点赞、领取积分奖励。",
   "textBuy": "购买",
