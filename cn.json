@@ -325,5 +325,7 @@
   "textVerificationCodeDigits": "验证码必须为6位数字",
   "textPasswordRegular": "密码长度6-14位，至少包括字母、数字、符号中的两种",
   "textEnterNickname": "请输入昵称",
-  "textNicknameRegular": "昵称为4-30位字符"
+  "textNicknameRegular": "昵称为4-30位字符",
+  "textCreateQuestion": "创建问题",
+  "textCreateQuestionDescription": "创建问题需花费{value1}积分，是否继续？"
 }
