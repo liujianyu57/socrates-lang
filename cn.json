@@ -329,5 +329,7 @@
   "textCreateQuestion": "创建问题",
   "textCreateQuestionDescription": "创建问题需花费{value1}积分，是否继续？",
   "btnSignUpEmail": "邮箱注册",
-  "textHaveAccount": "已有账号？"
+  "textHaveAccount": "已有账号？",
+  "textAnswerTrend": "答题趋势",
+  "btnReturn": "返回"
 }
