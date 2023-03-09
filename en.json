@@ -345,5 +345,7 @@
   "textMintFailed": "Mint failed",
   "textTryAgain": "Please try again",
   "textFail": "Fail",
-  "textChooseMintLevel": "Please select the level of minting pen."
+  "textChooseMintLevel": "Please select the level of minting pen.",
+  "textUpgradingPen": "Upgrading pen...",
+  "textUpgradingPenDescription": "It will take a while to upgrade the pen. After the upgrade is successful, you can continue to operate. It is recommended that you wait"
 }

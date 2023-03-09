@@ -345,5 +345,7 @@
   "textMintFailed": "铸造失败",
   "textTryAgain": "请重新操作",
   "textFail": "失败",
-  "textChooseMintLevel": "请选择铸造等级"
+  "textChooseMintLevel": "请选择铸造等级",
+  "textUpgradingPen": "正在升级笔...",
+  "textUpgradingPenDescription": "铸造笔需要一段时间，铸造成功后可继续操作，建议您等待"
 }
