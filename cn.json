@@ -331,5 +331,6 @@
   "btnSignUpEmail": "邮箱注册",
   "textHaveAccount": "已有账号？",
   "textAnswerTrend": "答题趋势",
-  "btnReturn": "返回"
+  "btnReturn": "返回",
+  "textNoPen": "缺少笔"
 }

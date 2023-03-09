@@ -331,5 +331,6 @@
   "btnSignUpEmail": "Sign up with Email",
   "textHaveAccount": "Already have an account?",
   "textAnswerTrend": "Answer trend",
-  "btnReturn": "Return"
+  "btnReturn": "Return",
+  "textNoPen": "You lack a pen"
 }
