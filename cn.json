@@ -332,5 +332,11 @@
   "textHaveAccount": "已有账号？",
   "textAnswerTrend": "答题趋势",
   "btnReturn": "返回",
-  "textNoPen": "缺少笔"
+  "textNoPen": "缺少笔",
+  "textWalletAccountMismatch": "钱包地址和登陆账号不匹配",
+  "textUseWalletLogin": "请使用：{value1} 钱包地址登录",
+  "textWalletBoundAccount": "当前钱包地址已有绑定账户,请使用其他钱包地址",
+  "btnSwitchAccount": "切换账号",
+  "textConnectSuccess": "连接成功",
+  "textAccountBindSuccess": "账号绑定成功"
 }

@@ -332,5 +332,11 @@
   "textHaveAccount": "Already have an account?",
   "textAnswerTrend": "Answer trend",
   "btnReturn": "Return",
-  "textNoPen": "You lack a pen"
+  "textNoPen": "You lack a pen",
+  "textWalletAccountMismatch": "Wallet address and login account do not match",
+  "textUseWalletLogin": "Please use: {value1} wallet address to log in",
+  "textWalletBoundAccount": "The current wallet address already has a bound account, please use another wallet address",
+  "btnSwitchAccount": "Switch account",
+  "textConnectSuccess": "Connection succeeded",
+  "textAccountBindSuccess": "The account is bound successfully"
 }
