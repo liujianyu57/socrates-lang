@@ -338,5 +338,12 @@
   "textWalletBoundAccount": "当前钱包地址已有绑定账户,请使用其他钱包地址",
   "btnSwitchAccount": "切换账号",
   "textConnectSuccess": "连接成功",
-  "textAccountBindSuccess": "账号绑定成功"
+  "textAccountBindSuccess": "账号绑定成功",
+  "textHavePenDescription": "拥有笔可以答题、评论、点赞和提问，请先铸造一支笔",
+  "textUpgradePen": "升级笔",
+  "textUpgradePenDescription": "升级笔可以提升收益系数",
+  "textMintFailed": "铸造失败",
+  "textTryAgain": "请重新操作",
+  "textFail": "失败",
+  "textChooseMintLevel": "请选择铸造等级"
 }

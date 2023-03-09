@@ -338,5 +338,12 @@
   "textWalletBoundAccount": "The current wallet address already has a bound account, please use another wallet address",
   "btnSwitchAccount": "Switch account",
   "textConnectSuccess": "Connection succeeded",
-  "textAccountBindSuccess": "The account is bound successfully"
+  "textAccountBindSuccess": "The account is bound successfully",
+  "textHavePenDescription": "You can use the pen to answer questions, comment, like and ask questions, please mint a pen first",
+  "textUpgradePen": "Upgrade pen",
+  "textUpgradePenDescription": "Upgrading the pen can increase the profit factor",
+  "textMintFailed": "Mint failed",
+  "textTryAgain": "Please try again",
+  "textFail": "Fail",
+  "textChooseMintLevel": "Please select the level of minting pen."
 }
