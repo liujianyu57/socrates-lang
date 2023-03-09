@@ -327,5 +327,7 @@
   "textEnterNickname": "请输入昵称",
   "textNicknameRegular": "昵称为4-30位字符",
   "textCreateQuestion": "创建问题",
-  "textCreateQuestionDescription": "创建问题需花费{value1}积分，是否继续？"
+  "textCreateQuestionDescription": "创建问题需花费{value1}积分，是否继续？",
+  "btnSignUpEmail": "邮箱注册",
+  "textHaveAccount": "已有账号？"
 }

@@ -327,6 +327,7 @@
   "textEnterNickname": "Please enter nickname",
   "textNicknameRegular": "Nickname is 4-30 characters",
   "textCreateQuestion": "Create a question",
-  "textCreateQuestionDescription": "lt costs {value1} point to create the problem, Whether to
-continue."
+  "textCreateQuestionDescription": "lt costs {value1} point to create the problem, Whether to continue.",
+  "btnSignUpEmail": "Sign up with Email",
+  "textHaveAccount": "Already have an account?"
 }
