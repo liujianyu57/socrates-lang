@@ -374,5 +374,16 @@
   "textImageSize": "The image size exceeds 15M",
   "textUnsupportedImage": "Unsupported image format",
   "textUploadSuccess": "Uploaded successfully",
-  "textEditFail": "Fail to edit"
+  "textEditFail": "Fail to edit",
+  "textInjectPointAmount": "Inject {value1} points",
+  "textImage": "picture",
+  "textMention": "@Users",
+  "textLink": "Link",
+  "textSearchUser": "search user",
+  "textTrySearchUser": "try to search users",
+  "textYourInvestmentPoint": "Your investment (points)",
+  "textPointBalance": "Points balance:",
+  "btnConfirmInvest": "Confirm investment",
+  "textInvestDescription01": "Inject points for investment, and help the question and answer become a public question and answer to get more rewards. Each question and answer can only be invested once",
+  "textEnterOtherInvestAmount": "Please enter other investment amount"
 }

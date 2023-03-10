@@ -374,5 +374,16 @@
   "textImageSize": "图片大小超过15M",
   "textUnsupportedImage": "不支持的图片格式",
   "textUploadSuccess": "上传成功",
-  "textEditFail": "修改失败"
+  "textEditFail": "修改失败",
+  "textInjectPointAmount": "注入{value1}积分",
+  "textImage": "图片",
+  "textMention": "标记用户",
+  "textLink": "链接",
+  "textSearchUser": "搜索用户",
+  "textTrySearchUser": "试试去搜索用户",
+  "textYourInvestmentPoint": "你的投资额(积分)",
+  "textPointBalance": "积分余额:",
+  "btnConfirmInvest": "确定投资",
+  "textInvestDescription01": "注入积分进行投资，帮助问答成为公众问答可获得更多奖励，每个问答只可投资一次",
+  "textEnterOtherInvestAmount": "请输入其它投资数量"
 }
