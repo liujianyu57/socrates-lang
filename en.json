@@ -426,5 +426,6 @@
   "textInvestSuccess": "You have successfully invested",
   "textNoReason": "Currently no reason",
   "btnDefault": "Default",
-  "textChangeYourEmail": "Change your current email address"
+  "textChangeYourEmail": "Change your current email address",
+  "textInject": "Inject"
 }
