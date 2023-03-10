@@ -366,5 +366,13 @@
   "tagPointDetail": "Points Details",
   "textAssets": "Assets",
   "textPrice": "Price",
-  "textValue": "Value"
+  "textValue": "Value",
+  "btnUnfollow": "Unfollow",
+  "textUnfollowDescription": "Their news will no longer show up in your home timeline. You can still view their profile.",
+  "btnChangeAvatar": "Change avatar",
+  "textInvalidFile": "Invalid file",
+  "textImageSize": "The image size exceeds 15M",
+  "textUnsupportedImage": "Unsupported image format",
+  "textUploadSuccess": "Uploaded successfully",
+  "textEditFail": "Fail to edit"
 }

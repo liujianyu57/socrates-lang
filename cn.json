@@ -366,5 +366,13 @@
   "tagPointDetail": "积分明细",
   "textAssets": "资产",
   "textPrice": "价格",
-  "textValue": "价值"
+  "textValue": "价值",
+  "btnUnfollow": "取消关注",
+  "textUnfollowDescription": "他们的消息将不再显示在您的主页时间线中。 您仍然可以查看他们的个人资料。",
+  "btnChangeAvatar": "更换头像",
+  "textInvalidFile": "无效文件",
+  "textImageSize": "图片大小超过15M",
+  "textUnsupportedImage": "不支持的图片格式",
+  "textUploadSuccess": "上传成功",
+  "textEditFail": "修改失败"
 }
