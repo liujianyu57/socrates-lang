@@ -385,5 +385,8 @@
   "textPointBalance": "Points balance:",
   "btnConfirmInvest": "Confirm investment",
   "textInvestDescription01": "Inject points for investment, and help the question and answer become a public question and answer to get more rewards. Each question and answer can only be invested once",
-  "textEnterOtherInvestAmount": "Please enter other investment amount"
+  "textEnterOtherInvestAmount": "Please enter other investment amount",
+  "textLoginSuccess": "Login successfully",
+  "btnClearAll": "Clear all",
+  "textSetSuccess": "Set up successfully"
 }
