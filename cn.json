@@ -425,5 +425,6 @@
   "textHideReply": "隐藏此回复",
   "textInvestSuccess": "您已投资成功",
   "textNoReason": "暂时没有理由",
-  "btnDefault": "默认"
+  "btnDefault": "默认",
+  "textChangeYourEmail": "更改你当前的电子邮箱地址"
 }

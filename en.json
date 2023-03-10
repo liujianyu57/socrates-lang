@@ -425,5 +425,6 @@
   "textHideReply": "Hide this reply",
   "textInvestSuccess": "You have successfully invested",
   "textNoReason": "Currently no reason",
-  "btnDefault": "Default"
+  "btnDefault": "Default",
+  "textChangeYourEmail": "Change your current email address"
 }
