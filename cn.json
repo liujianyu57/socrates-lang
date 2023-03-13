@@ -428,5 +428,7 @@
   "btnDefault": "默认",
   "textChangeYourEmail": "更改你当前的电子邮箱地址",
   "textInject": "注入",
-  "btnAsk": "提问"
+  "btnAsk": "提问",
+  "textMyReasonList": "我回答的理由",
+  "textMyLikeList": "我点赞的理由"
 }

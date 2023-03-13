@@ -428,5 +428,7 @@
   "btnDefault": "Default",
   "textChangeYourEmail": "Change your current email address",
   "textInject": "Inject",
-  "btnAsk": "Ask"
+  "btnAsk": "Ask",
+  "textMyReasonList": "My reasons",
+  "textMyLikeList": "My likes"
 }
