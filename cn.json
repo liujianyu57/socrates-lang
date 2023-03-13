@@ -427,5 +427,6 @@
   "textNoReason": "暂时没有理由",
   "btnDefault": "默认",
   "textChangeYourEmail": "更改你当前的电子邮箱地址",
-  "textInject": "注入"
+  "textInject": "注入",
+  "btnAsk": "提问"
 }

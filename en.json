@@ -427,5 +427,6 @@
   "textNoReason": "Currently no reason",
   "btnDefault": "Default",
   "textChangeYourEmail": "Change your current email address",
-  "textInject": "Inject"
+  "textInject": "Inject",
+  "btnAsk": "Ask"
 }
