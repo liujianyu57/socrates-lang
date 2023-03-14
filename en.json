@@ -430,5 +430,6 @@
   "textInject": "Inject",
   "btnAsk": "Ask",
   "textMyReasonList": "My reasons",
-  "textMyLikeList": "My likes"
+  "textMyLikeList": "My likes",
+  "textPointDescription": "Points can be used for answering questions, comments, likes and asking questions"
 }
