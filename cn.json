@@ -431,5 +431,6 @@
   "btnAsk": "提问",
   "textMyReasonList": "我回答的理由",
   "textMyLikeList": "我点赞的理由",
-  "textPointDescription": "积分可以用于答题、评论、点赞和提问功能"
+  "textPointDescription": "积分可以用于答题、评论、点赞和提问功能",
+  "textImageSize01": "该图片不符合要求，请使用JPG、PNG格式，且小于5M的图片"
 }

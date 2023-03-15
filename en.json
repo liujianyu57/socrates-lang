@@ -431,5 +431,6 @@
   "btnAsk": "Ask",
   "textMyReasonList": "My reasons",
   "textMyLikeList": "My likes",
-  "textPointDescription": "Points can be used for answering questions, comments, likes and asking questions"
+  "textPointDescription": "Points can be used for answering questions, comments, likes and asking questions",
+  "textImageSize01": "The picture does not meet the requirements, please use JPG, PNG format, and the picture is less than 5M"
 }
