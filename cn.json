@@ -175,7 +175,7 @@
   "textInjectPoint": "注入积分",
   "textInjectPointDescription": "给你的私有问题注入积分，可以增加关注度。\n请注意，注入的积分将不会被退还。",
   "textInsufficientBalance": "余额不足",
-  "textInsufficientPointTips": "积分不足，你有{value1}积分，还需购买至少{value2}积分才能继续操作",
+  "textInsufficientPointTips": "您的积分不足，是否购买积分？",
   "textIntroductionDescription": "简介长度最多200个字符",
   "textInvestDescription": "暂无人投资，成为公众问题后可以获得奖励，越早投资奖励越多，快去投资吧",
   "textInvested": "已投资",

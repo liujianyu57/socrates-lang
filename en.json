@@ -175,7 +175,7 @@
   "textInjectPoint": "Inject Points",
   "textInjectPointDescription": "Injecting points into your private questions can increase attention. \nPlease note that injected points will not be refunded.",
   "textInsufficientBalance": "Insufficient balance",
-  "textInsufficientPointTips": "Insufficient points, you have {value1} points, and you need to buy at least {value2} points to continue the operation",
+  "textInsufficientPointTips": "You do not have enough points, do you want to buy points?",
   "textIntroductionDescription": "Introduction length can be up to 200 characters",
   "textInvestDescription": "No one has invested yet, and you can get rewards after it becomes a public issue. The sooner you invest, the more rewards you will get. Go invest now.",
   "textInvested": "Invested",
