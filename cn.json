@@ -347,7 +347,7 @@
   "textFail": "失败",
   "textChooseMintLevel": "请选择铸造等级",
   "textUpgradingPen": "正在升级笔...",
-  "textUpgradingPenDescription": "铸造笔需要一段时间，铸造成功后可继续操作，建议您等待",
+  "textUpgradingPenDescription": "升级笔需要一段时间，铸造成功后可继续操作，建议您等待",
   "textAccountBalance": "账户余额",
   "textEnterAnotherAmount": "请输入其他数量",
   "btnConfirmInject": "确定注入",
