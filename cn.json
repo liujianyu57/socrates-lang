@@ -434,5 +434,6 @@
   "textPointDescription": "积分可以用于答题、评论、点赞和提问功能",
   "textImageSize01": "该图片不符合要求，请使用JPG、PNG格式，且小于5M的图片",
   "textPeopleFollowYou": "等{value1}人关注了你",
-  "textPeopleAnswerYou": "等{value1}人回答了你的问题"
+  "textPeopleAnswerYou": "等{value1}人回答了你的问题",
+  "textQuestionExpired": "该问题已过期，无法回答。"
 }
