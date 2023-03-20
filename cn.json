@@ -122,7 +122,7 @@
   "textBindWalletDescription": "可创建新钱包，或导入已有web3钱包进行绑定，绑定钱包后可参与答题、点赞、领取积分奖励。",
   "textBuy": "购买",
   "textBuyPoint": "购买积分",
-  "textBuyPointSuccessDescription": "成功购买{value1}积分，当前积分余额{value2}",
+  "textBuyPointSuccessDescription": "成功购买{value1}积分。",
   "textBuySuccess": "购买成功",
   "textChain": "链",
   "textChangeAnswer": "修改你的答案",

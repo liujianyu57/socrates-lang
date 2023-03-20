@@ -122,7 +122,7 @@
   "textBindWalletDescription": "You can create a new wallet, or import an existing web3 wallet for binding. After binding the wallet, you can participate in answering questions, giving likes, and receiving reward points.",
   "textBuy": "Buy",
   "textBuyPoint": "Buy points",
-  "textBuyPointSuccessDescription": "Successfully purchased {value1} points, the current point balance is {value2}",
+  "textBuyPointSuccessDescription": "Successfully purchased {value1} points.",
   "textBuySuccess": "Buy success",
   "textChain": "Chain",
   "textChangeAnswer": "Change your answer",
