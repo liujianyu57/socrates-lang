@@ -469,8 +469,8 @@
   "error102": "请重新登录",
   "error200": "接口请求成功",
   "error305": "使用代理",
-  "error307": "",
-  "error308": "",
+  "error307": "Temporary Redirect",
+  "error308": "Permanent Redirect",
   "error400": "请求失败",
   "error401": "未授权",
   "error402": "需要付费",
@@ -597,4 +597,10 @@
   "textShow": "显示",
   "textHide": "隐藏",
   "textTransferring": "转账中",
+  "textNoContent": "您还没有参与任何内容",
+  "textNoAnswer": "您还没有发布任何回答",
+  "textNoLike": "您还没有发布任何点赞",
+  "textNoInvest": "您还没有投资任何内容",
+  "textNoQuestion": "您还没有发布任何问题",
+  "textNoNFT": "还没有任何NFT笔"
 }
