@@ -270,7 +270,7 @@
   "textTermsContent": "文字文字文字文字文字\n\n文字文字文字文字文字\n\n文字文字文字文字文字\n\n文字文字文字文字文字\n\n",
   "textTo": "到",
   "textTokenID": "tokenID",
-  "textTransactionDetail": "转账详情",
+  "textTransactionDetail": "交易详情",
   "textUser": "用户",
   "textValidTime": "有效期",
   "textValidTimeDay": "{value1}天",
@@ -596,5 +596,5 @@
   "btnGetCode": "获取验证码",
   "textShow": "显示",
   "textHide": "隐藏",
-  "textTransferring": "转账中"
+  "textTransferring": "转账中",
 }
