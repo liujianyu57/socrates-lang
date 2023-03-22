@@ -592,5 +592,8 @@
   "error20039": "The frozen points are less than the current points",
   "error20040": "Points order does not exist",
   "error20041": "Review points failed",
-  "error20042": "unsupported platform"
+  "error20042": "unsupported platform",
+  "btnGetCode": "Get verification code",
+  "textShow": "Show",
+  "textHide": "Hide"
 }
