@@ -602,5 +602,9 @@
   "textNoLike": "您还没有发布任何点赞",
   "textNoInvest": "您还没有投资任何内容",
   "textNoQuestion": "您还没有发布任何问题",
-  "textNoNFT": "还没有任何NFT笔"
+  "textNoNFT": "还没有任何NFT笔",
+  "textRank": "排名",
+  "textName": "名字",
+  "textPointIncome": "积分收益",
+  "textShowTopNumber": "仅显示前{value1}名"
 }

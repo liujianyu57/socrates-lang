@@ -602,5 +602,9 @@
   "textNoLike": "You have not posted any likes",
   "textNoInvest": "You have not invested",
   "textNoQuestion": "You have not created any questions",
-  "textNoNFT": "Don't have any NFT pens yet"
+  "textNoNFT": "Don't have any NFT pens yet",
+  "textRank": "Rank",
+  "textName": "Name",
+  "textPointIncome": "Point income",
+  "textShowTopNumber": "Show only the top {value1}"
 }
