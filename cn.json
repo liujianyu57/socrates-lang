@@ -595,5 +595,6 @@
   "error20042": "不支持的平台",
   "btnGetCode": "获取验证码",
   "textShow": "显示",
-  "textHide": "隐藏"
+  "textHide": "隐藏",
+  "textTransferring": "转账中"
 }

@@ -595,5 +595,6 @@
   "error20042": "unsupported platform",
   "btnGetCode": "Get verification code",
   "textShow": "Show",
-  "textHide": "Hide"
+  "textHide": "Hide",
+  "textTransferring": "Transferring"
 }
