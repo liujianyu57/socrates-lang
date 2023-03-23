@@ -150,7 +150,7 @@
   "textEnterCode": "Enter code",
   "textEnterCodeDescription": "We sent the code to {value1}",
   "textEnterPassword": "Enter password",
-  "textEnterWalletPassword": "Enter yourwallet password",
+  "textEnterWalletPassword": "Enter your wallet password",
   "textEstimatedGasFee": "Estimated gas fee",
   "textEveryCanAnswer": "Everyone can answer",
   "textFilterReason": "All reasons",
