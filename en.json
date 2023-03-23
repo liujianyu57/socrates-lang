@@ -236,7 +236,7 @@
   "textPublicInvestDescription": "It has become a public question and answer. After the problem, investors can divide the total points of the total points {value1} as a reward.",
   "textQuestion": "Questions",
   "textQueueRanking": "Question Ranking",
-  "textQueueRankingDescription": "There are {value10} places that become public issues every day, and the queue progress will not be cleared. Those that have not become public issues will continue to queue, and those who pass the review will become public issues.",
+  "textQueueRankingDescription": "There are {value1} places that become public issues every day, and the queue progress will not be cleared. Those that have not become public issues will continue to queue, and those who pass the review will become public issues.",
   "textReasons": "Reasons",
   "textReceive": "Receive",
   "textReceiver": "Receiver",
