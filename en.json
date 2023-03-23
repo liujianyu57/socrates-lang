@@ -254,7 +254,7 @@
   "textSend": "Send",
   "textSendCodeToNewEmail": "Send code to new email",
   "textSetPassword": "Set password",
-  "textSetPasswordDescription": "The password will be used for login and payment verification, please keep it safe",
+  "textSetPasswordDescription": "The password will be used for login, please keep it safe",
   "textSettings": "Settings",
   "textShownAll": "All content shown",
   "textShowSeedPhrase": "Show Seed Phrase",

@@ -254,7 +254,7 @@
   "textSend": "提币",
   "textSendCodeToNewEmail": "发送验证码到新邮箱",
   "textSetPassword": "设置密码",
-  "textSetPasswordDescription": "密码将用于登录和支付验证，请妥善保管",
+  "textSetPasswordDescription": "密码将用于登录验证，请妥善保管",
   "textSettings": "设置",
   "textShownAll": "已显示全部内容",
   "textShowSeedPhrase": "显示助记词",
