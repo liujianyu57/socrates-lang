@@ -459,7 +459,7 @@
   "textPublicQuestion": "Public question",
   "btnAddReason1": "Add",
   "btnChangeAnswer1": "Change",
-  "tipsMinInvestPoint": "Minimum investment of {value} points",
+  "tipsMinInvestPoint": "Minimum investment of {value1} points",
   "textReplyTo": "Reply to",
   "tipsEnterYourReply": "Enter your reply",
   "tipsPointCanNotEmpty": "Points cannot be empty",

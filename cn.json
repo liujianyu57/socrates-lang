@@ -459,7 +459,7 @@
   "textPublicQuestion": "公共问题",
   "btnAddReason1": "追加",
   "btnChangeAnswer1": "修改",
-  "tipsMinInvestPoint": "最小投资{value}积分",
+  "tipsMinInvestPoint": "最小投资{value1}积分",
   "textReplyTo": "回复",
   "tipsEnterYourReply": "输入您的回复",
   "tipsPointCanNotEmpty": "输入的积分不能为空",
