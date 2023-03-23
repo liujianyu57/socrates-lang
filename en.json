@@ -404,7 +404,7 @@
   "typeCreateQuestion": "Create a question",
   "typeInjectPoint": "Inject point",
   "typeLikeReason": "Like a reason",
-  "typeInvestmentReturn": "Investment points return",
+  "typeInvestmentReturn": "Returned",
   "typeAnswerPrize": "Rewards for answering questions",
   "typeWinPrize": "Rewards for winning questions",
   "typeLikeIncome": "Like income",
@@ -606,5 +606,9 @@
   "textRank": "Rank",
   "textName": "Name",
   "textPointIncome": "Point income",
-  "textShowTopNumber": "Show only the top {value1}"
+  "textShowTopNumber": "Show only the top {value1}",
+  "textChooseImage": "Choose image",
+  "textFilter": "Filter",
+  "textQuestionDetail": "Question details",
+  "btnClose": "Close"
 }
