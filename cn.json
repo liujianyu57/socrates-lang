@@ -610,5 +610,9 @@
   "textChooseImage": "选择图片",
   "textFilter": "筛选理由",
   "textQuestionDetail": "问题详情",
-  "btnClose": "关闭"
+  "btnClose": "关闭",
+  "textCreateWalletDescription": "创建后，钱包将自动绑定到您的邮箱帐户，不能修改或取消绑定。",
+  "textBuyPen": "购买笔",
+  "textWalletPasswordDescription": "这个密码只能解锁你在这个设备上的钱包",
+  "textEnterScanAddress": "输入地址或扫码"
 }
