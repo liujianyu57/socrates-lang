@@ -615,5 +615,12 @@
   "textBuyPen": "购买笔",
   "textWalletPasswordDescription": "这个密码只能解锁你在这个设备上的钱包",
   "textEnterScanAddress": "输入地址或扫码",
-  "textNoNotice": "还没有任何通知"
+  "textNoNotice": "还没有任何通知",
+  "btnGoToCreateWallet": "创建钱包",
+  "btnHaveWalletImport": "已有钱包，去导入",
+  "btnExportPrivateKey": "导出私钥",
+  "textSeedPhraseDescription02": "如果更改浏览器或移动计算机,您将需要此助记词才能访问账户。将它们保存在安全、秘密的地方请勿将此助记词告诉任何人!这些字词可用于窃取您的所有账户",
+  "textScanToReceive": "扫描地址接收付款",
+  "textStatus": "状态",
+  "textDate": "日期"
 }
