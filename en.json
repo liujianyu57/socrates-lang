@@ -614,5 +614,6 @@
   "textCreateWalletDescription": "The wallet you created will be automatically bound to your email account and cannot be modified or unbound.",
   "textBuyPen": "Buy pen",
   "textWalletPasswordDescription": "This password can only unlock your wallet on this device",
-  "textEnterScanAddress": "Enter address or scan code"
+  "textEnterScanAddress": "Enter address or scan code",
+  "textNoNotice": "No notice"
 }
