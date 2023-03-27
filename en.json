@@ -625,4 +625,5 @@
   "textStatus": "Status",
   "textDate": "Date",
   "textImportWalletDescription": "Please enter the seed phrase of the web3 wallet to complete the import",
+  "btnCopy": "Copy"
 }

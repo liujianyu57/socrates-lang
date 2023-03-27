@@ -625,4 +625,5 @@
   "textStatus": "状态",
   "textDate": "日期",
   "textImportWalletDescription": "请输入web3钱包的助记词完成导入",
+  "btnCopy": "复制"
 }
