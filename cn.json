@@ -619,7 +619,8 @@
   "textGoToCreateWallet": "创建钱包",
   "textHaveWalletImport": "已有钱包，去导入",
   "btnExportPrivateKey": "导出私钥",
-  "textSeedPhraseDescription02": "如果更改浏览器或移动计算机,您将需要此助记词才能访问账户。将它们保存在安全、秘密的地方请勿将此助记词告诉任何人!这些字词可用于窃取您的所有账户",
+  "textSeedPhraseDescription02": "如果您更改浏览器或移动计算机，您将需要此助记词来访问您的帐户。 把它们放在安全的秘密地方",
+  "textSeedPhraseDescription03": "不要告诉任何人这个助记词！ 这些词可以用来窃取你所有的账户",
   "textScanToReceive": "扫描地址接收付款",
   "textStatus": "状态",
   "textDate": "日期"
