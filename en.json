@@ -623,5 +623,6 @@
   "textSeedPhraseDescription03": "Don't tell anyone this seed phrase! These words can be used to steal all your accounts",
   "textScanToReceive": "Scan address to receive payment",
   "textStatus": "Status",
-  "textDate": "Date"
+  "textDate": "Date",
+  "textImportWalletDescription": ""
 }

@@ -623,5 +623,6 @@
   "textSeedPhraseDescription03": "不要告诉任何人这个助记词！ 这些词可以用来窃取你所有的账户",
   "textScanToReceive": "扫描地址接收付款",
   "textStatus": "状态",
-  "textDate": "日期"
+  "textDate": "日期",
+  "textImportWalletDescription": "请输入web3钱包的助记词完成导入"
 }
