@@ -22,9 +22,9 @@
   "btnEnterSocrates": "进入苏格拉底",
   "btnExportSeedPhrase": "导出助记词",
   "btnFollow": "关注",
-  "btnFollowed": "已关注",
+  "btnFollowed": "正在关注",
   "btnFollowing": "关注",
-  "btnFollows": "粉丝",
+  "btnFollows": "关注者",
   "btnFollowSystem": "跟随系统",
   "btnForgetPassword": "忘记密码？",
   "btnGotIt": "我知道了",
@@ -625,5 +625,6 @@
   "textStatus": "状态",
   "textDate": "日期",
   "textImportWalletDescription": "请输入web3钱包的助记词完成导入",
-  "btnCopy": "复制"
+  "btnCopy": "复制",
+  "btnFollowBack": "回关"
 }
