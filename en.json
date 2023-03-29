@@ -395,7 +395,7 @@
   "btnNo": "No",
   "btnSave": "Save",
   "btnAskQuestion": "Ask a Question",
-  "textAskSuccess": "Your ask was sent . ",
+  "textAskSuccess": "Successfully created",
   "btnView": "View",
   "textEnterCorrectTitle": "Please fill in the correct question title!",
   "textEnterCorrectOption": "Please fill in the correct question options!",
@@ -626,5 +626,6 @@
   "textDate": "Date",
   "textImportWalletDescription": "Please enter the seed phrase of the web3 wallet to complete the import",
   "btnCopy": "Copy",
-  "btnFollowBack": "Follow back"
+  "btnFollowBack": "Follow back",
+  "textAskFailed": "Creation failed"
 }

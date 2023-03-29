@@ -395,7 +395,7 @@
   "btnNo": "不",
   "btnSave": "保持",
   "btnAskQuestion": "提问",
-  "textAskSuccess": "创建问题成功",
+  "textAskSuccess": "创建成功",
   "btnView": "查看",
   "textEnterCorrectTitle": "请填写正确的问题标题!",
   "textEnterCorrectOption": "请填写正确的问题选项!",
@@ -626,5 +626,6 @@
   "textDate": "日期",
   "textImportWalletDescription": "请输入web3钱包的助记词完成导入",
   "btnCopy": "复制",
-  "btnFollowBack": "回关"
+  "btnFollowBack": "回关",
+  "textAskFailed": "创建失败"
 }
