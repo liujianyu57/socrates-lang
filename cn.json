@@ -627,5 +627,6 @@
   "textImportWalletDescription": "请输入web3钱包的助记词完成导入",
   "btnCopy": "复制",
   "btnFollowBack": "回关",
-  "textAskFailed": "创建失败"
+  "textAskFailed": "创建失败",
+  "textImageLoading": "图片正在加载中..."
 }

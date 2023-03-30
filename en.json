@@ -627,5 +627,6 @@
   "textImportWalletDescription": "Please enter the seed phrase of the web3 wallet to complete the import",
   "btnCopy": "Copy",
   "btnFollowBack": "Follow back",
-  "textAskFailed": "Creation failed"
+  "textAskFailed": "Creation failed",
+  "textImageLoading": "Image is loading..."
 }
