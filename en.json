@@ -629,5 +629,7 @@
   "btnFollowBack": "Follow back",
   "textAskFailed": "Creation failed",
   "textImageLoading": "Image is loading...",
-  "tipsSelectChannel": "Please select a channel"
+  "tipsSelectChannel": "Please select a channel",
+  "textNewPublicQuestion": "New Public Question",
+  "textYourFollowQuestion": "Follow-Up Question"
 }
