@@ -628,5 +628,6 @@
   "btnCopy": "Copy",
   "btnFollowBack": "Follow back",
   "textAskFailed": "Creation failed",
-  "textImageLoading": "Image is loading..."
+  "textImageLoading": "Image is loading...",
+  "tipsSelectChannel": "Please select a channel"
 }
