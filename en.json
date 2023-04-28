@@ -633,5 +633,6 @@
   "textNewPublicQuestion": "New Public Question",
   "textYourFollowQuestion": "Follow-Up Question",
   "tipsEmailRegistered": "Email is registered",
-  "btnPublish": "Publish"
+  "btnPublish": "Publish",
+  "btnShare": "Share"
 }
