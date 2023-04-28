@@ -641,5 +641,7 @@
   "tipsEmailRegistered": "邮箱已注册",
   "btnPublish": "发布",
   "btnShare": "分享",
-  "tagInteraction": "问答交互"
+  "tagInteraction": "问答交互",
+  "textNotificationLiked": "点赞：",
+  "textNotificationReplied": "回复："
 }

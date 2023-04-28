@@ -641,5 +641,7 @@
   "tipsEmailRegistered": "Email is registered",
   "btnPublish": "Publish",
   "btnShare": "Share",
-  "tagInteraction": "Interaction"
+  "tagInteraction": "Interaction",
+  "textNotificationLiked": "Liked: ",
+  "textNotificationReplied": "Replied: "
 }
