@@ -673,5 +673,7 @@
   "textTotal": "Total",
   "textCompleted": "{value1} completed",
   "textRejectedGrantingPermission": "You've rejected granting permission",
-  "textCheckApplication": "Please check the application"
+  "textCheckApplication": "Please check the application",
+  "textContractMethod": "Contract method",
+  "textHaveCanceledSigning": "You have cancelled signing"
 }

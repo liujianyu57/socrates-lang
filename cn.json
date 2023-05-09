@@ -673,5 +673,7 @@
   "textTotal": "全部的",
   "textCompleted": "{value1} 完全的",
   "textRejectedGrantingPermission": "您已拒绝授予权限",
-  "textCheckApplication": "请检查应用程序"
+  "textCheckApplication": "请检查应用程序",
+  "textContractMethod": "合约方式",
+  "textHaveCanceledSigning": "您已取消签名"
 }
