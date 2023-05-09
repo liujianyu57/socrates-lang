@@ -656,12 +656,12 @@
   "textSignMessage": "Sign Messages？",
   "textCancelSigning": "Cancel Signing",
   "textSigned": "Signed",
-  "textPermissionAccess": "Give permission to access your **** ？",
+  "textPermissionAccess": "Give permission to access your {value1}？",
   "textPermissionAccessDescription": "Do you trust this site? Granting this permission means that you allow this site to access your funds.",
   "textPaymentLimit": "Payment limit:",
   "textEditAmount": "Edit Amount",
   "btnApprove": "Approve",
-  "textMustAtLeast": "Must be at least ****",
+  "textMustAtLeast": "Must be at least {value1}",
   "textEditPermission": "Edit permissions",
   "textPaymentLimitAuthority": "Payment limit authority",
   "textAllowSocratesWithdrawAndPay": "Allow Socratesnet.com to withdraw and pay up to the following amounts:",
@@ -671,7 +671,7 @@
   "textEnterMaxPaymentLimit": "Enter maximum payment limit",
   "textConfirmPayment": "Confirm Payment",
   "textTotal": "Total",
-  "textCompleted": "**** completed",
+  "textCompleted": "{value1} completed",
   "textRejectedGrantingPermission": "You've rejected granting permission",
   "textCheckApplication": "Please check the application"
 }

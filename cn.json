@@ -656,12 +656,12 @@
   "textSignMessage": "签名消息？",
   "textCancelSigning": "取消签约",
   "textSigned": "已签名",
-  "textPermissionAccess": "允许访问你的****？",
+  "textPermissionAccess": "允许访问你的{value1}？",
   "textPermissionAccessDescription": "你信任这个网站吗？ 授予此权限意味着您允许该站点访问您的资金。",
   "textPaymentLimit": "付款限额：",
   "textEditAmount": "编辑金额",
   "btnApprove": "批准",
-  "textMustAtLeast": "必须至少 ****",
+  "textMustAtLeast": "必须至少 {value1}",
   "textEditPermission": "编辑权限",
   "textPaymentLimitAuthority": "支付限额权限",
   "textAllowSocratesWithdrawAndPay": "允许 Socratesnet.com 提取并支付以下金额：",
@@ -671,7 +671,7 @@
   "textEnterMaxPaymentLimit": "输入最高付款限额",
   "textConfirmPayment": "确认付款",
   "textTotal": "全部的",
-  "textCompleted": "**** 完全的",
+  "textCompleted": "{value1} 完全的",
   "textRejectedGrantingPermission": "您已拒绝授予权限",
   "textCheckApplication": "请检查应用程序"
 }
