@@ -675,5 +675,10 @@
   "textRejectedGrantingPermission": "您已拒绝授予权限",
   "textCheckApplication": "请检查应用程序",
   "textContractMethod": "合约方式",
-  "textHaveCanceledSigning": "您已取消签名"
+  "textHaveCanceledSigning": "您已取消签名",
+  "btnCopyLink": "复制链接",
+  "btnViewTranslation": "查看翻译",
+  "textLoading": "加载中...",
+  "btnViewOriginal": "查看原文",
+  "btnSetAllPhotoPermission": "点击前往设置获取全部照片权限"
 }

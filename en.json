@@ -675,5 +675,10 @@
   "textRejectedGrantingPermission": "You've rejected granting permission",
   "textCheckApplication": "Please check the application",
   "textContractMethod": "Contract method",
-  "textHaveCanceledSigning": "You have cancelled signing"
+  "textHaveCanceledSigning": "You have cancelled signing",
+  "btnCopyLink": "Copy link",
+  "btnViewTranslation": "View translation",
+  "textLoading": "Loading...",
+  "btnViewOriginal": "View original",
+  "btnSetAllPhotoPermission": "Click to go to settings to get all photo permissions"
 }
