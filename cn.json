@@ -681,4 +681,16 @@
   "textLoading": "加载中...",
   "btnViewOriginal": "查看原文",
   "btnSetAllPhotoPermission": "点击前往设置获取全部照片权限",
+  "textReferralRule01": "每次邀请好友，好友注册登录后，双方均可领取低级盲盒。",
+  "textReferralRule02": "好友购买SBT笔后，双方均可获得高级盲盒。",
+  "textInvitationCode": "邀请码",
+  "textImage01": "图片",
+  "textSaveSuccess": "保存成功",
+  "textSaveFailed": "保存失败",
+  "textSaveToAlbum": "保存到相册",
+  "textShareMessage": "短信",
+  "textshareEmail": "邮件",
+  "textPostedQuestion": "{value1}在Socrates发布的问题",
+  "textPostedAnswer": "{value1}在Socrates发布的回答",
+  "textInvitationCodeOptional": "邀请码（选填）"
 }

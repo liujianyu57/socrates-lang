@@ -681,4 +681,16 @@
   "textLoading": "Loading...",
   "btnViewOriginal": "View original",
   "btnSetAllPhotoPermission": "Click to go to settings to get all photo permissions",
+  "textReferralRule01": "Every time a friend is invited, they can register and log in, and both parties can receive low-level blind boxes.",
+  "textReferralRule02": "After a friend buys an SBT pen, both parties can obtain an advanced blind box.",
+  "textInvitationCode": "Code",
+  "textImage01": "Image",
+  "textSaveSuccess": "Saved successfully",
+  "textSaveFailed": "Save failed",
+  "textSaveToAlbum": "Save to album",
+  "textShareMessage": "Message",
+  "textshareEmail": "Mail",
+  "textPostedQuestion": "Question posted by {value1} in Socrates",
+  "textPostedAnswer": "Answer posted by {value1} in Socrates",
+  "textInvitationCodeOptional": "Invitation code (optional)"
 }
