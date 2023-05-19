@@ -713,5 +713,8 @@
   "btnSwitchNetwork": "切换网络",
   "textWalletNetworkNotSupported": "您钱包的当前网络是不受支持的",
   "textSwitchNetworkDescription": "您已链接到与 {value1} 主网络不同的网络，请切换网络",
-  "textAcceptWalletRequest": "请求已发送到您的钱包，请接受"
+  "textAcceptWalletRequest": "请求已发送到您的钱包，请接受",
+  "textBoxGetPointDescription": "{value1}% 获得 8 积分",
+  "textBoxGetNFTDescription": "{value1}% 获得 NFT 笔",
+  "textMintNFTChance": "为您预留24小时铸造机会，剩余{value1}"
 }
