@@ -763,5 +763,17 @@
   "textWinPrizeCouponRules": "奖券生效时，瓜分答题获胜奖池可以获得更高比例的Socrates Coin (SOCC)。",
   "textLikePrizeCouponRules": "奖券生效时，瓜分点赞奖池可以获得更高比例的Socrates Coin (SOCC)。",
   "textInvestmentPrizeCouponRules": "奖券生效时，瓜分投资奖池可以获得更高比例的Socrates Coin (SOCC)。",
-  "textMysteryReferralRules": "如何获取盲盒？\n    1. 每邀请一个好友，好友注册并登录，双方均可获得低级盲盒。\n    2. 好友买SBT笔之后，双方均可获得高级盲盒。\n\n盲盒可以开出什么奖励？\n    1. 低级盲盒可以开出【参与答题奖励加成券】【答题获胜奖励加成券】【点赞奖励加成券】【投资奖励加成券】。\n    2. 高级盲盒可以开出来Socrates Coin (SOCC)，并有可能开出NFT笔。\n\n券有什么作用？\n    您可以在【奖励】页面使用券，使您在参与下次奖励瓜分时提高收益系数。"
+  "textMysteryReferralRules": "如何获取盲盒？\n    1. 每邀请一个好友，好友注册并登录，双方均可获得低级盲盒。\n    2. 好友买SBT笔之后，双方均可获得高级盲盒。\n\n盲盒可以开出什么奖励？\n    1. 低级盲盒可以开出【参与答题奖励加成券】【答题获胜奖励加成券】【点赞奖励加成券】【投资奖励加成券】。\n    2. 高级盲盒可以开出来Socrates Coin (SOCC)，并有可能开出NFT笔。\n\n券有什么作用？\n    您可以在【奖励】页面使用券，使您在参与下次奖励瓜分时提高收益系数。",
+  "textMyMysteryBox": "我的盲盒",
+  "textTotalMysteryBox": "总共",
+  "textUnopenedMysteryBox": "未打开",
+  "textCongratulateOnGet": "恭喜您获得",
+  "textMysteryBoxReferralSlogan": "获得盲盒，奖励NFT",
+  "tipsNoMysteryBox": "没有可以打开的盲盒，去邀请朋友吧",
+  "textRebatePoint": "返佣(SOCC)",
+  "btnGoToBonus": "去我的奖励查看",
+  "btnGoToWallet": "去我的钱包查看",
+  "btnDoLater": "待会儿再说",
+  "textToBeMint": "待铸造",
+  "btnOpen": "打开"
 }

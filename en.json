@@ -763,5 +763,17 @@
   "textWinPrizeCouponRules": "When the lottery ticket is in effect, divide the winning prize pool to get a higher proportion of Socrates Coin (SOCC).",
   "textLikePrizeCouponRules": "When the lottery ticket is in effect, divide the like prize pool to get a higher proportion of Socrates Coin (SOCC).",
   "textInvestmentPrizeCouponRules": "When the lottery is in effect, divide the investment bonus pool to get a higher proportion of Socrates Coin (SOCC).",
-  "textMysteryReferralRules": "How to get blind box? \n 1. Every time a friend is invited, the friend registers and logs in, and both parties can get a basic mystery box. \n 2. After a friend buys an SBT pen, both parties can get an advanced mystery box. \n\nWhat rewards can the mystery box offer? \n 1. The basic mystery box can issue 【Participation and Answer Reward Bonus Coupon】【Answer Winning Reward Bonus Coupon】【Like Reward Bonus Coupon】【Investment Bonus Coupon】. \n 2. Socrates Coin (SOCC) can be issued from advanced mystery boxes, and NFT pens may be issued. \n\nWhat is the function of the coupon? \n You can use coupons on the [Rewards] page to increase your earnings coefficient when you participate in the next reward sharing."
+  "textMysteryReferralRules": "How to get blind box? \n 1. Every time a friend is invited, the friend registers and logs in, and both parties can get a basic mystery box. \n 2. After a friend buys an SBT pen, both parties can get an advanced mystery box. \n\nWhat rewards can the mystery box offer? \n 1. The basic mystery box can issue 【Participation and Answer Reward Bonus Coupon】【Answer Winning Reward Bonus Coupon】【Like Reward Bonus Coupon】【Investment Bonus Coupon】. \n 2. Socrates Coin (SOCC) can be issued from advanced mystery boxes, and NFT pens may be issued. \n\nWhat is the function of the coupon? \n You can use coupons on the [Rewards] page to increase your earnings coefficient when you participate in the next reward sharing.",
+  "textMyMysteryBox": "My Mystery Box",
+  "textTotalMysteryBox": "Total",
+  "textUnopenedMysteryBox": "Unopened",
+  "textCongratulateOnGet": "Congratulations on getting",
+  "textMysteryBoxReferralSlogan": "Get Mystery Boxes and reward NFT",
+  "tipsNoMysteryBox": "There is no mystery box to open, go invite friends",
+  "textRebatePoint": "Rebate (SOCC)",
+  "btnGoToBonus": "Go to [Bonus] to view",
+  "btnGoToWallet": "Go to [Wallet] to view",
+  "btnDoLater": "Do it later",
+  "textToBeMint": "To be mint",
+  "btnOpen": "Open"
 }
