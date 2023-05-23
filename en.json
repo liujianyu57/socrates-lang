@@ -791,5 +791,7 @@
   "error32002": "resource unavailable",
   "error32003": "transaction rejected",
   "error32004": "The requested method is not supported",
-  "error32005": "request limit exceeded"
+  "error32005": "request limit exceeded",
+  "tipsInvitationCodeFormatError": "Please enter an 8-digit invitation code",
+  "tipsInvitationCodeNotExist": "Invitation code does not exist"
 }

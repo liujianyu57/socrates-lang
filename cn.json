@@ -791,5 +791,7 @@
   "error32002": "资源不可用",
   "error32003": "交易拒绝",
   "error32004": "不支持所请求的方法",
-  "error32005": "超过请求限制"
+  "error32005": "超过请求限制",
+  "tipsInvitationCodeFormatError": "邀请码请输入8位数字",
+  "tipsInvitationCodeNotExist": "邀请码不存在"
 }
