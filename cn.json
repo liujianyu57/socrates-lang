@@ -793,5 +793,5 @@
   "error32004": "不支持所请求的方法",
   "error32005": "超过请求限制",
   "tipsInvitationCodeFormatError": "邀请码请输入8位数字",
-  "tipsInvitationCodeNotExist": "邀请码不存在"
+  "error10034": "邀请码不存在"
 }
