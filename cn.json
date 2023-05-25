@@ -763,7 +763,7 @@
   "textWinPrizeCouponRules": "奖券生效时，瓜分答题获胜奖池可以获得更高比例的Socrates Coin (SOCC)。",
   "textLikePrizeCouponRules": "奖券生效时，瓜分点赞奖池可以获得更高比例的Socrates Coin (SOCC)。",
   "textInvestmentPrizeCouponRules": "奖券生效时，瓜分投资奖池可以获得更高比例的Socrates Coin (SOCC)。",
-  "textMysteryReferralRules": "如何获取盲盒？\n 1. 每邀请一个好友，好友注册并登录，双方均可获得低级盲盒。\n 2. 好友买SBT笔之后，双方均可获得高级盲盒。\n\n盲盒可以开出什么奖励？\n 1. 低级盲盒可以开出【参与答题奖励加成券】【答题获胜奖励加成券】【点赞奖励加成券】【投资奖励加成券】。\n 2. 高级盲盒可以开出来Socrates Coin (SOCC)，并有可能开出NFT笔。\n\n券有什么作用？\n 您可以在【奖励】页面使用券，使您在参与下次奖励瓜分时提高收益系数。",
+  "textMysteryReferralRules": "如何获取盲盒？\n 1. 每邀请一个好友，好友注册并登录，双方均可获得低级盲盒。\n 2. 好友买SBT笔之后，双方均可获得高级盲盒。\n\n盲盒可以开出什么奖励？\n 1. 低级盲盒可以开出【参与奖励加成券】【获胜奖励加成券】【点赞奖励加成券】【投资奖励加成券】。\n 2. 高级盲盒可以开出来Socrates Coin (SOCC)，并有可能开出NFT笔。\n\n券有什么作用？\n 您可以在【奖励】页面使用券，使您在参与下次奖励瓜分时提高收益系数。",
   "textMyMysteryBox": "我的盲盒",
   "textTotalMysteryBox": "总共",
   "textUnopenedMysteryBox": "未打开",
@@ -793,5 +793,11 @@
   "error32004": "不支持所请求的方法",
   "error32005": "超过请求限制",
   "tipsInvitationCodeFormatError": "邀请码请输入8位数字",
-  "error10034": "邀请码不存在"
+  "error10034": "邀请码不存在",
+  "textMysteryReferralRulesTitle1": "如何获取盲盒？",
+  "textMysteryReferralRulesText1": "1. 每邀请一个好友，好友注册并登录，双方均可获得低级盲盒。\n 2. 好友买SBT笔之后，双方均可获得高级盲盒。",
+  "textMysteryReferralRulesTitle2": "盲盒可以开出什么奖励？",
+  "textMysteryReferralRulesText2": "1. 低级盲盒可以开出【参与答题奖励加成券】【答题获胜奖励加成券】【点赞奖励加成券】【投资奖励加成券】。\n 2. 高级盲盒可以开出来Socrates Coin (SOCC)，并有可能开出NFT笔。",
+  "textMysteryReferralRulesTitle3": "券有什么作用？",
+  "textMysteryReferralRulesText3": "您可以在【奖励】页面使用券，使您在参与下次奖励瓜分时提高收益系数。"
 }

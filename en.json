@@ -681,8 +681,8 @@
   "textLoading": "Loading...",
   "btnViewOriginal": "View original",
   "btnSetAllPhotoPermission": "Click to go to settings to get all photo permissions",
-  "textReferralRule01": "Every time a friend is invited, they can register and log in, and both parties can receive low-level blind boxes.",
-  "textReferralRule02": "After a friend buys an SBT pen, both parties can obtain an advanced blind box.",
+  "textReferralRule01": "Every time a friend is invited, they can register and log in, and both parties can receive low-level mystery boxes.",
+  "textReferralRule02": "After a friend buys an SBT pen, both parties can obtain an advanced mystery box.",
   "textInvitationCode": "Code",
   "textImage01": "Image",
   "textSaveSuccess": "Saved successfully",
@@ -763,7 +763,7 @@
   "textWinPrizeCouponRules": "With the coupon in effect, divide the winning prize pool to get a higher proportion of Socrates Coin (SOCC).",
   "textLikePrizeCouponRules": "With the coupon in effect, divide the like prize pool to get a higher proportion of Socrates Coin (SOCC).",
   "textInvestmentPrizeCouponRules": "With the coupon in effect, divide the investment prize pool to get a higher proportion of Socrates Coin (SOCC).",
-  "textMysteryReferralRules": "How to get blind box? \n 1. Every time a friend is invited, the friend registers and logs in, and both parties can get a basic mystery box. \n 2. After a friend buys an SBT pen, both parties can get an advanced mystery box. \n\nWhat rewards can the mystery box offer? \n 1. The basic mystery box can issue 【Participation and Answer Reward Bonus Coupon】【Answer Winning Reward Bonus Coupon】【Like Reward Bonus Coupon】【Investment Bonus Coupon】. \n 2. Socrates Coin (SOCC) can be issued from advanced mystery boxes, and NFT pens may be issued. \n\nWhat is the function of the coupon? \n You can use coupons on the [Rewards] page to increase your earnings coefficient when you participate in the next reward sharing.",
+  "textMysteryReferralRules": "How to get mystery box? \n 1. Every time a friend is invited, the friend registers and logs in, and both parties can get a basic mystery box. \n 2. After a friend buys an SBT pen, both parties can get an advanced mystery box. \n\nWhat rewards can the mystery box offer? \n 1. The basic mystery box can issue [Participation Prize Coupon] [Majority Prize Coupon] [Likes Prize Coupon] [Investment Prize Coupon]. \n 2. Socrates Coin (SOCC) can be issued from advanced mystery boxes, and NFT pens may be issued. \n\nWhat is the function of the coupon? \n You can use coupons on the [Rewards] page to increase your earnings coefficient when you participate in the next reward sharing.",
   "textMyMysteryBox": "My Mystery Box",
   "textTotalMysteryBox": "Total",
   "textUnopenedMysteryBox": "Unopened",
@@ -793,5 +793,11 @@
   "error32004": "The requested method is not supported",
   "error32005": "request limit exceeded",
   "tipsInvitationCodeFormatError": "Please enter an 8-digit invitation code",
-  "error10034": "The invitation code does not exist"
+  "error10034": "The invitation code does not exist",
+  "textMysteryReferralRulesTitle1": "How to get mystery box?",
+  "textMysteryReferralRulesText1": "1. Every time a friend is invited, the friend registers and logs in, and both parties can get a basic mystery box. \n 2. After a friend buys an SBT pen, both parties can get an advanced mystery box.",
+  "textMysteryReferralRulesTitle2": "What rewards can the mystery box offer?",
+  "textMysteryReferralRulesText2": "1. The basic mystery box can issue [Participation Prize Coupon] [Majority Prize Coupon] [Likes Prize Coupon] [Investment Prize Coupon]. \n 2. Socrates Coin (SOCC) can be issued from advanced mystery boxes, and NFT pens may be issued.",
+  "textMysteryReferralRulesTitle3": "What is the function of the coupon?",
+  "textMysteryReferralRulesText3": "You can use coupons on the [Bonus] page to increase your earnings coefficient when you participate in the next reward sharing."
 }
