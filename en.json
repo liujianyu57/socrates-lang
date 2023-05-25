@@ -702,7 +702,7 @@
   "btnBuyNFT": "Buy NFT",
   "btnPay": "Pay",
   "btnReferral": "Referral",
-  "btnBonus": "Bouns",
+  "btnBonus": "Coupons",
   "textOpenBoxGetNFT": "Open Box to Get NFT",
   "btnGetNFT": "Get NFT",
   "textNFTMysteryBox": "NFT Mystery Boxes",
@@ -720,7 +720,7 @@
   "textEditAvatar": "Edit avatar",
   "btnApply": "Apply",
   "textReferral": "Referral",
-  "textBonus": "Bonus",
+  "textBonus": "Coupons",
   "tagMysteryBoxReferral": "Mystery Box Referral",
   "tagStandardReferral": "Standard Referral",
   "textReferFriends": "Refer Friends",
@@ -799,5 +799,11 @@
   "textMysteryReferralRulesTitle2": "What rewards can the mystery box offer?",
   "textMysteryReferralRulesText2": "1. The basic mystery box can issue [Participation Prize Coupon] [Majority Prize Coupon] [Likes Prize Coupon] [Investment Prize Coupon]. \n 2. Socrates Coin (SOCC) can be issued from advanced mystery boxes, and NFT pens may be issued.",
   "textMysteryReferralRulesTitle3": "What is the function of the coupon?",
-  "textMysteryReferralRulesText3": "You can use coupons on the [Bonus] page to increase your earnings coefficient when you participate in the next reward sharing."
+  "textMysteryReferralRulesText3": "You can use coupons on the [Bonus] page to increase your earnings coefficient when you participate in the next reward sharing.",
+  "textMysteryBoxReferralSubtitle": "Invite a friend and both of you get rewarded!",
+  "textYourMysteryBox": "Your Mystery Boxes",
+  "textNFTMintRemainingTime": "NFT pens to be minted, remaining",
+  "textRewardNFT": "Reward NFT pen",
+  "textOpenedMysteryBox": "Opened",
+  "btnOpenInApp": "Open in APP"
 }
