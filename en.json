@@ -805,5 +805,20 @@
   "textNFTMintRemainingTime": "NFT pens to be minted, remaining",
   "textRewardNFT": "Reward NFT pen",
   "textOpenedMysteryBox": "Opened",
-  "btnOpenInApp": "Open in APP"
+  "btnOpenInApp": "Open in APP",
+  "textPointInvestment": "SOCC investment",
+  "textNFTInvestment": "NFT investment",
+  "textInvestedPoint": "Invested {value1} SOCC",
+  "textInvestedPointValue": "Invested {value1} SOCC value",
+  "textOnlyOnceInvest": "For the same question, each method can only invest once",
+  "textInvestableNFTValue": "Investable SOCC value using NFT",
+  "textHoldNFTToday": "You hold {value1} NFT pens today",
+  "textNFTInvestmentDescription": "Every day at UTC 00:00, the platform scans the NFT pens held in each user’s wallet address, and takes a snapshot of each user’s NFT pens on that day. The results of the scan on the day indicate the value of SOCC invested by the user using NFT today, the pen is worth {value1} score.",
+  "textPrivateProgressDescription1": "Private issues are arranged in reverse order of scores, and the top 50 enter the [Questions Queuing List], and private issues on this list will be reviewed and become public issues.",
+  "textPrivateProgressDescription2": "Private question score = SOCC spent on answering + SOCC spent on reasons + SOCC spent on likes + SOCC invested + NFT investment SOCC value",
+  "textPrivateProgressDescription3": "For every 1 SOCC spent on answers, reasons, and likes, the score of the question will increase by 1; for every 1 point invested, the score of the question will increase by 1; for every NFT investment, the score of the question will increase by {value1}",
+  "textPrivateProgressDescription4": "Rankings are updated every 10 minutes",
+  "textQueuingProgress": "Queuing progress",
+  "textPercent": "Percent:",
+  "textNumber": "NO.{value1}"
 }
