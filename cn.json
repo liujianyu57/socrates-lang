@@ -821,5 +821,6 @@
   "textQueuingProgress": "排队进度",
   "textPercent": "百分比：",
   "textNumber": "NO.{value1}",
-  "textTranslatedBy": "翻译功能来自"
+  "textTranslatedBy": "翻译功能来自",
+  "textConnecting": "连接中..."
 }

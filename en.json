@@ -410,7 +410,7 @@
   "typeLikeReason": "Like a reason",
   "typeInvestmentReturn": "Returned",
   "typeAnswerPrize": "Participation Prize",
-  "typeWinPrize": "Majority Prize ",
+  "typeWinPrize": "Majority Prize",
   "typeLikeIncome": "Likes Prize",
   "typeInvestmentIncome": "Investment Prize",
   "typePlatformCommission": "Platform fee",
@@ -821,5 +821,6 @@
   "textQueuingProgress": "Queuing progress",
   "textPercent": "Percent:",
   "textNumber": "NO.{value1}",
-  "textTranslatedBy": "Translated by "
+  "textTranslatedBy": "Translated by ",
+  "textConnecting": "Connecting..."
 }
