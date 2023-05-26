@@ -773,7 +773,7 @@
   "textRebatePoint": "返佣(SOCC)",
   "btnGoToBonus": "去我的奖励查看",
   "btnGoToWallet": "去我的钱包查看",
-  "btnDoLater": "待会儿再说",
+  "btnDoLater": "待会再说",
   "textToBeMint": "待铸造",
   "btnOpen": "打开",
   "error4001": "用户拒绝了请求",
@@ -822,5 +822,6 @@
   "textPercent": "百分比：",
   "textNumber": "NO.{value1}",
   "textTranslatedBy": "翻译功能来自",
-  "textConnecting": "连接中..."
+  "textConnecting": "连接中...",
+  "textGetNFTMintChance": "请确保您拥有足够的ETH。铸造的机会将为您保留24小时，您稍后可以在你的盲盒页面进行铸造。"
 }
