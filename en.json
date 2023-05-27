@@ -823,5 +823,6 @@
   "textNumber": "NO.{value1}",
   "textTranslatedBy": "Translated by ",
   "textConnecting": "Connecting...",
-  "textGetNFTMintChance": "Please make sure you have enough ETH. The chance to mint will be reserved for you for 24 hours, you can mint later on your mystery box page."
+  "textGetNFTMintChance": "Please make sure you have enough ETH. The chance to mint will be reserved for you for 24 hours, you can mint later on your mystery box page.",
+  "textHotSearch": "Trending"
 }
