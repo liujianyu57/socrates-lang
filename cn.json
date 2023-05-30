@@ -824,5 +824,6 @@
   "textTranslatedBy": "翻译功能来自",
   "textConnecting": "连接中...",
   "textGetNFTMintChance": "请确保您拥有足够的ETH。铸造的机会将为您保留24小时，您稍后可以在你的盲盒页面进行铸造。",
-  "textHotSearch": "热门搜索"
+  "textHotSearch": "热门搜索",
+  "textLanguage": "语言"
 }
