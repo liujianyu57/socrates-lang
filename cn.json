@@ -397,7 +397,7 @@
   "inputTipsQuestion": "请写下你的问题",
   "textSaveEdit": "是否保存本次编辑内容？",
   "btnNo": "不",
-  "btnSave": "保持",
+  "btnSave": "保存",
   "btnAskQuestion": "提问",
   "textAskSuccess": "创建成功",
   "btnView": "查看",
@@ -825,5 +825,7 @@
   "textConnecting": "连接中...",
   "textGetNFTMintChance": "请确保您拥有足够的ETH。铸造的机会将为您保留24小时，您稍后可以在你的盲盒页面进行铸造。",
   "textHotSearch": "热门搜索",
-  "textLanguage": "语言"
+  "textLanguage": "语言",
+  "textNoListed": "未上榜",
+  "btnAccept": "接受"
 }
