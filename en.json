@@ -847,5 +847,8 @@
   "pointType200": "Withdraw points",
   "pointType201": "Mystery Box Referral",
   "pointType202": "Standard Referral",
-  "pointType203": "Mystery Box"
+  "pointType203": "Mystery Box",
+  "textReward": "Reward",
+  "textNFTMysteryBoxDescription": "{value1} chance to get {value2} points, {value3} chance to get NFT pen",
+  "textMysteryBoxFromAt": "From {value1} at {value2}"
 }

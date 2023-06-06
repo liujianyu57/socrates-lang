@@ -847,5 +847,8 @@
   "pointType200": "兑换积分",
   "pointType201": "盲盒返佣积分",
   "pointType202": "返佣积分",
-  "pointType203": "常规盲盒"
+  "pointType203": "常规盲盒",
+  "textReward": "奖励",
+  "textNFTMysteryBoxDescription": "{value1}开出{value2}积分，有{value3}概率爆出NFT笔",
+  "textMysteryBoxFromAt": "来自 {value1} 于 {value2}"
 }
