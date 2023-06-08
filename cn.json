@@ -851,5 +851,10 @@
   "textReward": "奖励",
   "textNFTMysteryBoxDescription1": "{value1}开出{value2}积分",
   "textNFTMysteryBoxDescription2": "有{value1}概率爆出NFT笔",
-  "textMysteryBoxFromAt": "来自 {value1} 于 {value2}"
+  "textMysteryBoxFromAt": "来自 {value1} 于 {value2}",
+  "textUnsupported": "不支持",
+  "textConnectWalletViewAssets": "连接钱包查看资产",
+  "textInvitePosterTitle": "领取盲盒，100%中奖！",
+  "textInvitePosterContent1": "注册即送盲盒，均可获奖。",
+  "textInvitePosterContent2": "购买SBT笔更有机会获得限量NFT，越早中奖机会越高！"
 }
