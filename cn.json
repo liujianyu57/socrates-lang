@@ -858,5 +858,14 @@
   "textInvitePosterContent1": "注册即送盲盒，均可获奖。",
   "textInvitePosterContent2": "购买SBT笔更有机会获得限量NFT，越早中奖机会越高！",
   "textPrizeRanking": "奖金榜",
-  "textPrizeRankingDescription": "根据问题奖池积分数量生成，每天更新"
+  "textPrizeRankingDescription": "根据问题奖池积分数量生成，每天更新",
+  "textPointIncreaseHot": "使用积分投资增加问题的热度值",
+  "textIncreaseHotByInvestment": "你通过投资增加了{value1}热度值",
+  "textPointNFTIncreaseHot": "用积分和NFT投资，提升问题的热度值",
+  "textIncreaseHotByPoint": "您已通过积分投资增加了 {value1} 热度值。",
+  "textIncreaseHotByNFT": "您已经通过 NFT 投资增加了 {value1} 热度值。",
+  "textIncreaseHotByPointNFT": "您已经通过积分和 NFT 投资增加了 {value1} 热度值。",
+  "textHotValue": "热度值",
+  "textAwayFirst": "距离第一还有",
+  "textInvestmentHotValue": "投资热度值"
 }

@@ -858,5 +858,14 @@
   "textInvitePosterContent1": "Registration will get a mysterious mystery box, 100% winning!",
   "textInvitePosterContent2": "Buying SBT pens has a better chance to get limited NFT, the earlier the higher chance to win!",
   "textPrizeRanking": "Prize Ranking",
-  "textPrizeRankingDescription": "Generated according to the prize pool points of the question, updated every day"
+  "textPrizeRankingDescription": "Generated according to the prize pool points of the question, updated every day",
+  "textPointIncreaseHot": "Use points to invest to increase the HOT VALUE of the question",
+  "textIncreaseHotByInvestment": "You increased the HOT VALUE of {value1} through investment",
+  "textPointNFTIncreaseHot": "Invest with Point and NFT to increase the HOT VALUE of the question",
+  "textIncreaseHotByPoint": "You have added {value1} HOT VALUE with Points investment.",
+  "textIncreaseHotByNFT": "You have added {value1} HOT VALUE with NFT investment.",
+  "textIncreaseHotByPointNFT": "You have added {value1} HOT VALUE with Points and NFT investment.",
+  "textHotValue": "HOT VALUE",
+  "textAwayFirst": "Away from the first",
+  "textInvestmentHotValue": "Investment HOT VALUE"
 }
