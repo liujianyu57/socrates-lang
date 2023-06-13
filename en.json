@@ -869,5 +869,6 @@
   "textAwayFirst": "Away from the first",
   "textInvestmentHotValue": "Investment HOT VALUE",
   "textProcessingPleaseWait": "It will take a while. After the processing is successful, you can continue to operate. I suggest you wait",
-  "btnUpdate": "Update"
+  "btnUpdate": "Update",
+  "textVersion": "Version"
 }
