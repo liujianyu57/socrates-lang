@@ -75,7 +75,7 @@
   "btnUpgrade": "Upgrade",
   "btnValidTime": "Valid for {value1} Days",
   "btnVerificationLogin": "Verification Login",
-  "btnViewOnEtherscan": "View on MATICerscan",
+  "btnViewOnEtherscan": "View on blockchain explorer",
   "btnWantInvest": "Invest",
   "inputTipsAddReason": "Write your reason",
   "inputTipsAmount": "Input transfer amount",
@@ -867,5 +867,6 @@
   "textIncreaseHotByPointNFT": "You have added {value1} HOT VALUE with Points and NFT investment.",
   "textHotValue": "HOT VALUE",
   "textAwayFirst": "Away from the first",
-  "textInvestmentHotValue": "Investment HOT VALUE"
+  "textInvestmentHotValue": "Investment HOT VALUE",
+  "textProcessingPleaseWait": "It will take a while. After the processing is successful, you can continue to operate. I suggest you wait"
 }

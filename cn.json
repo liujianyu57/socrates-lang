@@ -75,7 +75,7 @@
   "btnUpgrade": "升级",
   "btnValidTime": "有效期{value1}天",
   "btnVerificationLogin": "验证码登录",
-  "btnViewOnEtherscan": "在Polygonscan查看",
+  "btnViewOnEtherscan": "在区块链浏览器查看",
   "btnWantInvest": "我要投资",
   "inputTipsAddReason": "写下你的理由",
   "inputTipsAmount": "输入转账金额",
@@ -867,5 +867,6 @@
   "textIncreaseHotByPointNFT": "您已经通过积分和 NFT 投资增加了 {value1} 热度值。",
   "textHotValue": "热度值",
   "textAwayFirst": "距离第一还有",
-  "textInvestmentHotValue": "投资热度值"
+  "textInvestmentHotValue": "投资热度值",
+  "textProcessingPleaseWait": "这需要一段时间。 处理成功后，即可继续操作。 建议您稍等"
 }
