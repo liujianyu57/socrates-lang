@@ -868,5 +868,6 @@
   "textHotValue": "热度值",
   "textAwayFirst": "距离第一还有",
   "textInvestmentHotValue": "投资热度值",
-  "textProcessingPleaseWait": "这需要一段时间。 处理成功后，即可继续操作。 建议您稍等"
+  "textProcessingPleaseWait": "这需要一段时间。 处理成功后，即可继续操作。 建议您稍等",
+  "btnUpdate": "升级"
 }
