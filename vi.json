@@ -714,7 +714,7 @@
   "textWalletNetworkNotSupported": "Mạng hiện tại trên ví bạn không được hỗ trợ",
   "textSwitchNetworkDescription": "Bạn đã liên kết tới một mạng khác thay vì mạng chính của {value1}, vui lòng đổi mạng",
   "textAcceptWalletRequest": "Yêu cầu đã được gửi tới ví bạn, vui lòng chấp nhận",
-  "textBoxGetPointDescription": "{value1}% nhận 8 điểm",
+  "textBoxGetPointDescription": "{value1}% nhận 7 điểm",
   "textBoxGetNFTDescription": "{value1}% nhận NFT pen",
   "textMintNFTChance": "Cơ hội để đúc sẽ tồn tại trong 24 tiếng, {value1} còn lại",
   "textEditAvatar": "Sửa hình đại diện",

@@ -714,7 +714,7 @@
   "textWalletNetworkNotSupported": "A rede atual da sua carteira não é suportada",
   "textSwitchNetworkDescription": "Está ligado a uma rede diferente da rede principal de {value1}, por favor, mude de rede",
   "textAcceptWalletRequest": "O pedido foi enviado para a sua carteira, por favor aceite",
-  "textBoxGetPointDescription": "{value1}% ganha 8 pontos",
+  "textBoxGetPointDescription": "{value1}% ganha 7 pontos",
   "textBoxGetNFTDescription": "{value1}% obtém pen NFT",
   "textMintNFTChance": "A oportunidade de cunhar será reservada para você por 24 horas. Faltam {value1}",
   "textEditAvatar": "Editar avatar",

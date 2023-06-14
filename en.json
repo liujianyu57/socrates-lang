@@ -714,7 +714,7 @@
   "textWalletNetworkNotSupported": "Your wallet's current network is not supported",
   "textSwitchNetworkDescription": "You are linked to a different network than the main network of {value1}, please switch networks",
   "textAcceptWalletRequest": "The request has been sent to your wallet, please accept",
-  "textBoxGetPointDescription": "{value1}% get 8 points",
+  "textBoxGetPointDescription": "{value1}% get 7 points",
   "textBoxGetNFTDescription": "{value1}% get NFT pen",
   "textMintNFTChance": "The opportunity to mint will be reserved for you for 24 hours，remaining {value1}",
   "textEditAvatar": "Edit avatar",

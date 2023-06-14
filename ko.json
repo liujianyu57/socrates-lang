@@ -714,7 +714,7 @@
   "textWalletNetworkNotSupported": "지갑의 현재 네트워크가 지원되지 않습니다.",
   "textSwitchNetworkDescription": "{value1}의 기본 네트워크가 아닌 다른 네트워크에 연결되어 있습니다. 네트워크를 전환하세요.",
   "textAcceptWalletRequest": "요청이 지갑으로 전송되었습니다. 수락해 주세요.",
-  "textBoxGetPointDescription": "{value1}% 8포인트 획득",
+  "textBoxGetPointDescription": "{value1}% 7포인트 획득",
   "textBoxGetNFTDescription": "{value1}% NFT 펜 받기",
   "textMintNFTChance": "주조할 수 있는 기회는 24시간 동안 예약되며 남은 {value1}",
   "textEditAvatar": "아바타 편집",

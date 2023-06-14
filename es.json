@@ -714,7 +714,7 @@
   "textWalletNetworkNotSupported": "La red actual de su cartera no es compatible",
   "textSwitchNetworkDescription": "Está conectado a una red diferente de la red principal de {value1}, por favor cambie de red",
   "textAcceptWalletRequest": "La solicitud ha sido enviada a su cartera, por favor acepte",
-  "textBoxGetPointDescription": "{value1}% gana 8 puntos",
+  "textBoxGetPointDescription": "{value1}% gana 7 puntos",
   "textBoxGetNFTDescription": "{value1}% gana un bolígrafo NFT",
   "textMintNFTChance": "Se le reservará la oportunidad de acuñar durante 24 horas, quedando {value1}",
   "textEditAvatar": "Editar imagen",

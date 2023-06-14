@@ -714,7 +714,7 @@
   "textWalletNetworkNotSupported": "ウォレットの現在のネットワークはサポートされていません",
   "textSwitchNetworkDescription": "{value1} のメイン ネットワークとは別のネットワークにリンクされています。ネットワークを切り替えてください。",
   "textAcceptWalletRequest": "リクエストはウォレットに送信されました。受け入れてください",
-  "textBoxGetPointDescription": "{value1}% で 8 ポイント獲得",
+  "textBoxGetPointDescription": "{value1}% で 7 ポイント獲得",
   "textBoxGetNFTDescription": "{value1}% が NFT ペンを獲得",
   "textMintNFTChance": "ミントする機会は 24 時間予約されており、残りは {value1} です",
   "textEditAvatar": "アバターの編集",

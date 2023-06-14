@@ -714,7 +714,7 @@
   "textWalletNetworkNotSupported": "您錢包的當前網路是不受支持的",
   "textSwitchNetworkDescription": "您已鏈接到與 {value1} 主網路不同的網路，請切換網路",
   "textAcceptWalletRequest": "請求已發送到您的錢包，請接受",
-  "textBoxGetPointDescription": "{value1}% 獲得 8 積分",
+  "textBoxGetPointDescription": "{value1}% 獲得 7 積分",
   "textBoxGetNFTDescription": "{value1}% 獲得 NFT 筆",
   "textMintNFTChance": "為您預留24小時鑄造機會，剩餘{value1}",
   "textEditAvatar": "編輯頭像",
