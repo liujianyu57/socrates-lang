@@ -870,5 +870,6 @@
   "textInvestmentHotValue": "投資熱度值",
   "textProcessingPleaseWait": "這需要一段時間。 處理成功後，即可繼續操作。 建議您稍等",
   "btnUpdate": "升級",
-  "textVersion": "版本"
+  "textVersion": "版本",
+  "textInjectPointToPrivate": "給私有問題注入積分可增加關注度"
 }

@@ -870,5 +870,6 @@
   "textInvestmentHotValue": "Investment HOT VALUE",
   "textProcessingPleaseWait": "It will take a while. After the processing is successful, you can continue to operate. I suggest you wait",
   "btnUpdate": "Update",
-  "textVersion": "Version"
+  "textVersion": "Version",
+  "textInjectPointToPrivate": "Injecting points into your private questions can increase attention."
 }

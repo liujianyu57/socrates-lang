@@ -870,5 +870,6 @@
   "textInvestmentHotValue": "",
   "textProcessingPleaseWait": "",
   "btnUpdate": "",
-  "textVersion": ""
+  "textVersion": "",
+  "textInjectPointToPrivate": ""
 }
