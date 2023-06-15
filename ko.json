@@ -820,7 +820,7 @@
   "textPrivateProgressDescription4": "랭킹은 10분마다 업데이트 됩니다.",
   "textQueuingProgress": "대기열 진행",
   "textPercent": "퍼센트:",
-  "textNumber": "NO.{값1}",
+  "textNumber": "NO.{value1}",
   "textTranslatedBy": "번역자",
   "textConnecting": "연결 중...",
   "textGetNFTMintChance": "MATIC 가 충분한지 확인하십시오. 주조 기회는 24시간 동안 예약되며 나중에 미스터리 박스 페이지에서 주조할 수 있습니다.",
