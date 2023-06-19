@@ -814,7 +814,7 @@
   "textInvestableNFTValue": "Investable point value using NFT",
   "textHoldNFTToday": "You hold {value1} NFT pens today",
   "textNFTInvestmentDescription": "Every day at UTC 00:00, the platform scans the NFT pens held in each user’s wallet address, and takes a snapshot of each user’s NFT pens on that day. The results of the scan on the day indicate the value of point invested by the user using NFT today, the pen is worth {value1} score.",
-  "textPrivateProgressDescription1": "Private issues are arranged in reverse order of scores, and the top 50 enter the [Questions Queuing List], and private issues on this list will be reviewed and become public issues.",
+  "textPrivateProgressDescription1": "Private issues are arranged in reverse order of HOT VALUE, and the top 50 enter the [Questions Queuing List], and private issues on this list will be reviewed and become public issues.",
   "textPrivateProgressDescription2": "Private question score = Points spent on answering + Points spent on reasons + Points spent on likes + Points invested + NFT investment Points value",
   "textPrivateProgressDescription3": "For every 1 point spent on answers, reasons, and likes, the score of the question will increase by 1; for every 1 point invested, the score of the question will increase by 1; for every NFT investment, the score of the question will increase by {value1}",
   "textPrivateProgressDescription4": "Rankings are updated every 10 minutes",
@@ -871,5 +871,7 @@
   "textProcessingPleaseWait": "It will take a while. After the processing is successful, you can continue to operate. I suggest you wait",
   "btnUpdate": "Update",
   "textVersion": "Version",
-  "textInjectPointToPrivate": "Injecting points into your private questions can increase attention."
+  "textInjectPointToPrivate": "Injecting points into your private questions can increase attention.",
+  "textBuyNFTMysteryBox": "Buy NFT mystery box",
+  "textOpenNFTMysteryBox": "Open NFT mystery box"
 }

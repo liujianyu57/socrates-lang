@@ -814,7 +814,7 @@
   "textInvestableNFTValue": "Valor dos pontos de investimento usando NFT",
   "textHoldNFTToday": "Hoje você possui {value1} pen NFT",
   "textNFTInvestmentDescription": "Todos os dias às 00:00 UTC, a plataforma verifica o valor de pen NFT no endereço da carteira de cada usuário e tira um instantâneo diário de pen NFT de cada usuário. Os resultados do instantâneo no dia indicam o valor dos pontos investidos pelo usuário usando NFT nesse dia, pen vale a pontuação de {value1}.",
-  "textPrivateProgressDescription1": "As perguntas privadas são organizadas em ordem inversa das pontuações, as 50 melhores entram na [Lista de perguntas no fio] e as perguntas privadas na lista são revisadas para ser tornadas em públicas.",
+  "textPrivateProgressDescription1": "As perguntas privadas são organizadas em ordem inversa das VALOR QUENTE, as 50 melhores entram na [Lista de perguntas no fio] e as perguntas privadas na lista são revisadas para ser tornadas em públicas.",
   "textPrivateProgressDescription2": "Pontuação da pergunta privada = pontos gastos em resposta + pontos gastos em motivos + pontos gastos em gostos + pontos investidos + valor dos pontos de investimento NFT",
   "textPrivateProgressDescription3": "Para cada 1 ponto gasto em respostas, motivos e gostos, a pontuação da pergunta aumentará em 1; para cada 1 ponto investido, a pontuação da pergunta aumentará em 1; para cada investimento NFT, a pontuação da pergunta aumentará em {value1}",
   "textPrivateProgressDescription4": "Os rankings são atualizados cada 10 minutos",
@@ -871,5 +871,7 @@
   "textProcessingPleaseWait": "Vai demorar algum tempo. Depois que o processamento for bem-sucedido, você poderá continuar a operar. Eu sugiro que você espere",
   "btnUpdate": "Atualizar",
   "textVersion": "Versão",
-  "textInjectPointToPrivate": "Injetar pontos em suas perguntas particulares pode aumentar a atenção."
+  "textInjectPointToPrivate": "Injetar pontos em suas perguntas particulares pode aumentar a atenção.",
+  "textBuyNFTMysteryBox": "Compre caixa misteriosa NFT",
+  "textOpenNFTMysteryBox": "Abra a caixa misteriosa NFT"
 }

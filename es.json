@@ -814,7 +814,7 @@
   "textInvestableNFTValue": "Valor de los puntos de inversión utilizando NFT",
   "textHoldNFTToday": "Hoy usted tiene {value1} pen NFT",
   "textNFTInvestmentDescription": "Cada día a las 00:00 UTC, la plataforma escanea los bolígrafos NFT guardados en la dirección del monedero de cada usuario, y toma una instantánea de los bolígrafos NFT de cada usuario en ese día. Los resultados del escaneo del día indican el valor de los puntos invertidos por el usuario utilizando NFT hoy, el bolígrafo vale {value1} puntuación.",
-  "textPrivateProgressDescription1": "Las preguntas privadas se clasifican en orden inverso a la puntuación, las 50 mejores van a la [Lista de preguntas] y las preguntas privadas de la lista se revisan para hacerlas públicas.",
+  "textPrivateProgressDescription1": "Las preguntas privadas se clasifican en orden inverso a la VALOR CALIENTE, las 50 mejores van a la [Lista de preguntas] y las preguntas privadas de la lista se revisan para hacerlas públicas.",
   "textPrivateProgressDescription2": "Puntuación de la pregunta privada = puntos dedicados a la respuesta + puntos dedicados a las razones + puntos dedicados a los 'Me Gusta' + puntos invertidos + valor de los puntos de inversión NFT",
   "textPrivateProgressDescription3": "Por cada 1 punto invertido en respuestas, razones y Me Gusta, la puntuación de la pregunta aumentará en 1; por cada 1 punto invertido, la puntuación de la pregunta aumentará en 1; por cada NFT invertido, la puntuación de la pregunta aumentará en {value1}.",
   "textPrivateProgressDescription4": "Las ránkings se actualizan cada 10 minutos",
@@ -871,5 +871,7 @@
   "textProcessingPleaseWait": "Tardará un rato. Después de que el procesamiento sea exitoso, puede continuar operando. te sugiero que esperes",
   "btnUpdate": "Actualizar",
   "textVersion": "Versión",
-  "textInjectPointToPrivate": "Inyectar puntos en sus preguntas privadas puede aumentar la atención."
+  "textInjectPointToPrivate": "Inyectar puntos en sus preguntas privadas puede aumentar la atención.",
+  "textBuyNFTMysteryBox": "Comprar caja misteriosa NFT",
+  "textOpenNFTMysteryBox": "Abrir caja misteriosa NFT"
 }

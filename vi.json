@@ -814,7 +814,7 @@
   "textInvestableNFTValue": "Điểm giá trị đầu tư sử dụng NFT",
   "textHoldNFTToday": "Bạn giữ {value1} NFT pen hôm nay",
   "textNFTInvestmentDescription": "Mỗi ngày vào lúc 00:00 UTC, nền tảng sẽ quét các NFT pen được giữ trong địa chỉ ví của mỗi người dùng và chụp nhanh các NFT pen của mỗi người dùng vào ngày đó. Kết quả quét trong ngày cho biết giá trị điểm do người dùng đầu tư bằng NFT hôm nay, chiếc bút có giá trị {value1} điểm.",
-  "textPrivateProgressDescription1": "Các vấn đề riêng tư được sắp xếp theo thứ tự điểm số ngược lại và 50 vấn đề hàng đầu sẽ vào [Questions Queuing List], và các vấn đề riêng tư trong danh sách này sẽ được xem xét và trở thành vấn đề công khai.",
+  "textPrivateProgressDescription1": "Các vấn đề riêng tư được sắp xếp theo thứ tự ngược lại với GIÁ TRỊ HOT và 50 vấn đề hàng đầu sẽ vào [Danh sách xếp hàng câu hỏi] và các vấn đề riêng tư trong danh sách này sẽ được xem xét và trở thành vấn đề công khai.",
   "textPrivateProgressDescription2": "Điểm câu hỏi riêng tư = số điểm dành cho câu trả lời + số điểm dành cho lý do + số điểm dành cho lượt thích + số điểm đã đầu tư + giá trị điểm đầu tư NFT",
   "textPrivateProgressDescription3": "Cứ 1 điểm dành cho câu trả lời, lý do và lượt thích, điểm của câu hỏi sẽ tăng thêm 1; cứ đầu tư 1 điểm thì điểm của câu hỏi sẽ tăng 1 điểm; đối với mỗi khoản đầu tư NFT, điểm của câu hỏi sẽ tăng thêm {value1}",
   "textPrivateProgressDescription4": "Thứ hạng được cập nhật mỗi 10 phút",
@@ -871,5 +871,7 @@
   "textProcessingPleaseWait": "Nó sẽ mất chút thời gian. Sau khi xử lý thành công, bạn có thể tiếp tục hoạt động. Tôi đề nghị bạn đợi",
   "btnUpdate": "Cập nhật",
   "textVersion": "Phiên bản",
-  "textInjectPointToPrivate": "Tiêm điểm vào câu hỏi riêng tư của bạn có thể tăng sự chú ý."
+  "textInjectPointToPrivate": "Tiêm điểm vào câu hỏi riêng tư của bạn có thể tăng sự chú ý.",
+  "textBuyNFTMysteryBox": "Mua hộp bí ẩn NFT",
+  "textOpenNFTMysteryBox": "Mở hộp bí ẩn NFT"
 }

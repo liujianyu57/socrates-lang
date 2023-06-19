@@ -814,7 +814,7 @@
   "textInvestableNFTValue": "使用NFT可投資的積分價值",
   "textHoldNFTToday": "今日持有{value1}支NFT筆",
   "textNFTInvestmentDescription": "每天UTC 00:00點平臺掃描每個用戶的錢包地址中的持有的NFT筆，快照得到每個用戶在當天的NFT筆，當天掃描的結果表示該用戶今天使用NFT投資的積分價值，每1支筆價值{value1}分數。",
-  "textPrivateProgressDescription1": "私有問題根據分數倒序排列，前50名進入到【問題排隊榜】，該榜單中的私有問題將被審核成為公眾問題。",
+  "textPrivateProgressDescription1": "私有問題根據熱度值倒序排列，前50名進入到【問題排隊榜】，該榜單中的私有問題將被審核成為公眾問題。",
   "textPrivateProgressDescription2": "私有問題分數 = 答題花費積分 + 理由花費積分 + 點贊花費積分 + 投資積分 + NFT投資分值",
   "textPrivateProgressDescription3": "答題、理由、點贊每花費1 積分，該問題分數增加1；每投資1分，該問題分數增加1；每1個NFT投資，該問題分數增加{value1}",
   "textPrivateProgressDescription4": "排名名次每10分鐘更新1次",
@@ -871,5 +871,7 @@
   "textProcessingPleaseWait": "這需要一段時間。 處理成功後，即可繼續操作。 建議您稍等",
   "btnUpdate": "升級",
   "textVersion": "版本",
-  "textInjectPointToPrivate": "給私有問題注入積分可增加關注度"
+  "textInjectPointToPrivate": "給私有問題注入積分可增加關注度",
+  "textBuyNFTMysteryBox": "購買NFT盲盒",
+  "textOpenNFTMysteryBox": "開啟NFT盲盒"
 }

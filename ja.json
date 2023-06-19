@@ -814,7 +814,7 @@
   "textInvestableNFTValue": "NFTを利用した投資可能なポイント価値",
   "textHoldNFTToday": "あなたは今日 {value1} 個の NFT ペンを持っています",
   "textNFTInvestmentDescription": "毎日 UTC 00:00 に、プラットフォームは各ユーザーのウォレット アドレスに保持されている NFT ペンをスキャンし、その日の各ユーザーの NFT ペンのスナップショットを取得します。当日のスキャン結果は、ユーザーが今日 NFT を使用して投資したポイントの価値を示しており、ペンは {value1} スコアの価値があります。",
-  "textPrivateProgressDescription1": "非公開問題はスコアの逆順に並べられ、上位 50 名が [質問待ちリスト] に入り、このリストにある非公開問題は審査されて公開問題になります。",
+  "textPrivateProgressDescription1": "非公開問題は人気の逆順に並べられ、上位 50 件が [質問待ちリスト] に登録され、このリストにある非公開問題は審査されて公開問題になります。",
   "textPrivateProgressDescription2": "プライベート質問スコア = 回答に費やしたポイント + 理由に費やしたポイント + いいねに費やしたポイント + 投資したポイント + NFT 投資ポイントの価値",
   "textPrivateProgressDescription3": "回答、理由、いいね！に 1 ポイントを費やすごとに、質問のスコアは 1 増加します。投資 1 ポイントごとに、質問のスコアは 1 ずつ増加します。 NFT 投資ごとに、質問のスコアは {value1} ずつ増加します",
   "textPrivateProgressDescription4": "ランキングは10分ごとに更新されます",
@@ -871,5 +871,7 @@
   "textProcessingPleaseWait": "しばらく時間がかかります。 処理が成功した後は、操作を続行できます。 待つことをお勧めします",
   "btnUpdate": "アップデート",
   "textVersion": "バージョン",
-  "textInjectPointToPrivate": "プライベートな質問にポイントを注入すると、注目度が高まります。"
+  "textInjectPointToPrivate": "プライベートな質問にポイントを注入すると、注目度が高まります。",
+  "textBuyNFTMysteryBox": "NFTブラインドボックスを購入する",
+  "textOpenNFTMysteryBox": "NFTブラインドボックスを開く"
 }
