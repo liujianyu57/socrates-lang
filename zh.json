@@ -873,5 +873,13 @@
   "textVersion": "版本",
   "textInjectPointToPrivate": "给私有问题注入积分可增加关注度",
   "textBuyNFTMysteryBox": "购买NFT盲盒",
-  "textOpenNFTMysteryBox": "开启NFT盲盒"
+  "textOpenNFTMysteryBox": "开启NFT盲盒",
+  "textCoinFundFlow100": "转账",
+  "textCoinFundFlow200": "铸造SBT",
+  "textCoinFundFlow300": "升级SBT",
+  "textCoinFundFlow400": "转账NFT",
+  "textCoinFundFlow401": "铸造NFT",
+  "textCoinFundFlow402": "盲盒",
+  "textCoinFundFlow500": "购买积分",
+  "textCoinFundFlow600": "兑换积分"
 }

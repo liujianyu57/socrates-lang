@@ -873,5 +873,13 @@
   "textVersion": "Phiên bản",
   "textInjectPointToPrivate": "Tiêm điểm vào câu hỏi riêng tư của bạn có thể tăng sự chú ý.",
   "textBuyNFTMysteryBox": "Mua hộp bí ẩn NFT",
-  "textOpenNFTMysteryBox": "Mở hộp bí ẩn NFT"
+  "textOpenNFTMysteryBox": "Mở hộp bí ẩn NFT",
+  "textCoinFundFlow100": "Chuyển khoản",
+  "textCoinFundFlow200": "bạc hà SBT",
+  "textCoinFundFlow300": "Nâng cấp SBT",
+  "textCoinFundFlow400": "Chuyển NFT",
+  "textCoinFundFlow401": "",
+  "textCoinFundFlow402": "Chiếc hộp bí ẩn",
+  "textCoinFundFlow500": "Mua điểm",
+  "textCoinFundFlow600": "Rút điểm"
 }

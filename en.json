@@ -873,5 +873,13 @@
   "textVersion": "Version",
   "textInjectPointToPrivate": "Injecting points into your private questions can increase attention.",
   "textBuyNFTMysteryBox": "Buy NFT mystery box",
-  "textOpenNFTMysteryBox": "Open NFT mystery box"
+  "textOpenNFTMysteryBox": "Open NFT mystery box",
+  "textCoinFundFlow100": "Transfer",
+  "textCoinFundFlow200": "Mint SBT",
+  "textCoinFundFlow300": "Upgrade SBT",
+  "textCoinFundFlow400": "Transfer NFT",
+  "textCoinFundFlow401": "Mint NFT",
+  "textCoinFundFlow402": "Mystery box",
+  "textCoinFundFlow500": "Buy Points",
+  "textCoinFundFlow600": "Withdraw points"
 }

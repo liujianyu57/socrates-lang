@@ -873,5 +873,13 @@
   "textVersion": "버전",
   "textInjectPointToPrivate": "개인적인 질문에 포인트를 주입하면 관심을 높일 수 있습니다.",
   "textBuyNFTMysteryBox": "NFT 미스터리 박스 구매",
-  "textOpenNFTMysteryBox": "NFT 미스터리 박스 열기"
+  "textOpenNFTMysteryBox": "NFT 미스터리 박스 열기",
+  "textCoinFundFlow100": "옮기다",
+  "textCoinFundFlow200": "민트 SBT",
+  "textCoinFundFlow300": "업그레이드 SBT",
+  "textCoinFundFlow400": "NFT 전송",
+  "textCoinFundFlow401": "",
+  "textCoinFundFlow402": "미스터리 박스",
+  "textCoinFundFlow500": "포인트 구매",
+  "textCoinFundFlow600": "인출 포인트"
 }

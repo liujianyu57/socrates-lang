@@ -873,5 +873,13 @@
   "textVersion": "Versão",
   "textInjectPointToPrivate": "Injetar pontos em suas perguntas particulares pode aumentar a atenção.",
   "textBuyNFTMysteryBox": "Compre caixa misteriosa NFT",
-  "textOpenNFTMysteryBox": "Abra a caixa misteriosa NFT"
+  "textOpenNFTMysteryBox": "Abra a caixa misteriosa NFT",
+  "textCoinFundFlow100": "Transferir",
+  "textCoinFundFlow200": "Mint SBT",
+  "textCoinFundFlow300": "Atualizar SBT",
+  "textCoinFundFlow400": "Transferir NFT",
+  "textCoinFundFlow401": "Como NFT",
+  "textCoinFundFlow402": "Caixa mistério",
+  "textCoinFundFlow500": "comprar pontos",
+  "textCoinFundFlow600": "Retirar pontos"
 }

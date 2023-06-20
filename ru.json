@@ -873,5 +873,13 @@
   "textVersion": "Версия",
   "textInjectPointToPrivate": "Добавление баллов в ваши личные вопросы может увеличить внимание.",
   "textBuyNFTMysteryBox": "Купить загадочную коробку NFT",
-  "textOpenNFTMysteryBox": "Откройте загадочную коробку NFT"
+  "textOpenNFTMysteryBox": "Откройте загадочную коробку NFT",
+  "textCoinFundFlow100": "Передача",
+  "textCoinFundFlow200": "Монетный двор СБТ",
+  "textCoinFundFlow300": "Обновление СБТ",
+  "textCoinFundFlow400": "Перевод NFT",
+  "textCoinFundFlow401": "",
+  "textCoinFundFlow402": "Загадочная коробка",
+  "textCoinFundFlow500": "Купить баллы",
+  "textCoinFundFlow600": "Вывод баллов"
 }
