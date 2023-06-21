@@ -881,5 +881,8 @@
   "textCoinFundFlow401": "",
   "textCoinFundFlow402": "ミステリーボックス",
   "textCoinFundFlow500": "ポイントを購入する",
-  "textCoinFundFlow600": "ポイントの引き出し"
+  "textCoinFundFlow600": "ポイントの引き出し",
+  "textImageLoadFailed": "画像の読み込みに失敗しました",
+  "btnRetry": "リトライ",
+  "textHelp": "ヘルプ"
 }

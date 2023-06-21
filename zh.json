@@ -881,5 +881,8 @@
   "textCoinFundFlow401": "铸造NFT",
   "textCoinFundFlow402": "盲盒",
   "textCoinFundFlow500": "购买积分",
-  "textCoinFundFlow600": "兑换积分"
+  "textCoinFundFlow600": "兑换积分",
+  "textImageLoadFailed": "图片加载失败",
+  "btnRetry": "重试",
+  "textHelp": "帮助"
 }

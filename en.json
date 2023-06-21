@@ -881,5 +881,8 @@
   "textCoinFundFlow401": "Mint NFT",
   "textCoinFundFlow402": "Mystery box",
   "textCoinFundFlow500": "Buy Points",
-  "textCoinFundFlow600": "Withdraw points"
+  "textCoinFundFlow600": "Withdraw points",
+  "textImageLoadFailed": "Image failed to load",
+  "btnRetry": "Retry",
+  "textHelp": "help"
 }

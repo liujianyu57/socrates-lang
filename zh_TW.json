@@ -881,5 +881,8 @@
   "textCoinFundFlow401": "鑄造NFT",
   "textCoinFundFlow402": "盲盒",
   "textCoinFundFlow500": "購買積分",
-  "textCoinFundFlow600": "兌換積分"
+  "textCoinFundFlow600": "兌換積分",
+  "textImageLoadFailed": "圖片加載失敗",
+  "btnRetry": "重試",
+  "textHelp": "幫助"
 }

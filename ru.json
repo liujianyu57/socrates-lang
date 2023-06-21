@@ -881,5 +881,8 @@
   "textCoinFundFlow401": "",
   "textCoinFundFlow402": "Загадочная коробка",
   "textCoinFundFlow500": "Купить баллы",
-  "textCoinFundFlow600": "Вывод баллов"
+  "textCoinFundFlow600": "Вывод баллов",
+  "textImageLoadFailed": "Не удалось загрузить изображение",
+  "btnRetry": "Повторить попытку",
+  "textHelp": "помощь"
 }

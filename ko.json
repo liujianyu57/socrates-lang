@@ -881,5 +881,8 @@
   "textCoinFundFlow401": "",
   "textCoinFundFlow402": "미스터리 박스",
   "textCoinFundFlow500": "포인트 구매",
-  "textCoinFundFlow600": "인출 포인트"
+  "textCoinFundFlow600": "인출 포인트",
+  "textImageLoadFailed": "이미지를 로드하지 못했습니다.",
+  "btnRetry": "다시 해 보다",
+  "textHelp": "돕다"
 }

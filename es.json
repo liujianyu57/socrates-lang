@@ -881,5 +881,8 @@
   "textCoinFundFlow401": "Me gusta NFT",
   "textCoinFundFlow402": "Caja misteriosa",
   "textCoinFundFlow500": "Comprar puntos",
-  "textCoinFundFlow600": "retirar puntos"
+  "textCoinFundFlow600": "retirar puntos",
+  "textImageLoadFailed": "La imagen no se pudo cargar",
+  "btnRetry": "Rever",
+  "textHelp": "ayuda"
 }

@@ -881,5 +881,8 @@
   "textCoinFundFlow401": "Como NFT",
   "textCoinFundFlow402": "Caixa mistério",
   "textCoinFundFlow500": "comprar pontos",
-  "textCoinFundFlow600": "Retirar pontos"
+  "textCoinFundFlow600": "Retirar pontos",
+  "textImageLoadFailed": "Falha ao carregar a imagem",
+  "btnRetry": "Tentar novamente",
+  "textHelp": "ajuda"
 }
