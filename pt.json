@@ -889,5 +889,6 @@
   "textQuestionMasterBadge": "Question Master Nv.{value1}",
   "textAnswerMasterBadge": "Responder especialista Nv.{value1}",
   "textQuestionMasterBadgeDescription": "Isso pode ser alcançado fazendo perguntas cumulativas de {value1} em Sócrates",
-  "textAnswerMasterBadgeDescription": "Pode ser alcançado respondendo {value1} perguntas em Sócrates"
+  "textAnswerMasterBadgeDescription": "Pode ser alcançado respondendo {value1} perguntas em Sócrates",
+  "textInitializationFailed": "A inicialização falhou, tente novamente"
 }

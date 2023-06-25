@@ -889,5 +889,6 @@
   "textQuestionMasterBadge": "Мастер вопросов, ур.{value1}",
   "textAnswerMasterBadge": "Ответ эксперта Lv.{value1}",
   "textQuestionMasterBadgeDescription": "Этого можно достичь, задав в совокупности {value1} вопросов в Socrates.",
-  "textAnswerMasterBadgeDescription": "Этого можно достичь, ответив на {value1} вопросов в Сократе."
+  "textAnswerMasterBadgeDescription": "Этого можно достичь, ответив на {value1} вопросов в Сократе.",
+  "textInitializationFailed": "Ошибка инициализации, попробуйте еще раз"
 }

@@ -889,5 +889,6 @@
   "textQuestionMasterBadge": "クエスチョンマスター Lv.{value1}",
   "textAnswerMasterBadge": "回答エキスパート Lv.{value1}",
   "textQuestionMasterBadgeDescription": "ソクラテスで {value1} 個の質問を累積的に行うことで達成できます",
-  "textAnswerMasterBadgeDescription": "ソクラテスの {value1} の質問に答えることで達成できます"
+  "textAnswerMasterBadgeDescription": "ソクラテスの {value1} の質問に答えることで達成できます",
+  "textInitializationFailed": "初期化に失敗しました。もう一度お試しください"
 }

@@ -889,5 +889,6 @@
   "textQuestionMasterBadge": "Question Master Lv.{value1}",
   "textAnswerMasterBadge": "Answer expert Lv.{value1}",
   "textQuestionMasterBadgeDescription": "It can be achieved by accumulatively asking {value1} questions in Socrates",
-  "textAnswerMasterBadgeDescription": "It can be achieved by answering {value1} questions in Socrates"
+  "textAnswerMasterBadgeDescription": "It can be achieved by answering {value1} questions in Socrates",
+  "textInitializationFailed": "Initialization failed, please try again"
 }
