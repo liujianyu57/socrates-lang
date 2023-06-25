@@ -237,7 +237,7 @@
   "textPublic": "Público",
   "textPublicInvestDescription": "A pergunta tornou-se pública. Após o final, os investidores podem compartilhar {value1} do total de pontos como recompensa.",
   "textQuestion": "Perguntas",
-  "textQueueRanking": "Classificação das perguntas",
+  "textQueueRanking": "Classificação de valor quente",
   "textQueueRankingDescription": "{value1} perguntas por dia se tornam públicas e as posições no fio são mantidas de um dia para o outro. As perguntas que não se tornam públicas continuam no fio. As perguntas aprovadas pela revisão se tornam públicas.",
   "textReasons": "Motivos",
   "textReceive": "Receber",
@@ -890,5 +890,6 @@
   "textAnswerMasterBadge": "Responder especialista Nv.{value1}",
   "textQuestionMasterBadgeDescription": "Isso pode ser alcançado fazendo perguntas cumulativas de {value1} em Sócrates",
   "textAnswerMasterBadgeDescription": "Pode ser alcançado respondendo {value1} perguntas em Sócrates",
-  "textInitializationFailed": "A inicialização falhou, tente novamente"
+  "textInitializationFailed": "A inicialização falhou, tente novamente",
+  "textBadge": "Distintivos"
 }

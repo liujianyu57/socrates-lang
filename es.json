@@ -237,7 +237,7 @@
   "textPublic": "Público",
   "textPublicInvestDescription": "Se ha convertido en una cuestión pública. Tras el final, los inversores pueden compartir {value1} del total de puntos como recompensa.",
   "textQuestion": "Preguntas",
-  "textQueueRanking": "Ranking de las preguntas",
+  "textQueueRanking": "Clasificación de valor caliente",
   "textQueueRankingDescription": "Hay {value1} plazas que se convierten en cuestiones públicas diariamente, y el progreso de la cola no se borrará. Los que no se hayan convertido en cuestiones públicas seguirán en cola, y los que superen la revisión se convertirán en cuestiones públicas.",
   "textReasons": "Motivos",
   "textReceive": "Recibir",
@@ -890,5 +890,6 @@
   "textAnswerMasterBadge": "Respuesta experta Nv.{value1}",
   "textQuestionMasterBadgeDescription": "Se puede lograr haciendo preguntas acumulativas {value1} en Sócrates",
   "textAnswerMasterBadgeDescription": "Se puede lograr respondiendo {value1} preguntas en Sócrates",
-  "textInitializationFailed": "La inicialización falló, inténtalo de nuevo"
+  "textInitializationFailed": "La inicialización falló, inténtalo de nuevo",
+  "textBadge": "Insignias"
 }

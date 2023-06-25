@@ -22,8 +22,8 @@
   "btnEnterSocrates": "Введите Сократ",
   "btnExportSeedPhrase": "Экспорт мнемонических слов",
   "btnFollow": "Подписать",
-  "textFollowing": "Наблюдательный список",
-  "btnFollowing": "Наблюдательный список",
+  "textFollowing": "Подписки",
+  "btnFollowing": "Подписки",
   "textFollows": "Подписчики",
   "btnFollowSystem": "Следовать систему",
   "btnForgetPassword": "Забыть пароль?",
@@ -237,7 +237,7 @@
   "textPublic": "Публичный",
   "textPublicInvestDescription": "Это стало публичной эмиссией, и в конце дня инвесторы могут разделить {value1} от общего количества баллов в качестве вознаграждения.",
   "textQuestion": "вопрос",
-  "textQueueRanking": "Вопросы по проблеме",
+  "textQueueRanking": "Рейтинг горячих значений",
   "textQueueRankingDescription": "В публичном выпуске есть {value1}. Прогресс линейки не будет пустым. Если он не станет публичной проблемой, он будет продолжать выстроиться. Обзор станет публичной проблемой.",
   "textReasons": "Причина",
   "textReceive": "Монета",
@@ -890,5 +890,6 @@
   "textAnswerMasterBadge": "Ответ эксперта Lv.{value1}",
   "textQuestionMasterBadgeDescription": "Этого можно достичь, задав в совокупности {value1} вопросов в Socrates.",
   "textAnswerMasterBadgeDescription": "Этого можно достичь, ответив на {value1} вопросов в Сократе.",
-  "textInitializationFailed": "Ошибка инициализации, попробуйте еще раз"
+  "textInitializationFailed": "Ошибка инициализации, попробуйте еще раз",
+  "textBadge": "Значки"
 }

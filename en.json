@@ -237,7 +237,7 @@
   "textPublic": "Public",
   "textPublicInvestDescription": "It has become a public question. After the end, investors can share {value1} of the total points as a reward.",
   "textQuestion": "Questions",
-  "textQueueRanking": "Question Ranking",
+  "textQueueRanking": "Hot value ranking",
   "textQueueRankingDescription": "There are {value1} places that become public questions every day, and the queue progress will not be cleared. Those that have not become public issues will continue to queue, and those who pass the review will become public issues.",
   "textReasons": "Reasons",
   "textReceive": "Receive",
@@ -890,5 +890,6 @@
   "textAnswerMasterBadge": "Answer expert Lv.{value1}",
   "textQuestionMasterBadgeDescription": "It can be achieved by accumulatively asking {value1} questions in Socrates",
   "textAnswerMasterBadgeDescription": "It can be achieved by answering {value1} questions in Socrates",
-  "textInitializationFailed": "Initialization failed, please try again"
+  "textInitializationFailed": "Initialization failed, please try again",
+  "textBadge": "Badges"
 }

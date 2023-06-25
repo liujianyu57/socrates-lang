@@ -890,5 +890,6 @@
   "textAnswerMasterBadge": "答题达人{value1}级",
   "textQuestionMasterBadgeDescription": "在Socrates累计提问 {value1} 个即可达成",
   "textAnswerMasterBadgeDescription": "在Socrates累计答题 {value1} 个即可达成",
-  "textInitializationFailed": "初始化失败，请重试"
+  "textInitializationFailed": "初始化失败，请重试",
+  "textBadge": "成就徽章"
 }

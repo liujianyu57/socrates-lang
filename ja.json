@@ -237,7 +237,7 @@
   "textPublic": "公共",
   "textPublicInvestDescription": "それは公開質問になりました。終了後、投資家は合計ポイントのうち {value1} を報酬として共有できます。",
   "textQuestion": "質問",
-  "textQueueRanking": "質問ランキング",
+  "textQueueRanking": "注目のバリューランキング",
   "textQueueRankingDescription": "毎日公開質問となる {value1} 個の場所があり、キューの進行状況はクリアされません。公的な問題になっていないものは引き続き列に並び、審査を通過したものは公的な問題になります。",
   "textReasons": "理由",
   "textReceive": "受け取る",
@@ -890,5 +890,6 @@
   "textAnswerMasterBadge": "回答エキスパート Lv.{value1}",
   "textQuestionMasterBadgeDescription": "ソクラテスで {value1} 個の質問を累積的に行うことで達成できます",
   "textAnswerMasterBadgeDescription": "ソクラテスの {value1} の質問に答えることで達成できます",
-  "textInitializationFailed": "初期化に失敗しました。もう一度お試しください"
+  "textInitializationFailed": "初期化に失敗しました。もう一度お試しください",
+  "textBadge": "バッジ"
 }
