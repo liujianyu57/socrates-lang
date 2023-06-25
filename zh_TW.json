@@ -884,5 +884,10 @@
   "textCoinFundFlow600": "兌換積分",
   "textImageLoadFailed": "圖片加載失敗",
   "btnRetry": "重試",
-  "textHelp": "幫助"
+  "textHelp": "幫助",
+  "textNetworkError": "網路異常",
+  "textQuestionMasterBadge": "提問達人{value1}級",
+  "textAnswerMasterBadge": "答題達人{value1}級",
+  "textQuestionMasterBadgeDescription": "在Socrates累計提問 {value1} 個即可達成",
+  "textAnswerMasterBadgeDescription": "在Socrates累計答題 {value1} 個即可達成"
 }

@@ -884,5 +884,10 @@
   "textCoinFundFlow600": "인출 포인트",
   "textImageLoadFailed": "이미지를 로드하지 못했습니다.",
   "btnRetry": "다시 해 보다",
-  "textHelp": "돕다"
+  "textHelp": "돕다",
+  "textNetworkError": "네트워크 오류",
+  "textQuestionMasterBadge": "질문 마스터 Lv.{value1}",
+  "textAnswerMasterBadge": "답변 전문가 Lv.{value1}",
+  "textQuestionMasterBadgeDescription": "소크라테스에서 {value1} 질문을 누적하면 달성할 수 있습니다.",
+  "textAnswerMasterBadgeDescription": "소크라테스의 {value1} 질문에 답하면 달성할 수 있습니다."
 }

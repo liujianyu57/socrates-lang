@@ -884,5 +884,10 @@
   "textCoinFundFlow600": "Вывод баллов",
   "textImageLoadFailed": "Не удалось загрузить изображение",
   "btnRetry": "Повторить попытку",
-  "textHelp": "помощь"
+  "textHelp": "помощь",
+  "textNetworkError": "Ошибка сети",
+  "textQuestionMasterBadge": "Мастер вопросов, ур.{value1}",
+  "textAnswerMasterBadge": "Ответ эксперта Lv.{value1}",
+  "textQuestionMasterBadgeDescription": "Этого можно достичь, задав в совокупности {value1} вопросов в Socrates.",
+  "textAnswerMasterBadgeDescription": "Этого можно достичь, ответив на {value1} вопросов в Сократе."
 }

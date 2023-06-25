@@ -884,5 +884,10 @@
   "textCoinFundFlow600": "ポイントの引き出し",
   "textImageLoadFailed": "画像の読み込みに失敗しました",
   "btnRetry": "リトライ",
-  "textHelp": "ヘルプ"
+  "textHelp": "ヘルプ",
+  "textNetworkError": "ネットワークエラー",
+  "textQuestionMasterBadge": "クエスチョンマスター Lv.{value1}",
+  "textAnswerMasterBadge": "回答エキスパート Lv.{value1}",
+  "textQuestionMasterBadgeDescription": "ソクラテスで {value1} 個の質問を累積的に行うことで達成できます",
+  "textAnswerMasterBadgeDescription": "ソクラテスの {value1} の質問に答えることで達成できます"
 }
