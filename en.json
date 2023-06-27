@@ -894,5 +894,7 @@
   "textBadge": "Badges",
   "textLatestVersion": "Already the latest version",
   "textPending": "Pending",
-  "textScanFailed": "The content is invalid, please check the network or QR code"
+  "textScanFailed": "The content is invalid, please check the network or QR code",
+  "textErrorOccurred": "Error occurred！",
+  "btnCheckErrorCode": "Check error code"
 }

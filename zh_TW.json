@@ -894,5 +894,7 @@
   "textBadge": "成就徽章",
   "textLatestVersion": "已是最新版本",
   "textPending": "待處理",
-  "textScanFailed": "內容無效，請檢查網路或二維碼"
+  "textScanFailed": "內容無效，請檢查網路或二維碼",
+  "textErrorOccurred": "發生錯誤！",
+  "btnCheckErrorCode": "檢查錯誤代碼"
 }

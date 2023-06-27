@@ -894,5 +894,7 @@
   "textBadge": "バッジ",
   "textLatestVersion": "すでに最新バージョン",
   "textPending": "保留中",
-  "textScanFailed": "コンテンツが無効です。ネットワークまたは QR コードを確認してください。"
+  "textScanFailed": "コンテンツが無効です。ネットワークまたは QR コードを確認してください。",
+  "textErrorOccurred": "エラーが発生しました！",
+  "btnCheckErrorCode": "エラーコードを確認する"
 }
