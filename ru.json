@@ -895,6 +895,6 @@
   "textLatestVersion": "Уже последняя версия",
   "textPending": "В ожидании",
   "textScanFailed": "Содержимое недействительно, проверьте сеть или QR-код.",
-  "textErrorOccurred": "Возникла ошибка!",
+  "textErrorOccurred": "Возникла ошибка",
   "btnCheckErrorCode": "Проверить код ошибки"
 }

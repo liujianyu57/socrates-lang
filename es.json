@@ -895,6 +895,6 @@
   "textLatestVersion": "Ya la última versión",
   "textPending": "Pendiente",
   "textScanFailed": "El contenido no es válido, verifique la red o el código QR",
-  "textErrorOccurred": "¡Se produjo un error!",
+  "textErrorOccurred": "¡Se produjo un error",
   "btnCheckErrorCode": "Comprobar código de error"
 }

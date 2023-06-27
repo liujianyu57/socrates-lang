@@ -895,6 +895,6 @@
   "textLatestVersion": "Đã là phiên bản mới nhất",
   "textPending": "Chưa giải quyết",
   "textScanFailed": "Nội dung không hợp lệ, vui lòng kiểm tra mạng hoặc mã QR",
-  "textErrorOccurred": "Xảy ra lỗi!",
+  "textErrorOccurred": "Xảy ra lỗi",
   "btnCheckErrorCode": "Kiểm tra mã lỗi"
 }
