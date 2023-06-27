@@ -896,5 +896,7 @@
   "textPending": "保留中",
   "textScanFailed": "コンテンツが無効です。ネットワークまたは QR コードを確認してください。",
   "textErrorOccurred": "エラーが発生しました",
-  "btnCheckErrorCode": "エラーコードを確認する"
+  "btnCheckErrorCode": "エラーコードを確認する",
+  "textInvestDescription02": "質問が公開質問にならなかった場合、投資は返還されます。",
+  "textValidTimeDaySingular": "{value1}日"
 }

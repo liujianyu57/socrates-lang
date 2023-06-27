@@ -896,5 +896,7 @@
   "textPending": "보류 중",
   "textScanFailed": "콘텐츠가 잘못되었습니다. 네트워크 또는 QR 코드를 확인하세요.",
   "textErrorOccurred": "오류 발생",
-  "btnCheckErrorCode": "오류 코드 확인"
+  "btnCheckErrorCode": "오류 코드 확인",
+  "textInvestDescription02": "질문이 공개 질문이 되지 않으면 투자금이 반환됩니다.",
+  "textValidTimeDaySingular": "{value1} 일"
 }

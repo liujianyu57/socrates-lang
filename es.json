@@ -896,5 +896,7 @@
   "textPending": "Pendiente",
   "textScanFailed": "El contenido no es válido, verifique la red o el código QR",
   "textErrorOccurred": "¡Se produjo un error",
-  "btnCheckErrorCode": "Comprobar código de error"
+  "btnCheckErrorCode": "Comprobar código de error",
+  "textInvestDescription02": "Si la pregunta no se convierte en pregunta pública, se le devolverá su inversión.",
+  "textValidTimeDaySingular": "{value1} día"
 }

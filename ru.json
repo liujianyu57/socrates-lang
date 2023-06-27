@@ -896,5 +896,7 @@
   "textPending": "В ожидании",
   "textScanFailed": "Содержимое недействительно, проверьте сеть или QR-код.",
   "textErrorOccurred": "Возникла ошибка",
-  "btnCheckErrorCode": "Проверить код ошибки"
+  "btnCheckErrorCode": "Проверить код ошибки",
+  "textInvestDescription02": "Если эмиссия не станет публичной, ваши инвестиции окупятся",
+  "textValidTimeDaySingular": "{value1} день"
 }

@@ -896,5 +896,7 @@
   "textPending": "待處理",
   "textScanFailed": "內容無效，請檢查網路或二維碼",
   "textErrorOccurred": "發生錯誤",
-  "btnCheckErrorCode": "檢查錯誤代碼"
+  "btnCheckErrorCode": "檢查錯誤代碼",
+  "textInvestDescription02": "如果問題沒有成為公共問題，你的投資會被退回",
+  "textValidTimeDaySingular": "{value1}天"
 }

@@ -896,5 +896,7 @@
   "textPending": "Pending",
   "textScanFailed": "The content is invalid, please check the network or QR code",
   "textErrorOccurred": "Error occurred",
-  "btnCheckErrorCode": "Check error code"
+  "btnCheckErrorCode": "Check error code",
+  "textInvestDescription02": "If the question does not become a public question, your investment will be returned.",
+  "textValidTimeDaySingular": "{value1} Day"
 }

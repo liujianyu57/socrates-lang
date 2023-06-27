@@ -896,5 +896,7 @@
   "textPending": "Chưa giải quyết",
   "textScanFailed": "Nội dung không hợp lệ, vui lòng kiểm tra mạng hoặc mã QR",
   "textErrorOccurred": "Xảy ra lỗi",
-  "btnCheckErrorCode": "Kiểm tra mã lỗi"
+  "btnCheckErrorCode": "Kiểm tra mã lỗi",
+  "textInvestDescription02": "Nếu câu hỏi không trở thành câu hỏi công khai, khoản đầu tư của bạn sẽ được trả lại.",
+  "textValidTimeDaySingular": "{value1} ngày"
 }
