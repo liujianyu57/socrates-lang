@@ -898,5 +898,6 @@
   "textErrorOccurred": "Возникла ошибка",
   "btnCheckErrorCode": "Проверить код ошибки",
   "textInvestDescription02": "Если эмиссия не станет публичной, ваши инвестиции окупятся",
-  "textValidTimeDaySingular": "{value1} день"
+  "textValidTimeDaySingular": "{value1} день",
+  "textOpenNFTBoxProcessing": "Чтобы открыть тайную коробку с негомогенизированными токенами, требуется некоторое время для взаимодействия на блокчейне. Пропуск не влияет на взаимодействие."
 }

@@ -898,5 +898,6 @@
   "textErrorOccurred": "Error occurred",
   "btnCheckErrorCode": "Check error code",
   "textInvestDescription02": "If the question does not become a public question, your investment will be returned.",
-  "textValidTimeDaySingular": "{value1} Day"
+  "textValidTimeDaySingular": "{value1} Day",
+  "textOpenNFTBoxProcessing": "It will take a while to interact on blockchain to open the NFT mystery box. Skip does not affect interaction."
 }

@@ -898,5 +898,6 @@
   "textErrorOccurred": "發生錯誤",
   "btnCheckErrorCode": "檢查錯誤代碼",
   "textInvestDescription02": "如果問題沒有成為公共問題，你的投資會被退回",
-  "textValidTimeDaySingular": "{value1}天"
+  "textValidTimeDaySingular": "{value1}天",
+  "textOpenNFTBoxProcessing": "需要一段時間在區塊鏈上互動才能打開NFT盲盒。跳過不影響互動。"
 }

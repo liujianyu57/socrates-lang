@@ -898,5 +898,6 @@
   "textErrorOccurred": "오류 발생",
   "btnCheckErrorCode": "오류 코드 확인",
   "textInvestDescription02": "질문이 공개 질문이 되지 않으면 투자금이 반환됩니다.",
-  "textValidTimeDaySingular": "{value1} 일"
+  "textValidTimeDaySingular": "{value1} 일",
+  "textOpenNFTBoxProcessing": "NFT 미스터리 박스를 열기 위해 블록체인에서 상호 작용하는 데 시간이 걸립니다. 건너뛰기는 상호 작용에 영향을 주지 않습니다."
 }
