@@ -892,5 +892,7 @@
   "textAnswerMasterBadgeDescription": "소크라테스의 {value1} 질문에 답하면 달성할 수 있습니다.",
   "textInitializationFailed": "초기화에 실패했습니다. 다시 시도해 주세요.",
   "textBadge": "배지",
-  "textLatestVersion": "이미 최신 버전"
+  "textLatestVersion": "이미 최신 버전",
+  "textPending": "보류 중",
+  "textScanFailed": "콘텐츠가 잘못되었습니다. 네트워크 또는 QR 코드를 확인하세요."
 }

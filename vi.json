@@ -892,5 +892,7 @@
   "textAnswerMasterBadgeDescription": "Nó có thể đạt được bằng cách trả lời các câu hỏi {value1} trong Socrates",
   "textInitializationFailed": "Khởi tạo không thành công, vui lòng thử lại",
   "textBadge": "Huy hiệu",
-  "textLatestVersion": "Đã là phiên bản mới nhất"
+  "textLatestVersion": "Đã là phiên bản mới nhất",
+  "textPending": "Chưa giải quyết",
+  "textScanFailed": "Nội dung không hợp lệ, vui lòng kiểm tra mạng hoặc mã QR"
 }

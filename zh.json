@@ -892,5 +892,7 @@
   "textAnswerMasterBadgeDescription": "在Socrates累计答题 {value1} 个即可达成",
   "textInitializationFailed": "初始化失败，请重试",
   "textBadge": "成就徽章",
-  "textLatestVersion": "已是最新版本"
+  "textLatestVersion": "已是最新版本",
+  "textPending": "待处理",
+  "textScanFailed": "内容无效，请检查网络或二维码"
 }

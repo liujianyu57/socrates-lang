@@ -892,5 +892,7 @@
   "textAnswerMasterBadgeDescription": "ソクラテスの {value1} の質問に答えることで達成できます",
   "textInitializationFailed": "初期化に失敗しました。もう一度お試しください",
   "textBadge": "バッジ",
-  "textLatestVersion": "すでに最新バージョン"
+  "textLatestVersion": "すでに最新バージョン",
+  "textPending": "保留中",
+  "textScanFailed": "コンテンツが無効です。ネットワークまたは QR コードを確認してください。"
 }

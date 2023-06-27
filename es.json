@@ -892,5 +892,7 @@
   "textAnswerMasterBadgeDescription": "Se puede lograr respondiendo {value1} preguntas en Sócrates",
   "textInitializationFailed": "La inicialización falló, inténtalo de nuevo",
   "textBadge": "Insignias",
-  "textLatestVersion": "Ya la última versión"
+  "textLatestVersion": "Ya la última versión",
+  "textPending": "Pendiente",
+  "textScanFailed": "El contenido no es válido, verifique la red o el código QR"
 }
