@@ -891,5 +891,6 @@
   "textQuestionMasterBadgeDescription": "Se puede lograr haciendo preguntas acumulativas {value1} en Sócrates",
   "textAnswerMasterBadgeDescription": "Se puede lograr respondiendo {value1} preguntas en Sócrates",
   "textInitializationFailed": "La inicialización falló, inténtalo de nuevo",
-  "textBadge": "Insignias"
+  "textBadge": "Insignias",
+  "textLatestVersion": "Ya la última versión"
 }

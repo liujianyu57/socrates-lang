@@ -891,5 +891,6 @@
   "textQuestionMasterBadgeDescription": "Isso pode ser alcançado fazendo perguntas cumulativas de {value1} em Sócrates",
   "textAnswerMasterBadgeDescription": "Pode ser alcançado respondendo {value1} perguntas em Sócrates",
   "textInitializationFailed": "A inicialização falhou, tente novamente",
-  "textBadge": "Distintivos"
+  "textBadge": "Distintivos",
+  "textLatestVersion": "Já é a versão mais recente"
 }

@@ -891,5 +891,6 @@
   "textQuestionMasterBadgeDescription": "Nó có thể đạt được bằng cách hỏi tích lũy {value1} câu hỏi trong Socrates",
   "textAnswerMasterBadgeDescription": "Nó có thể đạt được bằng cách trả lời các câu hỏi {value1} trong Socrates",
   "textInitializationFailed": "Khởi tạo không thành công, vui lòng thử lại",
-  "textBadge": "Huy hiệu"
+  "textBadge": "Huy hiệu",
+  "textLatestVersion": "Đã là phiên bản mới nhất"
 }
