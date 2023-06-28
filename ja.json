@@ -899,5 +899,6 @@
   "btnCheckErrorCode": "エラーコードを確認する",
   "textInvestDescription02": "質問が公開質問にならなかった場合、投資は返還されます。",
   "textValidTimeDaySingular": "{value1}日",
-  "textOpenNFTBoxProcessing": "NFTミステリーボックスを開くには、ブロックチェーン上でやり取りするのにしばらく時間がかかります。スキップは対応には影響しません。"
+  "textOpenNFTBoxProcessing": "NFTミステリーボックスを開くには、ブロックチェーン上でやり取りするのにしばらく時間がかかります。スキップは対応には影響しません。",
+  "btnValidTimeSingular": "{value1} 日間有効"
 }

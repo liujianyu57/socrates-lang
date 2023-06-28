@@ -899,5 +899,6 @@
   "btnCheckErrorCode": "Verifique o código de erro",
   "textInvestDescription02": "Se a pergunta não se tornar uma pergunta pública, seu investimento será devolvido.",
   "textValidTimeDaySingular": "{value1} dia",
-  "textOpenNFTBoxProcessing": "Enquanto se abre a Caixa Misteriosa, a interação no blockchain vai demorar algum tempo. Saltar não vai afetar a interação."
+  "textOpenNFTBoxProcessing": "Enquanto se abre a Caixa Misteriosa, a interação no blockchain vai demorar algum tempo. Saltar não vai afetar a interação.",
+  "btnValidTimeSingular": "Válido por {value1} dia"
 }
