@@ -901,5 +901,12 @@
   "textInvestDescription02": "質問が公開質問にならなかった場合、投資は返還されます。",
   "textValidTimeDaySingular": "{value1}日",
   "textOpenNFTBoxProcessing": "NFTミステリーボックスを開くには、ブロックチェーン上でやり取りするのにしばらく時間がかかります。スキップは対応には影響しません。",
-  "btnValidTimeSingular": "{value1} 日間有効"
+  "btnValidTimeSingular": "{value1} 日間有効",
+  "error10041": "クーポンの有効期限が切れました",
+  "error10035": "クーポンは使用されました",
+  "error10030": "クーポンは存在しません",
+  "error10029": "ミステリーボックスを開けませんでした",
+  "error10027": "ミステリーボックス使用済み",
+  "error10026": "ミステリーボックスは存在しない",
+  "error10028": "空のミステリーボックス"
 }

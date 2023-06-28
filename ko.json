@@ -900,5 +900,12 @@
   "textInvestDescription02": "질문이 공개 질문이 되지 않으면 투자금이 반환됩니다.",
   "textValidTimeDaySingular": "{value1} 일",
   "textOpenNFTBoxProcessing": "NFT 미스터리 박스를 열기 위해 블록체인에서 상호 작용하는 데 시간이 걸립니다. 건너뛰기는 상호 작용에 영향을 주지 않습니다.",
-  "btnValidTimeSingular": "{value1}일 동안 유효"
+  "btnValidTimeSingular": "{value1}일 동안 유효",
+  "error10041": "쿠폰이 만료되었습니다",
+  "error10035": "쿠폰이 사용되었습니다.",
+  "error10030": "쿠폰이 존재하지 않습니다",
+  "error10029": "미스터리 박스를 열지 못했습니다.",
+  "error10027": "미스터리 박스가 사용되었습니다.",
+  "error10026": "미스터리 박스가 존재하지 않습니다",
+  "error10028": "빈 미스터리 박스"
 }

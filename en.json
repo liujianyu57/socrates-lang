@@ -901,5 +901,12 @@
   "textInvestDescription02": "If the question does not become a public question, your investment will be returned.",
   "textValidTimeDaySingular": "{value1} Day",
   "textOpenNFTBoxProcessing": "It will take a while to interact on blockchain to open the NFT mystery box. Skip does not affect interaction.",
-  "btnValidTimeSingular": "Valid for {value1} Day"
+  "btnValidTimeSingular": "Valid for {value1} Day",
+  "error10041": "The coupon has expired",
+  "error10035": "The coupon has been used",
+  "error10030": "The coupon does not exist",
+  "error10029": "Failed to open  mystery box",
+  "error10027": "Mystery box has been used",
+  "error10026": "Mystery box does not exist",
+  "error10028": "Empty mystery box"
 }

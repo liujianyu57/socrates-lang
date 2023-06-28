@@ -900,5 +900,12 @@
   "textInvestDescription02": "Si la pregunta no se convierte en pregunta pública, se le devolverá su inversión.",
   "textValidTimeDaySingular": "{value1} día",
   "textOpenNFTBoxProcessing": "Se tardará un tiempo en interactuar en blockchain para abrir la caja misteriosa de NFT. Saltar no afecta a la interacción.",
-  "btnValidTimeSingular": "Válido por {value1} Día"
+  "btnValidTimeSingular": "Válido por {value1} Día",
+  "error10041": "El cupón ha caducado",
+  "error10035": "El cupón ha sido usado.",
+  "error10030": "El cupón no existe.",
+  "error10029": "No se pudo abrir el cuadro misterioso",
+  "error10027": "Se ha utilizado la caja misteriosa.",
+  "error10026": "La caja misteriosa no existe",
+  "error10028": "Caja misteriosa vacía"
 }

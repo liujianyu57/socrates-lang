@@ -900,5 +900,12 @@
   "textInvestDescription02": "Nếu câu hỏi không trở thành câu hỏi công khai, khoản đầu tư của bạn sẽ được trả lại.",
   "textValidTimeDaySingular": "{value1} ngày",
   "textOpenNFTBoxProcessing": "Sẽ mất một khoảng thời gian để tương tác trên chuỗi khối mới có thể mở hộp NFT thần bí. Nếu bỏ qua cũng không ảnh hưởng đến việc tương tác.",
-  "btnValidTimeSingular": "Có hiệu lực trong {value1} ngày."
+  "btnValidTimeSingular": "Có hiệu lực trong {value1} ngày.",
+  "error10041": "Phiếu giảm giá đã hết hạn",
+  "error10035": "Phiếu giảm giá đã được sử dụng",
+  "error10030": "Phiếu giảm giá không tồn tại",
+  "error10029": "Không mở được hộp bí ẩn",
+  "error10027": "Hộp bí ẩn đã được sử dụng",
+  "error10026": "Chiếc hộp bí ẩn không tồn tại",
+  "error10028": "Chiếc hộp bí ẩn trống rỗng"
 }

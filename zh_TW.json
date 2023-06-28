@@ -900,5 +900,12 @@
   "textInvestDescription02": "如果問題沒有成為公共問題，你的投資會被退回",
   "textValidTimeDaySingular": "{value1}天",
   "textOpenNFTBoxProcessing": "需要一段時間在區塊鏈上互動才能打開NFT盲盒。跳過不影響互動。",
-  "btnValidTimeSingular": "有效期{value1}天"
+  "btnValidTimeSingular": "有效期{value1}天",
+  "error10041": "券已過期",
+  "error10035": "券已被使用",
+  "error10030": "券不存在",
+  "error10029": "開盲盒失敗",
+  "error10027": "盲盒已被使用",
+  "error10026": "盲盒不存在",
+  "error10028": "空盲盒"
 }
