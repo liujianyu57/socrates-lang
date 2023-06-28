@@ -355,7 +355,7 @@
   "textAccountBalance": "帳戶餘額",
   "textEnterAnotherAmount": "輸入其他金額",
   "btnConfirmInject": "確定注入",
-  "textTradePointSuccess": "已成功交易{value1} 積分，當前餘額{value2} 積分",
+  "textTradePointSuccess": "已成功交易{value1} 積分",
   "textBuyingPoint": "積分購買中",
   "textWithdrawingPoint": "積分兌換中",
   "textBuyingPointDescription": "積分購買需要一段時間，購買成功後可繼續操作，建議您等待",

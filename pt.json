@@ -355,7 +355,7 @@
   "textAccountBalance": "Saldo",
   "textEnterAnotherAmount": "Insira outro valor",
   "btnConfirmInject": "Confirmar para transferir",
-  "textTradePointSuccess": "{value1} pontos negociados com sucesso, saldo atual {value2} pontos",
+  "textTradePointSuccess": "{value1} pontos negociados com sucesso",
   "textBuyingPoint": "Você está comprando pontos",
   "textWithdrawingPoint": "Pontos de resgate",
   "textBuyingPointDescription": "A compra de pontos vai demorar mais um pouco. Você poderá continuar assim que a compra for concluída com sucesso. Por favor aguarde!",

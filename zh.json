@@ -355,7 +355,7 @@
   "textAccountBalance": "账户余额",
   "textEnterAnotherAmount": "输入其他金额",
   "btnConfirmInject": "确定注入",
-  "textTradePointSuccess": "已成功交易{value1} 积分，当前余额{value2} 积分",
+  "textTradePointSuccess": "已成功交易{value1} 积分",
   "textBuyingPoint": "积分购买中",
   "textWithdrawingPoint": "积分兑换中",
   "textBuyingPointDescription": "积分购买需要一段时间，购买成功后可继续操作，建议您等待",

@@ -355,7 +355,7 @@
   "textAccountBalance": "バランス",
   "textEnterAnotherAmount": "別の金額を入力してください",
   "btnConfirmInject": "注入することを確認する",
-  "textTradePointSuccess": "{value1} ポイント、現在の残高 {value2} ポイントの取引に成功しました",
+  "textTradePointSuccess": "{value1} ポイントの交換に成功しました",
   "textBuyingPoint": "ポイント購入中です",
   "textWithdrawingPoint": "ポイントの交換",
   "textBuyingPointDescription": "ポイントの購入には時間がかかりますが、購入が成功したら続行できます。お待ちください！",

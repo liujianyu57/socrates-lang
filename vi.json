@@ -355,7 +355,7 @@
   "textAccountBalance": "Số dư",
   "textEnterAnotherAmount": "Nhập số tiền khác",
   "btnConfirmInject": "Xác nhận để chuyển",
-  "textTradePointSuccess": "Đã giao dịch thành công {value1} điểm, số dư hiện tại là {value2} điểm",
+  "textTradePointSuccess": "Đã giao dịch thành công {value1} điểm",
   "textBuyingPoint": "Đang mua điểm",
   "textWithdrawingPoint": "Đang rút điểm",
   "textBuyingPointDescription": "Việc mua điểm sẽ mất một chút thời gian, sau khi mua thành công, bạn có thể tiếp tục. Vui lòng đợi!",

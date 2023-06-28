@@ -355,7 +355,7 @@
   "textAccountBalance": "Balance",
   "textEnterAnotherAmount": "Enter another amount",
   "btnConfirmInject": "Confirm to inject",
-  "textTradePointSuccess": "Successfully traded {value1} points, current balance {value2} points",
+  "textTradePointSuccess": "Successfully traded {value1} points",
   "textBuyingPoint": "Point is being purchased",
   "textWithdrawingPoint": "Redeeming points",
   "textBuyingPointDescription": "It will take a while to purchase points, and you can continue after the purchase is successful. Please wait!",

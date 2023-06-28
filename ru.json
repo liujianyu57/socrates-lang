@@ -355,7 +355,7 @@
   "textAccountBalance": "Остаток на счете",
   "textEnterAnotherAmount": "Введите другую сумму",
   "btnConfirmInject": "Определить инъекцию",
-  "textTradePointSuccess": "Успешная торговля {value1} точки, текущий баланс {value2} точки",
+  "textTradePointSuccess": "Успешная торговля {value1} точки",
   "textBuyingPoint": "Баллы в процессе покупки",
   "textWithdrawingPoint": "Выкуп в процессе покупки",
   "textBuyingPointDescription": "Покупка баллов займет некоторое время, вы сможете продолжить работу после успешной покупки, мы предлагаем вам подождать.",
