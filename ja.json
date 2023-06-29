@@ -371,7 +371,7 @@
   "textAssets": "資産",
   "textPrice": "価格",
   "textValue": "価値",
-  "btnUnfollow": "フォローを解除する",
+  "btnUnfollow": "フォロー解除",
   "textUnfollowDescription": "彼らの更新はホームのタイムラインに表示されなくなります。彼らのプロフィールは引き続き表示できます。",
   "btnChangeAvatar": "アバターの変更",
   "textInvalidFile": "無効なファイル",
@@ -632,7 +632,7 @@
   "textDate": "日にち",
   "textImportWalletDescription": "シード フレーズはデバイスのローカルにのみ保存されます。",
   "btnCopy": "コピー",
-  "btnFollowBack": "フォローバック",
+  "btnFollowBack": "従う",
   "textAskFailed": "作成に失敗しました",
   "textImageLoading": "画像を読み込んでいます...",
   "tipsSelectChannel": "チャンネルを選択してください",
@@ -879,7 +879,7 @@
   "textCoinFundFlow200": "ミントSBT",
   "textCoinFundFlow300": "ミナミマグロのアップグレード",
   "textCoinFundFlow400": "NFTの転送",
-  "textCoinFundFlow401": "",
+  "textCoinFundFlow401": "Mint NFT",
   "textCoinFundFlow402": "ミステリーボックス",
   "textCoinFundFlow500": "ポイントを購入する",
   "textCoinFundFlow600": "ポイントの引き出し",
@@ -908,5 +908,7 @@
   "error10029": "ミステリーボックスを開けませんでした",
   "error10027": "ミステリーボックス使用済み",
   "error10026": "ミステリーボックスは存在しない",
-  "error10028": "空のミステリーボックス"
+  "error10028": "空のミステリーボックス",
+  "tipsYouNoReason": "まだ理由を投稿していません",
+  "tipsYouNoLike": "あなたはどんな理由も気に入らない"
 }

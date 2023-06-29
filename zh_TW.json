@@ -856,7 +856,7 @@
   "textConnectWalletViewAssets": "連接錢包查看資產",
   "textInvitePosterTitle": "獲得神秘盒子，100%中獎！",
   "textInvitePosterContent1": "報名將獲得一個神秘盒子，100%中獎！",
-  "textInvitePosterContent2": "購買SBT筆更有機會獲得限量非同質化代幣，越早中獎機會越高！",
+  "textInvitePosterContent2": "購買SBT筆更有機會獲得限量NFT，越早中獎機會越高！",
   "textPrizeRanking": "獎金榜",
   "textPrizeRankingDescription": "根據問題獎池積分數量生成，每天更新",
   "textPointIncreaseHot": "使用積分投資增加問題的熱度值",
@@ -907,5 +907,7 @@
   "error10029": "開盲盒失敗",
   "error10027": "盲盒已被使用",
   "error10026": "盲盒不存在",
-  "error10028": "空盲盒"
+  "error10028": "空盲盒",
+  "tipsYouNoReason": "你尚未發布任何理由",
+  "tipsYouNoLike": "你尚未點贊任何理由"
 }

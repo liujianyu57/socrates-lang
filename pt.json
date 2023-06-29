@@ -37,7 +37,7 @@
   "btnIntroduction": "Introdução",
   "btnInvest": "Investir",
   "btnInvestments": "Investimentos",
-  "btnInvestTrend": "Tendência de investimento",
+  "btnInvestTrend": "Tendência",
   "btnLight": "Modo luz",
   "btnLikes": "Gostos",
   "btnLogin": "Iniciar sessão",
@@ -878,7 +878,7 @@
   "textCoinFundFlow200": "Mint SBT",
   "textCoinFundFlow300": "Atualizar SBT",
   "textCoinFundFlow400": "Transferir NFT",
-  "textCoinFundFlow401": "Como NFT",
+  "textCoinFundFlow401": "Mint NFT",
   "textCoinFundFlow402": "Caixa mistério",
   "textCoinFundFlow500": "comprar pontos",
   "textCoinFundFlow600": "Retirar pontos",
@@ -907,5 +907,7 @@
   "error10029": "Falha ao abrir a caixa misteriosa",
   "error10027": "Caixa misteriosa foi usada",
   "error10026": "Caixa misteriosa não existe",
-  "error10028": "Caixa misteriosa vazia"
+  "error10028": "Caixa misteriosa vazia",
+  "tipsYouNoReason": "Você ainda não postou nenhum motivo",
+  "tipsYouNoLike": "Você não gostou de nenhum motivo"
 }

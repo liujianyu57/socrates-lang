@@ -878,7 +878,7 @@
   "textCoinFundFlow200": "bạc hà SBT",
   "textCoinFundFlow300": "Nâng cấp SBT",
   "textCoinFundFlow400": "Chuyển NFT",
-  "textCoinFundFlow401": "",
+  "textCoinFundFlow401": "Mint NFT",
   "textCoinFundFlow402": "Chiếc hộp bí ẩn",
   "textCoinFundFlow500": "Mua điểm",
   "textCoinFundFlow600": "Rút điểm",
@@ -907,5 +907,7 @@
   "error10029": "Không mở được hộp bí ẩn",
   "error10027": "Hộp bí ẩn đã được sử dụng",
   "error10026": "Chiếc hộp bí ẩn không tồn tại",
-  "error10028": "Chiếc hộp bí ẩn trống rỗng"
+  "error10028": "Chiếc hộp bí ẩn trống rỗng",
+  "tipsYouNoReason": "Bạn chưa đăng bất kỳ lý do nào",
+  "tipsYouNoLike": "Bạn không thích bất kỳ lý do"
 }

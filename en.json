@@ -908,5 +908,7 @@
   "error10029": "Failed to open  mystery box",
   "error10027": "Mystery box has been used",
   "error10026": "Mystery box does not exist",
-  "error10028": "Empty mystery box"
+  "error10028": "Empty mystery box",
+  "tipsYouNoReason": "You have not posted any reason yet",
+  "tipsYouNoLike": "You didn't like any reason"
 }

@@ -878,7 +878,7 @@
   "textCoinFundFlow200": "민트 SBT",
   "textCoinFundFlow300": "업그레이드 SBT",
   "textCoinFundFlow400": "NFT 전송",
-  "textCoinFundFlow401": "",
+  "textCoinFundFlow401": "Mint NFT",
   "textCoinFundFlow402": "미스터리 박스",
   "textCoinFundFlow500": "포인트 구매",
   "textCoinFundFlow600": "인출 포인트",
@@ -907,5 +907,7 @@
   "error10029": "미스터리 박스를 열지 못했습니다.",
   "error10027": "미스터리 박스가 사용되었습니다.",
   "error10026": "미스터리 박스가 존재하지 않습니다",
-  "error10028": "빈 미스터리 박스"
+  "error10028": "빈 미스터리 박스",
+  "tipsYouNoReason": "아직 이유를 게시하지 않았습니다.",
+  "tipsYouNoLike": "당신은 어떤 이유도 좋아하지 않았다"
 }

@@ -856,7 +856,7 @@
   "textConnectWalletViewAssets": "连接钱包查看资产",
   "textInvitePosterTitle": "获得神秘盒子，100%中奖！",
   "textInvitePosterContent1": "报名将获得一个神秘盒子，100%中奖！",
-  "textInvitePosterContent2": "购买SBT笔更有机会获得限量非同质化代币，越早中奖机会越高！",
+  "textInvitePosterContent2": "购买SBT笔更有机会获得限量NFT，越早中奖机会越高！",
   "textPrizeRanking": "奖金榜",
   "textPrizeRankingDescription": "根据问题奖池积分数量生成，每天更新",
   "textPointIncreaseHot": "使用积分投资增加问题的热度值",
@@ -907,5 +907,7 @@
   "error10029": "开盲盒失败",
   "error10027": "盲盒已被使用",
   "error10026": "盲盒不存在",
-  "error10028": "空盲盒"
+  "error10028": "空盲盒",
+  "tipsYouNoReason": "你尚未发布任何理由",
+  "tipsYouNoLike": "你尚未点赞任何理由"
 }
