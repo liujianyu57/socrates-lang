@@ -910,5 +910,6 @@
   "error10026": "Mystery box does not exist",
   "error10028": "Empty mystery box",
   "tipsYouNoReason": "You have not posted any reason yet",
-  "tipsYouNoLike": "You didn't like any reason"
+  "tipsYouNoLike": "You didn't like any reason",
+  "textReasonIncome": "Reason"
 }

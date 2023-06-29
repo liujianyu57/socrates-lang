@@ -909,5 +909,6 @@
   "error10026": "Chiếc hộp bí ẩn không tồn tại",
   "error10028": "Chiếc hộp bí ẩn trống rỗng",
   "tipsYouNoReason": "Bạn chưa đăng bất kỳ lý do nào",
-  "tipsYouNoLike": "Bạn không thích bất kỳ lý do"
+  "tipsYouNoLike": "Bạn không thích bất kỳ lý do",
+  "textReasonIncome": "Lý do"
 }

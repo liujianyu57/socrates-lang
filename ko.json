@@ -909,5 +909,6 @@
   "error10026": "미스터리 박스가 존재하지 않습니다",
   "error10028": "빈 미스터리 박스",
   "tipsYouNoReason": "아직 이유를 게시하지 않았습니다.",
-  "tipsYouNoLike": "당신은 어떤 이유도 좋아하지 않았다"
+  "tipsYouNoLike": "당신은 어떤 이유도 좋아하지 않았다",
+  "textReasonIncome": "이유"
 }

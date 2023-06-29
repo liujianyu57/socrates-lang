@@ -909,5 +909,6 @@
   "error10026": "盲盒不存在",
   "error10028": "空盲盒",
   "tipsYouNoReason": "你尚未發布任何理由",
-  "tipsYouNoLike": "你尚未點贊任何理由"
+  "tipsYouNoLike": "你尚未點贊任何理由",
+  "textReasonIncome": "理由奖励"
 }

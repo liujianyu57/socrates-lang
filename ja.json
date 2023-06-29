@@ -910,5 +910,6 @@
   "error10026": "ミステリーボックスは存在しない",
   "error10028": "空のミステリーボックス",
   "tipsYouNoReason": "まだ理由を投稿していません",
-  "tipsYouNoLike": "あなたはどんな理由も気に入らない"
+  "tipsYouNoLike": "あなたはどんな理由も気に入らない",
+  "textReasonIncome": "理由"
 }

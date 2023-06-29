@@ -909,5 +909,6 @@
   "error10026": "Caixa misteriosa não existe",
   "error10028": "Caixa misteriosa vazia",
   "tipsYouNoReason": "Você ainda não postou nenhum motivo",
-  "tipsYouNoLike": "Você não gostou de nenhum motivo"
+  "tipsYouNoLike": "Você não gostou de nenhum motivo",
+  "textReasonIncome": "Razão"
 }
