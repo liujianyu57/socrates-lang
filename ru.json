@@ -930,5 +930,7 @@
   "textReportReason08": "Издевательства или домогательства",
   "textReportReason09": "Насильственная или опасная организация",
   "textReportReason10": "Нарушение прав интеллектуальной собственности",
-  "tipsReportSuccess": "Успешный отчет"
+  "tipsReportSuccess": "Успешный отчет",
+  "error10051": "Аккаунт удален",
+  "textYouReportReason": "Причина вашего доклада"
 }

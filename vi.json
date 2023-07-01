@@ -930,5 +930,7 @@
   "textReportReason08": "Bắt nạt hoặc quấy rối",
   "textReportReason09": "Tổ chức bạo lực hoặc nguy hiểm",
   "textReportReason10": "Xâm phạm quyền sở hữu trí tuệ",
-  "tipsReportSuccess": "Báo cáo thành công"
+  "tipsReportSuccess": "Báo cáo thành công",
+  "error10051": "Tài khoản đã bị xóa",
+  "textYouReportReason": "Lý do cho báo cáo của bạn là"
 }

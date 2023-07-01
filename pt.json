@@ -930,5 +930,7 @@
   "textReportReason08": "Intimidação ou assédio",
   "textReportReason09": "Organização violenta ou perigosa",
   "textReportReason10": "Violação de direitos de propriedade intelectual",
-  "tipsReportSuccess": "relatório de sucesso"
+  "tipsReportSuccess": "relatório de sucesso",
+  "error10051": "A conta foi excluída",
+  "textYouReportReason": "A razão para o seu relatório é"
 }

@@ -930,5 +930,7 @@
   "textReportReason08": "Intimidación o acoso",
   "textReportReason09": "Organización violenta o peligrosa",
   "textReportReason10": "Infracción de los derechos de propiedad intelectual",
-  "tipsReportSuccess": "Informe exitoso"
+  "tipsReportSuccess": "Informe exitoso",
+  "error10051": "La cuenta ha sido eliminada",
+  "textYouReportReason": "El motivo de su informe es"
 }

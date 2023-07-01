@@ -930,5 +930,7 @@
   "textReportReason08": "Bullying or harassment",
   "textReportReason09": "Violent or dangerous organization",
   "textReportReason10": "Infringement of intellectual property rights",
-  "tipsReportSuccess": "Successful report"
+  "tipsReportSuccess": "Successful report",
+  "error10051": "Account has been deleted",
+  "textYouReportReason": "The reason for your report is"
 }

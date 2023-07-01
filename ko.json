@@ -930,5 +930,7 @@
   "textReportReason08": "따돌림 또는 괴롭힘",
   "textReportReason09": "폭력적이거나 위험한 조직",
   "textReportReason10": "지적재산권 침해",
-  "tipsReportSuccess": "성공적인 보고서"
+  "tipsReportSuccess": "성공적인 보고서",
+  "error10051": "계정이 삭제되었습니다",
+  "textYouReportReason": "귀하의 신고 이유는 다음과 같습니다."
 }

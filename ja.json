@@ -930,5 +930,7 @@
   "textReportReason08": "いじめや嫌がらせ",
   "textReportReason09": "暴力的または危険な組織",
   "textReportReason10": "知的財産権の侵害",
-  "tipsReportSuccess": "成功報告"
+  "tipsReportSuccess": "成功報告",
+  "error10051": "アカウントが削除されました",
+  "textYouReportReason": "あなたの報告の理由は、"
 }

@@ -930,5 +930,7 @@
   "textReportReason08": "欺凌或骚扰",
   "textReportReason09": "暴力或危险组织",
   "textReportReason10": "侵犯知识产权",
-  "tipsReportSuccess": "举报成功"
+  "tipsReportSuccess": "举报成功",
+  "error10051": "账号已注销",
+  "textYouReportReason": "你举报的原因是"
 }
