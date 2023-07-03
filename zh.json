@@ -932,5 +932,8 @@
   "textReportReason10": "侵犯知识产权",
   "tipsReportSuccess": "举报成功",
   "error10051": "账号已注销",
-  "textYouReportReason": "你举报的原因是"
+  "textYouReportReason": "你举报的原因是",
+  "textScanQRCode": "扫描二维码",
+  "textNoCameraPermission": "获取拍照权限失败，请授权后使用",
+  "btnAuthorize": "授权"
 }

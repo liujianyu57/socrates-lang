@@ -932,5 +932,8 @@
   "textReportReason10": "侵犯知识产权",
   "tipsReportSuccess": "举报成功",
   "error10051": "賬號已註銷",
-  "textYouReportReason": "你舉報的原因是"
+  "textYouReportReason": "你舉報的原因是",
+  "textScanQRCode": "掃描二維碼",
+  "textNoCameraPermission": "獲取拍照許可權失敗，請授權後使用",
+  "btnAuthorize": "授權"
 }

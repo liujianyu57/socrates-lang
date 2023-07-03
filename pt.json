@@ -932,5 +932,8 @@
   "textReportReason10": "Violação de direitos de propriedade intelectual",
   "tipsReportSuccess": "relatório de sucesso",
   "error10051": "A conta foi excluída",
-  "textYouReportReason": "A razão para o seu relatório é"
+  "textYouReportReason": "A razão para o seu relatório é",
+  "textScanQRCode": "Escanear código QR",
+  "textNoCameraPermission": "Falha ao obter permissão da câmera, use após a autorização",
+  "btnAuthorize": "Autorizar"
 }

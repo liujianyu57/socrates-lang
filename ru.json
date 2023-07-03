@@ -932,5 +932,8 @@
   "textReportReason10": "Нарушение прав интеллектуальной собственности",
   "tipsReportSuccess": "Успешный отчет",
   "error10051": "Аккаунт удален",
-  "textYouReportReason": "Причина вашего доклада"
+  "textYouReportReason": "Причина вашего доклада",
+  "textScanQRCode": "Сканировать QR-код",
+  "textNoCameraPermission": "Не удалось получить разрешение камеры, используйте после авторизации",
+  "btnAuthorize": "Разрешать"
 }

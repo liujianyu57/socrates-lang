@@ -932,5 +932,8 @@
   "textReportReason10": "Infracción de los derechos de propiedad intelectual",
   "tipsReportSuccess": "Informe exitoso",
   "error10051": "La cuenta ha sido eliminada",
-  "textYouReportReason": "El motivo de su informe es"
+  "textYouReportReason": "El motivo de su informe es",
+  "textScanQRCode": "Escanear código QR",
+  "textNoCameraPermission": "No se pudo obtener el permiso de la cámara, utilícelo después de la autorización",
+  "btnAuthorize": "Autorizar"
 }

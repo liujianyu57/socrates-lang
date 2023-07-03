@@ -932,5 +932,8 @@
   "textReportReason10": "Infringement of intellectual property rights",
   "tipsReportSuccess": "Successful report",
   "error10051": "Account has been deleted",
-  "textYouReportReason": "The reason for your report is"
+  "textYouReportReason": "The reason for your report is",
+  "textScanQRCode": "Scan QR code",
+  "textNoCameraPermission": "Failed to obtain camera permission, please use after authorization",
+  "btnAuthorize": "Authorize"
 }
