@@ -706,7 +706,7 @@
   "textOpenBoxGetNFT": "Xổ số NFT",
   "btnGetNFT": "Nhận NFT",
   "textNFTMysteryBox": "Hộp NFT Bí Ẩn",
-  "tipsMysteryBoxMaxLimit": "Không thể lớn hơn 9999",
+  "tipsMysteryBoxMaxLimit": "Không thể lớn hơn 100",
   "tipsMysteryBoxMinLimit": "Không thể nhỏ hơn 1",
   "textReferralShareEmailTitle": "{value1}mời bạn gia nhập Socrates",
   "btnConnectWallet": "Kết nối ví",

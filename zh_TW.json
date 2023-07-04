@@ -706,7 +706,7 @@
   "textOpenBoxGetNFT": "抽盲盒中NFT",
   "btnGetNFT": "獲取NFT",
   "textNFTMysteryBox": "NFT盲盒",
-  "tipsMysteryBoxMaxLimit": "不能大於9999",
+  "tipsMysteryBoxMaxLimit": "不能大於100",
   "tipsMysteryBoxMinLimit": "不能小於1",
   "textReferralShareEmailTitle": "{value1}邀請你加入Socrates",
   "btnConnectWallet": "連接錢包",

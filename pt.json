@@ -706,7 +706,7 @@
   "textOpenBoxGetNFT": "Loteria NFT",
   "btnGetNFT": "Obter NFT",
   "textNFTMysteryBox": "NFT Mystery Box",
-  "tipsMysteryBoxMaxLimit": "Não pode ser maior que 9999",
+  "tipsMysteryBoxMaxLimit": "Não pode ser maior que 100",
   "tipsMysteryBoxMinLimit": "Não pode ser inferior a 1",
   "textReferralShareEmailTitle": "{value1} convidou você para juntar-se ao Socrates",
   "btnConnectWallet": "Conectar carteira",

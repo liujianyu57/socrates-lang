@@ -706,7 +706,7 @@
   "textOpenBoxGetNFT": "Lotería NFT",
   "btnGetNFT": "Obtener NFT",
   "textNFTMysteryBox": "NFT Caja Misteriosa",
-  "tipsMysteryBoxMaxLimit": "No puede ser superior a 9999",
+  "tipsMysteryBoxMaxLimit": "No puede ser superior a 100",
   "tipsMysteryBoxMinLimit": "No puede ser inferior a 1",
   "textReferralShareEmailTitle": "{value1} le ha invitado a unirse a Socrates",
   "btnConnectWallet": "Conectar Cartera",

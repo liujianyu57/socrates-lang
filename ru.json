@@ -706,7 +706,7 @@
   "textOpenBoxGetNFT": "лотерея NFT",
   "btnGetNFT": "Получить НМТ",
   "textNFTMysteryBox": "Коробку с сюрпризом NFT",
-  "tipsMysteryBoxMaxLimit": "Не может быть больше 9999",
+  "tipsMysteryBoxMaxLimit": "Не может быть больше 100",
   "tipsMysteryBoxMinLimit": "Не может быть меньше 1",
   "textReferralShareEmailTitle": "{value1} пригласить вас присоединиться к Socrates",
   "btnConnectWallet": "Соединять кошелек",

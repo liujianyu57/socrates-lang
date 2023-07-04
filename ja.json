@@ -706,7 +706,7 @@
   "textOpenBoxGetNFT": "NFT宝くじ",
   "btnGetNFT": "NFTを入手する",
   "textNFTMysteryBox": "NFTミステリーボックス",
-  "tipsMysteryBoxMaxLimit": "9999 を超えることはできません",
+  "tipsMysteryBoxMaxLimit": "100 を超えることはできません",
   "tipsMysteryBoxMinLimit": "1 未満にすることはできません",
   "textReferralShareEmailTitle": "{value1} があなたをソクラテスに招待します",
   "btnConnectWallet": "ウォレットを接続する",

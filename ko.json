@@ -706,7 +706,7 @@
   "textOpenBoxGetNFT": "NFT 복권",
   "btnGetNFT": "NFT 받기",
   "textNFTMysteryBox": "NFT 미스터리 박스",
-  "tipsMysteryBoxMaxLimit": "9999보다 클 수 없습니다.",
+  "tipsMysteryBoxMaxLimit": "100보다 클 수 없습니다.",
   "tipsMysteryBoxMinLimit": "1보다 작을 수 없음",
   "textReferralShareEmailTitle": "{value1}이(가) 귀하를 소크라테스에 초대합니다",
   "btnConnectWallet": "지갑 연결",
