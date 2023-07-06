@@ -323,7 +323,7 @@
   "textChangeSuccess": "Change success",
   "textBindSuccess": "Bind success",
   "textEmailExisted": "Email is registered",
-  "textEnterEmail": "Please your enter email",
+  "textEnterEmail": "Please enter your email",
   "textInvalidEmail": "Invalid email format",
   "textEnterEmailCode": "Please enter the email verification code",
   "textVerificationCodeDigits": "Verification code must be 6 digits",
