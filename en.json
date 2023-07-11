@@ -331,7 +331,7 @@
   "textEnterNickname": "Please enter nickname",
   "textNicknameRegular": "Nickname is 4-30 characters. Spaces are not supported.",
   "textCreateQuestion": "Create a question",
-  "textCreateQuestionDescription": "lt costs {value1} points to create the problem, WhMATICer to continue.",
+  "textCreateQuestionDescription": "lt costs {value1} points to create the problem, whether to continue.",
   "btnSignUpEmail": "Sign up with Email",
   "textHaveAccount": "Already have an account?",
   "textAnswerTrend": "Trend of Answers",
