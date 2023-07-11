@@ -936,5 +936,6 @@
   "textScanQRCode": "QRコードをスキャンします",
   "textNoCameraPermission": "カメラの許可を取得できませんでした。許可後に使用してください",
   "btnAuthorize": "認可する",
-  "tipsEnterPositiveInteger": "正の整数を入力してください"
+  "tipsEnterPositiveInteger": "正の整数を入力してください",
+  "textBuyPointSuccessDescription01": "ポイントが正常に購入されました。ウォレット ページに移動して残高を確認してください。"
 }

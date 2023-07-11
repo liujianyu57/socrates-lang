@@ -936,5 +936,6 @@
   "textScanQRCode": "Escanear código QR",
   "textNoCameraPermission": "No se pudo obtener el permiso de la cámara, utilícelo después de la autorización",
   "btnAuthorize": "Autorizar",
-  "tipsEnterPositiveInteger": "Por favor ingrese un número entero positivo"
+  "tipsEnterPositiveInteger": "Por favor ingrese un número entero positivo",
+  "textBuyPointSuccessDescription01": "Compre puntos con éxito, vaya a la página de la billetera para verificar el saldo"
 }

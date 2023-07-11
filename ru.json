@@ -936,5 +936,6 @@
   "textScanQRCode": "Сканировать QR-код",
   "textNoCameraPermission": "Не удалось получить разрешение камеры, используйте после авторизации",
   "btnAuthorize": "Разрешать",
-  "tipsEnterPositiveInteger": "Пожалуйста, введите положительное целое число"
+  "tipsEnterPositiveInteger": "Пожалуйста, введите положительное целое число",
+  "textBuyPointSuccessDescription01": "Приобретите баллы успешно, перейдите на страницу кошелька, чтобы проверить баланс"
 }

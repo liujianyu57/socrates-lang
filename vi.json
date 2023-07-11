@@ -936,5 +936,6 @@
   "textScanQRCode": "Quét mã QR",
   "textNoCameraPermission": "Không thể xin phép máy ảnh, vui lòng sử dụng sau khi được ủy quyền",
   "btnAuthorize": "ủy quyền",
-  "tipsEnterPositiveInteger": "Vui lòng nhập số nguyên dương"
+  "tipsEnterPositiveInteger": "Vui lòng nhập số nguyên dương",
+  "textBuyPointSuccessDescription01": "Mua điểm thành công, vui lòng vào trang ví để kiểm tra số dư"
 }

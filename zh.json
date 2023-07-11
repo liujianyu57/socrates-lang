@@ -936,5 +936,6 @@
   "textScanQRCode": "扫描二维码",
   "textNoCameraPermission": "获取拍照权限失败，请授权后使用",
   "btnAuthorize": "授权",
-  "tipsEnterPositiveInteger": "请输入正整数"
+  "tipsEnterPositiveInteger": "请输入正整数",
+  "textBuyPointSuccessDescription01": "已成功购买积分，请前往钱包页面查看余额"
 }
