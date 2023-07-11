@@ -935,5 +935,6 @@
   "textYouReportReason": "Причина вашего доклада",
   "textScanQRCode": "Сканировать QR-код",
   "textNoCameraPermission": "Не удалось получить разрешение камеры, используйте после авторизации",
-  "btnAuthorize": "Разрешать"
+  "btnAuthorize": "Разрешать",
+  "tipsEnterPositiveInteger": "Пожалуйста, введите положительное целое число"
 }

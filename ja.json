@@ -935,5 +935,6 @@
   "textYouReportReason": "あなたの報告の理由は、",
   "textScanQRCode": "QRコードをスキャンします",
   "textNoCameraPermission": "カメラの許可を取得できませんでした。許可後に使用してください",
-  "btnAuthorize": "認可する"
+  "btnAuthorize": "認可する",
+  "tipsEnterPositiveInteger": "正の整数を入力してください"
 }

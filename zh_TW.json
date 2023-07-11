@@ -935,5 +935,6 @@
   "textYouReportReason": "你舉報的原因是",
   "textScanQRCode": "掃描二維碼",
   "textNoCameraPermission": "獲取拍照許可權失敗，請授權後使用",
-  "btnAuthorize": "授權"
+  "btnAuthorize": "授權",
+  "tipsEnterPositiveInteger": "請輸入正整數"
 }

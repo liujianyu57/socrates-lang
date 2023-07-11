@@ -935,5 +935,6 @@
   "textYouReportReason": "The reason for your report is",
   "textScanQRCode": "Scan QR code",
   "textNoCameraPermission": "Failed to obtain camera permission, please use after authorization",
-  "btnAuthorize": "Authorize"
+  "btnAuthorize": "Authorize",
+  "tipsEnterPositiveInteger": "Please enter a positive integer"
 }
