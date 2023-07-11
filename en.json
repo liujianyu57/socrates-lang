@@ -530,7 +530,7 @@
   "error3007": "image file name check error",
   "error3008": "When modifying options, the old and new options must be different",
   "error3009": "option not exist",
-  "error3010": "fauth not all, mast be have invite user",
+  "error3010": "Please select the user you want to @",
   "error3011": "question tag not exist",
   "error3012": "The question not found",
   "error3013": "The question are out of date",
