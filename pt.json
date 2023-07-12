@@ -542,7 +542,7 @@
   "error3022": "o motivo está vazio",
   "error3023": "você não pode repetir a sua ação",
   "error3024": "o recurso não existe",
-  "error3025": "não foi possível deduzir pontos",
+  "error3025": "Pontos insuficientes",
   "error3026": "O usuário não tem autorização para emitir",
   "error3027": "O usuário não tem autorização para responder",
   "error3028": "o recurso não pertence ao usuário",

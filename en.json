@@ -542,7 +542,7 @@
   "error3022": "reason is null",
   "error3023": "you cannot repeat your action",
   "error3024": "resource do not exist",
-  "error3025": "failed to deduct points",
+  "error3025": "Insufficient points",
   "error3026": "User does not have permission to issue",
   "error3027": "User does not have permission to answer",
   "error3028": "resource not belong user",
