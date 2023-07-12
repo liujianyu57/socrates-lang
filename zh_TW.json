@@ -937,5 +937,6 @@
   "textNoCameraPermission": "獲取拍照許可權失敗，請授權後使用",
   "btnAuthorize": "授權",
   "tipsEnterPositiveInteger": "請輸入正整數",
-  "textBuyPointSuccessDescription01": "已成功購買積分，請前往錢包頁面查看餘額"
+  "textBuyPointSuccessDescription01": "已成功購買積分，請前往錢包頁面查看餘額",
+  "textBuyPointMinLimit": "最小10"
 }

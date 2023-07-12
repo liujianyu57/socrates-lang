@@ -937,5 +937,6 @@
   "textNoCameraPermission": "Failed to obtain camera permission, please use after authorization",
   "btnAuthorize": "Authorize",
   "tipsEnterPositiveInteger": "Please enter a positive integer",
-  "textBuyPointSuccessDescription01": "Purchase points successfully, please go to the wallet page to check the balance"
+  "textBuyPointSuccessDescription01": "Purchase points successfully, please go to the wallet page to check the balance",
+  "textBuyPointMinLimit": "Minimum 10"
 }

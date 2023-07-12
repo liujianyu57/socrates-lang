@@ -937,5 +937,6 @@
   "textNoCameraPermission": "카메라 권한 획득에 실패하였습니다. 승인 후 이용해주세요.",
   "btnAuthorize": "인정 받은",
   "tipsEnterPositiveInteger": "양의 정수를 입력하세요.",
-  "textBuyPointSuccessDescription01": "포인트 구매에 성공했습니다. 지갑 페이지로 이동하여 잔액을 확인하세요."
+  "textBuyPointSuccessDescription01": "포인트 구매에 성공했습니다. 지갑 페이지로 이동하여 잔액을 확인하세요.",
+  "textBuyPointMinLimit": "최소 10"
 }

@@ -937,5 +937,6 @@
   "textNoCameraPermission": "Falha ao obter permissão da câmera, use após a autorização",
   "btnAuthorize": "Autorizar",
   "tipsEnterPositiveInteger": "Insira um número inteiro positivo",
-  "textBuyPointSuccessDescription01": "Adquira pontos com sucesso, vá para a página da carteira para verificar o saldo"
+  "textBuyPointSuccessDescription01": "Adquira pontos com sucesso, vá para a página da carteira para verificar o saldo",
+  "textBuyPointMinLimit": "Mínimo 10"
 }
