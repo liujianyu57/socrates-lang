@@ -785,7 +785,7 @@
   "error32600": "Request failed",
   "error32601": "Request failed",
   "error32602": "Request failed",
-  "error32603": "JSON-RPC error",
+  "error32603": "RPC network timed out, please try again",
   "error32000": "invalid input",
   "error32001": "resource does not exist",
   "error32002": "resource unavailable",

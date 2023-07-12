@@ -785,7 +785,7 @@
   "error32600": "La solicitud ha fallado",
   "error32601": "Solicitud fallida",
   "error32602": "Solicitud fallida",
-  "error32603": "Error JSON-RPC",
+  "error32603": "Se agotó el tiempo de espera de la red RPC. Vuelva a intentarlo.",
   "error32000": "entrada inválida",
   "error32001": "recurso no existe",
   "error32002": "recurso no disponible",

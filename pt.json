@@ -785,7 +785,7 @@
   "error32600": "A solicitação falhou",
   "error32601": "A solicitação falhou",
   "error32602": "A solicitação falhou",
-  "error32603": "Erro JSON-RPC",
+  "error32603": "A rede RPC expirou, tente novamente",
   "error32000": "entrada inválida",
   "error32001": "o recurso não existe",
   "error32002": "recurso não está disponível",

@@ -785,7 +785,7 @@
   "error32600": "Yêu cầu thất bại",
   "error32601": "Yêu cầu thất bại",
   "error32602": "Yêu cầu thất bại",
-  "error32603": "Lỗi JSON-RPC",
+  "error32603": "Mạng RPC đã hết thời gian chờ, vui lòng thử lại",
   "error32000": "Đầu vào không đúng",
   "error32001": "Tài nguyên không tồn tại",
   "error32002": "Tài nguyên không khả dụng",
