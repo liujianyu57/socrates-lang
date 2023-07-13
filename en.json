@@ -938,5 +938,21 @@
   "btnAuthorize": "Authorize",
   "tipsEnterPositiveInteger": "Please enter a positive integer",
   "textBuyPointSuccessDescription01": "Purchase points successfully, please go to the wallet page to check the balance",
-  "textBuyPointMinLimit": "Minimum 10"
+  "textBuyPointMinLimit": "Minimum 10",
+  "btnBlock": "Block",
+  "textBlockUser": "Block {value1}",
+  "btnUnblock": "Unblock",
+  "textUnblockUser": "Unblock {value1}",
+  "btnReportContent": "Report this content",
+  "btnHideContent": "Hide this content",
+  "textHideContentTips": "Feedback succeeded and will optimize the results for you",
+  "btnUndo": "Undo",
+  "btnBlocked": "Blocked",
+  "tipsFollowedUser": "You have followed {value1}",
+  "tipsUnfollowedUser": "You have unfollowed {value2}",
+  "tipsBlockedUser": "{value1} has been blocked",
+  "textBlockUserDescription": "{value1} will not be able to follow you and you will not see notifications from {value2}",
+  "textBlockedAccount": "Blocked account",
+  "tipsBlockedCantFollow": "You have blocked this user and cannot follow",
+  "tipsBeenBlockedCantFollow": "You have been blocked by this user and cannot follow"
 }

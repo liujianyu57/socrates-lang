@@ -938,5 +938,21 @@
   "btnAuthorize": "Autorizar",
   "tipsEnterPositiveInteger": "Insira um número inteiro positivo",
   "textBuyPointSuccessDescription01": "Adquira pontos com sucesso, vá para a página da carteira para verificar o saldo",
-  "textBuyPointMinLimit": "Mínimo 10"
+  "textBuyPointMinLimit": "Mínimo 10",
+  "btnBlock": "Bloquear",
+  "textBlockUser": "Bloquear {value1}",
+  "btnUnblock": "Desbloquear",
+  "textUnblockUser": "Desbloquear {value1}",
+  "btnReportContent": "Denunciar este conteúdo",
+  "btnHideContent": "Ocultar este conteúdo",
+  "textHideContentTips": "O feedback foi bem-sucedido e otimizará os resultados para você",
+  "btnUndo": "Desfazer",
+  "btnBlocked": "Bloqueado",
+  "tipsFollowedUser": "Você seguiu {value1}",
+  "tipsUnfollowedUser": "Você deixou de seguir {value2}",
+  "tipsBlockedUser": "{value1} foi bloqueado",
+  "textBlockUserDescription": "{value1} não poderá segui-lo e você não verá notificações de {value2}",
+  "textBlockedAccount": "Conta bloqueada",
+  "tipsBlockedCantFollow": "Você bloqueou este usuário e não pode segui-lo",
+  "tipsBeenBlockedCantFollow": "Você foi bloqueado por este usuário e não pode segui-lo"
 }

@@ -938,5 +938,21 @@
   "btnAuthorize": "授权",
   "tipsEnterPositiveInteger": "请输入正整数",
   "textBuyPointSuccessDescription01": "已成功购买积分，请前往钱包页面查看余额",
-  "textBuyPointMinLimit": "最小10"
+  "textBuyPointMinLimit": "最小10",
+  "btnBlock": "屏蔽",
+  "textBlockUser": "屏蔽{value1}",
+  "btnUnblock": "取消屏蔽",
+  "textUnblockUser": "取消屏蔽{value1}",
+  "btnReportContent": "举报内容",
+  "btnHideContent": "对此内容不感兴趣",
+  "textHideContentTips": "反馈成功,将为您优化结果",
+  "btnUndo": "撤销",
+  "btnBlocked": "已屏蔽",
+  "tipsFollowedUser": "您关注了{value1}",
+  "tipsUnfollowedUser": "您取消关注了{value2}",
+  "tipsBlockedUser": "{value1}已被屏蔽",
+  "textBlockUserDescription": "{value1}将无法关注你并且您将不会看到来自{value2}的通知",
+  "textBlockedAccount": "屏蔽的账号",
+  "tipsBlockedCantFollow": "您已经屏蔽了该用户，无法关注",
+  "tipsBeenBlockedCantFollow": "您已经被该用户屏蔽，无关关注"
 }

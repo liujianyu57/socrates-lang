@@ -938,5 +938,21 @@
   "btnAuthorize": "Разрешать",
   "tipsEnterPositiveInteger": "Пожалуйста, введите положительное целое число",
   "textBuyPointSuccessDescription01": "Приобретите баллы успешно, перейдите на страницу кошелька, чтобы проверить баланс",
-  "textBuyPointMinLimit": "Минимум 10"
+  "textBuyPointMinLimit": "Минимум 10",
+  "btnBlock": "Блокировать",
+  "textBlockUser": "Блокировать {value1}",
+  "btnUnblock": "Разблокировать",
+  "textUnblockUser": "Разблокировать {value1}",
+  "btnReportContent": "Сообщить об этом содержании",
+  "btnHideContent": "Скрыть этот контент",
+  "textHideContentTips": "Обратная связь прошла успешно, и мы оптимизируем результаты для вас.",
+  "btnUndo": "Отменить",
+  "btnBlocked": "Заблокировано",
+  "tipsFollowedUser": "Вы подписались на {value1}",
+  "tipsUnfollowedUser": "Вы отписались от {value2}",
+  "tipsBlockedUser": "{value1} заблокировано",
+  "textBlockUserDescription": "{value1} не сможет подписаться на вас, и вы не будете видеть уведомления от {value2}",
+  "textBlockedAccount": "Заблокированный аккаунт",
+  "tipsBlockedCantFollow": "Вы заблокировали этого пользователя и не можете подписаться",
+  "tipsBeenBlockedCantFollow": "Вы были заблокированы этим пользователем и не можете подписаться"
 }
