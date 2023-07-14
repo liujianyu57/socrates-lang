@@ -953,5 +953,6 @@
   "textBlockUserDescription": "{value1}將無法關注你並且您將不會看到來自{value2}的通知",
   "textBlockedAccount": "屏蔽的賬號",
   "tipsBlockedCantFollow": "您已經遮罩了該用戶，無法關注",
-  "tipsBeenBlockedCantFollow": "您已經被該用戶遮罩，無法關注"
+  "tipsBeenBlockedCantFollow": "您已經被該用戶遮罩，無法關注",
+  "textRepeatPassword": "重複密碼"
 }

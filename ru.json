@@ -953,5 +953,6 @@
   "textBlockUserDescription": "{value1} не сможет подписаться на вас, и вы не будете видеть уведомления от {value2}",
   "textBlockedAccount": "Заблокированный аккаунт",
   "tipsBlockedCantFollow": "Вы заблокировали этого пользователя и не можете подписаться",
-  "tipsBeenBlockedCantFollow": "Вы были заблокированы этим пользователем и не можете подписаться"
+  "tipsBeenBlockedCantFollow": "Вы были заблокированы этим пользователем и не можете подписаться",
+  "textRepeatPassword": "Повторите пароль"
 }

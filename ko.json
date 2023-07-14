@@ -953,5 +953,6 @@
   "textBlockUserDescription": "{value1}이(가) 나를 팔로우할 수 없으며 {value2}의 알림이 표시되지 않습니다.",
   "textBlockedAccount": "차단된 계정",
   "tipsBlockedCantFollow": "이 사용자를 차단했으며 팔로우할 수 없습니다.",
-  "tipsBeenBlockedCantFollow": "이 사용자에 의해 차단되어 팔로우할 수 없습니다."
+  "tipsBeenBlockedCantFollow": "이 사용자에 의해 차단되어 팔로우할 수 없습니다.",
+  "textRepeatPassword": "비밀번호 반복"
 }

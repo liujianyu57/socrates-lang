@@ -953,5 +953,6 @@
   "textBlockUserDescription": "{value1} no podrá seguirte y no verás las notificaciones de {value2}",
   "textBlockedAccount": "Cuenta bloqueada",
   "tipsBlockedCantFollow": "Ha bloqueado a este usuario y no puede seguir",
-  "tipsBeenBlockedCantFollow": "Has sido bloqueado por este usuario y no puedes seguir"
+  "tipsBeenBlockedCantFollow": "Has sido bloqueado por este usuario y no puedes seguir",
+  "textRepeatPassword": "Repita la contraseña"
 }

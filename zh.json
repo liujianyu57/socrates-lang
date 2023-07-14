@@ -953,5 +953,6 @@
   "textBlockUserDescription": "{value1}将无法关注你并且您将不会看到来自{value2}的通知",
   "textBlockedAccount": "屏蔽的账号",
   "tipsBlockedCantFollow": "您已经屏蔽了该用户，无法关注",
-  "tipsBeenBlockedCantFollow": "您已经被该用户屏蔽，无法关注"
+  "tipsBeenBlockedCantFollow": "您已经被该用户屏蔽，无法关注",
+  "textRepeatPassword": "重复密码"
 }
