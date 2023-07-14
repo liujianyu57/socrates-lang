@@ -317,7 +317,7 @@
   "textRecoverSuccess": "Recover success",
   "textConnectWalletToSocrates": "Connect wallet to Socrates",
   "textAddEmailAddress": "Add email address",
-  "textSetupAddEmail": "textAddEmailAddress",
+  "textSetupAddEmail": "Add an email",
   "textSetupAddEmailDescription": "Add an email address that can be used to log in, receive notifications, and reset account passwords",
   "textChangeSuccess": "Change success",
   "textBindSuccess": "Bind success",

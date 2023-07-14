@@ -317,7 +317,7 @@
   "textRecoverSuccess": "Khôi phục thành công",
   "textConnectWalletToSocrates": "Kết nối ví với Socrates",
   "textAddEmailAddress": "Thêm địa chỉ email",
-  "textSetupAddEmail": "textAddEmailAddress",
+  "textSetupAddEmail": "Thêm email",
   "textSetupAddEmailDescription": "Thêm địa chỉ email có thể được sử dụng để đăng nhập, nhận thông báo và đặt lại mật khẩu tài khoản",
   "textChangeSuccess": "Thay đổi thành công",
   "textBindSuccess": "Ràng buộc thành công",

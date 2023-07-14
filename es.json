@@ -317,7 +317,7 @@
   "textRecoverSuccess": "Su contraseña se ha recuperado correctamente",
   "textConnectWalletToSocrates": "Conectar la cartera a Socrates",
   "textAddEmailAddress": "Añadir dirección de correo electrónico",
-  "textSetupAddEmail": "textAddEmailAddress",
+  "textSetupAddEmail": "Agregar un correo electrónico",
   "textSetupAddEmailDescription": "Añada una dirección de correo electrónico que pueda utilizarse para iniciar sesión, recibir notificaciones y restablecer las contraseñas de las cuentas.",
   "textChangeSuccess": "Información modificada correctamente",
   "textBindSuccess": "Vincular con éxito",

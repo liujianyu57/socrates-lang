@@ -317,7 +317,7 @@
   "textRecoverSuccess": "복구 성공",
   "textConnectWalletToSocrates": "지갑을 소크라테스에 연결",
   "textAddEmailAddress": "이메일 주소 추가",
-  "textSetupAddEmail": "텍스트추가이메일주소",
+  "textSetupAddEmail": "이메일 추가",
   "textSetupAddEmailDescription": "로그인, 알림 수신, 계정 비밀번호 재설정에 사용할 수 있는 이메일 주소 추가",
   "textChangeSuccess": "변경 성공",
   "textBindSuccess": "바인드 성공",

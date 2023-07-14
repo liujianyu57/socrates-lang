@@ -317,7 +317,7 @@
   "textRecoverSuccess": "成功を回復する",
   "textConnectWalletToSocrates": "ウォレットをソクラテスに接続する",
   "textAddEmailAddress": "メールアドレスを追加",
-  "textSetupAddEmail": "textAddEmailAddress",
+  "textSetupAddEmail": "メールを追加する",
   "textSetupAddEmailDescription": "ログイン、通知の受信、アカウントのパスワードのリセットに使用できる電子メール アドレスを追加します。",
   "textChangeSuccess": "変更の成功",
   "textBindSuccess": "バインド成功",
