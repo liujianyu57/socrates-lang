@@ -955,5 +955,8 @@
   "textBlockedAccount": "ブロックされたアカウント",
   "tipsBlockedCantFollow": "このユーザーはブロックされているためフォローできません",
   "tipsBeenBlockedCantFollow": "このユーザーにブロックされているためフォローできません",
-  "textRepeatPassword": "パスワードを再度入力してください。"
+  "textRepeatPassword": "パスワードを再度入力してください。",
+  "textHideBlock": "隠してブロックする",
+  "textNoBlockedUser": "ブロックされた人はいません",
+  "tipsUnblockSuccess": "ブロックが正常に解除されました"
 }

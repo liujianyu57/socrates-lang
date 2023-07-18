@@ -692,7 +692,7 @@
   "textshareEmail": "Почта",
   "textPostedQuestion": "{value1} Выпуски, опубликованные в Socrates",
   "textPostedAnswer": "{value1} Ответы, опубликованные в Socrates",
-  "textInvitationCodeOptional": "Код приглашения необязательный)",
+  "textInvitationCodeOptional": "Код приглашения (необязательный)",
   "textOpeningMysteryBox": "Открыть коробку с сюрпризом ...",
   "textMintingNFT": "NFT бросается",
   "textMintNFT": "Бросать NFT",
@@ -955,5 +955,8 @@
   "textBlockedAccount": "Заблокированный аккаунт",
   "tipsBlockedCantFollow": "Вы заблокировали этого пользователя и не можете подписаться",
   "tipsBeenBlockedCantFollow": "Вы были заблокированы этим пользователем и не можете подписаться",
-  "textRepeatPassword": "Повторите пароль"
+  "textRepeatPassword": "Повторите пароль",
+  "textHideBlock": "Скрыть и заблокировать",
+  "textNoBlockedUser": "Нет заблокированных пользователей",
+  "tipsUnblockSuccess": "Разблокировано успешно"
 }

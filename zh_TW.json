@@ -955,5 +955,8 @@
   "textBlockedAccount": "屏蔽的賬號",
   "tipsBlockedCantFollow": "您已經遮罩了該用戶，無法關注",
   "tipsBeenBlockedCantFollow": "您已經被該用戶遮罩，無法關注",
-  "textRepeatPassword": "重複密碼"
+  "textRepeatPassword": "重複密碼",
+  "textHideBlock": "隱藏和屏蔽",
+  "textNoBlockedUser": "暫時沒有屏蔽的人",
+  "tipsUnblockSuccess": "取消屏蔽成功"
 }

@@ -955,5 +955,8 @@
   "textBlockedAccount": "tài khoản bị chặn",
   "tipsBlockedCantFollow": "Bạn đã chặn người dùng này và không thể theo dõi",
   "tipsBeenBlockedCantFollow": "Bạn đã bị chặn bởi người dùng này và không thể theo dõi",
-  "textRepeatPassword": "lặp lại mật khẩu"
+  "textRepeatPassword": "lặp lại mật khẩu",
+  "textHideBlock": "Ẩn và chặn",
+  "textNoBlockedUser": "Không có người dùng bị chặn",
+  "tipsUnblockSuccess": "Đã bỏ chặn thành công"
 }

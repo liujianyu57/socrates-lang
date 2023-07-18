@@ -955,5 +955,8 @@
   "textBlockedAccount": "Conta bloqueada",
   "tipsBlockedCantFollow": "Você bloqueou este usuário e não pode segui-lo",
   "tipsBeenBlockedCantFollow": "Você foi bloqueado por este usuário e não pode segui-lo",
-  "textRepeatPassword": "Repita a senha"
+  "textRepeatPassword": "Repita a senha",
+  "textHideBlock": "Ocultar e bloquear",
+  "textNoBlockedUser": "Nenhum usuário bloqueado",
+  "tipsUnblockSuccess": "Desbloqueado com sucesso"
 }

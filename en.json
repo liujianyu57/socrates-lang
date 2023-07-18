@@ -955,5 +955,8 @@
   "textBlockedAccount": "Blocked account",
   "tipsBlockedCantFollow": "You have blocked this user and cannot follow",
   "tipsBeenBlockedCantFollow": "You have been blocked by this user and cannot follow",
-  "textRepeatPassword": "Repeat password"
+  "textRepeatPassword": "Repeat password",
+  "textHideBlock": "Hide and block",
+  "textNoBlockedUser": "No blocked user",
+  "tipsUnblockSuccess": "Unblocked succeeded"
 }

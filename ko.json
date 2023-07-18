@@ -955,5 +955,8 @@
   "textBlockedAccount": "차단된 계정",
   "tipsBlockedCantFollow": "이 사용자를 차단했으며 팔로우할 수 없습니다.",
   "tipsBeenBlockedCantFollow": "이 사용자에 의해 차단되어 팔로우할 수 없습니다.",
-  "textRepeatPassword": "비밀번호 반복"
+  "textRepeatPassword": "비밀번호 반복",
+  "textHideBlock": "숨기기 및 차단",
+  "textNoBlockedUser": "차단된 사용자 없음",
+  "tipsUnblockSuccess": "차단 해제 성공"
 }
