@@ -958,5 +958,7 @@
   "textRepeatPassword": "lặp lại mật khẩu",
   "textHideBlock": "Ẩn và chặn",
   "textNoBlockedUser": "Không có người dùng bị chặn",
-  "tipsUnblockSuccess": "Đã bỏ chặn thành công"
+  "tipsUnblockSuccess": "Đã bỏ chặn thành công",
+  "error3048": "Bạn đã chặn người dùng này và không thể theo dõi",
+  "error3049": "Bạn đã bị chặn bởi người dùng này và không thể theo dõi"
 }

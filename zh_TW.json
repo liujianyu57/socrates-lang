@@ -958,5 +958,7 @@
   "textRepeatPassword": "重複密碼",
   "textHideBlock": "隱藏和屏蔽",
   "textNoBlockedUser": "暫時沒有屏蔽的人",
-  "tipsUnblockSuccess": "取消屏蔽成功"
+  "tipsUnblockSuccess": "取消屏蔽成功",
+  "error3048": "您已经屏蔽了该用户，无法关注",
+  "error3049": "您已经被该用户屏蔽，无法关注"
 }

@@ -958,5 +958,7 @@
   "textRepeatPassword": "Repeat password",
   "textHideBlock": "Hide and block",
   "textNoBlockedUser": "No blocked user",
-  "tipsUnblockSuccess": "Unblocked succeeded"
+  "tipsUnblockSuccess": "Unblocked succeeded",
+  "error3048": "You have blocked this user and cannot follow",
+  "error3049": "You have been blocked by this user and cannot follow"
 }

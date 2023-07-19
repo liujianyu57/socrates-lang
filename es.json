@@ -958,5 +958,7 @@
   "textRepeatPassword": "Repita la contraseña",
   "textHideBlock": "Ocultar y bloquear",
   "textNoBlockedUser": "Ningún usuario bloqueado",
-  "tipsUnblockSuccess": "Desbloqueado exitoso"
+  "tipsUnblockSuccess": "Desbloqueado exitoso",
+  "error3048": "Ha bloqueado a este usuario y no puede seguir",
+  "error3049": "Has sido bloqueado por este usuario y no puedes seguir"
 }
