@@ -960,5 +960,7 @@
   "textNoBlockedUser": "Ningún usuario bloqueado",
   "tipsUnblockSuccess": "Desbloqueado exitoso",
   "error3048": "Ha bloqueado a este usuario y no puede seguir",
-  "error3049": "Has sido bloqueado por este usuario y no puedes seguir"
+  "error3049": "Has sido bloqueado por este usuario y no puedes seguir",
+  "tipsBlocked": "Obstruido",
+  "tipsUnblocked": "Desbloqueada"
 }
