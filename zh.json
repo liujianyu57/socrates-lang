@@ -962,5 +962,8 @@
   "error3048": "您已经屏蔽了该用户，无法关注",
   "error3049": "您已经被该用户屏蔽，无法关注",
   "tipsBlocked": "已屏蔽",
-  "tipsUnblocked": "已取消屏蔽"
+  "tipsUnblocked": "已取消屏蔽",
+  "textDataPolicy": "出于营销目的与苏格拉底的内容提供商共享我的注册数据。 请注意，您的数据可能会传输到欧洲经济区以外的国家/地区，如我们的隐私政策中所述。",
+  "btnPrivacyPolicy": "隐私政策",
+  "textAgreeTermsAndPrivacy": "单击下一步或使用钱包注册即表示您同意我们的{value1}和{value2}"
 }

@@ -962,5 +962,8 @@
   "error3048": "Ha bloqueado a este usuario y no puede seguir",
   "error3049": "Has sido bloqueado por este usuario y no puedes seguir",
   "tipsBlocked": "Obstruido",
-  "tipsUnblocked": "Desbloqueada"
+  "tipsUnblocked": "Desbloqueada",
+  "textDataPolicy": "Compartir mis datos de registro con los proveedores de contenido de Socrates con fines de marketing. Tenga en cuenta que sus datos pueden transferirse a un país fuera del EEE como se describe en nuestra política de privacidad.",
+  "btnPrivacyPolicy": "Política de Privacidad",
+  "textAgreeTermsAndPrivacy": "Al hacer clic en Siguiente o Registrarse con la billetera, acepta nuestro {value1} y {value2}"
 }

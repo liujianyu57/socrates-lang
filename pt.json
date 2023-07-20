@@ -962,5 +962,8 @@
   "error3048": "Você bloqueou este usuário e não pode segui-lo",
   "error3049": "Você foi bloqueado por este usuário e não pode segui-lo",
   "tipsBlocked": "Bloqueado",
-  "tipsUnblocked": "Desbloqueado"
+  "tipsUnblocked": "Desbloqueado",
+  "textDataPolicy": "Compartilhar meus dados cadastrais com os provedores de conteúdo da Sócrates para fins de marketing. Observe que seus dados podem ser transferidos para um país fora do EEE, conforme descrito em nossa política de privacidade.",
+  "btnPrivacyPolicy": "Política de Privacidade",
+  "textAgreeTermsAndPrivacy": "Ao clicar em Avançar ou Inscrever-se na carteira, você concorda com nossos {value1} e {value2}"
 }

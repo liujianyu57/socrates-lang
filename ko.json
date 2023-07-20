@@ -962,5 +962,8 @@
   "error3048": "이 사용자를 차단했으며 팔로우할 수 없습니다.",
   "error3049": "이 사용자에 의해 차단되어 팔로우할 수 없습니다.",
   "tipsBlocked": "막힌",
-  "tipsUnblocked": "차단 해제"
+  "tipsUnblocked": "차단 해제",
+  "textDataPolicy": "마케팅 목적으로 Socrates의 콘텐츠 제공업체와 내 등록 데이터를 공유합니다. 귀하의 데이터는 개인 정보 보호 정책에 설명된 대로 EEA 외부 국가로 전송될 수 있습니다.",
+  "btnPrivacyPolicy": "개인 정보 정책",
+  "textAgreeTermsAndPrivacy": "다음 또는 지갑으로 가입을 클릭하면 {value1} 및 {value2}에 동의하는 것입니다."
 }

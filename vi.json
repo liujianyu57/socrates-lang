@@ -962,5 +962,8 @@
   "error3048": "Bạn đã chặn người dùng này và không thể theo dõi",
   "error3049": "Bạn đã bị chặn bởi người dùng này và không thể theo dõi",
   "tipsBlocked": "Bị chặn",
-  "tipsUnblocked": "Đã bỏ chặn"
+  "tipsUnblocked": "Đã bỏ chặn",
+  "textDataPolicy": "Chia sẻ dữ liệu đăng ký của tôi với các nhà cung cấp nội dung của Socrates cho mục đích tiếp thị. Lưu ý rằng dữ liệu của bạn có thể được chuyển đến một quốc gia bên ngoài EEA như được mô tả trong chính sách bảo mật của chúng tôi.",
+  "btnPrivacyPolicy": "Chính sách bảo mật",
+  "textAgreeTermsAndPrivacy": "Bằng cách nhấp vào Tiếp theo hoặc Đăng ký bằng ví, bạn đồng ý với {value1} và {value2} của chúng tôi"
 }

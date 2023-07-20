@@ -962,5 +962,8 @@
   "error3048": "You have blocked this user and cannot follow",
   "error3049": "You have been blocked by this user and cannot follow",
   "tipsBlocked": "Blocked",
-  "tipsUnblocked": "Unblocked"
+  "tipsUnblocked": "Unblocked",
+  "textDataPolicy": "Share my registration data with Socrates's content providers for marketing purposes. Note that your data may be transferred to a country outside of the EEA as described in our privacy policy.",
+  "btnPrivacyPolicy": "Privacy Policy",
+  "textAgreeTermsAndPrivacy": "By clicking Next or Sign up with wallet you agree to our {value1} and {value2}"
 }
