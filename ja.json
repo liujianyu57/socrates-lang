@@ -965,5 +965,6 @@
   "tipsUnblocked": "ブロックされていない",
   "textDataPolicy": "マーケティング目的で、私の登録データをソクラテスのコンテンツ プロバイダーと共有します。 当社のプライバシー ポリシーに記載されているように、お客様のデータは EEA 以外の国に転送される場合があることに注意してください。",
   "btnPrivacyPolicy": "プライバシーポリシー",
-  "textAgreeTermsAndPrivacy": "[次へ] をクリックするか、ウォレットでサインアップすると、{value1} と {value2} に同意したことになります。"
+  "textAgreeTermsAndPrivacy": "[次へ] をクリックするか、ウォレットでサインアップすると、{value1} と {value2} に同意したことになります。",
+  "textAccountDeleted": "アカウントが無効になっています"
 }

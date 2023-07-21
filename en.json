@@ -965,5 +965,6 @@
   "tipsUnblocked": "Unblocked",
   "textDataPolicy": "Share my registration data with Socrates's content providers for marketing purposes. Note that your data may be transferred to a country outside of the EEA as described in our privacy policy.",
   "btnPrivacyPolicy": "Privacy Policy",
-  "textAgreeTermsAndPrivacy": "By clicking Next or Sign up with wallet you agree to our {value1} and {value2}"
+  "textAgreeTermsAndPrivacy": "By clicking Next or Sign up with wallet you agree to our {value1} and {value2}",
+  "textAccountDeleted": "Account deleted"
 }
