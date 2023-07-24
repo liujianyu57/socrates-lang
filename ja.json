@@ -966,5 +966,13 @@
   "textDataPolicy": "マーケティング目的で、私の登録データをソクラテスのコンテンツ プロバイダーと共有します。 当社のプライバシー ポリシーに記載されているように、お客様のデータは EEA 以外の国に転送される場合があることに注意してください。",
   "btnPrivacyPolicy": "プライバシーポリシー",
   "textAgreeTermsAndPrivacy": "[次へ] をクリックするか、ウォレットでサインアップすると、{value1} と {value2} に同意したことになります。",
-  "textAccountDeleted": "アカウントが無効になっています"
+  "textAccountDeleted": "アカウントが無効になっています",
+  "textWillDeactivateAccount": "これによりアカウントが無効化されます",
+  "textWillDeactivateAccountDescription": "Socrates アカウントの非アクティブ化プロセスを開始しようとしています。 あなたの Socrates アカウント (ユーザー名と公開プロフィールを含む) は、www.socrates.xyz、Socrates for iOS、および Socrates for Android に表示されなくなります。",
+  "btnDeactivate": "非アクティブ化",
+  "textAccountHasDeactivated": "あなたのアカウントが無効になっています",
+  "textDeactivateAccount": "アカウントを無効化し",
+  "textSorryYouLeave": "行ってしまうのは残念だ、さようなら",
+  "btnReceived": "受け取った",
+  "textAccountWillDeactivated": "あなたのアカウントは無効になります"
 }

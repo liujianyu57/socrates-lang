@@ -966,5 +966,13 @@
   "textDataPolicy": "Chia sẻ dữ liệu đăng ký của tôi với các nhà cung cấp nội dung của Socrates cho mục đích tiếp thị. Lưu ý rằng dữ liệu của bạn có thể được chuyển đến một quốc gia bên ngoài EEA như được mô tả trong chính sách bảo mật của chúng tôi.",
   "btnPrivacyPolicy": "Chính sách bảo mật",
   "textAgreeTermsAndPrivacy": "Bằng cách nhấp vào Tiếp theo hoặc Đăng ký bằng ví, bạn đồng ý với {value1} và {value2} của chúng tôi",
-  "textAccountDeleted": "Tài khoản đã bị xóa"
+  "textAccountDeleted": "Tài khoản đã bị xóa",
+  "textWillDeactivateAccount": "Điều này sẽ hủy kích hoạt tài khoản của bạn",
+  "textWillDeactivateAccountDescription": "Bạn sắp bắt đầu quá trình hủy kích hoạt tài khoản Socrates của mình. Tài khoản Socrates của bạn (bao gồm tên người dùng và hồ sơ công khai của bạn) sẽ không còn hiển thị trên www.socrates.xyz, Socrates dành cho iOS và Socrates dành cho Android.",
+  "btnDeactivate": "hủy kích hoạt",
+  "textAccountHasDeactivated": "Tài khoản của bạn đã bị vô hiệu hóa",
+  "textDeactivateAccount": "hủy kích hoạt tài khoản",
+  "textSorryYouLeave": "Xin lỗi khi thấy bạn đi, tạm biệt",
+  "btnReceived": "Đã nhận",
+  "textAccountWillDeactivated": "Tài khoản của bạn sẽ bị vô hiệu hóa"
 }

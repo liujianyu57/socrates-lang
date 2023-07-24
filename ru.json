@@ -966,5 +966,13 @@
   "textDataPolicy": "Поделитесь своими регистрационными данными с поставщиками контента Socrates в маркетинговых целях. Обратите внимание, что ваши данные могут быть переданы в страну за пределами ЕЭЗ, как описано в нашей политике конфиденциальности.",
   "btnPrivacyPolicy": "политика конфиденциальности",
   "textAgreeTermsAndPrivacy": "Нажимая «Далее» или «Зарегистрироваться с помощью кошелька», вы соглашаетесь с нашими {value1} и {value2}.",
-  "textAccountDeleted": "Аккаунт удален"
+  "textAccountDeleted": "Аккаунт удален",
+  "textWillDeactivateAccount": "Это деактивирует вашу учетную запись",
+  "textWillDeactivateAccountDescription": "Вы собираетесь начать процесс деактивации вашей учетной записи Socrates. Ваша учетная запись Socrates (включая ваше имя пользователя и общедоступный профиль) больше не будет отображаться на www.socrates.xyz, Socrates для iOS и Socrates для Android.",
+  "btnDeactivate": "Деактивировать",
+  "textAccountHasDeactivated": "Ваш аккаунт был деактивирован",
+  "textDeactivateAccount": "Деактивировать аккаунт",
+  "textSorryYouLeave": "Жаль, что ты уходишь, пока",
+  "btnReceived": "Полученный",
+  "textAccountWillDeactivated": "Ваш аккаунт будет отключен"
 }

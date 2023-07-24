@@ -966,5 +966,13 @@
   "textDataPolicy": "Compartilhar meus dados cadastrais com os provedores de conteúdo da Sócrates para fins de marketing. Observe que seus dados podem ser transferidos para um país fora do EEE, conforme descrito em nossa política de privacidade.",
   "btnPrivacyPolicy": "Política de Privacidade",
   "textAgreeTermsAndPrivacy": "Ao clicar em Avançar ou Inscrever-se na carteira, você concorda com nossos {value1} e {value2}",
-  "textAccountDeleted": "Conta deletada"
+  "textAccountDeleted": "Conta deletada",
+  "textWillDeactivateAccount": "Isso desativará sua conta",
+  "textWillDeactivateAccountDescription": "Você está prestes a iniciar o processo de desativação da sua conta Sócrates. Sua conta Socrates (incluindo seu nome de usuário e perfil público) não estará mais visível em www.socrates.xyz, Socrates para iOS e Socrates para Android.",
+  "btnDeactivate": "Desativar",
+  "textAccountHasDeactivated": "Sua conta foi desativada",
+  "textDeactivateAccount": "Desativar conta",
+  "textSorryYouLeave": "Desculpe ver você partir, tchau",
+  "btnReceived": "Recebido",
+  "textAccountWillDeactivated": "Sua conta será desativada"
 }

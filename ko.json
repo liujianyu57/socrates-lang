@@ -966,5 +966,13 @@
   "textDataPolicy": "마케팅 목적으로 Socrates의 콘텐츠 제공업체와 내 등록 데이터를 공유합니다. 귀하의 데이터는 개인 정보 보호 정책에 설명된 대로 EEA 외부 국가로 전송될 수 있습니다.",
   "btnPrivacyPolicy": "개인 정보 정책",
   "textAgreeTermsAndPrivacy": "다음 또는 지갑으로 가입을 클릭하면 {value1} 및 {value2}에 동의하는 것입니다.",
-  "textAccountDeleted": "계정 삭제됨"
+  "textAccountDeleted": "계정 삭제됨",
+  "textWillDeactivateAccount": "계정이 비활성화됩니다.",
+  "textWillDeactivateAccountDescription": "Socrates 계정의 비활성화 프로세스를 시작하려고 합니다. 귀하의 Socrates 계정(사용자 이름 및 공개 프로필 포함)은 더 이상 www.socrates.xyz, iOS용 Socrates 및 Android용 Socrates에 표시되지 않습니다.",
+  "btnDeactivate": "비활성화",
+  "textAccountHasDeactivated": "당신의 계정이 비활성화되었습니다",
+  "textDeactivateAccount": "계정 비활성화",
+  "textSorryYouLeave": "가는 걸 보니 미안해, 안녕",
+  "btnReceived": "받았다",
+  "textAccountWillDeactivated": "귀하의 계정이 비활성화됩니다"
 }

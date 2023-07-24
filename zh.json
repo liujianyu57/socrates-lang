@@ -966,5 +966,13 @@
   "textDataPolicy": "出于营销目的与苏格拉底的内容提供商共享我的注册数据。 请注意，您的数据可能会传输到欧洲经济区以外的国家/地区，如我们的隐私政策中所述。",
   "btnPrivacyPolicy": "隐私政策",
   "textAgreeTermsAndPrivacy": "单击下一步或使用钱包注册即表示您同意我们的{value1}和{value2}",
-  "textAccountDeleted": "账号已停用"
+  "textAccountDeleted": "账号已停用",
+  "textWillDeactivateAccount": "这会停用你的账号",
+  "textWillDeactivateAccountDescription": "你即将开始你的苏格拉底账户的停用过程。您的苏格拉底帐户（包括您的用户名和公众资料）将不再在www.socrates.xyz、iOS版苏格拉底和Android版苏格拉底上可见。",
+  "btnDeactivate": "停用",
+  "textAccountHasDeactivated": "您的帐户已停用",
+  "textDeactivateAccount": "停用账号",
+  "textSorryYouLeave": "很遗憾看到你离开，再见",
+  "btnReceived": "收到了",
+  "textAccountWillDeactivated": "您的账号将被停用"
 }
