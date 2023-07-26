@@ -974,5 +974,6 @@
   "textDeactivateAccount": "Desactivar cuenta",
   "textSorryYouLeave": "Siento verte partir, adiós",
   "btnReceived": "Recibió",
-  "textAccountWillDeactivated": "Su cuenta será deshabilitada"
+  "textAccountWillDeactivated": "Su cuenta será deshabilitada",
+  "error10052": "La función de retiro de puntos aún no está disponible"
 }

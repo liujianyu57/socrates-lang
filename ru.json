@@ -974,5 +974,6 @@
   "textDeactivateAccount": "Деактивировать аккаунт",
   "textSorryYouLeave": "Жаль, что ты уходишь, пока",
   "btnReceived": "Полученный",
-  "textAccountWillDeactivated": "Ваш аккаунт будет отключен"
+  "textAccountWillDeactivated": "Ваш аккаунт будет отключен",
+  "error10052": "Функция вывода баллов пока недоступна"
 }

@@ -974,5 +974,6 @@
   "textDeactivateAccount": "계정 비활성화",
   "textSorryYouLeave": "가는 걸 보니 미안해, 안녕",
   "btnReceived": "받았다",
-  "textAccountWillDeactivated": "귀하의 계정이 비활성화됩니다"
+  "textAccountWillDeactivated": "귀하의 계정이 비활성화됩니다",
+  "error10052": "포인트 인출 기능은 아직 사용할 수 없습니다"
 }

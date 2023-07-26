@@ -974,5 +974,6 @@
   "textDeactivateAccount": "アカウントを無効化し",
   "textSorryYouLeave": "行ってしまうのは残念だ、さようなら",
   "btnReceived": "受け取った",
-  "textAccountWillDeactivated": "あなたのアカウントは無効になります"
+  "textAccountWillDeactivated": "あなたのアカウントは無効になります",
+  "error10052": "ポイント引き出し機能はまだありません"
 }
