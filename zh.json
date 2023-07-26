@@ -975,5 +975,6 @@
   "textSorryYouLeave": "很遗憾看到你离开，再见",
   "btnReceived": "收到了",
   "textAccountWillDeactivated": "您的账号将被停用",
-  "error10052": "积分提现功能暂未开放"
+  "error10052": "积分提现功能暂未开放",
+  "tipsForEarlyBird": "目前只针对早鸟用户开放"
 }

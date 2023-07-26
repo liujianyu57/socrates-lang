@@ -975,5 +975,6 @@
   "textSorryYouLeave": "Sorry to see you leave, bye",
   "btnReceived": "Received",
   "textAccountWillDeactivated": "Your account will be deactivated",
-  "error10052": "Points withdrawal function is not available yet"
+  "error10052": "Points withdrawal function is not available yet",
+  "tipsForEarlyBird": "Only available to early bird users"
 }

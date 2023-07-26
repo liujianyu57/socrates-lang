@@ -975,5 +975,6 @@
   "textSorryYouLeave": "Xin lỗi khi thấy bạn đi, tạm biệt",
   "btnReceived": "Đã nhận",
   "textAccountWillDeactivated": "Tài khoản của bạn sẽ bị vô hiệu hóa",
-  "error10052": "Chưa có chức năng rút điểm"
+  "error10052": "Chưa có chức năng rút điểm",
+  "tipsForEarlyBird": "Chỉ dành cho người dùng sớm"
 }

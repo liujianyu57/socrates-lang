@@ -975,5 +975,6 @@
   "textSorryYouLeave": "很遺憾看到你離開，再見",
   "btnReceived": "收到了",
   "textAccountWillDeactivated": "您的帳號將被停用",
-  "error10052": "積分提現功能暫未開放"
+  "error10052": "積分提現功能暫未開放",
+  "tipsForEarlyBird": "目前只针对早鸟用户开放"
 }
