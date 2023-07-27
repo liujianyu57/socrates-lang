@@ -919,7 +919,7 @@
   "textAccountHaveDelete": "tài khoản của bạn đã bị vô hiệu hóa",
   "textBye": "Xin lỗi khi thấy bạn rời đi, tạm biệt",
   "btnGot": "Hiểu rồi",
-  "btnReport": "báo cáo",
+  "btnReport": "Báo cáo",
   "textReportReason01": "Không có lý do, chỉ là không thích",
   "textReportReason02": "phân biệt chủng tộc",
   "textReportReason03": "Thư rác",
@@ -977,5 +977,6 @@
   "textAccountWillDeactivated": "Tài khoản của bạn sẽ bị vô hiệu hóa",
   "error10052": "Chưa có chức năng rút điểm",
   "tipsForEarlyBird": "Chỉ dành cho người dùng sớm",
-  "error3050": "Số lượng người dùng bạn đã chặn đã đạt đến giới hạn"
+  "error3050": "Số lượng người dùng bạn đã chặn đã đạt đến giới hạn",
+  "btnReportUser": "Báo cáo {value1}"
 }

@@ -977,5 +977,6 @@
   "textAccountWillDeactivated": "您的账号将被停用",
   "error10052": "积分提现功能暂未开放",
   "tipsForEarlyBird": "目前只针对早鸟用户开放",
-  "error3050": "你屏蔽的用户已达到上限"
+  "error3050": "你屏蔽的用户已达到上限",
+  "btnReportUser": "举报{value1}"
 }

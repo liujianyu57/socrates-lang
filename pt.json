@@ -919,7 +919,7 @@
   "textAccountHaveDelete": "Sua conta foi desativada",
   "textBye": "Lamento ver você partir, tchau",
   "btnGot": "Entendi",
-  "btnReport": "relatório",
+  "btnReport": "Relatório",
   "textReportReason01": "Sem motivo, apenas não gosto",
   "textReportReason02": "Racismo",
   "textReportReason03": "Spam",
@@ -977,5 +977,6 @@
   "textAccountWillDeactivated": "Sua conta será desativada",
   "error10052": "A função de retirada de pontos ainda não está disponível",
   "tipsForEarlyBird": "Disponível apenas para usuários madrugadores",
-  "error3050": "O número de usuários que você bloqueou atingiu o limite"
+  "error3050": "O número de usuários que você bloqueou atingiu o limite",
+  "btnReportUser": "Relatório {value1}"
 }

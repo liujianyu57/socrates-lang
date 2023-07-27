@@ -977,5 +977,6 @@
   "textAccountWillDeactivated": "您的帳號將被停用",
   "error10052": "積分提現功能暫未開放",
   "tipsForEarlyBird": "目前只針對早鳥用戶開放",
-  "error3050": "你遮罩的用戶已達到上限"
+  "error3050": "你遮罩的用戶已達到上限",
+  "btnReportUser": "舉報{value1}"
 }
