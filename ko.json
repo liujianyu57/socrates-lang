@@ -951,7 +951,7 @@
   "tipsFollowedUser": "{value1}을(를) 팔로우했습니다.",
   "tipsUnfollowedUser": "{value2}을(를) 팔로우 해제했습니다.",
   "tipsBlockedUser": "{value1}이(가) 차단되었습니다.",
-  "textBlockUserDescription": "@{value1} 이(가) 나를 팔로우할 수 없으며 @{value1}의 알림이 표시되지 않습니다.",
+  "textBlockUserDescription": "{value1} 이(가) 나를 팔로우할 수 없으며 {value2}의 알림이 표시되지 않습니다.",
   "textBlockedAccount": "차단된 계정",
   "tipsBlockedCantFollow": "이 사용자를 차단했으며 팔로우할 수 없습니다.",
   "tipsBeenBlockedCantFollow": "이 사용자에 의해 차단되어 팔로우할 수 없습니다.",

@@ -951,7 +951,7 @@
   "tipsFollowedUser": "您关注了{value1}",
   "tipsUnfollowedUser": "您取消关注了{value2}",
   "tipsBlockedUser": "{value1}已被屏蔽",
-  "textBlockUserDescription": "@{value1} 将无法关注你并且您将不会看到来自@{value1}的通知",
+  "textBlockUserDescription": "{value1} 将无法关注你并且您将不会看到来自{value2} 的通知",
   "textBlockedAccount": "屏蔽的账号",
   "tipsBlockedCantFollow": "您已经屏蔽了该用户，无法关注",
   "tipsBeenBlockedCantFollow": "您已经被该用户屏蔽，无法关注",

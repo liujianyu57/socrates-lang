@@ -951,7 +951,7 @@
   "tipsFollowedUser": "Bạn đã theo dõi {value1}",
   "tipsUnfollowedUser": "Bạn đã bỏ theo dõi {value2}",
   "tipsBlockedUser": "{value1} đã bị chặn",
-  "textBlockUserDescription": "@{value1} sẽ không thể theo dõi bạn và bạn sẽ không thấy thông báo từ @{value1}",
+  "textBlockUserDescription": "{value1} sẽ không thể theo dõi bạn và bạn sẽ không thấy thông báo từ {value2}",
   "textBlockedAccount": "tài khoản bị chặn",
   "tipsBlockedCantFollow": "Bạn đã chặn người dùng này và không thể theo dõi",
   "tipsBeenBlockedCantFollow": "Bạn đã bị chặn bởi người dùng này và không thể theo dõi",
