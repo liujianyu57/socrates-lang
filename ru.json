@@ -951,7 +951,7 @@
   "tipsFollowedUser": "Вы подписались на {value1}",
   "tipsUnfollowedUser": "Вы отписались от {value2}",
   "tipsBlockedUser": "{value1} заблокировано",
-  "textBlockUserDescription": "@{value1} не сможет подписаться на вас, и вы не будете видеть уведомления от @{value2}",
+  "textBlockUserDescription": "@{value1} не сможет подписаться на вас, и вы не будете видеть уведомления от @{value1}",
   "textBlockedAccount": "Заблокированный аккаунт",
   "tipsBlockedCantFollow": "Вы заблокировали этого пользователя и не можете подписаться",
   "tipsBeenBlockedCantFollow": "Вы были заблокированы этим пользователем и не можете подписаться",

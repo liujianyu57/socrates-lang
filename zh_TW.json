@@ -951,7 +951,7 @@
   "tipsFollowedUser": "您關注了{value1}",
   "tipsUnfollowedUser": "您取消關注了{value2}",
   "tipsBlockedUser": "{value1}已被屏蔽",
-  "textBlockUserDescription": "@{value1} 將無法關注你並且您將不會看到來自@{value2} 的通知",
+  "textBlockUserDescription": "@{value1} 將無法關注你並且您將不會看到來自@{value1}的通知",
   "textBlockedAccount": "屏蔽的賬號",
   "tipsBlockedCantFollow": "您已經遮罩了該用戶，無法關注",
   "tipsBeenBlockedCantFollow": "您已經被該用戶遮罩，無法關注",

@@ -951,7 +951,7 @@
   "tipsFollowedUser": "Has seguido a {value1}",
   "tipsUnfollowedUser": "Has dejado de seguir a {value2}",
   "tipsBlockedUser": "{value1} ha sido bloqueado",
-  "textBlockUserDescription": "@{value1} no podrá seguirte y no verás las notificaciones de @{value2}",
+  "textBlockUserDescription": "@{value1} no podrá seguirte y no verás las notificaciones de @{value1}",
   "textBlockedAccount": "Cuenta bloqueada",
   "tipsBlockedCantFollow": "Ha bloqueado a este usuario y no puede seguir",
   "tipsBeenBlockedCantFollow": "Has sido bloqueado por este usuario y no puedes seguir",
