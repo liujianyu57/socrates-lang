@@ -976,5 +976,6 @@
   "btnReceived": "受け取った",
   "textAccountWillDeactivated": "あなたのアカウントは無効になります",
   "error10052": "ポイント引き出し機能はまだありません",
-  "tipsForEarlyBird": "現在は早期利用者のみに公開されています"
+  "tipsForEarlyBird": "現在は早期利用者のみに公開されています",
+  "error3050": "ブロックしたユーザーの数が制限に達しました"
 }

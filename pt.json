@@ -976,5 +976,6 @@
   "btnReceived": "Recebido",
   "textAccountWillDeactivated": "Sua conta será desativada",
   "error10052": "A função de retirada de pontos ainda não está disponível",
-  "tipsForEarlyBird": "Disponível apenas para usuários madrugadores"
+  "tipsForEarlyBird": "Disponível apenas para usuários madrugadores",
+  "error3050": "O número de usuários que você bloqueou atingiu o limite"
 }
