@@ -978,5 +978,7 @@
   "error10052": "포인트 인출 기능은 아직 사용할 수 없습니다",
   "tipsForEarlyBird": "현재 얼리버드 사용자에게만 공개",
   "error3050": "차단한 사용자 수가 한도에 도달했습니다.",
-  "btnReportUser": "신고 {value1}"
+  "btnReportUser": "신고 {value1}",
+  "btnFollowUser": "{value1} 팔로우",
+  "btnUnfollowUser": "{value1} 팔로우 해제"
 }

@@ -978,5 +978,7 @@
   "error10052": "A função de retirada de pontos ainda não está disponível",
   "tipsForEarlyBird": "Disponível apenas para usuários madrugadores",
   "error3050": "O número de usuários que você bloqueou atingiu o limite",
-  "btnReportUser": "Relatório {value1}"
+  "btnReportUser": "Relatório {value1}",
+  "btnFollowUser": "Siga {value1}",
+  "btnUnfollowUser": "Deixar de seguir {value1}"
 }

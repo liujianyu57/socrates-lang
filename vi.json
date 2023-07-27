@@ -978,5 +978,7 @@
   "error10052": "Chưa có chức năng rút điểm",
   "tipsForEarlyBird": "Chỉ dành cho người dùng sớm",
   "error3050": "Số lượng người dùng bạn đã chặn đã đạt đến giới hạn",
-  "btnReportUser": "Báo cáo {value1}"
+  "btnReportUser": "Báo cáo {value1}",
+  "btnFollowUser": "Theo dõi {value1}",
+  "btnUnfollowUser": "Bỏ theo dõi {value1}"
 }
