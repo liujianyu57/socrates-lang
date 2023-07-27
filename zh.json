@@ -940,9 +940,9 @@
   "textBuyPointSuccessDescription01": "已成功购买积分，请前往钱包页面查看余额",
   "textBuyPointMinLimit": "最小10",
   "btnBlock": "屏蔽",
-  "textBlockUser": "屏蔽@{value1}",
+  "textBlockUser": "屏蔽 @{value1}",
   "btnUnblock": "取消屏蔽",
-  "textUnblockUser": "取消屏蔽@{value1}",
+  "textUnblockUser": "取消屏蔽 @{value1}",
   "btnReportContent": "举报内容",
   "btnHideContent": "对此内容不感兴趣",
   "textHideContentTips": "反馈成功,将为您优化结果",
@@ -978,7 +978,7 @@
   "error10052": "积分提现功能暂未开放",
   "tipsForEarlyBird": "目前只针对早鸟用户开放",
   "error3050": "你屏蔽的用户已达到上限",
-  "btnReportUser": "举报{value1}",
-  "btnFollowUser": "关注{value1}",
-  "btnUnfollowUser": "取消关注{value1}"
+  "btnReportUser": "举报 {value1}",
+  "btnFollowUser": "关注 {value1}",
+  "btnUnfollowUser": "取消关注 {value1}"
 }

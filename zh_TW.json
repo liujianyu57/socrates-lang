@@ -940,9 +940,9 @@
   "textBuyPointSuccessDescription01": "已成功購買積分，請前往錢包頁面查看餘額",
   "textBuyPointMinLimit": "最小10",
   "btnBlock": "屏蔽",
-  "textBlockUser": "屏蔽@{value1}",
+  "textBlockUser": "屏蔽 @{value1}",
   "btnUnblock": "取消屏蔽",
-  "textUnblockUser": "取消屏蔽@{value1}",
+  "textUnblockUser": "取消屏蔽 @{value1}",
   "btnReportContent": "舉報內容",
   "btnHideContent": "對此內容不感興趣",
   "textHideContentTips": "反饋成功,將為您優化結果",
@@ -978,7 +978,7 @@
   "error10052": "積分提現功能暫未開放",
   "tipsForEarlyBird": "目前只針對早鳥用戶開放",
   "error3050": "你遮罩的用戶已達到上限",
-  "btnReportUser": "舉報{value1}",
-  "btnFollowUser": "關注{value1}",
-  "btnUnfollowUser": "取消關注{value1}"
+  "btnReportUser": "舉報 {value1}",
+  "btnFollowUser": "關注 {value1}",
+  "btnUnfollowUser": "取消關注 {value1}"
 }
