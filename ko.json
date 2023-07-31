@@ -173,7 +173,7 @@
   "textIncome": "소득",
   "textInjectedPointInfo": "{value1}포인트를 주입하여 주의력이 크게 향상되었습니다!",
   "textInjectPoint": "포인트 주입",
-  "textInjectPointDescription": "일반적인 질문에 요점을 입력하면 관심을 높일 수 있습니다. 주입된 포인트는 환불되지 않습니다.",
+  "textInjectPointDescription": "일반적인 질문에 요점을 입력하면 관심을 높일 수 있습니다. ",
   "textInsufficientBalance": "잔액 불충분",
   "textInsufficientPointTips": "포인트가 부족합니다. 포인트를 구매하시겠습니까?",
   "textIntroductionDescription": "소개 길이는 최대 200자입니다.",

@@ -173,7 +173,7 @@
   "textIncome": "所得",
   "textInjectedPointInfo": "{value1} ポイントを注入し、注目度が大幅に向上しました。",
   "textInjectPoint": "ポイントを注入する",
-  "textInjectPointDescription": "よくある質問にポイントを注入すると、注目度が高まります。 なお、注入されたポイントは返還されませんのでご了承ください。",
+  "textInjectPointDescription": "よくある質問にポイントを注入すると、注目度が高まります。",
   "textInsufficientBalance": "残高不足",
   "textInsufficientPointTips": "ポイントが足りませんが、ポイントを購入しますか?",
   "textIntroductionDescription": "導入部分の長さは最大 200 文字です",

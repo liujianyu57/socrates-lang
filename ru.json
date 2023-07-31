@@ -173,7 +173,7 @@
   "textIncome": "Доход",
   "textInjectedPointInfo": "Инъекционные {value1} очки, внимание было значительно улучшено!",
   "textInjectPoint": "Инъекция",
-  "textInjectPointDescription": "Добавление баллов в ваши общие вопросы может увеличить внимание. Обратите внимание, что введенные баллы не возвращаются.",
+  "textInjectPointDescription": "Добавление баллов в ваши общие вопросы может увеличить внимание. ",
   "textInsufficientBalance": "Недостаточный баланс",
   "textInsufficientPointTips": "Ваши очки недостаточны, вы покупаете очки или нет?",
   "textIntroductionDescription": "Введение до 200 символов",

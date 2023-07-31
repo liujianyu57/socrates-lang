@@ -173,7 +173,7 @@
   "textIncome": "Rendimiento",
   "textInjectedPointInfo": "¡Inyectado {value1} puntos, la atención ha mejorado mucho!",
   "textInjectPoint": "Inyectar puntos",
-  "textInjectPointDescription": "Inyectar puntos en sus preguntas comunes puede aumentar la atención. Tenga en cuenta que los puntos inyectados no serán reembolsados.",
+  "textInjectPointDescription": "Inyectar puntos en sus preguntas comunes puede aumentar la atención. ",
   "textInsufficientBalance": "Saldo insuficiente",
   "textInsufficientPointTips": "No tienes suficientes puntos, ¿te gustaría comprar puntos?",
   "textIntroductionDescription": "La longitud de la introducción puede ser de un máximo de 200 caracteres",

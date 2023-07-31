@@ -173,7 +173,7 @@
   "textIncome": "收益",
   "textInjectedPointInfo": "已注入{value1} 積分，關注度大幅提升！",
   "textInjectPoint": "注入積分",
-  "textInjectPointDescription": "給你的普通問題注入積分，可以增加關注度。請注意，注入的積分將不會被退還。",
+  "textInjectPointDescription": "給你的普通問題注入積分，可以增加關注度。",
   "textInsufficientBalance": "餘額不足",
   "textInsufficientPointTips": "您的積分不足，是否購買積分？",
   "textIntroductionDescription": "簡介長度最多200個字元",

@@ -173,7 +173,7 @@
   "textIncome": "Income",
   "textInjectedPointInfo": "Injected {value1} point(s), the attention has been greatly improved!",
   "textInjectPoint": "Inject point(s)",
-  "textInjectPointDescription": "Injecting point(s) into your common questions can increase attention. Please note that injected point(s) will not be refunded.",
+  "textInjectPointDescription": "Injecting point(s) into your common questions can increase attention. ",
   "textInsufficientBalance": "Insufficient balance",
   "textInsufficientPointTips": "You do not have enough point(s), would you like to purchase point(s)?",
   "textIntroductionDescription": "Introduction length can be up to 200 characters",
