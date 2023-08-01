@@ -980,5 +980,6 @@
   "error3050": "ブロックしたユーザーの数が制限に達しました",
   "btnReportUser": "報告 {value1}",
   "btnFollowUser": "{value1} をフォローする",
-  "btnUnfollowUser": "{value1} のフォローを解除"
+  "btnUnfollowUser": "{value1} のフォローを解除",
+  "textInjectedPoint": "{value1} ポイントを注入し"
 }

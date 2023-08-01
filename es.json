@@ -980,5 +980,6 @@
   "error3050": "El número de usuarios que ha bloqueado ha alcanzado el límite",
   "btnReportUser": "Informar {value1}",
   "btnFollowUser": "Seguir {value1}",
-  "btnUnfollowUser": "Dejar de seguir {value1}"
+  "btnUnfollowUser": "Dejar de seguir {value1}",
+  "textInjectedPoint": "¡Inyectado {value1} puntos"
 }

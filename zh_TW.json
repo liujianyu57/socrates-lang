@@ -980,5 +980,6 @@
   "error3050": "你遮罩的用戶已達到上限",
   "btnReportUser": "舉報 {value1}",
   "btnFollowUser": "關注 {value1}",
-  "btnUnfollowUser": "取消關注 {value1}"
+  "btnUnfollowUser": "取消關注 {value1}",
+  "textInjectedPoint": "已注入{value1} 積分"
 }

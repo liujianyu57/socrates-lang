@@ -980,5 +980,6 @@
   "error3050": "차단한 사용자 수가 한도에 도달했습니다.",
   "btnReportUser": "신고 {value1}",
   "btnFollowUser": "{value1} 팔로우",
-  "btnUnfollowUser": "{value1} 팔로우 해제"
+  "btnUnfollowUser": "{value1} 팔로우 해제",
+  "textInjectedPoint": "주입된 {value1} 포인트"
 }

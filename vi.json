@@ -980,5 +980,6 @@
   "error3050": "Số lượng người dùng bạn đã chặn đã đạt đến giới hạn",
   "btnReportUser": "Báo cáo {value1}",
   "btnFollowUser": "Theo dõi {value1}",
-  "btnUnfollowUser": "Bỏ theo dõi {value1}"
+  "btnUnfollowUser": "Bỏ theo dõi {value1}",
+  "textInjectedPoint": "Thêm {value1} điểm"
 }

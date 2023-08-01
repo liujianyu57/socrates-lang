@@ -980,5 +980,6 @@
   "error3050": "Количество заблокированных вами пользователей достигло предела",
   "btnReportUser": "Сообщить {value1}",
   "btnFollowUser": "Подписаться {value1}",
-  "btnUnfollowUser": "Отменить подписку на {value1}"
+  "btnUnfollowUser": "Отменить подписку на {value1}",
+  "textInjectedPoint": "Инъекционные {value1} очки"
 }

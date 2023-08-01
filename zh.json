@@ -980,5 +980,6 @@
   "error3050": "你屏蔽的用户已达到上限",
   "btnReportUser": "举报 {value1}",
   "btnFollowUser": "关注 {value1}",
-  "btnUnfollowUser": "取消关注 {value1}"
+  "btnUnfollowUser": "取消关注 {value1}",
+  "textInjectedPoint": "已注入{value1} 积分"
 }
