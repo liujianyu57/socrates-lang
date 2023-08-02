@@ -981,5 +981,7 @@
   "btnReportUser": "報告 {value1}",
   "btnFollowUser": "{value1} をフォローする",
   "btnUnfollowUser": "{value1} のフォローを解除",
-  "textInjectedPoint": "{value1} ポイントを注入し"
+  "textInjectedPoint": "{value1} ポイントを注入し",
+  "error10053": "일일 최대 현금 인출 한도 초과{value1} USDT",
+  "error10054": "일일 현금 인출 가능 횟수는 {value1}"
 }

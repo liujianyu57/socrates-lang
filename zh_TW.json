@@ -331,7 +331,7 @@
   "textEnterNickname": "請輸入昵稱",
   "textNicknameRegular": "昵稱為4-30位字符，不支持空格",
   "textCreateQuestion": "創建問題",
-  "textCreateQuestionDescription": "創建問題需花費{value1} 積分，是否繼續？",
+  "textCreateQuestionDescription": "創建問題需花費{value1} 積分，創建後不能修改，是否繼續？",
   "btnSignUpEmail": "郵箱註冊",
   "textHaveAccount": "已有帳號？",
   "textAnswerTrend": "答題趨勢",
@@ -981,5 +981,7 @@
   "btnReportUser": "舉報 {value1}",
   "btnFollowUser": "關注 {value1}",
   "btnUnfollowUser": "取消關注 {value1}",
-  "textInjectedPoint": "已注入{value1} 積分"
+  "textInjectedPoint": "已注入{value1} 積分",
+  "error10053": "超過每日最大提現額度{value1}USDT",
+  "error10054": "每日可提現次數為{value1}"
 }

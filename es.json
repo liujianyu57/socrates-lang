@@ -331,7 +331,7 @@
   "textEnterNickname": "Introduzca un nombre de usuario",
   "textNicknameRegular": "El nombre de usuario tiene entre 4 y 30 caracteres. No se admiten espacios",
   "textCreateQuestion": "Crear una pregunta",
-  "textCreateQuestionDescription": "Crear el problema cuesta {value1} puntos si continúa.",
+  "textCreateQuestionDescription": "Cuesta {value1} punto(s) crear la pregunta, no puede modificarla después de la creación, ¿continuar?",
   "btnSignUpEmail": "Registrarse con correo electrónico",
   "textHaveAccount": "¿Ya tiene una cuenta?",
   "textAnswerTrend": "Tendencia de las respuestas",
@@ -555,7 +555,7 @@
   "error3035": "error de estado de respuesta",
   "error3036": "el bolígrafo no existe",
   "error3037": "error en la obtención del bolígrafo",
-  "error3038": "error de punto de funcionamiento",
+  "error3038": "Error de punto de funcionamiento",
   "error3039": "error de saldo",
   "error3040": "la dirección de cartera está vacía",
   "error20001": "La transacción ya existe",
@@ -981,5 +981,7 @@
   "btnReportUser": "Informar {value1}",
   "btnFollowUser": "Seguir {value1}",
   "btnUnfollowUser": "Dejar de seguir {value1}",
-  "textInjectedPoint": "¡Inyectado {value1} puntos"
+  "textInjectedPoint": "¡Inyectado {value1} puntos",
+  "error10053": "Se ha alcanzado el límite máximo diario de retiro {value1} Usdt",
+  "error10054": "Los retiros diarios son {value1}"
 }

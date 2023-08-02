@@ -331,7 +331,7 @@
   "textEnterNickname": "Insira um nome de usuário",
   "textNicknameRegular": "O nome de usuário tem de conter entre 4 e 30 caracteres. Os espaços não são suportados",
   "textCreateQuestion": "Crie uma pergunta",
-  "textCreateQuestionDescription": "Criar o problema custa {value1} pontos, se continuar.",
+  "textCreateQuestionDescription": "Criar o problema custa {value1} pontos, você não pode modificá-lo após a criação, continuar?",
   "btnSignUpEmail": "Registre-se com e-mail",
   "textHaveAccount": "Já tem uma conta?",
   "textAnswerTrend": "Tendência de Respostas",
@@ -555,7 +555,7 @@
   "error3035": "erro de estado da resposta",
   "error3036": "pen não existe",
   "error3037": "erro na obtenção de pen",
-  "error3038": "erro de pontos de operação",
+  "error3038": "Erro de pontos de operação",
   "error3039": "erro de obtenção de saldo",
   "error3040": "o endereço da carteira está vazio",
   "error20001": "A transação já existe",
@@ -981,5 +981,7 @@
   "btnReportUser": "Relatório {value1}",
   "btnFollowUser": "Siga {value1}",
   "btnUnfollowUser": "Deixar de seguir {value1}",
-  "textInjectedPoint": "Você injetou {value1} pontos"
+  "textInjectedPoint": "Você injetou {value1} pontos",
+  "error10053": "O limite máximo diário de retirada {value1} USDT foi atingido",
+  "error10054": "As retiradas diárias são {value1}"
 }

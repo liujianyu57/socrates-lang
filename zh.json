@@ -331,7 +331,7 @@
   "textEnterNickname": "请输入昵称",
   "textNicknameRegular": "昵称为4-30位字符，不支持空格",
   "textCreateQuestion": "创建问题",
-  "textCreateQuestionDescription": "创建问题需花费{value1} 积分，是否继续？",
+  "textCreateQuestionDescription": "创建问题需花费{value1} 积分，创建后不能修改，是否继续？",
   "btnSignUpEmail": "邮箱注册",
   "textHaveAccount": "已有账号？",
   "textAnswerTrend": "答题趋势",
@@ -981,5 +981,7 @@
   "btnReportUser": "举报 {value1}",
   "btnFollowUser": "关注 {value1}",
   "btnUnfollowUser": "取消关注 {value1}",
-  "textInjectedPoint": "已注入{value1} 积分"
+  "textInjectedPoint": "已注入{value1} 积分",
+  "error10053": "超过每日最大提现额度{value1}USDT",
+  "error10054": "每日可提现次数为{value1}"
 }

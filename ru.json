@@ -981,5 +981,7 @@
   "btnReportUser": "Сообщить {value1}",
   "btnFollowUser": "Подписаться {value1}",
   "btnUnfollowUser": "Отменить подписку на {value1}",
-  "textInjectedPoint": "Инъекционные {value1} очки"
+  "textInjectedPoint": "Инъекционные {value1} очки",
+  "error10053": "Превышение максимальной суточной ставки {value1} USDT",
+  "error10054": "Ежедневное количество наличных платежей {value1}."
 }

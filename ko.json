@@ -981,5 +981,7 @@
   "btnReportUser": "신고 {value1}",
   "btnFollowUser": "{value1} 팔로우",
   "btnUnfollowUser": "{value1} 팔로우 해제",
-  "textInjectedPoint": "주입된 {value1} 포인트"
+  "textInjectedPoint": "주입된 {value1} 포인트",
+  "error10053": "1日あたりの最大キャッシュレート{value1} USDTを超える",
+  "error10054": "1日あたりの現金化可能回数は {value1}"
 }

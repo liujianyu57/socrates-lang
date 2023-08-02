@@ -981,5 +981,7 @@
   "btnReportUser": "Báo cáo {value1}",
   "btnFollowUser": "Theo dõi {value1}",
   "btnUnfollowUser": "Bỏ theo dõi {value1}",
-  "textInjectedPoint": "Thêm {value1} điểm"
+  "textInjectedPoint": "Thêm {value1} điểm",
+  "error10053": "Đã đạt đến giới hạn rút tiền tối đa hàng ngày {value1} USDT",
+  "error10054": "Rút tiền hàng ngày là {value1}"
 }
