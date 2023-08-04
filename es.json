@@ -983,5 +983,14 @@
   "btnUnfollowUser": "Dejar de seguir {value1}",
   "textInjectedPoint": "¡Inyectado {value1} puntos",
   "error10053": "Se ha alcanzado el límite máximo diario de retiro {value1} Usdt",
-  "error10054": "Los retiros diarios son {value1}"
+  "error10054": "Los retiros diarios son {value1}",
+  "tagSystem": "Sistema",
+  "textSystemNotification": "Notificación del sistema",
+  "textYourQuestionDeleted": "La pregunta [{value2}] que publicaste en {value1} infringe la política de la plataforma y se eliminó.",
+  "textYourReasonDeleted": "La razón por la que [{value2}] publicaste en {value1} infringió las normas de la plataforma. Este motivo se ha eliminado y no participará en la liquidación del pozo de premios.",
+  "textYourReplyDeleted": "La respuesta [{value2}] que publicaste en {value1} infringe las normas de la plataforma y se eliminó.",
+  "textYourAvatarReset": "Tu avatar ha violado las normas de la plataforma y se ha reiniciado.",
+  "textYourNicknameReset": "Su apodo ha violado las normas de la plataforma y se ha restablecido.",
+  "textYourProfileDeleted": "Su perfil violó las normas de la plataforma y ha sido eliminado.",
+  "textYouBanned": "Se le ha prohibido modificar su perfil o publicar contenido debido a la violación de las normas de la plataforma. Tiempo de desbloqueo: {value1}"
 }

@@ -983,5 +983,14 @@
   "btnUnfollowUser": "{value1} 팔로우 해제",
   "textInjectedPoint": "주입된 {value1} 포인트",
   "error10053": "1日あたりの最大キャッシュレート{value1} USDTを超える",
-  "error10054": "1日あたりの現金化可能回数は {value1}"
+  "error10054": "1日あたりの現金化可能回数は {value1}",
+  "tagSystem": "체계",
+  "textSystemNotification": "시스템 알림",
+  "textYourQuestionDeleted": "{value1}에 게시한 [{value2}] 질문이 플랫폼 정책을 위반하여 삭제되었습니다.",
+  "textYourReasonDeleted": "귀하가 {value1}에 게시한 [{value2}] 사유가 플랫폼 규정을 위반했습니다. 이 사유는 삭제되었으며 상금 풀 정산에 참여하지 않습니다.",
+  "textYourReplyDeleted": "귀하가 {value1}에 게시한 답글 [{value2}]이(가) 플랫폼 규정을 위반하여 답글이 삭제되었습니다.",
+  "textYourAvatarReset": "아바타가 플랫폼 규정을 위반하여 초기화되었습니다.",
+  "textYourNicknameReset": "닉네임이 플랫폼 규정을 위반하여 재설정되었습니다.",
+  "textYourProfileDeleted": "프로필이 플랫폼 규정을 위반하여 삭제되었습니다.",
+  "textYouBanned": "플랫폼 규정 위반으로 인해 프로필 수정 또는 콘텐츠 게시가 금지되었습니다. 금지 해제 시간: {value1}"
 }

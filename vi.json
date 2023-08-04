@@ -983,5 +983,14 @@
   "btnUnfollowUser": "Bỏ theo dõi {value1}",
   "textInjectedPoint": "Thêm {value1} điểm",
   "error10053": "Đã đạt đến giới hạn rút tiền tối đa hàng ngày {value1} USDT",
-  "error10054": "Rút tiền hàng ngày là {value1}"
+  "error10054": "Rút tiền hàng ngày là {value1}",
+  "tagSystem": "Hệ thống",
+  "textSystemNotification": "Thông báo hệ thống",
+  "textYourQuestionDeleted": "Câu hỏi [{value2}] bạn đăng trên {value1} vi phạm chính sách nền tảng và đã bị xóa.",
+  "textYourReasonDeleted": "Lý do [{value2}] bạn đăng trên {value1} đã vi phạm quy định của nền tảng. Lý do này đã bị xóa và sẽ không tham gia vào việc giải quyết tổng giải thưởng.",
+  "textYourReplyDeleted": "Câu trả lời [{value2}] bạn đã đăng trên {value1} vi phạm quy định của nền tảng và câu trả lời đã bị xóa.",
+  "textYourAvatarReset": "Hình đại diện của bạn đã vi phạm các quy định của nền tảng và đã được đặt lại.",
+  "textYourNicknameReset": "Biệt hiệu của bạn đã vi phạm quy định của nền tảng và đã được đặt lại.",
+  "textYourProfileDeleted": "Hồ sơ của bạn đã vi phạm các quy định của nền tảng và đã bị xóa.",
+  "textYouBanned": "Bạn đã bị cấm sửa đổi hồ sơ của mình hoặc đăng nội dung do vi phạm các quy định của nền tảng. Thời gian bỏ cấm: {value1}"
 }

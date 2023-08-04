@@ -983,5 +983,14 @@
   "btnUnfollowUser": "取消关注 {value1}",
   "textInjectedPoint": "已注入{value1} 积分",
   "error10053": "超过每日最大提现额度{value1}USDT",
-  "error10054": "每日可提现次数为{value1}"
+  "error10054": "每日可提现次数为{value1}",
+  "tagSystem": "系统",
+  "textSystemNotification": "系统通知",
+  "textYourQuestionDeleted": "你在{value1}发布的问题[{value2}]违反了平台规定，该问题已被删除。",
+  "textYourReasonDeleted": "你在{value1}发布的理由[{value2}]违反了平台规定，该理由已被删除，不会参与奖池结算。",
+  "textYourReplyDeleted": "你在{value1}发布的回复[{value2}]违反了平台规定，该回复已被删除。",
+  "textYourAvatarReset": "你的头像违反了平台规定，已被重置。",
+  "textYourNicknameReset": "你的昵称违反了平台规定，已被重置。",
+  "textYourProfileDeleted": "你的简介违反了平台规定，已被删除。",
+  "textYouBanned": "你因违反平台规定，已被禁止修改个人资料或发布内容。解禁时间：{value1}"
 }

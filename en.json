@@ -983,5 +983,14 @@
   "btnUnfollowUser": "Unfollow {value1}",
   "textInjectedPoint": "Injected {value1} point(s)",
   "error10053": "The maximum daily withdrawal limit {value1} USDT has been reached",
-  "error10054": "Daily withdrawals are {value1}"
+  "error10054": "Daily withdrawals are {value1}",
+  "tagSystem": "System",
+  "textSystemNotification": "System notification",
+  "textYourQuestionDeleted": "The question [{value2}] you posted on {value1} violates the platform policy and has been deleted.",
+  "textYourReasonDeleted": "The reason [{value2}] you posted on {value1} violated the platform regulations. This reason has been deleted and will not participate in the prize pool settlement.",
+  "textYourReplyDeleted": "The reply [{value2}] you posted on {value1} violates the platform regulations, and the reply has been deleted.",
+  "textYourAvatarReset": "Your avatar has violated platform regulations and has been reset.",
+  "textYourNicknameReset": "Your nickname has violated platform regulations and has been reset.",
+  "textYourProfileDeleted": "Your profile violated the platform regulations and has been deleted.",
+  "textYouBanned": "You have been banned from modifying your profile or posting content due to violation of platform regulations. Unban time: {value1}"
 }

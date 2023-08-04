@@ -983,5 +983,14 @@
   "btnUnfollowUser": "取消關注 {value1}",
   "textInjectedPoint": "已注入{value1} 積分",
   "error10053": "超過每日最大提現額度{value1}USDT",
-  "error10054": "每日可提現次數為{value1}"
+  "error10054": "每日可提現次數為{value1}",
+  "tagSystem": "系統",
+  "textSystemNotification": "系統通知",
+  "textYourQuestionDeleted": "你在{value1}發佈的問題[{value2}]違反了平臺規定，該問題已被刪除。",
+  "textYourReasonDeleted": "你在{value1}發佈的理由[{value2}]違反了平臺規定，該理由已被刪除，不會參與獎池結算。",
+  "textYourReplyDeleted": "你在{value1}發佈的回復[{value2}]違反了平臺規定，該回復已被刪除。",
+  "textYourAvatarReset": "你的頭像違反了平臺規定，已被重置。",
+  "textYourNicknameReset": "你的昵稱違反了平臺規定，已被重置。",
+  "textYourProfileDeleted": "你的簡介違反了平臺規定，已被刪除。",
+  "textYouBanned": "你因違反平臺規定，已被禁止修改個人資料或發佈內容。解禁時間：{value1}"
 }

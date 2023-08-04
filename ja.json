@@ -983,5 +983,14 @@
   "btnUnfollowUser": "{value1} のフォローを解除",
   "textInjectedPoint": "{value1} ポイントを注入し",
   "error10053": "일일 최대 현금 인출 한도 초과{value1} USDT",
-  "error10054": "일일 현금 인출 가능 횟수는 {value1}"
+  "error10054": "일일 현금 인출 가능 횟수는 {value1}",
+  "tagSystem": "システム",
+  "textSystemNotification": "システム通知",
+  "textYourQuestionDeleted": "{value1} に投稿した質問 [{value2}] はプラットフォーム ポリシーに違反しているため、削除されました。",
+  "textYourReasonDeleted": "{value1} に投稿した理由 [{value2}] はプラットフォームの規制に違反しています。この理由は削除されたため、賞金プールの決済には参加しません。",
+  "textYourReplyDeleted": "{value1} に投稿した返信 [{value2}] はプラットフォームの規制に違反しているため、返信は削除されました。",
+  "textYourAvatarReset": "あなたのアバターはプラットフォームの規制に違反したため、リセットされました。",
+  "textYourNicknameReset": "あなたのニックネームはプラットフォームの規制に違反しているため、リセットされました。",
+  "textYourProfileDeleted": "あなたのプロフィールはプラットフォームの規制に違反したため、削除されました。",
+  "textYouBanned": "プラットフォーム規制に違反したため、プロフィールの変更またはコンテンツの投稿が禁止されました。 禁止解除時間: {value1}"
 }
