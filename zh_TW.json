@@ -1015,5 +1015,8 @@
   "textBeginnerGuide19": "開始針對您的問題收集意見",
   "textBeginnerGuide20": "添加額外的分數可以幫助你的問題獲得更多關注。",
   "textBeginnerGuide21": "完成",
-  "textHowToCallYou": "怎麼稱呼你"
+  "textHowToCallYou": "怎麼稱呼你",
+  "tagStatusAll": "全部",
+  "tagStatusActive": "进行中",
+  "tagStatusEnded": "已結束"
 }

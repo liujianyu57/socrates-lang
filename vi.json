@@ -1015,5 +1015,8 @@
   "textBeginnerGuide19": "Bắt đầu thu thập ý kiến cho câu hỏi của bạn",
   "textBeginnerGuide20": "Tiêm thêm điểm có thể giúp câu hỏi của bạn thu hút được nhiều sự chú ý hơn.",
   "textBeginnerGuide21": "Hoàn thành",
-  "textHowToCallYou": "Biệt danh của bạn"
+  "textHowToCallYou": "Biệt danh của bạn",
+  "tagStatusAll": "Tất cả",
+  "tagStatusActive": "Trong tiến trình",
+  "tagStatusEnded": "Đã kết thúc"
 }

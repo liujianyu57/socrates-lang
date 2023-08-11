@@ -1015,5 +1015,8 @@
   "textBeginnerGuide19": "Comienza a recopilar opiniones para tu pregunta.",
   "textBeginnerGuide20": "Inyectar puntos extra puede ayudar a que sus preguntas obtengan más atención.",
   "textBeginnerGuide21": "Completo",
-  "textHowToCallYou": "Tu apodo"
+  "textHowToCallYou": "Tu apodo",
+  "tagStatusAll": "Todos",
+  "tagStatusActive": "En curso",
+  "tagStatusEnded": "Terminado"
 }

@@ -1015,5 +1015,8 @@
   "textBeginnerGuide19": "Start collecting opinions for your question",
   "textBeginnerGuide20": "Injecting extra points can help your questions gain more attention.",
   "textBeginnerGuide21": "Complete",
-  "textHowToCallYou": "How to call you"
+  "textHowToCallYou": "How to call you",
+  "tagStatusAll": "All",
+  "tagStatusActive": "In progress",
+  "tagStatusEnded": "Ended"
 }

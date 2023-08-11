@@ -1015,5 +1015,8 @@
   "textBeginnerGuide19": "Начните собирать мнения по вашему вопросу",
   "textBeginnerGuide20": "Добавление дополнительных баллов может помочь вашим вопросам привлечь больше внимания.",
   "textBeginnerGuide21": "Полный",
-  "textHowToCallYou": "Твой псевдоним"
+  "textHowToCallYou": "Твой псевдоним",
+  "tagStatusAll": "Все",
+  "tagStatusActive": "В ходе выполнения",
+  "tagStatusEnded": "Уже закончил"
 }

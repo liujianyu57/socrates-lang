@@ -1015,5 +1015,8 @@
   "textBeginnerGuide19": "質問に対する意見の収集を開始する",
   "textBeginnerGuide20": "追加のポイントを注入すると、質問がより多くの注目を集めることができます。",
   "textBeginnerGuide21": "完了",
-  "textHowToCallYou": "あなたのニックネーム"
+  "textHowToCallYou": "あなたのニックネーム",
+  "tagStatusAll": "全部",
+  "tagStatusActive": "進行中",
+  "tagStatusEnded": "終了しました"
 }
