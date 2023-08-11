@@ -1018,5 +1018,11 @@
   "textHowToCallYou": "당신의 닉네임",
   "tagStatusAll": "모두",
   "tagStatusActive": "진행 중",
-  "tagStatusEnded": "종료됨"
+  "tagStatusEnded": "종료됨",
+  "textPenRuleTitle1": "민트 펜",
+  "textPenRuleBody1": "펜은 SBT 펜과 NFT 펜으로 구분되는 소크라테스에 참여하기 위한 필수품 중 하나입니다.",
+  "textPenRuleTitle2": "1. SBT 펜",
+  "textPenRuleBody2": "SBT 펜은 무제한으로 발행되며, 소크라테스에서 구매 및 업그레이드되며, 양도할 수 없으며, 하나의 지갑 주소에는 SBT 펜이 하나만 있을 수 있습니다. \n초급 펜 수입 계수는 {value1},\n중급 펜 수입 계수는 {value2},\n고급 펜 수입 계수는 {value3}입니다.",
+  "textPenRuleTitle3": "2. NFT 펜",
+  "textPenRuleBody3": "SBT 펜이 성공적으로 주조된 후 추가 NFT 펜이 폭발할 수 있는 {value1} 확률이 있습니다. \nNFT 펜은 희귀 자산이며 반환 계수는 고급 SBT 펜과 동일합니다. 상금 풀을 나눌 때 NFT 펜의 이익 계수와 SBT 펜의 이익 계수를 중첩할 수 있습니다. \n자세한 내용은 공식 홈페이지의 백서를 확인해주세요."
 }

@@ -1018,5 +1018,11 @@
   "textHowToCallYou": "Biệt danh của bạn",
   "tagStatusAll": "Tất cả",
   "tagStatusActive": "Trong tiến trình",
-  "tagStatusEnded": "Đã kết thúc"
+  "tagStatusEnded": "Đã kết thúc",
+  "textPenRuleTitle1": "Khai thác bút",
+  "textPenRuleBody1": "Bút là một trong những thứ bắt buộc phải có khi tham gia Socrates, được chia thành bút SBT và bút NFT.",
+  "textPenRuleTitle2": "1. Bút SBT",
+  "textPenRuleBody2": "Bút SBT được phát hành với số lượng không giới hạn, được mua và nâng cấp bằng Socrates, không thể chuyển nhượng và một địa chỉ ví chỉ có thể có một bút SBT. \nHệ số thu nhập của bút sơ cấp là {value1};\nHệ số thu nhập của bút trung cấp là {value2};\nHệ số thu nhập của bút cao cấp là {value3}.",
+  "textPenRuleTitle3": "2. Bút NFT",
+  "textPenRuleBody3": "Sau khi đúc thành công bút SBT, có xác suất {value1} là bút NFT bổ sung có thể phát nổ. \nBút NFT là một tài sản quý hiếm và hệ số hoàn vốn của nó tương đương với hệ số hoàn vốn của bút SBT cao cấp. Khi chia tổng giải thưởng, hệ số lợi nhuận của bút NFT và hệ số lợi nhuận của bút SBT có thể được xếp chồng lên nhau. \nĐể biết chi tiết, vui lòng kiểm tra sách trắng trên trang web chính thức."
 }

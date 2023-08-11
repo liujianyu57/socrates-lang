@@ -1018,5 +1018,11 @@
   "textHowToCallYou": "Tu apodo",
   "tagStatusAll": "Todos",
   "tagStatusActive": "En curso",
-  "tagStatusEnded": "Terminado"
+  "tagStatusEnded": "Terminado",
+  "textPenRuleTitle1": "Bolígrafo acuñado",
+  "textPenRuleBody1": "Los bolígrafos son uno de los imprescindibles para participar en Sócrates, que se dividen en bolígrafos SBT y bolígrafos NFT.",
+  "textPenRuleTitle2": "1. Bolígrafo SBT",
+  "textPenRuleBody2": "Los bolígrafos SBT se emiten en cantidades ilimitadas, se compran y actualizan en Sócrates, no son transferibles y una dirección de billetera solo puede tener un bolígrafo SBT. \nEl coeficiente de ingreso del corral elemental es {value1};\nEl coeficiente de ingreso del corral intermedio es {value2};\nEl coeficiente de ingreso del corral avanzado es {value3}.",
+  "textPenRuleTitle3": "2. Bolígrafo NFT",
+  "textPenRuleBody3": "Después de que el bolígrafo SBT se haya acuñado con éxito, existe una probabilidad de {value1} de que se pueda explotar un bolígrafo NFT adicional. \nLa pluma NFT es un activo poco común y su coeficiente de retorno es equivalente al de la pluma SBT avanzada. Al dividir el pozo de premios, se pueden superponer el coeficiente de beneficio del bolígrafo NFT y el coeficiente de beneficio del bolígrafo SBT. \nPara obtener más información, consulte el libro blanco en el sitio web oficial."
 }
