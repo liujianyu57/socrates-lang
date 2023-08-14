@@ -1024,5 +1024,6 @@
   "textPenRuleTitle2": "1. Caneta SBT",
   "textPenRuleBody2": "As canetas do SBT são emitidas em quantidades ilimitadas, compradas e atualizadas no Sócrates, intransferíveis, e um endereço de carteira só pode ter uma caneta do SBT. \nO coeficiente de receita da caneta elementar é {value1};\nO coeficiente de receita da caneta intermediária é {value2};\nO coeficiente de receita da caneta avançada é {value3}.",
   "textPenRuleTitle3": "2. Caneta NFT",
-  "textPenRuleBody3": "Depois que a caneta SBT for cunhada com sucesso, há uma probabilidade de {value1} de que uma caneta NFT adicional possa ser explodida. \nA caneta NFT é um bem raro e seu coeficiente de retorno é equivalente ao da caneta SBT avançada. Ao dividir o prêmio, o coeficiente de lucro da caneta NFT e o coeficiente de lucro da caneta SBT podem ser sobrepostos. \nPara mais detalhes, consulte o white paper no site oficial."
+  "textPenRuleBody3": "Depois que a caneta SBT for cunhada com sucesso, há uma probabilidade de {value1} de que uma caneta NFT adicional possa ser explodida. \nA caneta NFT é um bem raro e seu coeficiente de retorno é equivalente ao da caneta SBT avançada. Ao dividir o prêmio, o coeficiente de lucro da caneta NFT e o coeficiente de lucro da caneta SBT podem ser sobrepostos. \nPara mais detalhes, consulte o white paper no site oficial.",
+  "textMintNFTGasDescription": "Por favor, certifique-se de ter uma taxa de gás suficiente. A chance de cunhar será reservada para você e você poderá cunhar na [Carteira] mais tarde."
 }

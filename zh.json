@@ -1024,5 +1024,6 @@
   "textPenRuleTitle2": "1. SBT笔",
   "textPenRuleBody2": "SBT笔不限量发行，在Socrates中购买和升级，不可转让，一个钱包地址只能有一个SBT笔。\n初级笔收益系数为{value1}；\n中级笔收益系数为{value2}；\n高级笔收益系数为{value3}。",
   "textPenRuleTitle3": "2. NFT笔",
-  "textPenRuleBody3": "铸造SBT笔成功后，有{value1}概率可以额外爆出NFT笔。\nNFT笔是一种稀有资产，它的收益系数等同于高级SBT笔。在瓜分奖池时NFT笔的收益系数和SBT笔的收益系数可以叠加。\n详情请查看官网白皮书。"
+  "textPenRuleBody3": "铸造SBT笔成功后，有{value1}概率可以额外爆出NFT笔。\nNFT笔是一种稀有资产，它的收益系数等同于高级SBT笔。在瓜分奖池时NFT笔的收益系数和SBT笔的收益系数可以叠加。\n详情请查看官网白皮书。",
+  "textMintNFTGasDescription": "请确保您拥有足够的Gas Fee。铸造的机会将为您保留，您稍后可以在[钱包]进行铸造。"
 }

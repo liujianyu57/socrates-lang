@@ -1024,5 +1024,6 @@
   "textPenRuleTitle2": "1. SBT筆",
   "textPenRuleBody2": "SBT筆不限量發行，在Socrates中購買和升級，不可轉讓，一個錢包地址只能有一個SBT筆。 \n初級筆收益係數為{value1}；\n中級筆收益係數為{value2}；\n高級筆收益係數為{value3}。",
   "textPenRuleTitle3": "2. NFT筆",
-  "textPenRuleBody3": "鑄造SBT筆成功後，有{value1}概率可以額外爆出NFT筆。 \nNFT筆是一種稀有資產，它的收益係數等同於高級SBT筆。在瓜分獎池時NFT筆的收益係數和SBT筆的收益係數可以疊加。 \n詳情請查看官網白皮書。"
+  "textPenRuleBody3": "鑄造SBT筆成功後，有{value1}概率可以額外爆出NFT筆。 \nNFT筆是一種稀有資產，它的收益係數等同於高級SBT筆。在瓜分獎池時NFT筆的收益係數和SBT筆的收益係數可以疊加。 \n詳情請查看官網白皮書。",
+  "textMintNFTGasDescription": "請確保您擁有足夠的Gas Fee。鑄造的機會將為您保留，您稍後可以在[錢包]進行鑄造。"
 }
