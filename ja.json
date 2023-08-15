@@ -173,7 +173,7 @@
   "textIncome": "所得",
   "textInjectedPointInfo": "{value1} ポイントを注入し、注目度が大幅に向上しました。",
   "textInjectPoint": "ポイントを注入する",
-  "textInjectPointDescription": "よくある質問にポイントを注入すると、注目度が高まります。",
+  "textInjectPointDescription": "質問にポイントを注入すると、注目度が高まります。",
   "textInsufficientBalance": "残高不足",
   "textInsufficientPointTips": "ポイントが足りませんが、ポイントを購入しますか?",
   "textIntroductionDescription": "導入部分の長さは最大 200 文字です",
@@ -1025,5 +1025,13 @@
   "textPenRuleBody2": "SBT ペンは数量無制限で発行され、ソクラテスで購入およびアップグレードされ、譲渡不可であり、1 つのウォレット アドレスには 1 本の SBT ペンしか持てません。 \n初級ペン収入係数は {value1};\n中級ペン収入係数は {value2};\n上級ペン収入係数は {value3} です。",
   "textPenRuleTitle3": "2.NFTペン",
   "textPenRuleBody3": "SBT ペンが正常に鋳造された後、追加の NFT ペンが爆発する可能性がある {value1} の確率があります。 \nNFT ペンは希少資産であり、その収益率は先進的な SBT ペンと同等です。 賞金プールを分割する際、NFT ペンの利益係数と SBT ペンの利益係数を重ね合わせることができます。 \n詳しくは公式サイトのホワイトペーパーをご確認ください。",
-  "textMintNFTGasDescription": "十分なガス料金があることをご確認ください。 鋳造の機会はあなたのために予約されており、後で[ウォレット]で鋳造することができます。"
+  "textMintNFTGasDescription": "十分なガス料金があることをご確認ください。 鋳造の機会はあなたのために予約されており、後で[ウォレット]で鋳造することができます。",
+  "textShareQuestion": "質問を共有し、友達を招待して参加してください。",
+  "textWithdrawRecord": "撤退記録",
+  "textUnderReview": "検討中",
+  "textUnderReviewDescription": "この撤退は 24 時間以内に審査されて完了し、後でポイント記録で進捗状況を確認できます。",
+  "textWithdrawStatus": "撤退ステータス",
+  "textCustomize": "カスタマイズ",
+  "textCreateInjectPoint": "{value1} を作成 + {value2} を注入",
+  "textCreatePoint": "{value1}を作成する"
 }

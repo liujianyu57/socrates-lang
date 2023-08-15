@@ -173,7 +173,7 @@
   "textIncome": "收益",
   "textInjectedPointInfo": "已注入{value1} 積分，關注度大幅提升！",
   "textInjectPoint": "注入積分",
-  "textInjectPointDescription": "給你的普通問題注入積分，可以增加關注度。",
+  "textInjectPointDescription": "給你的問題注入積分，可以增加關注度。",
   "textInsufficientBalance": "餘額不足",
   "textInsufficientPointTips": "您的積分不足，是否購買積分？",
   "textIntroductionDescription": "簡介長度最多200個字元",
@@ -1025,5 +1025,13 @@
   "textPenRuleBody2": "SBT筆不限量發行，在Socrates中購買和升級，不可轉讓，一個錢包地址只能有一個SBT筆。 \n初級筆收益係數為{value1}；\n中級筆收益係數為{value2}；\n高級筆收益係數為{value3}。",
   "textPenRuleTitle3": "2. NFT筆",
   "textPenRuleBody3": "鑄造SBT筆成功後，有{value1}概率可以額外爆出NFT筆。 \nNFT筆是一種稀有資產，它的收益係數等同於高級SBT筆。在瓜分獎池時NFT筆的收益係數和SBT筆的收益係數可以疊加。 \n詳情請查看官網白皮書。",
-  "textMintNFTGasDescription": "請確保您擁有足夠的Gas Fee。鑄造的機會將為您保留，您稍後可以在[錢包]進行鑄造。"
+  "textMintNFTGasDescription": "請確保您擁有足夠的Gas Fee。鑄造的機會將為您保留，您稍後可以在[錢包]進行鑄造。",
+  "textShareQuestion": "分享問題，邀請好友參與！",
+  "textWithdrawRecord": "兌換記錄",
+  "textUnderReview": "審核中",
+  "textUnderReviewDescription": "本次兌換將在24小時內審核完成，稍候您可以在積分記錄中查看進度",
+  "textWithdrawStatus": "兌換狀態",
+  "textCustomize": "自定義",
+  "textCreateInjectPoint": "創建 {value1} + 注入 {value2}",
+  "textCreatePoint": "創建{value1}"
 }

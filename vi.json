@@ -173,7 +173,7 @@
   "textIncome": "Thu nhập",
   "textInjectedPointInfo": "Thêm {value1} điểm, sự chú ý sẽ được cải thiện đáng kể!",
   "textInjectPoint": "Thêm điểm",
-  "textInjectPointDescription": "Tiêm điểm vào câu hỏi phổ biến của bạn có thể tăng sự chú ý. ",
+  "textInjectPointDescription": "Tiêm điểm vào câu hỏi của bạn có thể tăng sự chú ý.",
   "textInsufficientBalance": "Số dư không đủ",
   "textInsufficientPointTips": "Bạn không có đủ điểm, bạn có muốn mua thêm điểm?",
   "textIntroductionDescription": "Lời giới thiệu có thể lên đến 200 chữ",
@@ -1025,5 +1025,13 @@
   "textPenRuleBody2": "Bút SBT được phát hành với số lượng không giới hạn, được mua và nâng cấp bằng Socrates, không thể chuyển nhượng và một địa chỉ ví chỉ có thể có một bút SBT. \nHệ số thu nhập của bút sơ cấp là {value1};\nHệ số thu nhập của bút trung cấp là {value2};\nHệ số thu nhập của bút cao cấp là {value3}.",
   "textPenRuleTitle3": "2. Bút NFT",
   "textPenRuleBody3": "Sau khi đúc thành công bút SBT, có xác suất {value1} là bút NFT bổ sung có thể phát nổ. \nBút NFT là một tài sản quý hiếm và hệ số hoàn vốn của nó tương đương với hệ số hoàn vốn của bút SBT cao cấp. Khi chia tổng giải thưởng, hệ số lợi nhuận của bút NFT và hệ số lợi nhuận của bút SBT có thể được xếp chồng lên nhau. \nĐể biết chi tiết, vui lòng kiểm tra sách trắng trên trang web chính thức.",
-  "textMintNFTGasDescription": "Vui lòng đảm bảo rằng bạn có đủ Phí Gas. Cơ hội đúc sẽ được dành riêng cho bạn và bạn có thể đúc trong [Ví] sau này."
+  "textMintNFTGasDescription": "Vui lòng đảm bảo rằng bạn có đủ Phí Gas. Cơ hội đúc sẽ được dành riêng cho bạn và bạn có thể đúc trong [Ví] sau này.",
+  "textShareQuestion": "Chia sẻ câu hỏi và mời bạn bè tham gia!",
+  "textWithdrawRecord": "Rút hồ sơ",
+  "textUnderReview": "Đang xem xét",
+  "textUnderReviewDescription": "Việc rút tiền này sẽ được xem xét và hoàn thành trong vòng 24 giờ và bạn có thể kiểm tra tiến độ trong hồ sơ điểm sau đó",
+  "textWithdrawStatus": "Trạng thái rút tiền",
+  "textCustomize": "tùy chỉnh",
+  "textCreateInjectPoint": "Tạo {value1} + Tiêm {value2}",
+  "textCreatePoint": "Tạo {value1}"
 }

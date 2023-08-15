@@ -173,7 +173,7 @@
   "textIncome": "소득",
   "textInjectedPointInfo": "{value1}포인트를 주입하여 주의력이 크게 향상되었습니다!",
   "textInjectPoint": "포인트 주입",
-  "textInjectPointDescription": "일반적인 질문에 요점을 입력하면 관심을 높일 수 있습니다. ",
+  "textInjectPointDescription": "질문에 포인트를 주입하면 주의력을 높일 수 있습니다.",
   "textInsufficientBalance": "잔액 불충분",
   "textInsufficientPointTips": "포인트가 부족합니다. 포인트를 구매하시겠습니까?",
   "textIntroductionDescription": "소개 길이는 최대 200자입니다.",
@@ -1025,5 +1025,13 @@
   "textPenRuleBody2": "SBT 펜은 무제한으로 발행되며, 소크라테스에서 구매 및 업그레이드되며, 양도할 수 없으며, 하나의 지갑 주소에는 SBT 펜이 하나만 있을 수 있습니다. \n초급 펜 수입 계수는 {value1},\n중급 펜 수입 계수는 {value2},\n고급 펜 수입 계수는 {value3}입니다.",
   "textPenRuleTitle3": "2. NFT 펜",
   "textPenRuleBody3": "SBT 펜이 성공적으로 주조된 후 추가 NFT 펜이 폭발할 수 있는 {value1} 확률이 있습니다. \nNFT 펜은 희귀 자산이며 반환 계수는 고급 SBT 펜과 동일합니다. 상금 풀을 나눌 때 NFT 펜의 이익 계수와 SBT 펜의 이익 계수를 중첩할 수 있습니다. \n자세한 내용은 공식 홈페이지의 백서를 확인해주세요.",
-  "textMintNFTGasDescription": "가스비가 충분한지 확인하십시오. 발행할 수 있는 기회는 귀하를 위해 예약되며 나중에 [Wallet]에서 발행할 수 있습니다."
+  "textMintNFTGasDescription": "가스비가 충분한지 확인하십시오. 발행할 수 있는 기회는 귀하를 위해 예약되며 나중에 [Wallet]에서 발행할 수 있습니다.",
+  "textShareQuestion": "질문을 공유하고 친구를 참여하도록 초대하세요!",
+  "textWithdrawRecord": "철회 기록",
+  "textUnderReview": "검토 중",
+  "textUnderReviewDescription": "이 출금은 24시간 이내에 검토 및 완료되며 추후 포인트 기록에서 진행 상황을 확인할 수 있습니다.",
+  "textWithdrawStatus": "철회 상태",
+  "textCustomize": "커스터마이징",
+  "textCreateInjectPoint": "{value1} 생성 + {value2} 주입",
+  "textCreatePoint": "{value1} 생성"
 }

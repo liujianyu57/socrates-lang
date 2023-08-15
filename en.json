@@ -173,7 +173,7 @@
   "textIncome": "Income",
   "textInjectedPointInfo": "Injected {value1} point(s), the attention has been greatly improved!",
   "textInjectPoint": "Inject point(s)",
-  "textInjectPointDescription": "Injecting point(s) into your common questions can increase attention. ",
+  "textInjectPointDescription": "Injecting point(s) into your question can increase attention.",
   "textInsufficientBalance": "Insufficient balance",
   "textInsufficientPointTips": "You do not have enough point(s), would you like to purchase point(s)?",
   "textIntroductionDescription": "Introduction length can be up to 200 characters",
@@ -1025,5 +1025,13 @@
   "textPenRuleBody2": "SBT pens are issued in unlimited quantities, purchased and upgraded in Socrates, non-transferable, and one wallet address can only have one SBT pen. \nElementary pen income coefficient is {value1};\nIntermediate pen income coefficient is {value2};\nAdvanced pen income coefficient is {value3}.",
   "textPenRuleTitle3": "2. NFT Pen",
   "textPenRuleBody3": "After the SBT pen is successfully minted, there is a {value1} probability that an additional NFT pen can be exploded. \nNFT pen is a rare asset, and its return coefficient is equivalent to that of advanced SBT pen. When dividing the prize pool, the profit coefficient of the NFT pen and the profit coefficient of the SBT pen can be superimposed. \nFor details, please check the white paper on the official website.",
-  "textMintNFTGasDescription": "Please make sure you have enough Gas Fee. The chance to mint will be reserved for you and you can mint in [Wallet] later."
+  "textMintNFTGasDescription": "Please make sure you have enough Gas Fee. The chance to mint will be reserved for you and you can mint in [Wallet] later.",
+  "textShareQuestion": "Share questions and invite friends to participate!",
+  "textWithdrawRecord": "Withdraw records",
+  "textUnderReview": "Under review",
+  "textUnderReviewDescription": "This withdrawal will be reviewed and completed within 24 hours, and you can check the progress in the points record later",
+  "textWithdrawStatus": "Withdraw status",
+  "textCustomize": "Customize",
+  "textCreateInjectPoint": "Create {value1} + Inject {value2}",
+  "textCreatePoint": "Create {value1}"
 }

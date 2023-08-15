@@ -173,7 +173,7 @@
   "textIncome": "Rendimiento",
   "textInjectedPointInfo": "¡Inyectado {value1} puntos, la atención ha mejorado mucho!",
   "textInjectPoint": "Inyectar puntos",
-  "textInjectPointDescription": "Inyectar puntos en sus preguntas comunes puede aumentar la atención. ",
+  "textInjectPointDescription": "Inyectar puntos en su pregunta puede aumentar la atención.",
   "textInsufficientBalance": "Saldo insuficiente",
   "textInsufficientPointTips": "No tienes suficientes puntos, ¿te gustaría comprar puntos?",
   "textIntroductionDescription": "La longitud de la introducción puede ser de un máximo de 200 caracteres",
@@ -1025,5 +1025,13 @@
   "textPenRuleBody2": "Los bolígrafos SBT se emiten en cantidades ilimitadas, se compran y actualizan en Sócrates, no son transferibles y una dirección de billetera solo puede tener un bolígrafo SBT. \nEl coeficiente de ingreso del corral elemental es {value1};\nEl coeficiente de ingreso del corral intermedio es {value2};\nEl coeficiente de ingreso del corral avanzado es {value3}.",
   "textPenRuleTitle3": "2. Bolígrafo NFT",
   "textPenRuleBody3": "Después de que el bolígrafo SBT se haya acuñado con éxito, existe una probabilidad de {value1} de que se pueda explotar un bolígrafo NFT adicional. \nLa pluma NFT es un activo poco común y su coeficiente de retorno es equivalente al de la pluma SBT avanzada. Al dividir el pozo de premios, se pueden superponer el coeficiente de beneficio del bolígrafo NFT y el coeficiente de beneficio del bolígrafo SBT. \nPara obtener más información, consulte el libro blanco en el sitio web oficial.",
-  "textMintNFTGasDescription": "Asegúrese de tener suficiente tarifa de gas. La oportunidad de acuñar estará reservada para ti y podrás acuñar en [Wallet] más tarde."
+  "textMintNFTGasDescription": "Asegúrese de tener suficiente tarifa de gas. La oportunidad de acuñar estará reservada para ti y podrás acuñar en [Wallet] más tarde.",
+  "textShareQuestion": "¡Comparte preguntas e invita a tus amigos a participar!",
+  "textWithdrawRecord": "Retirar registros",
+  "textUnderReview": "Bajo revisión",
+  "textUnderReviewDescription": "Este retiro se revisará y completará dentro de las 24 horas, y puede verificar el progreso en el registro de puntos más adelante",
+  "textWithdrawStatus": "Retirar estado",
+  "textCustomize": "Personalizar",
+  "textCreateInjectPoint": "Crear {value1} + Inyectar {value2}",
+  "textCreatePoint": "Crear {value1}"
 }

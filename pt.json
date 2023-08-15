@@ -173,7 +173,7 @@
   "textIncome": "Rendimento",
   "textInjectedPointInfo": "Você injetou {value1} pontos, a atenção melhorou muito!",
   "textInjectPoint": "Injetar pontos",
-  "textInjectPointDescription": "Injetar pontos em suas perguntas comuns pode aumentar a atenção. ",
+  "textInjectPointDescription": "Injetar pontos em sua pergunta pode aumentar a atenção.",
   "textInsufficientBalance": "Saldo insuficiente",
   "textInsufficientPointTips": "Você não tem pontos suficientes, gostaria de comprar pontos?",
   "textIntroductionDescription": "O comprimento da introdução pode ser de até 200 caracteres",
@@ -1025,5 +1025,13 @@
   "textPenRuleBody2": "As canetas do SBT são emitidas em quantidades ilimitadas, compradas e atualizadas no Sócrates, intransferíveis, e um endereço de carteira só pode ter uma caneta do SBT. \nO coeficiente de receita da caneta elementar é {value1};\nO coeficiente de receita da caneta intermediária é {value2};\nO coeficiente de receita da caneta avançada é {value3}.",
   "textPenRuleTitle3": "2. Caneta NFT",
   "textPenRuleBody3": "Depois que a caneta SBT for cunhada com sucesso, há uma probabilidade de {value1} de que uma caneta NFT adicional possa ser explodida. \nA caneta NFT é um bem raro e seu coeficiente de retorno é equivalente ao da caneta SBT avançada. Ao dividir o prêmio, o coeficiente de lucro da caneta NFT e o coeficiente de lucro da caneta SBT podem ser sobrepostos. \nPara mais detalhes, consulte o white paper no site oficial.",
-  "textMintNFTGasDescription": "Por favor, certifique-se de ter uma taxa de gás suficiente. A chance de cunhar será reservada para você e você poderá cunhar na [Carteira] mais tarde."
+  "textMintNFTGasDescription": "Por favor, certifique-se de ter uma taxa de gás suficiente. A chance de cunhar será reservada para você e você poderá cunhar na [Carteira] mais tarde.",
+  "textShareQuestion": "Compartilhe dúvidas e convide amigos para participar!",
+  "textWithdrawRecord": "Retirar registros",
+  "textUnderReview": "Sob revisão",
+  "textUnderReviewDescription": "Esse saque será analisado e finalizado em até 24 horas, e você poderá conferir o andamento no cadastro de pontos posteriormente",
+  "textWithdrawStatus": "Status de retirada",
+  "textCustomize": "Customizar",
+  "textCreateInjectPoint": "Criar {value1} + Injetar {value2}",
+  "textCreatePoint": "Criar {value1}"
 }
