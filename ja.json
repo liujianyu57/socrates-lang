@@ -1033,5 +1033,8 @@
   "textWithdrawStatus": "撤退ステータス",
   "textCustomize": "カスタマイズ",
   "textCreateInjectPoint": "{value1} を作成 + {value2} を注入",
-  "textCreatePoint": "{value1}を作成する"
+  "textCreatePoint": "{value1}を作成する",
+  "typeWithdrawUnderReview": "検討中",
+  "typeWithdrawCompleted": "完了",
+  "typeWithdrawFailed": "失敗した"
 }

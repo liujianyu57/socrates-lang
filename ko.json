@@ -1033,5 +1033,8 @@
   "textWithdrawStatus": "철회 상태",
   "textCustomize": "커스터마이징",
   "textCreateInjectPoint": "{value1} 생성 + {value2} 주입",
-  "textCreatePoint": "{value1} 생성"
+  "textCreatePoint": "{value1} 생성",
+  "typeWithdrawUnderReview": "검토 중",
+  "typeWithdrawCompleted": "완전한",
+  "typeWithdrawFailed": "실패한"
 }

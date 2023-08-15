@@ -1033,5 +1033,8 @@
   "textWithdrawStatus": "Trạng thái rút tiền",
   "textCustomize": "tùy chỉnh",
   "textCreateInjectPoint": "Tạo {value1} + Tiêm {value2}",
-  "textCreatePoint": "Tạo {value1}"
+  "textCreatePoint": "Tạo {value1}",
+  "typeWithdrawUnderReview": "Đang xem xét",
+  "typeWithdrawCompleted": "Hoàn thành",
+  "typeWithdrawFailed": "Thất bại"
 }

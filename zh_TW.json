@@ -1033,5 +1033,8 @@
   "textWithdrawStatus": "兌換狀態",
   "textCustomize": "自定義",
   "textCreateInjectPoint": "創建 {value1} + 注入 {value2}",
-  "textCreatePoint": "創建{value1}"
+  "textCreatePoint": "創建{value1}",
+  "typeWithdrawUnderReview": "審核中",
+  "typeWithdrawCompleted": "已完成",
+  "typeWithdrawFailed": "已失敗"
 }

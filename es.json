@@ -1033,5 +1033,8 @@
   "textWithdrawStatus": "Retirar estado",
   "textCustomize": "Personalizar",
   "textCreateInjectPoint": "Crear {value1} + Inyectar {value2}",
-  "textCreatePoint": "Crear {value1}"
+  "textCreatePoint": "Crear {value1}",
+  "typeWithdrawUnderReview": "Bajo revisión",
+  "typeWithdrawCompleted": "Terminado",
+  "typeWithdrawFailed": "Fallido"
 }
