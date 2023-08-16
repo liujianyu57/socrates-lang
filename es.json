@@ -1036,5 +1036,6 @@
   "textCreatePoint": "Crear {value1}",
   "typeWithdrawUnderReview": "Bajo revisión",
   "typeWithdrawCompleted": "Terminado",
-  "typeWithdrawFailed": "Fallido"
+  "typeWithdrawFailed": "Fallido",
+  "tipsMaximumImage": "Agregue hasta {value1} imágenes"
 }

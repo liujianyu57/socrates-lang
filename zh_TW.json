@@ -1036,5 +1036,6 @@
   "textCreatePoint": "創建{value1}",
   "typeWithdrawUnderReview": "審核中",
   "typeWithdrawCompleted": "已完成",
-  "typeWithdrawFailed": "已失敗"
+  "typeWithdrawFailed": "已失敗",
+  "tipsMaximumImage": "最多添加 {value1} 張圖片"
 }

@@ -1036,5 +1036,6 @@
   "textCreatePoint": "Tạo {value1}",
   "typeWithdrawUnderReview": "Đang xem xét",
   "typeWithdrawCompleted": "Hoàn thành",
-  "typeWithdrawFailed": "Thất bại"
+  "typeWithdrawFailed": "Thất bại",
+  "tipsMaximumImage": "Thêm tối đa {value1} hình ảnh"
 }

@@ -1036,5 +1036,6 @@
   "textCreatePoint": "{value1} 생성",
   "typeWithdrawUnderReview": "검토 중",
   "typeWithdrawCompleted": "완전한",
-  "typeWithdrawFailed": "실패한"
+  "typeWithdrawFailed": "실패한",
+  "tipsMaximumImage": "최대 {value1}개의 이미지 추가"
 }

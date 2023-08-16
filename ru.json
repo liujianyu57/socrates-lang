@@ -1036,5 +1036,6 @@
   "textCreatePoint": "Создать {value1}",
   "typeWithdrawUnderReview": "На рассмотрении",
   "typeWithdrawCompleted": "Завершенный",
-  "typeWithdrawFailed": "Неуспешный"
+  "typeWithdrawFailed": "Неуспешный",
+  "tipsMaximumImage": "Добавьте до {value1} изображений"
 }
