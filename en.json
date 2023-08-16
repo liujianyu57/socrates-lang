@@ -1037,5 +1037,8 @@
   "typeWithdrawUnderReview": "Under review",
   "typeWithdrawCompleted": "Completed",
   "typeWithdrawFailed": "Failed",
-  "tipsMaximumImage": "Add up to {value1} images"
+  "tipsMaximumImage": "Add up to {value1} images",
+  "error10055": "The password already exists and cannot be set. Please exit and try again.",
+  "textChangeOptionDescription": "You can also change the options {value1} time(s) for this question",
+  "error3052": "You have no more times to change"
 }

@@ -1037,5 +1037,8 @@
   "typeWithdrawUnderReview": "검토 중",
   "typeWithdrawCompleted": "완전한",
   "typeWithdrawFailed": "실패한",
-  "tipsMaximumImage": "최대 {value1}개의 이미지 추가"
+  "tipsMaximumImage": "최대 {value1}개의 이미지 추가",
+  "error10055": "비밀번호가 이미 존재하여 설정할 수 없습니다. 로그아웃하고 다시 시도하십시오.",
+  "textChangeOptionDescription": "이 문제에 대한 {value1} 옵션을 수정할 수도 있습니다.",
+  "error3052": "버전이 부족합니다."
 }

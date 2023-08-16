@@ -1037,5 +1037,8 @@
   "typeWithdrawUnderReview": "审核中",
   "typeWithdrawCompleted": "已完成",
   "typeWithdrawFailed": "已失败",
-  "tipsMaximumImage": "最多添加 {value1} 张图片"
+  "tipsMaximumImage": "最多添加 {value1} 张图片",
+  "error10055": "已存在密码，无法设置，请退出后重试。",
+  "textChangeOptionDescription": "此问题你还可以修改 {value1} 次选项",
+  "error3052": "你的修改次数已用完"
 }

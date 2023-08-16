@@ -1037,5 +1037,8 @@
   "typeWithdrawUnderReview": "Bajo revisión",
   "typeWithdrawCompleted": "Terminado",
   "typeWithdrawFailed": "Fallido",
-  "tipsMaximumImage": "Agregue hasta {value1} imágenes"
+  "tipsMaximumImage": "Agregue hasta {value1} imágenes",
+  "error10055": "La contraseña ya existe y no se puede configurar. Por favor, salga y vuelva a intentarlo.",
+  "textChangeOptionDescription": "También puede cambiar las opciones {value1} veces para esta pregunta",
+  "error3052": "No tienes más tiempos para cambiar"
 }

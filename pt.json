@@ -1037,5 +1037,8 @@
   "typeWithdrawUnderReview": "Sob revisão",
   "typeWithdrawCompleted": "Concluído",
   "typeWithdrawFailed": "Fracassado",
-  "tipsMaximumImage": "Adicione até {value1} imagens"
+  "tipsMaximumImage": "Adicione até {value1} imagens",
+  "error10055": "A senha já existe e não pode ser definida. Saia e tente novamente.",
+  "textChangeOptionDescription": "Você também pode alterar as opções {value1} vez(es) para esta pergunta",
+  "error3052": "Você não tem mais tempo para mudar"
 }

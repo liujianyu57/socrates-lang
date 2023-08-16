@@ -1037,5 +1037,8 @@
   "typeWithdrawUnderReview": "検討中",
   "typeWithdrawCompleted": "完了",
   "typeWithdrawFailed": "失敗した",
-  "tipsMaximumImage": "最大 {value1} 個の画像を追加します"
+  "tipsMaximumImage": "最大 {value1} 個の画像を追加します",
+  "error10055": "パスワードはすでに存在するため、設定できません。ログアウトして再試行してください。",
+  "textChangeOptionDescription": "この問題に対して {value1} オプションを変更することもできます",
+  "error3052": "リビジョンが不足しています"
 }

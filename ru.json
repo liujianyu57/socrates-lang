@@ -1037,5 +1037,8 @@
   "typeWithdrawUnderReview": "На рассмотрении",
   "typeWithdrawCompleted": "Завершенный",
   "typeWithdrawFailed": "Неуспешный",
-  "tipsMaximumImage": "Добавьте до {value1} изображений"
+  "tipsMaximumImage": "Добавьте до {value1} изображений",
+  "error10055": "Пароль уже существует и не может быть установлен. Пожалуйста, выйдите и повторите попытку.",
+  "textChangeOptionDescription": "Вы также можете изменить параметры {value1} раз для этого вопроса.",
+  "error3052": "У вас больше нет времени, чтобы изменить"
 }
