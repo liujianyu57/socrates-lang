@@ -1040,5 +1040,6 @@
   "tipsMaximumImage": "最多添加 {value1} 张图片",
   "error10055": "已存在密码，无法设置，请退出后重试。",
   "textChangeOptionDescription": "此问题你还可以修改 {value1} 次选项",
-  "error3052": "你的修改次数已用完"
+  "error3052": "你的修改次数已用完",
+  "error10061": "今日注册用户已达到上限，请明日再来。"
 }

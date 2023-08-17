@@ -1040,5 +1040,6 @@
   "tipsMaximumImage": "Thêm tối đa {value1} hình ảnh",
   "error10055": "Mật khẩu đã tồn tại và không thể đặt được. Vui lòng đăng xuất và thử lại.",
   "textChangeOptionDescription": "Bạn cũng có thể sửa đổi tùy chọn {value1} cho sự cố này",
-  "error3052": "Bạn đã hết sửa đổi"
+  "error3052": "Bạn đã hết sửa đổi",
+  "error10061": "Người dùng đã đăng ký đã đạt đến giới hạn ngày hôm nay, xin vui lòng đến vào ngày mai."
 }
