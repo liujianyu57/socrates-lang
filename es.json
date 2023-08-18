@@ -1041,5 +1041,7 @@
   "error10055": "La contraseña ya existe y no se puede configurar. Por favor, salga y vuelva a intentarlo.",
   "textChangeOptionDescription": "También puede cambiar las opciones {value1} veces para esta pregunta",
   "error3052": "No tienes más tiempos para cambiar",
-  "error10061": "Los usuarios registrados han alcanzado el límite hoy, vengan mañana."
+  "error10061": "Los usuarios registrados han alcanzado el límite hoy, vengan mañana.",
+  "error10059": "Retiro mínimo {value1} puntos",
+  "error10060": "Se ha alcanzado el límite máximo diario de retiro {value1} Usdt"
 }

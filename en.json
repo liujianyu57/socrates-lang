@@ -1041,5 +1041,7 @@
   "error10055": "The password already exists and cannot be set. Please exit and try again.",
   "textChangeOptionDescription": "You can also change the options {value1} time(s) for this question",
   "error3052": "You have no more times to change",
-  "error10061": "Registered users have reached the limit today, please come tomorrow."
+  "error10061": "Registered users have reached the limit today, please come tomorrow.",
+  "error10059": "Minimum withdrawal {value1} points",
+  "error10060": "The maximum daily withdrawal limit {value1} USDT has been reached"
 }
