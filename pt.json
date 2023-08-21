@@ -1043,5 +1043,7 @@
   "error3052": "Você não tem mais tempo para mudar",
   "error10061": "Os usuários registrados atingiram o limite hoje, por favor, venham amanhã.",
   "error10059": "Retirada mínima de {value1} pontos",
-  "error10060": "O limite máximo diário de retirada {value1} USDT foi atingido"
+  "error10060": "O limite máximo diário de retirada {value1} USDT foi atingido",
+  "tagHistory": "História",
+  "tagWithdraw": "Retirar"
 }

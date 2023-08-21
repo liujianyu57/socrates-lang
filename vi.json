@@ -1043,5 +1043,7 @@
   "error3052": "Bạn đã hết sửa đổi",
   "error10061": "Người dùng đã đăng ký đã đạt đến giới hạn ngày hôm nay, xin vui lòng đến vào ngày mai.",
   "error10059": "Rút tiền tối thiểu {value1} điểm",
-  "error10060": "Đã đạt đến giới hạn rút tiền tối đa hàng ngày {value1} USDT"
+  "error10060": "Đã đạt đến giới hạn rút tiền tối đa hàng ngày {value1} USDT",
+  "tagHistory": "Lịch sử",
+  "tagWithdraw": "Rút"
 }

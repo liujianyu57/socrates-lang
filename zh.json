@@ -1043,5 +1043,7 @@
   "error3052": "你的修改次数已用完",
   "error10061": "今日注册用户已达到上限，请明日再来。",
   "error10059": "最少兑换{value1}积分",
-  "error10060": "超过每日最大兑换额度{value1}USDT"
+  "error10060": "超过每日最大兑换额度{value1}USDT",
+  "tagHistory": "历史",
+  "tagWithdraw": "兑换"
 }
