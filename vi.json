@@ -1045,5 +1045,7 @@
   "error10059": "Rút tiền tối thiểu {value1} điểm",
   "error10060": "Đã đạt đến giới hạn rút tiền tối đa hàng ngày {value1} USDT",
   "tagHistory": "Lịch sử",
-  "tagWithdraw": "Rút"
+  "tagWithdraw": "Rút",
+  "error10056": "Bạn đã bị cấm sửa đổi hồ sơ của mình hoặc đăng nội dung do vi phạm các quy định của nền tảng.",
+  "error4002": "Bạn đã bị cấm sửa đổi hồ sơ của mình hoặc đăng nội dung do vi phạm các quy định của nền tảng."
 }

@@ -1045,5 +1045,7 @@
   "error10059": "Retiro mínimo {value1} puntos",
   "error10060": "Se ha alcanzado el límite máximo diario de retiro {value1} Usdt",
   "tagHistory": "Historia",
-  "tagWithdraw": "Retirar"
+  "tagWithdraw": "Retirar",
+  "error10056": "Se le ha prohibido modificar su perfil o publicar contenido debido a la violación de las normas de la plataforma.",
+  "error4002": "Se le ha prohibido modificar su perfil o publicar contenido debido a la violación de las normas de la plataforma."
 }

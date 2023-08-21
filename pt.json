@@ -1045,5 +1045,7 @@
   "error10059": "Retirada mínima de {value1} pontos",
   "error10060": "O limite máximo diário de retirada {value1} USDT foi atingido",
   "tagHistory": "História",
-  "tagWithdraw": "Retirar"
+  "tagWithdraw": "Retirar",
+  "error10056": "Você foi proibido de modificar seu perfil ou postar conteúdo devido à violação dos regulamentos da plataforma.",
+  "error4002": "Você foi proibido de modificar seu perfil ou postar conteúdo devido à violação dos regulamentos da plataforma."
 }

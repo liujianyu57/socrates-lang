@@ -1045,5 +1045,7 @@
   "error10059": "Minimum withdrawal {value1} points",
   "error10060": "The maximum daily withdrawal limit {value1} USDT has been reached",
   "tagHistory": "History",
-  "tagWithdraw": "Withdraw"
+  "tagWithdraw": "Withdraw",
+  "error10056": "You have been banned from modifying your profile or posting content due to violation of platform regulations.",
+  "error4002": "You have been banned from modifying your profile or posting content due to violation of platform regulations."
 }
