@@ -1047,5 +1047,6 @@
   "tagHistory": "History",
   "tagWithdraw": "Withdraw",
   "error10056": "You have been banned from modifying your profile or posting content due to violation of platform regulations.",
-  "error4002": "You have been banned from modifying your profile or posting content due to violation of platform regulations."
+  "error4002": "You have been banned from modifying your profile or posting content due to violation of platform regulations.",
+  "error10062": "You have an order under review"
 }
