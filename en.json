@@ -1048,5 +1048,12 @@
   "tagWithdraw": "Withdraw",
   "error10056": "You have been banned from modifying your profile or posting content due to violation of platform regulations.",
   "error4002": "You have been banned from modifying your profile or posting content due to violation of platform regulations.",
-  "error10062": "You have an order under review"
+  "error10062": "You have an order under review",
+  "textValidTimeMinuteSingular": "{value1} Minute",
+  "textValidTimeMinute": "{value1} Minutes",
+  "textValidTimeHourSingular": "{value1} Hour",
+  "textValidTimeHour": "{value1} Hours",
+  "textDay": "Day",
+  "textHour": "Hour",
+  "textMinute": "Minute"
 }

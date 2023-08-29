@@ -1048,5 +1048,12 @@
   "tagWithdraw": "철회하다",
   "error10056": "플랫폼 규정 위반으로 인해 프로필 수정 또는 콘텐츠 게시가 금지되었습니다.",
   "error4002": "플랫폼 규정 위반으로 인해 프로필 수정 또는 콘텐츠 게시가 금지되었습니다.",
-  "error10062": "검토 중인 주문이 있습니다."
+  "error10062": "검토 중인 주문이 있습니다.",
+  "textValidTimeMinuteSingular": "{value1}분",
+  "textValidTimeMinute": "{value1}분",
+  "textValidTimeHourSingular": "{value1}시간",
+  "textValidTimeHour": "{value1}시간",
+  "textDay": "낮",
+  "textHour": "시간",
+  "textMinute": "분"
 }

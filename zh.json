@@ -1048,5 +1048,12 @@
   "tagWithdraw": "兑换",
   "error10056": "你因违反平台规定，已被禁止修改个人资料或发布内容。",
   "error4002": "你因违反平台规定，已被禁止修改个人资料或发布内容。",
-  "error10062": "您有订单正在审核中"
+  "error10062": "您有订单正在审核中",
+  "textValidTimeMinuteSingular": "{value1}分钟",
+  "textValidTimeMinute": "{value1}分钟",
+  "textValidTimeHourSingular": "{value1}小时",
+  "textValidTimeHour": "{value1}小时",
+  "textDay": "天",
+  "textHour": "小时",
+  "textMinute": "分钟"
 }

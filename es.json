@@ -1048,5 +1048,12 @@
   "tagWithdraw": "Retirar",
   "error10056": "Se le ha prohibido modificar su perfil o publicar contenido debido a la violación de las normas de la plataforma.",
   "error4002": "Se le ha prohibido modificar su perfil o publicar contenido debido a la violación de las normas de la plataforma.",
-  "error10062": "Tienes un pedido en revisión"
+  "error10062": "Tienes un pedido en revisión",
+  "textValidTimeMinuteSingular": "{value1} Minuto",
+  "textValidTimeMinute": "{value1} Minutos",
+  "textValidTimeHourSingular": "{value1} Hora",
+  "textValidTimeHour": "{value1} Horas",
+  "textDay": "Día",
+  "textHour": "Hora",
+  "textMinute": "Minuto"
 }

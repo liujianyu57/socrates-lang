@@ -1048,5 +1048,12 @@
   "tagWithdraw": "Rút",
   "error10056": "Bạn đã bị cấm sửa đổi hồ sơ của mình hoặc đăng nội dung do vi phạm các quy định của nền tảng.",
   "error4002": "Bạn đã bị cấm sửa đổi hồ sơ của mình hoặc đăng nội dung do vi phạm các quy định của nền tảng.",
-  "error10062": "Bạn có đơn đặt hàng đang được xem xét"
+  "error10062": "Bạn có đơn đặt hàng đang được xem xét",
+  "textValidTimeMinuteSingular": "{value1} Phút",
+  "textValidTimeMinute": "{value1} Phút",
+  "textValidTimeHourSingular": "{value1} Giờ",
+  "textValidTimeHour": "{value1} Giờ",
+  "textDay": "Ngày",
+  "textHour": "Giờ",
+  "textMinute": "Phút"
 }

@@ -1048,5 +1048,12 @@
   "tagWithdraw": "撤退",
   "error10056": "プラットフォーム規制に違反したため、プロフィールの変更またはコンテンツの投稿が禁止されました。",
   "error4002": "プラットフォーム規制に違反したため、プロフィールの変更またはコンテンツの投稿が禁止されました。",
-  "error10062": "検討中の注文があります"
+  "error10062": "検討中の注文があります",
+  "textValidTimeMinuteSingular": "{value1} 分",
+  "textValidTimeMinute": "{value1} 分",
+  "textValidTimeHourSingular": "{value1} 時間",
+  "textValidTimeHour": "{value1} 時間",
+  "textDay": "日",
+  "textHour": "時間",
+  "textMinute": "分"
 }
