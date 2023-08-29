@@ -813,7 +813,7 @@
   "textOnlyOnceInvest": "Đối với cùng một câu hỏi, mỗi người dùng chỉ có thể bỏ phiếu một lần.",
   "textInvestableNFTValue": "Giá trị điểm bỏ phiếu bằng NFT",
   "textHoldNFTToday": "Bạn giữ {value1} NFT pen hôm nay",
-  "textNFTInvestmentDescription": "Mỗi ngày vào lúc 00:00 UTC, nền tảng này sẽ quét các bút NFT được giữ trong địa chỉ ví của mỗi người dùng và chụp nhanh các bút NFT của mỗi người dùng vào ngày đó. Kết quả quét trong ngày cho biết giá trị điểm do người dùng sử dụng NFT bình chọn hôm nay, cây bút có giá trị {value1} điểm.",
+  "textNFTInvestmentDescription": "Mỗi ngày vào lúc 00:00 UTC, nền tảng này sẽ quét các bút NFT được giữ trong địa chỉ ví của mỗi người dùng và chụp nhanh các bút NFT của mỗi người dùng vào ngày đó. Kết quả quét trong ngày cho biết giá trị điểm do người dùng sử dụng NFT bình chọn hôm nay, cây bút có giá trị {value1} điểm. Tối đa {value2} câu hỏi được NFT hỗ trợ mỗi ngày",
   "textPrivateProgressDescription1": "Các câu hỏi phổ biến được sắp xếp theo thứ tự ngược lại với GIÁ TRỊ HOT và 50 câu hỏi hàng đầu sẽ vào [Danh sách xếp hàng câu hỏi] và các câu hỏi phổ biến trong danh sách này sẽ được xem xét và trở thành câu hỏi thịnh hành.",
   "textPrivateProgressDescription2": "Điểm câu hỏi thường gặp = (các) điểm dành cho việc trả lời + (các) điểm dành cho lý do + (các) điểm dành cho lượt thích + (các) điểm đã bình chọn + (các) điểm bình chọn NFT",
   "textPrivateProgressDescription3": "Cứ 1 điểm dành cho câu trả lời, lý do và lượt thích, điểm của câu hỏi sẽ tăng thêm 1; cứ 1 điểm được bình chọn thì điểm của câu hỏi sẽ tăng 1 điểm; đối với mỗi phiếu bầu của NFT, điểm của câu hỏi sẽ tăng thêm {value1}",

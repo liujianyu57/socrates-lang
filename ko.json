@@ -813,7 +813,7 @@
   "textOnlyOnceInvest": "동일한 질문에 대해 각 사용자는 한 번만 투표할 수 있습니다.",
   "textInvestableNFTValue": "NFT를 사용한 투표 포인트 값",
   "textHoldNFTToday": "오늘 {value1}개의 NFT 펜을 보유하고 있습니다.",
-  "textNFTInvestmentDescription": "매일 UTC 00:00에 플랫폼은 각 사용자의 지갑 주소에 있는 NFT 펜을 스캔하고 그날 각 사용자의 NFT 펜의 스냅샷을 찍습니다. 당일 스캔 결과는 오늘 NFT를 사용하여 사용자가 투표한 포인트의 가치를 나타내며 펜은 {value1}점의 가치가 있습니다.",
+  "textNFTInvestmentDescription": "매일 UTC 00:00에 플랫폼은 각 사용자의 지갑 주소에 있는 NFT 펜을 스캔하고 그날 각 사용자의 NFT 펜의 스냅샷을 찍습니다. 당일 스캔 결과는 오늘 NFT를 사용하여 사용자가 투표한 포인트의 가치를 나타내며 펜은 {value1}점의 가치가 있습니다. NFT는 하루에 최대 {value2}개의 질문을 지원합니다.",
   "textPrivateProgressDescription1": "자주 묻는 질문은 HOT VALUE의 역순으로 정렬되며, 상위 50개는 [Questions Queuing List]에 들어가고, 이 목록에서 자주 묻는 질문은 검토되어 트렌드 질문이 됩니다.",
   "textPrivateProgressDescription2": "일반적인 질문 점수 = 답변에 사용된 포인트 + 이유에 사용된 포인트 + 좋아요에 사용된 포인트 + 투표된 포인트 + NFT 투표 포인트 값",
   "textPrivateProgressDescription3": "답변, 이유 및 좋아요에 1포인트를 사용할 때마다 질문 점수가 1씩 증가합니다. 1점이 투표될 때마다 질문 점수가 1씩 증가합니다. 모든 NFT 투표에 대해 질문 점수가 {value1}씩 증가합니다.",

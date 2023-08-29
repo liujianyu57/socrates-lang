@@ -813,7 +813,7 @@
   "textOnlyOnceInvest": "同一個問題，每個用戶只能投票一次",
   "textInvestableNFTValue": "使用NFT可投票的積分價值",
   "textHoldNFTToday": "今日持有{value1}支NFT筆",
-  "textNFTInvestmentDescription": "每天UTC 00:00點平臺掃描每個用戶的錢包地址中的持有的NFT筆，快照得到每個用戶在當天的NFT筆，當天掃描的結果表示該用戶今天使用NFT投票的積分價值，每1支筆價值{value1}分數。",
+  "textNFTInvestmentDescription": "每天UTC 00:00點平臺掃描每個用戶的錢包地址中的持有的NFT筆，快照得到每個用戶在當天的NFT筆，當天掃描的結果表示該用戶今天使用NFT投票的積分價值，每1支筆價值{value1}分數。每天使用NFT支持的問題最多{value2}個",
   "textPrivateProgressDescription1": "普通問題根據熱度值倒序排列，前50名進入到【問題排隊榜】，該榜單中的普通問題將被審核成為公眾問題。",
   "textPrivateProgressDescription2": "普通問題分數 = 答題花費積分 + 理由花費積分 + 點贊花費積分 + 投票積分 + NFT投票分值",
   "textPrivateProgressDescription3": "答題、理由、點贊每花費1 積分，該問題分數增加1；每投票1分，該問題分數增加1；每1個NFT投票，該問題分數增加{value1}",
