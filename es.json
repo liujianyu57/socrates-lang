@@ -1055,5 +1055,14 @@
   "textValidTimeHour": "{value1} Horas",
   "textDay": "Día",
   "textHour": "Hora",
-  "textMinute": "Minuto"
+  "textMinute": "Minuto",
+  "textAskRule": "Por cada bolígrafo SBT o NFT que un usuario sostenga al hacer una pregunta, el costo de los puntos se duplicará.",
+  "tipsNFTSupportReachLimit": "La cantidad de preguntas admitidas por su NFT hoy ha alcanzado el límite superior",
+  "textLikeRule": "Cada vez que un usuario sostenga un bolígrafo SBT o NFT cuando le guste, el consumo de puntos se duplicará. Aquellos a quienes les guste al final de la pregunta pueden obtener un premio similar; consulte el documento técnico para conocer las reglas.",
+  "error10063": "El código de invitación no puede estar vacío",
+  "tipsTitleAccountUnregistered": "Cuenta no registrada",
+  "tipsContentAccountUnregistered": "La cuenta no está registrada, vaya a la página de registro de billetera",
+  "tipsTitleAccountExisted": "la cuenta ya existe",
+  "tipsContentAccountExisted": "La cuenta ya existe, vaya a la página de inicio de sesión de la billetera.",
+  "tipsReplyCharacterLimit": "La respuesta no puede exceder {value1} caracteres"
 }

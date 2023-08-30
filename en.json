@@ -1055,5 +1055,14 @@
   "textValidTimeHour": "{value1} Hours",
   "textDay": "Day",
   "textHour": "Hour",
-  "textMinute": "Minute"
+  "textMinute": "Minute",
+  "textAskRule": "For every SBT or NFT pen a user holds when asking a question, the points cost will be doubled.",
+  "tipsNFTSupportReachLimit": "The number of questions supported by your NFT today has reached the upper limit",
+  "textLikeRule": "Every time a user holds a SBT or NFT pen when they like it, the point consumption will double. Those who like at the end of the question may get a like award, please refer to the white paper for the rules.",
+  "error10063": "Invitation code cannot be empty",
+  "tipsTitleAccountUnregistered": "Account not registered",
+  "tipsContentAccountUnregistered": "The account is not registered, please go to the wallet registration page",
+  "tipsTitleAccountExisted": "Account already exists",
+  "tipsContentAccountExisted": "The account already exists, please go to the wallet login page",
+  "tipsReplyCharacterLimit": "Reply cannot exceed {value1} characters"
 }

@@ -1055,5 +1055,14 @@
   "textValidTimeHour": "{value1}小时",
   "textDay": "天",
   "textHour": "小时",
-  "textMinute": "分钟"
+  "textMinute": "分钟",
+  "textAskRule": "用户在提问时每持有一支SBT或NFT笔，积分消耗就会增加1倍。",
+  "tipsNFTSupportReachLimit": "您今日NFT支持的问题数量已达上限",
+  "textLikeRule": "用户在点赞时每持有一支SBT或NFT笔，积分消耗就会增加1倍。问题结束时点赞者可能获得点赞奖，规则请查看白皮书。",
+  "error10063": "邀请码不能为空",
+  "tipsTitleAccountUnregistered": "账号未注册",
+  "tipsContentAccountUnregistered": "账号未注册，请去钱包注册页",
+  "tipsTitleAccountExisted": "账号已存在",
+  "tipsContentAccountExisted": "账号已存在，请去钱包登录页",
+  "tipsReplyCharacterLimit": "回复字符数不能超过{value1}"
 }

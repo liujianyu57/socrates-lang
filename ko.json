@@ -1055,5 +1055,14 @@
   "textValidTimeHour": "{value1}시간",
   "textDay": "낮",
   "textHour": "시간",
-  "textMinute": "분"
+  "textMinute": "분",
+  "textAskRule": "사용자가 질문을 할 때 SBT 또는 NFT 펜을 잡을 때마다 소비된 포인트가 두 배로 늘어납니다.",
+  "tipsNFTSupportReachLimit": "오늘 NFT에서 지원하는 질문 수가 상한에 도달했습니다.",
+  "textLikeRule": "사용자가 원할 때 SBT 또는 NFT 펜을 잡을 때마다 포인트 소모가 두 배로 늘어납니다. 질문 끝에 좋아요를 눌러주신 분들은 좋아요 보상을 받으실 수 있으니, 규정은 백서를 참고해주세요.",
+  "error10063": "초대 코드는 비워둘 수 없습니다.",
+  "tipsTitleAccountUnregistered": "계정이 등록되지 않았습니다",
+  "tipsContentAccountUnregistered": "계정이 등록되지 않았습니다. 지갑 등록 페이지로 이동하세요.",
+  "tipsTitleAccountExisted": "계정이 이미 존재합니다.",
+  "tipsContentAccountExisted": "계정이 이미 존재합니다. 지갑 로그인 페이지로 이동하세요.",
+  "tipsReplyCharacterLimit": "답글의 문자 수는 {value1}을(를) 초과할 수 없습니다."
 }

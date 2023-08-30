@@ -1055,5 +1055,14 @@
   "textValidTimeHour": "{value1} 時間",
   "textDay": "日",
   "textHour": "時間",
-  "textMinute": "分"
+  "textMinute": "分",
+  "textAskRule": "ユーザーがSBTまたはNFTペンを持って質問するたびに、消費ポイントが2倍になります。",
+  "tipsNFTSupportReachLimit": "現在、NFT でサポートされている質問の数が上限に達しました",
+  "textLikeRule": "ユーザーが気に入ったときにSBTまたはNFTペンを握るたびに、ポイント消費が2倍になります。 質問の最後に「いいね！」をした人にはいいね賞がもらえる場合があります。ルールについてはホワイトペーパーを参照してください。",
+  "error10063": "招待コードを空にすることはできません",
+  "tipsTitleAccountUnregistered": "アカウントが登録されていません",
+  "tipsContentAccountUnregistered": "アカウントが登録されていません。ウォレット登録ページにアクセスしてください。",
+  "tipsTitleAccountExisted": "アカウントはすでに存在しています",
+  "tipsContentAccountExisted": "アカウントはすでに存在します。ウォレットのログインページにアクセスしてください。",
+  "tipsReplyCharacterLimit": "返信の文字数は {value1} を超えることはできません"
 }

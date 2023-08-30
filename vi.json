@@ -1055,5 +1055,14 @@
   "textValidTimeHour": "{value1} Giờ",
   "textDay": "Ngày",
   "textHour": "Giờ",
-  "textMinute": "Phút"
+  "textMinute": "Phút",
+  "textAskRule": "Đối với mỗi cây bút SBT hoặc NFT mà người dùng cầm khi đặt câu hỏi, chi phí điểm sẽ tăng gấp đôi.",
+  "tipsNFTSupportReachLimit": "Số lượng câu hỏi được NFT của bạn hỗ trợ hôm nay đã đạt đến giới hạn trên",
+  "textLikeRule": "Mỗi khi người dùng cầm bút SBT hoặc NFT khi thích thì số điểm tiêu thụ sẽ tăng gấp đôi. Những người thích ở cuối câu hỏi có thể nhận được giải thưởng tương tự, vui lòng tham khảo sách trắng để biết các quy tắc.",
+  "error10063": "Mã lời mời không được để trống",
+  "tipsTitleAccountUnregistered": "Tài khoản chưa được đăng ký",
+  "tipsContentAccountUnregistered": "Tài khoản chưa được đăng ký, vui lòng vào trang đăng ký ví",
+  "tipsTitleAccountExisted": "Tài khoản đã tồn tại",
+  "tipsContentAccountExisted": "Tài khoản đã tồn tại, vui lòng truy cập trang đăng nhập ví",
+  "tipsReplyCharacterLimit": "Câu trả lời không được vượt quá {value1} ký tự"
 }

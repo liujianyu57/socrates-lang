@@ -1055,5 +1055,14 @@
   "textValidTimeHour": "{value1} Horas",
   "textDay": "Dia",
   "textHour": "Hora",
-  "textMinute": "Minuto"
+  "textMinute": "Minuto",
+  "textAskRule": "Para cada caneta SBT ou NFT que um usuário segura ao fazer uma pergunta, o custo em pontos será duplicado.",
+  "tipsNFTSupportReachLimit": "O número de perguntas suportadas pelo seu NFT hoje atingiu o limite máximo",
+  "textLikeRule": "Cada vez que um usuário segura uma caneta SBT ou NFT quando gosta, o consumo de pontos dobrará. Quem curtir no final da pergunta poderá ganhar um prêmio semelhante, consulte o white paper para ver as regras.",
+  "error10063": "O código do convite não pode ficar vazio",
+  "tipsTitleAccountUnregistered": "Conta não cadastrada",
+  "tipsContentAccountUnregistered": "A conta não está registrada, acesse a página de registro da carteira",
+  "tipsTitleAccountExisted": "essa conta já existe",
+  "tipsContentAccountExisted": "A conta já existe, acesse a página de login da carteira",
+  "tipsReplyCharacterLimit": "A resposta não pode exceder {value1} caracteres"
 }
