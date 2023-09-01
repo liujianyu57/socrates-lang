@@ -343,7 +343,7 @@
   "btnSwitchAccount": "Modificar cuenta",
   "textConnectSuccess": "Conexión exitosa",
   "textAccountBindSuccess": "La cuenta se ha vinculado correctamente",
-  "textHavePenDescription": "Puede utilizar el bolígrafo para responder a las preguntas, comentar, gustar y hacer preguntas, por favor acuñe un bolígrafo primero",
+  "textHavePenDescription": "Una vez que tenga un bolígrafo, podrá hacer preguntas, votar y dar me gusta. ¡Primero acuñe un bolígrafo y tenga la oportunidad de obtener NFT adicionales!",
   "textUpgradePen": "Actualizar bolígrafo",
   "textUpgradePenDescription": "Actualizar el bolígrafo puede aumentar los beneficios",
   "textMintFailed": "Acuñación fallida",

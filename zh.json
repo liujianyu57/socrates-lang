@@ -343,7 +343,7 @@
   "btnSwitchAccount": "切换账号",
   "textConnectSuccess": "连接成功",
   "textAccountBindSuccess": "账号绑定成功",
-  "textHavePenDescription": "拥有笔可以答题、评论、点赞和提问，请先铸造一支笔",
+  "textHavePenDescription": "拥有笔可以提问、投票和点赞，请先铸造一支笔，有几率爆出NFT！",
   "textUpgradePen": "升级笔",
   "textUpgradePenDescription": "升级笔可以提升收益系数",
   "textMintFailed": "铸造失败",

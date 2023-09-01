@@ -343,7 +343,7 @@
   "btnSwitchAccount": "Switch account",
   "textConnectSuccess": "Connection succeeded",
   "textAccountBindSuccess": "The account is bound successfully",
-  "textHavePenDescription": "You can use the pen to answer questions, comment, like and ask questions, please mint a pen first",
+  "textHavePenDescription": "After you have a pen, you can ask questions, vote, and like. Please mint a pen first and have a chance to get additional NFT!",
   "textUpgradePen": "Upgrade pen",
   "textUpgradePenDescription": "Upgrading the pen can increase the profit factor",
   "textMintFailed": "Mint failed",
