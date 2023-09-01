@@ -8,7 +8,7 @@
   "btnBuyPen": "ペンを購入する",
   "btnBuyPoint": "ポイントを購入する",
   "btnCancel": "キャンセル",
-  "btnChangeAnswer": "答えを変更する",
+  "btnChangeAnswer": "変更投票",
   "btnChannel": "チャネル",
   "btnCollapse": "崩壊",
   "btnConfirm": "確認",
@@ -1064,5 +1064,14 @@
   "tipsContentAccountUnregistered": "アカウントが登録されていません。ウォレット登録ページにアクセスしてください。",
   "tipsTitleAccountExisted": "アカウントはすでに存在しています",
   "tipsContentAccountExisted": "アカウントはすでに存在します。ウォレットのログインページにアクセスしてください。",
-  "tipsReplyCharacterLimit": "返信の文字数は {value1} を超えることはできません"
+  "tipsReplyCharacterLimit": "返信の文字数は {value1} を超えることはできません",
+  "textVoteRule": "投票ルール",
+  "textVoteRule01": "1. 投票時にSBTとNFTをホールドすると、両者の票が重畳されます。",
+  "textVoteRule02": "2. 操作でポイントを消費 ユーザーがSBTまたはNFTペンを持って質問、投票、理由を書いたり、いいねをするたびに、消費ポイントが2倍になります。",
+  "textVoteDisplayRule": "投票表示ルール",
+  "textVoteDisplayRule01": "1. 現在の投票者数 ≤ {value1}、現在進行中の問題、投票分布、および過去の傾向は常に非表示になります。",
+  "textVoteDisplayRule02": "2. 現在の投票者数 > {value1}、進行中の質問、投票後、現在の投票時刻での投票分布が表示されます。 投資が変更されるたびにデータが更新されます",
+  "textVoteDisplayRule03": "3. 質問が終了したら、最終的な投票分布を表示します。",
+  "textInvitationCodeRequired": "招待コード（必須）",
+  "textVotes": "投票数"
 }

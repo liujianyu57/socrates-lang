@@ -8,7 +8,7 @@
   "btnBuyPen": "Buy pen",
   "btnBuyPoint": "Buy point(s)",
   "btnCancel": "Cancel",
-  "btnChangeAnswer": "Change answer",
+  "btnChangeAnswer": "Change vote",
   "btnChannel": "Channel",
   "btnCollapse": "Collapse",
   "btnConfirm": "Confirm",
@@ -1064,5 +1064,14 @@
   "tipsContentAccountUnregistered": "The account is not registered, please go to the wallet registration page",
   "tipsTitleAccountExisted": "Account already exists",
   "tipsContentAccountExisted": "The account already exists, please go to the wallet login page",
-  "tipsReplyCharacterLimit": "Reply cannot exceed {value1} characters"
+  "tipsReplyCharacterLimit": "Reply cannot exceed {value1} characters",
+  "textVoteRule": "Voting rules",
+  "textVoteRule01": "1. Hold SBT and NFT when voting, and the votes of the two will be superimposed.",
+  "textVoteRule02": "2. Operations consume points. Every time a user holds an SBT or NFT pen when asking questions, voting, writing reasons, and giving likes, the point consumption will be doubled.",
+  "textVoteDisplayRule": "Voting Display Rules",
+  "textVoteDisplayRule01": "1. The current number of voters ≤ {value1}, ongoing issues, vote distribution and historical trends are always hidden",
+  "textVoteDisplayRule02": "2. The current number of voters > {value1}, ongoing questions, after voting, the vote distribution at the current voting time is displayed. Data will be updated after each change of investment",
+  "textVoteDisplayRule03": "3. After the question ends, show the final vote distribution.",
+  "textInvitationCodeRequired": "Invitation code (required)",
+  "textVotes": "Votes"
 }

@@ -8,7 +8,7 @@
   "btnBuyPen": "Comprar PEN",
   "btnBuyPoint": "Comprar pontos",
   "btnCancel": "Cancelar",
-  "btnChangeAnswer": "Mudar resposta",
+  "btnChangeAnswer": "Alterar voto",
   "btnChannel": "Canal",
   "btnCollapse": "Cair",
   "btnConfirm": "Enviar",
@@ -1064,5 +1064,14 @@
   "tipsContentAccountUnregistered": "A conta não está registrada, acesse a página de registro da carteira",
   "tipsTitleAccountExisted": "essa conta já existe",
   "tipsContentAccountExisted": "A conta já existe, acesse a página de login da carteira",
-  "tipsReplyCharacterLimit": "A resposta não pode exceder {value1} caracteres"
+  "tipsReplyCharacterLimit": "A resposta não pode exceder {value1} caracteres",
+  "textVoteRule": "Regras de votação",
+  "textVoteRule01": "1. Segure SBT e NFT na hora de votar, e os votos dos dois serão sobrepostos.",
+  "textVoteRule02": "2. As operações consomem pontos. Cada vez que um usuário segura uma caneta do SBT ou NFT ao fazer perguntas, votar, escrever motivos e dar curtidas, o consumo de pontos será dobrado.",
+  "textVoteDisplayRule": "Regras de exibição de votação",
+  "textVoteDisplayRule01": "1. O número atual de eleitores ≤ {value1}, questões em andamento, distribuição de votos e tendências históricas estão sempre ocultos",
+  "textVoteDisplayRule02": "2. O número atual de eleitores > {value1}, questões em andamento, após a votação, é exibida a distribuição dos votos no horário de votação atual. Os dados serão atualizados após cada mudança de investimento",
+  "textVoteDisplayRule03": "3. Após o término da questão, mostre a distribuição final dos votos.",
+  "textInvitationCodeRequired": "Código de convite (obrigatório)",
+  "textVotes": "Votos"
 }

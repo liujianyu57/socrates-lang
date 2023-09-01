@@ -8,7 +8,7 @@
   "btnBuyPen": "買筆",
   "btnBuyPoint": "買積分",
   "btnCancel": "取消",
-  "btnChangeAnswer": "修改答案",
+  "btnChangeAnswer": "修改投票",
   "btnChannel": "頻道",
   "btnCollapse": "收起",
   "btnConfirm": "確認",
@@ -1064,5 +1064,14 @@
   "tipsContentAccountUnregistered": "帳號未註冊，請去錢包註冊頁",
   "tipsTitleAccountExisted": "帳號已存在",
   "tipsContentAccountExisted": "帳號已存在，請去錢包登錄頁",
-  "tipsReplyCharacterLimit": "回復字元數不能超過{value1}"
+  "tipsReplyCharacterLimit": "回復字元數不能超過{value1}",
+  "textVoteRule": "投票規則",
+  "textVoteRule01": "1. 投票時，同時持有SBT和NFT，二者票數疊加。",
+  "textVoteRule02": "2. 操作消耗積分，用戶在提問、投票、寫理由、點贊時每持有一支SBT或NFT筆，積分消耗就會增加1倍。",
+  "textVoteDisplayRule": "投票展示規則",
+  "textVoteDisplayRule01": "1. 當前投票人數 ≤ {value1}，進行中的問題，票數分佈和歷史趨勢始終隱藏",
+  "textVoteDisplayRule02": "2. 當前投票人數 > {value1}，進行中的問題，投票後展示當前投票時間的票數分佈。每次改投後會更新數據",
+  "textVoteDisplayRule03": "3. 問題結束後，展示最終票數分佈。",
+  "textInvitationCodeRequired": "邀請碼（必填）",
+  "textVotes": "投票數"
 }
