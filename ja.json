@@ -1073,5 +1073,7 @@
   "textVoteDisplayRule02": "2. 現在の投票者数 > {value1}、進行中の質問、投票後、現在の投票時刻での投票分布が表示されます。 投資が変更されるたびにデータが更新されます",
   "textVoteDisplayRule03": "3. 質問が終了したら、最終的な投票分布を表示します。",
   "textInvitationCodeRequired": "招待コード（必須）",
-  "textVotes": "投票数"
+  "textVotes": "投票数",
+  "textPreXDisplayVoteRate": "{value1} 以降の有権者は、投票後に自分の投票シェアのスナップショットを表示できます。",
+  "textEndDisplayVoteRate": "質問終了後に全投票率を表示可能"
 }

@@ -1073,5 +1073,7 @@
   "textVoteDisplayRule02": "2. 현재 투표자 수 > {value1}, 진행 중인 질문, 투표 후 현재 투표 시간의 투표 분포가 표시됩니다. 다시 제출할 때마다 데이터가 업데이트됩니다.",
   "textVoteDisplayRule03": "3. 질문이 끝나면 최종 투표 분포를 보여줍니다.",
   "textInvitationCodeRequired": "초대 코드(선택사항)",
-  "textVotes": "투표수"
+  "textVotes": "투표수",
+  "textPreXDisplayVoteRate": "{value1} 이후 유권자는 투표 후 투표 비율의 스냅샷을 표시할 수 있습니다.",
+  "textEndDisplayVoteRate": "질문이 끝난 후 전체 투표율이 표시될 수 있습니다."
 }

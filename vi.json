@@ -1073,5 +1073,7 @@
   "textVoteDisplayRule02": "2. Số lượng cử tri hiện tại > {value1}, các câu hỏi đang diễn ra, sau khi bỏ phiếu, việc phân bổ phiếu bầu tại thời điểm bỏ phiếu hiện tại sẽ được hiển thị. Dữ liệu sẽ được cập nhật sau mỗi lần thay đổi đầu tư",
   "textVoteDisplayRule03": "3. Sau khi câu hỏi kết thúc, hãy hiển thị cách phân bổ phiếu bầu cuối cùng.",
   "textInvitationCodeRequired": "Mã mời (bắt buộc)",
-  "textVotes": "Số phiếu bầu"
+  "textVotes": "Số phiếu bầu",
+  "textPreXDisplayVoteRate": "Những người bỏ phiếu sau {value1} có thể hiển thị ảnh chụp nhanh về tỷ lệ phiếu bầu sau khi bỏ phiếu",
+  "textEndDisplayVoteRate": "Sau khi câu hỏi kết thúc, tỷ lệ bình chọn hoàn chỉnh có thể được hiển thị"
 }

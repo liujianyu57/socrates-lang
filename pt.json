@@ -1073,5 +1073,7 @@
   "textVoteDisplayRule02": "2. O número atual de eleitores > {value1}, questões em andamento, após a votação, é exibida a distribuição dos votos no horário de votação atual. Os dados serão atualizados após cada mudança de investimento",
   "textVoteDisplayRule03": "3. Após o término da questão, mostre a distribuição final dos votos.",
   "textInvitationCodeRequired": "Código de convite (obrigatório)",
-  "textVotes": "Votos"
+  "textVotes": "Votos",
+  "textPreXDisplayVoteRate": "Após {value1} votos, um instantâneo da taxa de votação pode ser exibido",
+  "textEndDisplayVoteRate": "Após o término da pergunta, a taxa de votação completa pode ser exibida"
 }

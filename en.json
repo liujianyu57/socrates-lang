@@ -1073,5 +1073,7 @@
   "textVoteDisplayRule02": "2. The current number of voters > {value1}, ongoing questions, after voting, the vote distribution at the current voting time is displayed. Data will be updated after each change of investment",
   "textVoteDisplayRule03": "3. After the question ends, show the final vote distribution.",
   "textInvitationCodeRequired": "Invitation code (required)",
-  "textVotes": "Votes"
+  "textVotes": "Votes",
+  "textPreXDisplayVoteRate": "After {value1} votes, a snapshot of the vote rate can be displayed",
+  "textEndDisplayVoteRate": "After the question ends, the complete vote rate can be displayed"
 }
