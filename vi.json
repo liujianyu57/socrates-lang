@@ -1078,5 +1078,6 @@
   "textEndDisplayVoteRate": "Sau khi câu hỏi kết thúc, tỷ lệ bình chọn hoàn chỉnh có thể được hiển thị",
   "textPenToVote": "Sở hữu cây bút {value1}: {value2} phiếu bầu.",
   "textVoteHelp": "Trợ giúp bỏ phiếu",
-  "textAfterVoteDisplay": "Hiển thị sau khi bỏ phiếu"
+  "textAfterVoteDisplay": "Hiển thị sau khi bỏ phiếu",
+  "error3053": "Số lượng câu hỏi được NFT của bạn hỗ trợ hôm nay đã đạt đến giới hạn trên"
 }

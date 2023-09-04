@@ -1078,5 +1078,6 @@
   "textEndDisplayVoteRate": "问题结束后，可展示完整的得票率",
   "textPenToVote": "拥有{value1}支笔，{value2}票。",
   "textVoteHelp": "投票帮助",
-  "textAfterVoteDisplay": "投票后展示"
+  "textAfterVoteDisplay": "投票后展示",
+  "error3053": "您今日NFT支持的问题数量已达上限"
 }

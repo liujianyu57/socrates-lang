@@ -1078,5 +1078,6 @@
   "textEndDisplayVoteRate": "After the question ends, the complete vote rate can be displayed",
   "textPenToVote": "Possess {value1} pen: {value2} votes.",
   "textVoteHelp": "Voting help",
-  "textAfterVoteDisplay": "Show after voting"
+  "textAfterVoteDisplay": "Show after voting",
+  "error3053": "The number of questions supported by your NFT today has reached the upper limit"
 }
