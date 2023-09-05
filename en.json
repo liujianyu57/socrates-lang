@@ -792,7 +792,7 @@
   "error32003": "transaction rejected",
   "error32004": "The requested mMATICod is not supported",
   "error32005": "request limit exceeded",
-  "tipsInvitationCodeFormatError": "Please enter an 8-digit invitation code",
+  "tipsInvitationCodeFormatError": "Enter 8 alphanumeric characters",
   "error10034": "The invitation code does not exist",
   "textMysteryReferralRulesTitle1": "How to get mystery box?",
   "textMysteryReferralRulesText1": "1. Every time a friend is invited, the friend registers and logs in, and both parties can get a basic mystery box. \n 2. After a friend buys an advanced SBT pen, both parties can get an advanced mystery box.",

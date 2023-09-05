@@ -792,7 +792,7 @@
   "error32003": "transacción rechazada",
   "error32004": "El método solicitado no es compatible",
   "error32005": "Se ha superado el límite de solicitud",
-  "tipsInvitationCodeFormatError": "Introduzca el código de invitación de 8 dígitos",
+  "tipsInvitationCodeFormatError": "Introduzca 8 caracteres alfanuméricos",
   "error10034": "Este código de invitación no existe",
   "textMysteryReferralRulesTitle1": "¿Cómo conseguir la Caja Misteriosa?",
   "textMysteryReferralRulesText1": "1. Cada vez que un amigo sea invitado, se registre e inicie sesión, usted y su amigo podrán obtener la Caja Misteriosa Básica.\n 2. Después de que un amigo compre un bolígrafo SBT avanzado, ambas partes pueden obtener una caja misteriosa avanzada.",

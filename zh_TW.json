@@ -792,7 +792,7 @@
   "error32003": "交易拒絕",
   "error32004": "不支持所請求的方法",
   "error32005": "超過請求限制",
-  "tipsInvitationCodeFormatError": "邀請碼請輸入8位數字",
+  "tipsInvitationCodeFormatError": "請輸入8位字母數字",
   "error10034": "邀請碼不存在",
   "textMysteryReferralRulesTitle1": "如何獲取盲盒？",
   "textMysteryReferralRulesText1": "1. 每邀請一個好友，好友註冊並登錄，雙方均可獲得低級盲盒。\n 2. 好友買高級SBT筆之後，雙方均可獲得高級盲盒。",

@@ -792,7 +792,7 @@
   "error32003": "transação rejeitada",
   "error32004": "O método solicitado não é suportado",
   "error32005": "limite de solicitação excedido",
-  "tipsInvitationCodeFormatError": "Por favor, introduza o código de convite de 8 dígitos",
+  "tipsInvitationCodeFormatError": "Insira 8 caracteres alfanuméricos",
   "error10034": "Este código de convite não existe",
   "textMysteryReferralRulesTitle1": "Como obter Mystery Box?",
   "textMysteryReferralRulesText1": "1. Cada vez que um amigo é convidado, se registra e entra, você e seu amigo podem obter Mystery Box Basic. \n 2. Depois que um amigo compra uma caneta SBT avançada, ambas as partes podem obter uma caixa misteriosa avançada.",

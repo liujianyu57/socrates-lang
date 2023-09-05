@@ -792,7 +792,7 @@
   "error32003": "トランザクションが拒否されました",
   "error32004": "要求されたメソッドはサポートされていません",
   "error32005": "リクエスト制限を超えました",
-  "tipsInvitationCodeFormatError": "8桁の招待コードを入力してください",
+  "tipsInvitationCodeFormatError": "8文字の英数字を入力してください",
   "error10034": "招待コードが存在しません",
   "textMysteryReferralRulesTitle1": "ミステリーボックスの入手方法は？",
   "textMysteryReferralRulesText1": "1. 友达が招待されるたびに、その友达は登録してログインし、双方が基本的なミステリー ボックスを取得できます。 \n 2. 友人がアドバンスト SBT ペンを购入すると、双方ともアドバンスト ミステリー ボックスを入手できます。",
