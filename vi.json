@@ -965,7 +965,7 @@
   "tipsUnblocked": "Đã bỏ chặn",
   "textDataPolicy": "Chia sẻ dữ liệu đăng ký của tôi với các nhà cung cấp nội dung của Socrates cho mục đích tiếp thị. Lưu ý rằng dữ liệu của bạn có thể được chuyển đến một quốc gia bên ngoài EEA như được mô tả trong chính sách bảo mật của chúng tôi.",
   "btnPrivacyPolicy": "Chính sách bảo mật",
-  "textAgreeTermsAndPrivacy": "Bằng cách nhấp vào Tiếp theo hoặc Đăng ký bằng ví, bạn đồng ý với {value1} và {value2} của chúng tôi",
+  "textAgreeTermsAndPrivacy": "Bằng cách nhấp vào Tiếp theo hoặc Đăng ký bằng ví, bạn đồng ý với {value1}, {value2} và {value3} của chúng tôi",
   "textAccountDeleted": "Tài khoản đã bị xóa",
   "textWillDeactivateAccount": "Điều này sẽ hủy kích hoạt tài khoản của bạn",
   "textWillDeactivateAccountDescription": "Bạn sắp bắt đầu quá trình hủy kích hoạt tài khoản Socrates của mình. Tài khoản Socrates của bạn (bao gồm tên người dùng và hồ sơ công khai của bạn) sẽ không còn hiển thị trên www.socrates.xyz, Socrates dành cho iOS và Socrates dành cho Android.",
@@ -1080,5 +1080,9 @@
   "textVoteHelp": "Trợ giúp bỏ phiếu",
   "textAfterVoteDisplay": "Hiển thị sau khi bỏ phiếu",
   "error3053": "Số lượng câu hỏi được NFT của bạn hỗ trợ hôm nay đã đạt đến giới hạn trên",
-  "error10064": "Vui lòng nhập mã mời 8 chữ số"
+  "error10064": "Vui lòng nhập mã mời 8 chữ số",
+  "textManageCookies": "Quản lý cookie",
+  "textCookieBannerContent": "Trang web của chúng tôi sử dụng cookie. Bằng cách tiếp tục điều hướng, chúng tôi giả sử bạn cho phép triển khai cookie như được nêu chi tiết trong Chính sách quyền riêng tư của chúng tôi.",
+  "btnReject": "Từ chối",
+  "btnPrinciples": "Nguyên tắc người dùng"
 }

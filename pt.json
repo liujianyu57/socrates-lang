@@ -965,7 +965,7 @@
   "tipsUnblocked": "Desbloqueado",
   "textDataPolicy": "Compartilhar meus dados cadastrais com os provedores de conteúdo da Sócrates para fins de marketing. Observe que seus dados podem ser transferidos para um país fora do EEE, conforme descrito em nossa política de privacidade.",
   "btnPrivacyPolicy": "Política de Privacidade",
-  "textAgreeTermsAndPrivacy": "Ao clicar em Avançar ou Inscrever-se na carteira, você concorda com nossos {value1} e {value2}",
+  "textAgreeTermsAndPrivacy": "Ao clicar em Avançar ou Inscrever-se com carteira, você concorda com nossos {value1}, {value2} e {value3}",
   "textAccountDeleted": "Conta deletada",
   "textWillDeactivateAccount": "Isso desativará sua conta",
   "textWillDeactivateAccountDescription": "Você está prestes a iniciar o processo de desativação da sua conta Sócrates. Sua conta Socrates (incluindo seu nome de usuário e perfil público) não estará mais visível em www.socrates.xyz, Socrates para iOS e Socrates para Android.",
@@ -1080,5 +1080,9 @@
   "textVoteHelp": "Ajuda para votar",
   "textAfterVoteDisplay": "Mostrar depois de votar",
   "error3053": "O número de perguntas suportadas pelo seu NFT hoje atingiu o limite máximo",
-  "error10064": "Insira 8 caracteres alfanuméricos"
+  "error10064": "Insira 8 caracteres alfanuméricos",
+  "textManageCookies": "Gerenciar cookies",
+  "textCookieBannerContent": "Nosso site usa cookies. Ao continuar navegando, assumimos sua permissão para implantar cookies conforme detalhado em nossa Política de Privacidade.",
+  "btnReject": "Rejeitar",
+  "btnPrinciples": "Princípios do Usuário"
 }

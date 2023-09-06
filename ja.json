@@ -965,7 +965,7 @@
   "tipsUnblocked": "ブロックされていない",
   "textDataPolicy": "マーケティング目的で、私の登録データをソクラテスのコンテンツ プロバイダーと共有します。 当社のプライバシー ポリシーに记载されているように、お客様のデータは EEA 以外の国に転送される场合があることに注意してください。",
   "btnPrivacyPolicy": "プライバシーポリシー",
-  "textAgreeTermsAndPrivacy": "[次へ] をクリックするか、ウォレットでサインアップすると、{value1} と {value2} に同意したことになります。",
+  "textAgreeTermsAndPrivacy": "「次へ」をクリックするか、ウォレットにサインアップすると、{value1}、{value2}、および {value3} に同意したことになります。",
   "textAccountDeleted": "アカウントが无効になっています",
   "textWillDeactivateAccount": "これによりアカウントが无効化されます",
   "textWillDeactivateAccountDescription": "Socrates アカウントの非アクティブ化プロセスを开始しようとしています。 あなたの Socrates アカウント (ユーザー名と公开プロフィールを含む) は、www.socrates.xyz、Socrates for iOS、および Socrates for Android に表示されなくなります。",
@@ -1080,5 +1080,9 @@
   "textVoteHelp": "投票のヘルプ",
   "textAfterVoteDisplay": "投票後に表示",
   "error3053": "现在、NFT でサポートされている质问の数が上限に达しました",
-  "error10064": "8文字の英数字を入力してください"
+  "error10064": "8文字の英数字を入力してください",
+  "textManageCookies": "Cookieを管理する",
+  "textCookieBannerContent": "当社のウェブサイトでは Cookie を使用しています。 ナビゲーションを続けると、当社のプライバシー ポリシーに詳述されているように、Cookie を展開する許可が得られたものとみなされます。",
+  "btnReject": "拒否する",
+  "btnPrinciples": "ユーザー原則"
 }

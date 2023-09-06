@@ -965,7 +965,7 @@
   "tipsUnblocked": "차단 해제",
   "textDataPolicy": "마케팅 목적으로 Socrates의 콘텐츠 제공업체와 내 등록 데이터를 공유합니다. 귀하의 데이터는 개인 정보 보호 정책에 설명된 대로 EEA 외부 국가로 전송될 수 있습니다.",
   "btnPrivacyPolicy": "개인 정보 정책",
-  "textAgreeTermsAndPrivacy": "다음 또는 지갑으로 가입을 클릭하면 {value1} 및 {value2}에 동의하는 것입니다.",
+  "textAgreeTermsAndPrivacy": "다음을 클릭하거나 지갑에 가입하면 {value1}, {value2} 및 {value3}에 동의하게 됩니다.",
   "textAccountDeleted": "계정 삭제됨",
   "textWillDeactivateAccount": "계정이 비활성화됩니다.",
   "textWillDeactivateAccountDescription": "Socrates 계정의 비활성화 프로세스를 시작하려고 합니다. 귀하의 Socrates 계정(사용자 이름 및 공개 프로필 포함)은 더 이상 www.socrates.xyz, iOS용 Socrates 및 Android용 Socrates에 표시되지 않습니다.",
@@ -1080,5 +1080,9 @@
   "textVoteHelp": "투표 도움말",
   "textAfterVoteDisplay": "투표 후 표시",
   "error3053": "오늘 NFT에서 지원하는 질문 수가 상한에 도달했습니다.",
-  "error10064": "영숫자 8자리를 입력하세요."
+  "error10064": "영숫자 8자리를 입력하세요.",
+  "textManageCookies": "쿠키 관리",
+  "textCookieBannerContent": "당사 웹사이트는 쿠키를 사용합니다. 계속 탐색하면 개인정보 보호정책에 설명된 대로 쿠키를 배포할 수 있는 권한이 귀하에게 부여된 것으로 간주됩니다.",
+  "btnReject": "거부하다",
+  "btnPrinciples": "사용자 원칙"
 }

@@ -965,7 +965,7 @@
   "tipsUnblocked": "已取消屏蔽",
   "textDataPolicy": "出于营销目的与苏格拉底的内容提供商共享我的注册数据。 请注意，您的数据可能会传输到欧洲经济区以外的国家/地区，如我们的隐私政策中所述。",
   "btnPrivacyPolicy": "隐私政策",
-  "textAgreeTermsAndPrivacy": "单击下一步或使用钱包注册即表示您同意我们的{value1}和{value2}",
+  "textAgreeTermsAndPrivacy": "单击下一步或使用钱包注册即表示您同意我们的{value1}、{value2}和{value3}",
   "textAccountDeleted": "账号已停用",
   "textWillDeactivateAccount": "这会停用你的账号",
   "textWillDeactivateAccountDescription": "你即将开始你的苏格拉底账户的停用过程。您的苏格拉底账户（包括您的用户名和公众资料）将不再在www.socrates.xyz、iOS版苏格拉底和Android版苏格拉底上可见。",
@@ -1080,5 +1080,9 @@
   "textVoteHelp": "投票帮助",
   "textAfterVoteDisplay": "投票后展示",
   "error3053": "您今日NFT支持的问题数量已达上限",
-  "error10064": "请输入8位字母数字"
+  "error10064": "请输入8位字母数字",
+  "textManageCookies": "管理cookies",
+  "textCookieBannerContent": "我们的网站使用cookies。通过继续浏览，我们假定您允许我们部署cookies，详见我们的隐私政策。",
+  "btnReject": "拒绝",
+  "btnPrinciples": "用户公约"
 }
