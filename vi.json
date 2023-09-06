@@ -1079,5 +1079,6 @@
   "textPenToVote": "Sở hữu cây bút {value1}: {value2} phiếu bầu.",
   "textVoteHelp": "Trợ giúp bỏ phiếu",
   "textAfterVoteDisplay": "Hiển thị sau khi bỏ phiếu",
-  "error3053": "Số lượng câu hỏi được NFT của bạn hỗ trợ hôm nay đã đạt đến giới hạn trên"
+  "error3053": "Số lượng câu hỏi được NFT của bạn hỗ trợ hôm nay đã đạt đến giới hạn trên",
+  "error10064": "Vui lòng nhập mã mời 8 chữ số"
 }

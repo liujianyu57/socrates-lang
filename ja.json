@@ -1079,5 +1079,6 @@
   "textPenToVote": "{value1} のペンを所有しています: {value2} 票。",
   "textVoteHelp": "投票のヘルプ",
   "textAfterVoteDisplay": "投票後に表示",
-  "error3053": "现在、NFT でサポートされている质问の数が上限に达しました"
+  "error3053": "现在、NFT でサポートされている质问の数が上限に达しました",
+  "error10064": "8文字の英数字を入力してください"
 }

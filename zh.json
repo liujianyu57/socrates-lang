@@ -1079,5 +1079,6 @@
   "textPenToVote": "拥有{value1}支笔，{value2}票。",
   "textVoteHelp": "投票帮助",
   "textAfterVoteDisplay": "投票后展示",
-  "error3053": "您今日NFT支持的问题数量已达上限"
+  "error3053": "您今日NFT支持的问题数量已达上限",
+  "error10064": "请输入8位字母数字"
 }

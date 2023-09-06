@@ -1079,5 +1079,6 @@
   "textPenToVote": "Possuir {value1} caneta: {value2} votos.",
   "textVoteHelp": "Ajuda para votar",
   "textAfterVoteDisplay": "Mostrar depois de votar",
-  "error3053": "O número de perguntas suportadas pelo seu NFT hoje atingiu o limite máximo"
+  "error3053": "O número de perguntas suportadas pelo seu NFT hoje atingiu o limite máximo",
+  "error10064": "Insira 8 caracteres alfanuméricos"
 }

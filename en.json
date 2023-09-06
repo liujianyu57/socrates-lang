@@ -1079,5 +1079,6 @@
   "textPenToVote": "Possess {value1} pen: {value2} votes.",
   "textVoteHelp": "Voting help",
   "textAfterVoteDisplay": "Show after voting",
-  "error3053": "The number of questions supported by your NFT today has reached the upper limit"
+  "error3053": "The number of questions supported by your NFT today has reached the upper limit",
+  "error10064": "Enter 8 alphanumeric characters"
 }

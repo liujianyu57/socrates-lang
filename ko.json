@@ -1079,5 +1079,6 @@
   "textPenToVote": "{value1} 펜, {value2} 티켓을 소유하고 있습니다.",
   "textVoteHelp": "투표 도움말",
   "textAfterVoteDisplay": "투표 후 표시",
-  "error3053": "오늘 NFT에서 지원하는 질문 수가 상한에 도달했습니다."
+  "error3053": "오늘 NFT에서 지원하는 질문 수가 상한에 도달했습니다.",
+  "error10064": "영숫자 8자리를 입력하세요."
 }
