@@ -949,7 +949,7 @@
   "btnUndo": "Hoàn tác",
   "btnBlocked": "bị chặn",
   "tipsFollowedUser": "Bạn đã theo dõi {value1}",
-  "tipsUnfollowedUser": "Bạn đã bỏ theo dõi {value2}",
+  "tipsUnfollowedUser": "Bạn đã bỏ theo dõi {value1}",
   "tipsBlockedUser": "{value1} đã bị chặn",
   "textBlockUserDescription": "{value1} sẽ không thể theo dõi bạn và bạn sẽ không thấy thông báo từ {value2}",
   "textBlockedAccount": "tài khoản bị chặn",

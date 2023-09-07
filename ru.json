@@ -949,7 +949,7 @@
   "btnUndo": "Отменить",
   "btnBlocked": "Заблокировано",
   "tipsFollowedUser": "Вы подписались на {value1}",
-  "tipsUnfollowedUser": "Вы отписались от {value2}",
+  "tipsUnfollowedUser": "Вы отписались от {value1}",
   "tipsBlockedUser": "{value1} заблокировано",
   "textBlockUserDescription": "{value1} не сможет подписаться на вас, и вы не будете видеть уведомления от {value2}",
   "textBlockedAccount": "Заблокированный аккаунт",

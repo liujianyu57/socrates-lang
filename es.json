@@ -949,7 +949,7 @@
   "btnUndo": "Deshacer",
   "btnBlocked": "Obstruido",
   "tipsFollowedUser": "Has seguido a {value1}",
-  "tipsUnfollowedUser": "Has dejado de seguir a {value2}",
+  "tipsUnfollowedUser": "Has dejado de seguir a {value1}",
   "tipsBlockedUser": "{value1} ha sido bloqueado",
   "textBlockUserDescription": "{value1} no podrá seguirte y no verás las notificaciones de {value2}",
   "textBlockedAccount": "Cuenta bloqueada",

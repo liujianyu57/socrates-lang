@@ -949,7 +949,7 @@
   "btnUndo": "Desfazer",
   "btnBlocked": "Bloqueado",
   "tipsFollowedUser": "Você seguiu {value1}",
-  "tipsUnfollowedUser": "Você deixou de seguir {value2}",
+  "tipsUnfollowedUser": "Você deixou de seguir {value1}",
   "tipsBlockedUser": "{value1} foi bloqueado",
   "textBlockUserDescription": "{value1} não poderá segui-lo e você não verá notificações de {value2}",
   "textBlockedAccount": "Conta bloqueada",

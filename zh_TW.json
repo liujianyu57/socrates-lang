@@ -949,7 +949,7 @@
   "btnUndo": "撤銷",
   "btnBlocked": "已遮罩",
   "tipsFollowedUser": "您關注了{value1}",
-  "tipsUnfollowedUser": "您取消關注了{value2}",
+  "tipsUnfollowedUser": "您取消關注了{value1}",
   "tipsBlockedUser": "{value1}已被遮罩",
   "textBlockUserDescription": "{value1} 將無法關注你並且您將不會看到來自{value2} 的通知",
   "textBlockedAccount": "遮罩的帳號",

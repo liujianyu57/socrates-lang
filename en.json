@@ -949,7 +949,7 @@
   "btnUndo": "Undo",
   "btnBlocked": "Blocked",
   "tipsFollowedUser": "You have followed {value1}",
-  "tipsUnfollowedUser": "You have unfollowed {value2}",
+  "tipsUnfollowedUser": "You have unfollowed {value1}",
   "tipsBlockedUser": "{value1} has been blocked",
   "textBlockUserDescription": "{value1} will not be able to follow you and you will not see notifications from {value2}",
   "textBlockedAccount": "Blocked account",
