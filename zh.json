@@ -215,7 +215,7 @@
   "textMyPen": "我的笔",
   "textNewEmailAddress": "新的邮箱地址",
   "textNftAssets": "NFT资产",
-  "textNicknameDescription": "昵称长度4-30个字符，支持中英文、数字、下划线和减号",
+  "textNicknameDescription": "昵称长度4-30个字符，支持数字、下划线和减号",
   "textNicknameExisted": "该昵称已被占用，请重新输入",
   "textNoAccount": "还没有账号？",
   "textNoPenTips": "你还没有笔，无法操作，请铸造一支笔",

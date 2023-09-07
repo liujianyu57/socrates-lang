@@ -215,7 +215,7 @@
   "textMyPen": "My pens",
   "textNewEmailAddress": "New email address",
   "textNftAssets": "NFT assets",
-  "textNicknameDescription": "The nickname length is 4-30 characters, supports Chinese and English, numbers, underscores and minus signs",
+  "textNicknameDescription": "The nickname length is 4-30 characters, supports numbers, underscores and minus signs",
   "textNicknameExisted": "This nickname already exists, please re-enter",
   "textNoAccount": "Don't have an account?",
   "textNoPenTips": "You don't have a pen yet, can't operate, please mint a pen",
