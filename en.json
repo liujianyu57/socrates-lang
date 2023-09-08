@@ -988,7 +988,7 @@
   "textSystemNotification": "System Notification",
   "textYourQuestionDeleted": "Your question [{value2}] posted at {value1} violated the platform rules and has been deleted.",
   "textYourReasonDeleted": "Your reason [{value2}] posted at {value1} violated the platform rules and has been deleted, thus no longer to be used for prize pool calculations.",
-  "textYourReplyDeleted": "Your reply [{{value2}] posted at {value1} violated the platform rules and has been deleted.",
+  "textYourReplyDeleted": "Your reply [{value2}] posted at {value1} violated the platform rules and has been deleted.",
   "textYourAvatarReset": "Your avatar violated the platform rules and has been reset.",
   "textYourNicknameReset": "Your nickname violated the platform rules and has been reset.",
   "textYourProfileDeleted": "Your profile violated the platform rules and has been deleted.",
