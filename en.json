@@ -813,7 +813,7 @@
   "textOnlyOnceInvest": "Each user can only support once for the same question",
   "textInvestableNFTValue": "Point value that can be supported using NFT",
   "textHoldNFTToday": "You hold {value1}NFT pen(s) today",
-  "textNFTInvestmentDescription": "The platform scans for the NFT Pens held in each user's wallet every day at UTC 00:00, and takes a snapshot of each user's NFT Pens for that day. The scan result indicates the point value that the user can support using NFTs on that day. Each Pen is worth {value1} points.",
+  "textNFTInvestmentDescription": "The platform scans for the NFT Pens held in each user's wallet every day at UTC 00:00, and takes a snapshot of each user's NFT Pens for that day. The scan result indicates the point value that the user can support using NFTs on that day. Each Pen is worth {value1} points. Up to {value2} questions per day supported by NFT.",
   "textPrivateProgressDescription1": "Common questions are ranked in descending order based on their popularity values. The top 50 will be listed in the [Question Queue Ranking], where common questions will be reviewed to become trending ones.",
   "textPrivateProgressDescription2": "Common question points = points spent on votes + points spent on reasons + points spent on likes + supported points + supported points using NFT.",
   "textPrivateProgressDescription3": "For any question, its score will increase by 1 with every 1 point spent on votes, reasons, and likes; increase by 1 with every 1 point supported; and increase by {value1} with every 1 NFT support.",

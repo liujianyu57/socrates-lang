@@ -813,7 +813,7 @@
   "textOnlyOnceInvest": "Para a mesma pergunta, cada usuário só poderá dar suporte uma vez.",
   "textInvestableNFTValue": "Valor do ponto de apoio usando NFT",
   "textHoldNFTToday": "Hoje você possui {value1} canetas NFT",
-  "textNFTInvestmentDescription": "Todos os dias às 00:00 UTC, a plataforma verifica as canetas NFT mantidas no endereço da carteira de cada usuário e tira um instantâneo das canetas NFT de cada usuário naquele dia. Os resultados da varredura no dia indicam o valor do ponto votado pelo usuário usando NFT hoje, a caneta vale {value1} pontuação. Até {value2} perguntas suportadas por NFT por dia",
+  "textNFTInvestmentDescription": "Todos os dias às 00:00 UTC, a plataforma verifica as canetas NFT mantidas no endereço da carteira de cada usuário e tira um instantâneo das canetas NFT de cada usuário naquele dia. Os resultados da varredura no dia indicam o valor do ponto votado pelo usuário usando NFT hoje, a caneta vale {value1} pontuação. Até {value2} perguntas suportadas por NFT por dia.",
   "textPrivateProgressDescription1": "As perguntas comuns são organizadas em ordem inversa de HOT VALUE, e as 50 principais entram na [Questions Queuing List], e as perguntas comuns nesta lista serão revisadas e se tornarão perguntas de tendências.",
   "textPrivateProgressDescription2": "Pontuações de perguntas comuns = pontos por votação + pontos por motivos + pontos por curtidas + pontos de suporte + suporte NFT",
   "textPrivateProgressDescription3": "A cada ponto gasto em votos, motivos e curtidas, a pontuação da pergunta aumentará em 1; para cada ponto de apoio, a pontuação da questão aumentará em 1; para cada suporte NFT, a pontuação da pergunta aumentará em {value1}",
