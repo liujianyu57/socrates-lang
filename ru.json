@@ -701,7 +701,7 @@
   "textNFTPen": "Ручки NFT!",
   "btnBuyNFT": "Купить NFT",
   "btnPay": "Платить",
-  "btnReferral": "Направление",
+  "btnReferral": "Пригласить",
   "btnBonus": "Карточные ваучеры",
   "textOpenBoxGetNFT": "лотерея NFT",
   "btnGetNFT": "Получить НМТ",
@@ -719,7 +719,7 @@
   "textMintNFTChance": "Зарезервировать для вас на 24 часа возможностей для литья, оставшиеся {value1}",
   "textEditAvatar": "Редактировать аватар",
   "btnApply": "Приложение",
-  "textReferral": "Направление",
+  "textReferral": "Пригласить",
   "textBonus": "Премия",
   "tagMysteryBoxReferral": "Тайная коробка",
   "tagStandardReferral": "Обычная рекомендация",
@@ -1084,5 +1084,7 @@
   "textManageCookies": "Управление файлами cookie",
   "textCookieBannerContent": "Наш сайт использует файлы cookie. Продолжая навигацию, мы предполагаем, что вы разрешаете использовать файлы cookie, как описано в нашей Политике конфиденциальности.",
   "btnReject": "Отклонять",
-  "btnPrinciples": "Принципы пользователя"
+  "btnPrinciples": "Принципы пользователя",
+  "textPosterTitle": "ПРИГЛАСИТЬ ДРУЗЕЙ",
+  "textPosterSubTitle": "Поделитесь ссылкой, поделитесь своим выбором"
 }

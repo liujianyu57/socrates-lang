@@ -701,7 +701,7 @@
   "textNFTPen": "NFT筆！",
   "btnBuyNFT": "購買 NFT",
   "btnPay": "支付",
-  "btnReferral": "邀請返傭",
+  "btnReferral": "邀請",
   "btnBonus": "卡券",
   "textOpenBoxGetNFT": "抽盲盒中NFT",
   "btnGetNFT": "獲取NFT",
@@ -719,7 +719,7 @@
   "textMintNFTChance": "為您預留24小時鑄造機會，剩餘{value1}",
   "textEditAvatar": "編輯頭像",
   "btnApply": "應用",
-  "textReferral": "邀請返傭",
+  "textReferral": "邀請",
   "textBonus": "卡券",
   "tagMysteryBoxReferral": "盲盒返傭",
   "tagStandardReferral": "常規推薦",
@@ -1008,7 +1008,7 @@
   "textBeginnerGuide12": "您可以自由參與您看到的所有問題。",
   "textBeginnerGuide13": "加入辯論並說出你的觀點",
   "textBeginnerGuide14": "只要你認真對待，它會給你帶來驚喜！",
-  "textBeginnerGuide15": "點擊“贊”以表達您的支持",
+  "textBeginnerGuide15": "點擊\“贊\”以表達您的支持",
   "textBeginnerGuide16": "如果你總能從大眾中找出最好的意見，這一點很重要。",
   "textBeginnerGuide17": "支持即可賺取",
   "textBeginnerGuide18": "用您的積分對問題進行支持，使其成為熱門問題，並獲得獎勵！",
@@ -1084,5 +1084,7 @@
   "textManageCookies": "管理cookies",
   "textCookieBannerContent": "我們的網站使用cookies。通過繼續流覽，我們假定您允許我們部署cookies，詳見我們的隱私政策。",
   "btnReject": "拒絕",
-  "btnPrinciples": "用戶公約"
+  "btnPrinciples": "用戶公約",
+  "textPosterTitle": "邀請好友",
+  "textPosterSubTitle": "分享鏈接，分享選擇"
 }

@@ -701,7 +701,7 @@
   "textNFTPen": "NFT pen!",
   "btnBuyNFT": "Mua NFT",
   "btnPay": "Thanh toán",
-  "btnReferral": "Giới Thiệu",
+  "btnReferral": "Mời",
   "btnBonus": "Coupons",
   "textOpenBoxGetNFT": "Xổ số NFT",
   "btnGetNFT": "Nhận NFT",
@@ -719,7 +719,7 @@
   "textMintNFTChance": "Cơ hội để đúc sẽ tồn tại trong 24 tiếng, {value1} còn lại",
   "textEditAvatar": "Sửa hình đại diện",
   "btnApply": "Đăng ký",
-  "textReferral": "Giới Thiệu",
+  "textReferral": "Mời",
   "textBonus": "Bonus",
   "tagMysteryBoxReferral": "Chiếc hộp bí ẩn",
   "tagStandardReferral": "Giới Thiệu Tiêu Chuẩn",
@@ -1084,5 +1084,7 @@
   "textManageCookies": "Quản lý cookie",
   "textCookieBannerContent": "Trang web của chúng tôi sử dụng cookie. Bằng cách tiếp tục điều hướng, chúng tôi giả sử bạn cho phép triển khai cookie như được nêu chi tiết trong Chính sách quyền riêng tư của chúng tôi.",
   "btnReject": "Từ chối",
-  "btnPrinciples": "Nguyên tắc người dùng"
+  "btnPrinciples": "Nguyên tắc người dùng",
+  "textPosterTitle": "MỜI BẠN BÈ",
+  "textPosterSubTitle": "Chia sẻ liên kết, chia sẻ lựa chọn của bạn"
 }

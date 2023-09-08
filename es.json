@@ -701,7 +701,7 @@
   "textNFTPen": "¡Bolígrafo NFT!",
   "btnBuyNFT": "Comprar NFT",
   "btnPay": "Pagar",
-  "btnReferral": "Invitación al Descuento",
+  "btnReferral": "Invitar",
   "btnBonus": "Cupones",
   "textOpenBoxGetNFT": "Lotería NFT",
   "btnGetNFT": "Obtener NFT",
@@ -719,7 +719,7 @@
   "textMintNFTChance": "Se le reservará la oportunidad de acuñar durante 24 horas, quedando {value1}",
   "textEditAvatar": "Editar imagen",
   "btnApply": "Aplicar",
-  "textReferral": "Invitación al Descuento",
+  "textReferral": "Invitar",
   "textBonus": "Bono",
   "tagMysteryBoxReferral": "caja misteriosa",
   "tagStandardReferral": "Indicación estándar",
@@ -1084,5 +1084,7 @@
   "textManageCookies": "Gestionar cookies",
   "textCookieBannerContent": "Nuestro sitio web utiliza cookies. Al continuar navegando, asumimos su permiso para implementar cookies como se detalla en nuestra Política de Privacidad.",
   "btnReject": "Rechazar",
-  "btnPrinciples": "Principios de usuario"
+  "btnPrinciples": "Principios de usuario",
+  "textPosterTitle": "INVITAR AMIGOS",
+  "textPosterSubTitle": "Comparte el enlace, comparte tus opciones"
 }

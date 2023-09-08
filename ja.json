@@ -701,7 +701,7 @@
   "textNFTPen": "NFTペン！",
   "btnBuyNFT": "NFTを购入する",
   "btnPay": "支払い",
-  "btnReferral": "照会",
+  "btnReferral": "招待",
   "btnBonus": "クーポン",
   "textOpenBoxGetNFT": "NFT宝くじ",
   "btnGetNFT": "NFTを入手する",
@@ -719,7 +719,7 @@
   "textMintNFTChance": "ミントする机会は 24 时间予约されており、残りは {value1} です",
   "textEditAvatar": "アバターの编集",
   "btnApply": "申し込み",
-  "textReferral": "照会",
+  "textReferral": "招待",
   "textBonus": "ボーナス",
   "tagMysteryBoxReferral": "ミステリーボックス",
   "tagStandardReferral": "标准绍介",
@@ -1084,5 +1084,7 @@
   "textManageCookies": "Cookieを管理する",
   "textCookieBannerContent": "当社のウェブサイトでは Cookie を使用しています。 ナビゲーションを続けると、当社のプライバシー ポリシーに詳述されているように、Cookie を展開する許可が得られたものとみなされます。",
   "btnReject": "拒否する",
-  "btnPrinciples": "ユーザー原則"
+  "btnPrinciples": "ユーザー原則",
+  "textPosterTitle": "友达を绍介する",
+  "textPosterSubTitle": "リンクを共有し、あなたの選択を共有してください"
 }

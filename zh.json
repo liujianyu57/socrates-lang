@@ -701,7 +701,7 @@
   "textNFTPen": "NFT笔！",
   "btnBuyNFT": "购买 NFT",
   "btnPay": "支付",
-  "btnReferral": "邀请返佣",
+  "btnReferral": "邀请",
   "btnBonus": "卡券",
   "textOpenBoxGetNFT": "抽盲盒中NFT",
   "btnGetNFT": "获取NFT",
@@ -719,7 +719,7 @@
   "textMintNFTChance": "为您预留24小时铸造机会，剩余{value1}",
   "textEditAvatar": "编辑头像",
   "btnApply": "应用",
-  "textReferral": "邀请返佣",
+  "textReferral": "邀请",
   "textBonus": "卡券",
   "tagMysteryBoxReferral": "盲盒返佣",
   "tagStandardReferral": "常规推荐",
@@ -1008,7 +1008,7 @@
   "textBeginnerGuide12": "您可以自由参与您看到的所有问题。",
   "textBeginnerGuide13": "加入辩论并说出你的观点",
   "textBeginnerGuide14": "只要你认真对待，它会给你带来惊喜！",
-  "textBeginnerGuide15": "点击“赞”以表达您的支持",
+  "textBeginnerGuide15": "点击\“赞\”以表达您的支持",
   "textBeginnerGuide16": "如果你总能从大众中找出最好的意见，这一点很重要。",
   "textBeginnerGuide17": "支持即可赚取",
   "textBeginnerGuide18": "用您的积分对问题进行支持，使其成为热门问题，并获得奖励！",
@@ -1084,5 +1084,7 @@
   "textManageCookies": "管理cookies",
   "textCookieBannerContent": "我们的网站使用cookies。通过继续浏览，我们假定您允许我们部署cookies，详见我们的隐私政策。",
   "btnReject": "拒绝",
-  "btnPrinciples": "用户公约"
+  "btnPrinciples": "用户公约",
+  "textPosterTitle": "邀请好友",
+  "textPosterSubTitle": "分享链接，分享选择"
 }

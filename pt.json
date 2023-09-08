@@ -701,7 +701,7 @@
   "textNFTPen": "NFT pen!",
   "btnBuyNFT": "Comprar NFT",
   "btnPay": "Pagar",
-  "btnReferral": "Indicação",
+  "btnReferral": "Convidar",
   "btnBonus": "Cupons",
   "textOpenBoxGetNFT": "Loteria NFT",
   "btnGetNFT": "Obter NFT",
@@ -719,7 +719,7 @@
   "textMintNFTChance": "A oportunidade de cunhar será reservada para você por 24 horas. Faltam {value1}",
   "textEditAvatar": "Editar avatar",
   "btnApply": "Aplicar",
-  "textReferral": "Indicação",
+  "textReferral": "Convidar",
   "textBonus": "Bónus",
   "tagMysteryBoxReferral": "Caixa mistério",
   "tagStandardReferral": "Indicação Standard",
@@ -1084,5 +1084,7 @@
   "textManageCookies": "Gerenciar cookies",
   "textCookieBannerContent": "Nosso site usa cookies. Ao continuar navegando, assumimos sua permissão para implantar cookies conforme detalhado em nossa Política de Privacidade.",
   "btnReject": "Rejeitar",
-  "btnPrinciples": "Princípios do Usuário"
+  "btnPrinciples": "Princípios do Usuário",
+  "textPosterTitle": "CONVIDE AMIGOS",
+  "textPosterSubTitle": "Compartilhe o link, compartilhe suas escolhas"
 }

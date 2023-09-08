@@ -701,7 +701,7 @@
   "textNFTPen": "NFT 펜!",
   "btnBuyNFT": "NFT 구매",
   "btnPay": "지불하다",
-  "btnReferral": "추천",
+  "btnReferral": "초대",
   "btnBonus": "쿠폰",
   "textOpenBoxGetNFT": "NFT 복권",
   "btnGetNFT": "NFT 받기",
@@ -719,7 +719,7 @@
   "textMintNFTChance": "주조할 수 있는 기회는 24시간 동안 예약되며 남은 {value1}",
   "textEditAvatar": "아바타 편집",
   "btnApply": "적용하다",
-  "textReferral": "추천",
+  "textReferral": "초대",
   "textBonus": "보너스",
   "tagMysteryBoxReferral": "미스터리 박스 추천인",
   "tagStandardReferral": "표준 추천",
@@ -1084,5 +1084,7 @@
   "textManageCookies": "쿠키 관리",
   "textCookieBannerContent": "당사 웹사이트는 쿠키를 사용합니다. 계속 탐색하면 개인정보 보호정책에 설명된 대로 쿠키를 배포할 수 있는 권한이 귀하에게 부여된 것으로 간주됩니다.",
   "btnReject": "거부하다",
-  "btnPrinciples": "사용자 원칙"
+  "btnPrinciples": "사용자 원칙",
+  "textPosterTitle": "친구를 초대",
+  "textPosterSubTitle": "링크를 공유하고 선택 사항을 공유하세요"
 }
