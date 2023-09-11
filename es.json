@@ -323,7 +323,7 @@
   "textChangeSuccess": "Información modificada correctamente",
   "textBindSuccess": "Vincular con éxito",
   "textEmailExisted": "El correo electrónico está registrado",
-  "textEnterEmail": "Por favor, introduzca su correo electrónico",
+  "textEnterEmail": "Ingresa tu e-mail",
   "textInvalidEmail": "Formato de correo electrónico inválido",
   "textEnterEmailCode": "Introduzca el código de verificación",
   "textVerificationCodeDigits": "El código de verificación debe tener 6 dígitos",

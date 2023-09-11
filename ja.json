@@ -323,7 +323,7 @@
   "textChangeSuccess": "変更の成功",
   "textBindSuccess": "バインド成功",
   "textEmailExisted": "メールアドレスが登録されています",
-  "textEnterEmail": "メールアドレスを入力してください",
+  "textEnterEmail": "メールアドレスを入力",
   "textInvalidEmail": "无効な电子メール形式",
   "textEnterEmailCode": "メール认証コードを入力してください",
   "textVerificationCodeDigits": "认証コードは6桁である必要があります",
