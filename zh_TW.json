@@ -1024,9 +1024,7 @@
   "textPenRuleTitle2": "1. SBT筆",
   "textPenRuleBody2": "SBT 筆無限量發行，可以在蘇格拉底購買和升級。每個錢包地址只能有一支SBT筆。筆的等級越高，投票權重和收益率就越高。",
   "textPenRuleTitle3": "2. NFT筆",
-  "textPenRuleBody3": "成功鑄造SBT筆後，還有機會額外獲得NFT筆。 NFT 筆是稀有資產，其投票權重和收益率相當於 3 級 SBT Pen。 NFT筆和SBT筆的投票權重和收益率可以疊加。了解更多詳細信息，請參閱蘇格拉底白皮書。
-
-",
+  "textPenRuleBody3": "成功鑄造SBT筆後，還有機會額外獲得NFT筆。 NFT 筆是稀有資產，其投票權重和收益率相當於 3 級 SBT Pen。 NFT筆和SBT筆的投票權重和收益率可以疊加。了解更多詳細信息，請參閱蘇格拉底白皮書。",
   "textMintNFTGasDescription": "請確保您擁有足夠的Gas Fee。鑄造的機會將為您保留，您稍後可以在[錢包]進行鑄造。",
   "textShareQuestion": "分享問題，邀請好友參與！",
   "textWithdrawRecord": "兌換記錄",

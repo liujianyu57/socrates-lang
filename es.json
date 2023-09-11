@@ -1022,23 +1022,9 @@
   "textPenRuleTitle1": "Bolígrafo acuñado",
   "textPenRuleBody1": "Los bolígrafos son uno de los imprescindibles para participar en Sócrates, que se dividen en bolígrafos SBT y bolígrafos NFT.",
   "textPenRuleTitle2": "1. Bolígrafo SBT",
-  "textPenRuleBody2": "Emitidos en cantidades ilimitadas, los bolígrafos SBT se pueden comprar y actualizar en Sócrates. Solo puede haber un SBT Pen para cada dirección de billetera. Cuanto mayor sea el nivel de la pluma, mayor será el peso de los votos y las tasas de ganancia.
-
-
-
-
-
-
-",
+  "textPenRuleBody2": "Emitidos en cantidades ilimitadas, los bolígrafos SBT se pueden comprar y actualizar en Sócrates. Solo puede haber un SBT Pen para cada dirección de billetera. Cuanto mayor sea el nivel de la pluma, mayor será el peso de los votos y las tasas de ganancia.",
   "textPenRuleTitle3": "2. Bolígrafo NFT",
-  "textPenRuleBody3": "Después de que un bolígrafo SBT se acuñe con éxito, habrá una posibilidad de obtener un bolígrafo NFT adicional. Los bolígrafos NFT son activos raros con un peso de voto y tasas de ganancia equivalentes a un bolígrafo SBT de nivel 3. El peso de la votación y las tasas de ganancia de los bolígrafos NFT y SBT se pueden combinar. Para obtener más detalles, consulte el Libro Blanco de Sócrates.
-
-
-
-
-
-
-",
+  "textPenRuleBody3": "Después de que un bolígrafo SBT se acuñe con éxito, habrá una posibilidad de obtener un bolígrafo NFT adicional. Los bolígrafos NFT son activos raros con un peso de voto y tasas de ganancia equivalentes a un bolígrafo SBT de nivel 3. El peso de la votación y las tasas de ganancia de los bolígrafos NFT y SBT se pueden combinar. Para obtener más detalles, consulte el Libro Blanco de Sócrates.",
   "textMintNFTGasDescription": "Asegúrese de tener suficiente tarifa de gas. La oportunidad de acuñar estará reservada para ti y podrás acuñar en [Wallet] más tarde.",
   "textShareQuestion": "¡Comparte preguntas e invita a tus amigos a participar!",
   "textWithdrawRecord": "Retirar registros",

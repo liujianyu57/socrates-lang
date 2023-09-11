@@ -1022,13 +1022,9 @@
   "textPenRuleTitle1": "민트 펜",
   "textPenRuleBody1": "펜은 SBT 펜과 NFT 펜으로 구분되는 소크라테스에 참여하기 위한 필수품 중 하나입니다.",
   "textPenRuleTitle2": "1. SBT 펜",
-  "textPenRuleBody2": "무제한으로 발행되는 SBT 펜은 소크라테스에서 구매하고 업그레이드할 수 있습니다. 각 지갑 주소에는 하나의 SBT 펜만 있을 수 있습니다. 펜의 레벨이 높을수록 투표 가중치와 적립률이 높아집니다.
-
-",
+  "textPenRuleBody2": "무제한으로 발행되는 SBT 펜은 소크라테스에서 구매하고 업그레이드할 수 있습니다. 각 지갑 주소에는 하나의 SBT 펜만 있을 수 있습니다. 펜의 레벨이 높을수록 투표 가중치와 적립률이 높아집니다.",
   "textPenRuleTitle3": "2. NFT 펜",
-  "textPenRuleBody3": "SBT 펜이 성공적으로 생성된 후 NFT 펜을 추가로 얻을 수 있는 기회가 주어집니다. NFT 펜은 투표 가중치와 레벨 3 SBT 펜과 동등한 수익율을 지닌 희귀 자산입니다. NFT 펜과 SBT 펜의 투표 가중치와 적립률을 합칠 수 있습니다. 자세한 내용은 소크라테스 백서를 참조하세요.
-
-",
+  "textPenRuleBody3": "SBT 펜이 성공적으로 생성된 후 NFT 펜을 추가로 얻을 수 있는 기회가 주어집니다. NFT 펜은 투표 가중치와 레벨 3 SBT 펜과 동등한 수익율을 지닌 희귀 자산입니다. NFT 펜과 SBT 펜의 투표 가중치와 적립률을 합칠 수 있습니다. 자세한 내용은 소크라테스 백서를 참조하세요.",
   "textMintNFTGasDescription": "가스비가 충분한지 확인하십시오. 발행할 수 있는 기회는 귀하를 위해 예약되며 나중에 [Wallet]에서 발행할 수 있습니다.",
   "textShareQuestion": "질문을 공유하고 친구를 참여하도록 초대하세요!",
   "textWithdrawRecord": "철회 기록",
