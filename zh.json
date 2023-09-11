@@ -1087,5 +1087,6 @@
   "btnPrinciples": "用户公约",
   "textPosterTitle": "邀请好友",
   "textPosterSubTitle": "分享链接，分享选择",
-  "textCustomerService": "客服"
+  "textCustomerService": "客服",
+  "error10039": "密码长度6-14位，至少包括字母、数字、符号中的两种"
 }

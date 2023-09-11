@@ -1087,5 +1087,6 @@
   "btnPrinciples": "Princípios do Usuário",
   "textPosterTitle": "CONVIDE AMIGOS",
   "textPosterSubTitle": "Compartilhe o link, compartilhe suas escolhas",
-  "textCustomerService": "Atendimento ao Cliente"
+  "textCustomerService": "Atendimento ao Cliente",
+  "error10039": "Sua senha deve conter de 6 a 14 caracteres, incluindo pelo menos dois tipos de letras, números e símbolos"
 }

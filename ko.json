@@ -1087,5 +1087,6 @@
   "btnPrinciples": "사용자 원칙",
   "textPosterTitle": "친구를 초대",
   "textPosterSubTitle": "링크를 공유하고 선택 사항을 공유하세요",
-  "textCustomerService": "고객 서비스"
+  "textCustomerService": "고객 서비스",
+  "error10039": "비밀번호 길이는 6-14자이며 최소 2가지 유형의 문자, 숫자 및 기호를 포함합니다."
 }
