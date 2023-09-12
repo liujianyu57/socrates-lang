@@ -1074,7 +1074,7 @@
   "textVoteDisplayRule03": "Una vez finalizada la pregunta, muestre la distribución final de los votos.",
   "textInvitationCodeRequired": "Código de invitación (obligatorio)",
   "textVotes": "Votos",
-  "textPreXDisplayVoteRate": "Después de {value1} votos, se puede mostrar una instantánea de la tasa de votación.",
+  "textPreXDisplayVoteRate": "Después de {value1} votantes, se puede mostrar una instantánea de la tasa de votación",
   "textEndDisplayVoteRate": "Una vez finalizada la pregunta, se puede mostrar la tasa de votación completa.",
   "textPenToVote": "Poseer {value1} bolígrafo: {value2} votos.",
   "textVoteHelp": "Ayuda para votar",
