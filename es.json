@@ -818,7 +818,7 @@
   "textPrivateProgressDescription2": "Puntuaciones de preguntas comunes = Puntos por votar + Puntos por razones + Puntos por Me gusta + Puntos de soporte + Soporte de NFT",
   "textPrivateProgressDescription3": "Por cada punto gastado en votos, motivos y me gusta, la puntuación de la pregunta aumentará en 1; por cada punto de apoyo, la puntuación de la pregunta aumentará en 1; por cada soporte NFT, la puntuación de la pregunta aumentará en {value1}",
   "textPrivateProgressDescription4": "Las ránkings se actualizan cada 10 minutos",
-  "textQueuingProgress": "Situación en la cola",
+  "textQueuingProgress": "Progreso de tendencia",
   "textPercent": "Porcentaje",
   "textNumber": "No.{value1}",
   "textTranslatedBy": "Traducido por",

@@ -818,7 +818,7 @@
   "textPrivateProgressDescription2": "よくある質問のスコア = 投票のポイント + 理由のポイント + いいね! のポイント + ポイントサポート + NFT サポート",
   "textPrivateProgressDescription3": "投票、理由、いいね！に費やしたポイントごとに、質問のスコアは 1 ずつ増加します。 サポートポイントごとに、質問のスコアは 1 ずつ増加します。 NFT サポートごとに、質問のスコアは {value1} ずつ増加します",
   "textPrivateProgressDescription4": "ランキングは10分ごとに更新されます",
-  "textQueuingProgress": "キューの进行状况",
+  "textQueuingProgress": "進捗状況の傾向",
   "textPercent": "パーセント：",
   "textNumber": "いいえ。{value1}",
   "textTranslatedBy": "によって翻訳された",

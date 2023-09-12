@@ -818,7 +818,7 @@
   "textPrivateProgressDescription2": "Common question points = points spent on votes + points spent on reasons + points spent on likes + supported points + supported points using NFT.",
   "textPrivateProgressDescription3": "For any question, its score will increase by 1 with every 1 point spent on votes, reasons, and likes; increase by 1 with every 1 point supported; and increase by {value1} with every 1 NFT support.",
   "textPrivateProgressDescription4": "Rankings are updated every 10 minutes",
-  "textQueuingProgress": "Queuing progress",
+  "textQueuingProgress": "Trending progress",
   "textPercent": "Percent:",
   "textNumber": "NO.{value1}",
   "textTranslatedBy": "Translated by",

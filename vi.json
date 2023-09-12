@@ -818,7 +818,7 @@
   "textPrivateProgressDescription2": "Điểm câu hỏi chung = Điểm bỏ phiếu + Điểm cho lý do + Điểm cho lượt thích + Điểm hỗ trợ + Hỗ trợ NFT",
   "textPrivateProgressDescription3": "Đối với mỗi số điểm dành cho lượt bình chọn, lý do và lượt thích, điểm của câu hỏi sẽ tăng thêm 1; cứ mỗi điểm hỗ trợ, điểm của câu hỏi sẽ tăng thêm 1; đối với mỗi lần hỗ trợ NFT, điểm của câu hỏi sẽ tăng thêm {value1}",
   "textPrivateProgressDescription4": "Thứ hạng được cập nhật mỗi 10 phút",
-  "textQueuingProgress": "Quá trình xếp hàng",
+  "textQueuingProgress": "Xu hướng tiến bộ",
   "textPercent": "Tỉ lệ:",
   "textNumber": "NO.{value1}",
   "textTranslatedBy": "Đã dịch bởi",
