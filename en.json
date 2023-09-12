@@ -237,7 +237,7 @@
   "textPublic": "Trending",
   "textPublicInvestDescription": "This question has become trending. Once ended, the investors can share {value1} of the total points as rewards.",
   "textQuestion": "Questions",
-  "textQueueRanking": "Popularity values ranking",
+  "textQueueRanking": "Popularity Values Ranking",
   "textQueueRankingDescription": "{value1} questions are allowed to become trending every day. The queue progress will not be cleared. Questions that haven’t become trending will remain in the queue and become trending after review.",
   "textReasons": "Reasons",
   "textReceive": "Receive",
