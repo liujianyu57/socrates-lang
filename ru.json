@@ -232,7 +232,7 @@
   "textPrivate": "Общий",
   "textPrizePool": "ПРИЗ",
   "textProcessing": "Обработка",
-  "textProfitRanking": "Общий список доходов",
+  "textProfitRanking": "Рейтинг победителей",
   "textProfitRankingDescription": "Генерируется на основе исторических сумм очков пользователя, обновляется каждый жень",
   "textPublic": "Популярный",
   "textPublicInvestDescription": "Этот вопрос стал трендовым. По завершении сторонники смогут разделить {value1} от общего количества баллов в качестве вознаграждения.",
