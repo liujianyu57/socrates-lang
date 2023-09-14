@@ -1088,5 +1088,6 @@
   "textPosterTitle": "MỜI BẠN BÈ",
   "textPosterSubTitle": "Chia sẻ liên kết, chia sẻ lựa chọn của bạn",
   "textCustomerService": "Dịch vụ khách hàng",
-  "error10039": "Độ dài mật khẩu là 6-14 ký tự, bao gồm ít nhất hai loại chữ cái, số và ký tự đặc biệt"
+  "error10039": "Độ dài mật khẩu là 6-14 ký tự, bao gồm ít nhất hai loại chữ cái, số và ký tự đặc biệt",
+  "tipsNotEnoughPoint": "Bạn có {value1} điểm và cần mua ít nhất {value2} điểm để tiếp tục hoạt động"
 }

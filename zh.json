@@ -1088,5 +1088,6 @@
   "textPosterTitle": "邀请好友",
   "textPosterSubTitle": "分享链接，分享选择",
   "textCustomerService": "客服",
-  "error10039": "密码长度6-14位，至少包括字母、数字、符号中的两种"
+  "error10039": "密码长度6-14位，至少包括字母、数字、符号中的两种",
+  "tipsNotEnoughPoint": "您有 {value1} 积分，需要购买至少 {value2} 积分才能继续操作"
 }
