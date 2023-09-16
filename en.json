@@ -1100,7 +1100,7 @@
   "textBeginnerClass0106": "Reward Coefficient: Based on the type and number of pens (NFT pens can be stacked and calculated), the higher the level of the pen, the larger the coefficient.",
   "textBeginnerClass0107": "Reward amount: prize pool amount * 100 / total number of voters",
   "textBeginnerClass0108": "How to understand Winning Prize?",
-  "textBeginnerClass0109": "The Winning Prize is a relatively evenly distributed prize, i.e. all "winners" share the prize pool, and the only factor that makes the prize different is the number of pens held.",
+  "textBeginnerClass0109": "The Winning Prize is a relatively evenly distributed prize, i.e. all 'winners' share the prize pool, and the only factor that makes the prize different is the number of pens held.",
   "textBeginnerClass0110": "Type 2 Argumentative Prize",
   "textBeginnerClass0111": "Judgement: After choosing your answer, you are ranked after 100th place in terms of the number of people who answered the question.",
   "textBeginnerClass0112": "Eligibility: Assuming you chose A, the percentage of option A at the end of the question, compared to the percentage of option A at the time you voted: 1. up; 2. down (but not more than 5%), in both cases, you will be awarded a prize.",
