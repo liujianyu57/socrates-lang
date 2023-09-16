@@ -1090,10 +1090,11 @@
   "textCustomerService": "Atendimento ao Cliente",
   "error10039": "Sua senha deve conter de 6 a 14 caracteres, incluindo pelo menos dois tipos de letras, números e símbolos",
   "tipsNotEnoughPoint": "Você tem {value1} pontos e precisa comprar pelo menos {value2} pontos para continuar a operação",
-  "titleNewbieClass01": "",
-  "textNewbieClass0101": "",
-  "textNewbieClass0102": "",
-  "textNewbieClass0103": "",
-  "textNewbieClass0104": "",
-  "textNewbieClass0105": "",
+  "titleNewbieClass01": "新手课堂一：答题奖励的原理是什么?",
+  "textNewbieClass0101": "类型1 获胜奖\n判断标准：选择答案后，按人数排在前100名以内。\n获奖资格：假设您选的是A，问题截止后A获得了最多的票数，那么您将和所有选择A的用户一起获得奖励。\n奖励系数：基于笔的类型和数量（NFT笔可叠加计算），笔的级别越高，系数越大。\n奖励额度：奖池金额 * 100 / 总投票人数",
+  "textNewbieClass0102": "如何理解获胜奖？\n获胜奖是一种分配相对平均的奖励，即所有“获胜者”一起共享奖池，造成奖励不同的唯一因素就是持有笔的不同。",
+  "textNewbieClass0103": "类型2 辩证奖\n判断标准：选择答案后，按人数排在100名之后。\n奖励资格：假设您选的是A，问题结束后A选项的占比，比起您在投票的时候A选项的占比：1.上升；2.下降，但下降额度不超过5%，以上两种情况，均可获得奖励。\n奖励系数：系数1：基于笔的类型和数量（NFT笔可叠加计算），笔的级别越高，系数越大。系数2：基于选项投票百分比增长幅度，增幅越大，系数越大。\n奖励额度：奖池金额 * (总投票人数 - 100) / 总投票人数",
+  "textNewbieClass0104": "如何理解辩证奖？\n1.辩证奖是一种分配差异较大、竞争性更强的一种奖励，除了持有笔不同的因素外，更重要的是您投的选项，在问题截止时上升的幅度*。\n2.无论您投票的时候，该选项是多数人的选择，还是少数人的选择，您都可能获得辩证奖。",
+  "textNewbieClass0105": "*投票早期已投的票数很少，上升较大幅度很容易；越临近截止，上升同样的幅度越难。我们的算法考虑到了这一点，引入了额外投票阶段系数作为平衡，保证在任何时间点投票，辩证奖励都的计算都是公平的。",
+  "textNewbieClass0106": "下一期，我们将向大家分享点赞奖和理由奖的原理。"
 }
