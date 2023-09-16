@@ -1089,5 +1089,11 @@
   "textPosterSubTitle": "Поделитесь ссылкой, поделитесь своим выбором",
   "textCustomerService": "Обслуживание клиентов",
   "error10039": "Длина пароля 6-14 цифр, включая как минимум две из букв, цифр и символов",
-  "tipsNotEnoughPoint": "У вас есть баллы {value1}, и вам необходимо приобрести как минимум {value2} баллов, чтобы продолжить работу."
+  "tipsNotEnoughPoint": "У вас есть баллы {value1}, и вам необходимо приобрести как минимум {value2} баллов, чтобы продолжить работу.",
+  "titleNewbieClass01": "",
+  "textNewbieClass0101": "",
+  "textNewbieClass0102": "",
+  "textNewbieClass0103": "",
+  "textNewbieClass0104": "",
+  "textNewbieClass0105": "",
 }

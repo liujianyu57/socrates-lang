@@ -1089,5 +1089,11 @@
   "textPosterSubTitle": "Compartilhe o link, compartilhe suas escolhas",
   "textCustomerService": "Atendimento ao Cliente",
   "error10039": "Sua senha deve conter de 6 a 14 caracteres, incluindo pelo menos dois tipos de letras, números e símbolos",
-  "tipsNotEnoughPoint": "Você tem {value1} pontos e precisa comprar pelo menos {value2} pontos para continuar a operação"
+  "tipsNotEnoughPoint": "Você tem {value1} pontos e precisa comprar pelo menos {value2} pontos para continuar a operação",
+  "titleNewbieClass01": "",
+  "textNewbieClass0101": "",
+  "textNewbieClass0102": "",
+  "textNewbieClass0103": "",
+  "textNewbieClass0104": "",
+  "textNewbieClass0105": "",
 }

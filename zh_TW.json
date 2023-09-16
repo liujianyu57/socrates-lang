@@ -1089,5 +1089,11 @@
   "textPosterSubTitle": "分享鏈接，分享選擇",
   "textCustomerService": "客服",
   "error10039": "密碼長度6-14位，至少包括字母、數字、符號中的兩種",
-  "tipsNotEnoughPoint": "您有 {value1} 積分，需要購買至少 {value2} 積分才能繼續操作"
+  "tipsNotEnoughPoint": "您有 {value1} 積分，需要購買至少 {value2} 積分才能繼續操作",
+  "titleNewbieClass01": "",
+  "textNewbieClass0101": "",
+  "textNewbieClass0102": "",
+  "textNewbieClass0103": "",
+  "textNewbieClass0104": "",
+  "textNewbieClass0105": "",
 }

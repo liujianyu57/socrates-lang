@@ -1089,5 +1089,11 @@
   "textPosterSubTitle": "リンクを共有し、あなたの選択を共有してください",
   "textCustomerService": "顧客サービス",
   "error10039": "パスワードの长さは、少なくとも 2 种类の文字、数字、记号を含む 6 ～ 14 文字です。",
-  "tipsNotEnoughPoint": "{value1} ポイントを所有していますが、操作を続行するには少なくとも {value2} ポイントを購入する必要があります"
+  "tipsNotEnoughPoint": "{value1} ポイントを所有していますが、操作を続行するには少なくとも {value2} ポイントを購入する必要があります",
+  "titleNewbieClass01": "",
+  "textNewbieClass0101": "",
+  "textNewbieClass0102": "",
+  "textNewbieClass0103": "",
+  "textNewbieClass0104": "",
+  "textNewbieClass0105": "",
 }

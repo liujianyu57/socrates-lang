@@ -1089,5 +1089,11 @@
   "textPosterSubTitle": "Comparte el enlace, comparte tus opciones",
   "textCustomerService": "Servicio al Cliente",
   "error10039": "Su contraseña debe contener entre 6 y 14 caracteres, incluyendo al menos dos tipos de letras, números y símbolos.",
-  "tipsNotEnoughPoint": "Tienes {value1} puntos y necesitas comprar al menos {value2} puntos para continuar con la operación"
+  "tipsNotEnoughPoint": "Tienes {value1} puntos y necesitas comprar al menos {value2} puntos para continuar con la operación",
+  "titleNewbieClass01": "",
+  "textNewbieClass0101": "",
+  "textNewbieClass0102": "",
+  "textNewbieClass0103": "",
+  "textNewbieClass0104": "",
+  "textNewbieClass0105": "",
 }
