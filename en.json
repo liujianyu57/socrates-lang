@@ -963,7 +963,7 @@
   "error3049": "You have been blocked by this user and cannot follow",
   "tipsBlocked": "Blocked",
   "tipsUnblocked": "Unblocked",
-  "textDataPolicy": "Share my registration data with Socrates's content providers for marketing purposes. Note that your data may be transferred to a country outside of the EEA as described in our privacy policy.",
+  "textDataPolicy": "I would like to receive marketing communications from Socrates.",
   "btnPrivacyPolicy": "Privacy Policy",
   "textAgreeTermsAndPrivacy": "By clicking Next or Sign up with wallet you agree to our {value1}， {value2} and {value3}",
   "textAccountDeleted": "Account deleted",

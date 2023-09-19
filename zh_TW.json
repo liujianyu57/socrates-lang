@@ -963,7 +963,7 @@
   "error3049": "您已經被該用戶遮罩，無法關注",
   "tipsBlocked": "已遮罩",
   "tipsUnblocked": "已取消遮罩",
-  "textDataPolicy": "出於行銷目的與蘇格拉底的內容提供商共用我的註冊數據。 請注意，您的數據可能會傳輸到歐洲經濟區以外的國家/地區，如我們的隱私政策中所述。",
+  "textDataPolicy": "我希望收到蘇格拉底的行銷通訊。",
   "btnPrivacyPolicy": "隱私政策",
   "textAgreeTermsAndPrivacy": "單擊下一步或使用錢包註冊即表示您同意我們的{value1}、{value2}和{value3}",
   "textAccountDeleted": "帳號已停用",
