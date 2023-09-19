@@ -1110,5 +1110,12 @@
   "textBeginnerClass0116": "1. 이러한 유형의 보상은 보상 분배의 차이가 더 크고 경쟁력이 더 높습니다. 사용자들이 서로 다른 펜을 쥐고 있다는 점 외에도 더 중요한 것은 질문이 끝났을 때 투표한 옵션의 투표율 증가입니다*.",
   "textBeginnerClass0117": "2. 투표 당시 해당 옵션이 다수의 선택인지 소수의 선택인지에 관계없이 수상할 수 있습니다.",
   "textBeginnerClass0118": "*투표 초기에는 참여자가 적을수록 투표율이 크게 증가하는 것을 비교적 쉽게 확인할 수 있습니다. 질문이 마감일에 가까울수록 동일한 증가를 달성하기가 더 어려워집니다. 알고리즘은 균형을 유지하기 위해 추가 투표 단계 계수를 도입하여 언제든지 유형 2 보상 계산이 공정하도록 보장합니다.",
-  "textBeginnerClass0119": "다음번에는 좋아요상과 이유상이 어떻게 진행되는지 알려드리겠습니다."
+  "textBeginnerClass0119": "다음번에는 좋아요상과 이유상이 어떻게 진행되는지 알려드리겠습니다.",
+  "textImportExistingWallet": "기존 지갑 가져오기",
+  "textImportExistingWalletDescription": "시드 문구 / 개인 키",
+  "textEnterSeedPhrasePrivateKey": "시드 문구 또는 개인 키를 입력하세요",
+  "textEnterSeedPhrasePrivateKeyDescription": "시드 문구를 입력하는 경우 단어 사이에 공백을 사용하세요.",
+  "textExportPrivateKey": "개인 키 내보내기",
+  "textExportPrivateKeyDescription": "장치를 변경하는 경우 계정에 액세스하려면 이 개인 키가 필요합니다. 안전하고 비밀스러운 장소에 보관하고 이 개인 키를 아무에게도 말하지 마세요! 이 단어는 귀하의 모든 계정을 훔치는 데 사용될 수 있습니다",
+  "textExportPrivateKeyDescription1": "이 개인 키를 누구에게도 말하지 마세요! 이 단어는 귀하의 모든 계정을 훔치는 데 사용될 수 있습니다"
 }

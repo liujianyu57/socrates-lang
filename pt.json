@@ -1110,5 +1110,12 @@
   "textBeginnerClass0116": "1. Esse tipo de recompensa apresenta maior diferença na distribuição de recompensas e é mais competitivo. Além do fator que os usuários possuem Canetas diferentes, o mais importante é o aumento percentual de votação da opção em que você votou quando uma pergunta termina*.",
   "textBeginnerClass0117": "2. Você pode ser premiado independentemente de a opção ter sido escolhida pela maioria ou pela minoria no momento do seu voto.",
   "textBeginnerClass0118": "*Na fase inicial da votação, é relativamente fácil observar um aumento significativo na votação quando há menos participantes. Quanto mais próxima a questão estiver do prazo, mais difícil será conseguir o mesmo aumento. O algoritmo introduz um coeficiente adicional de fase de votação para manter as coisas equilibradas, garantindo que o cálculo da recompensa do Tipo 2 seja justo a qualquer momento.",
-  "textBeginnerClass0119": "Da próxima vez, compartilharemos como funcionam o Prêmio Likes e o Prêmio Razão."
+  "textBeginnerClass0119": "Da próxima vez, compartilharemos como funcionam o Prêmio Likes e o Prêmio Razão.",
+  "textImportExistingWallet": "Importar carteira existente",
+  "textImportExistingWalletDescription": "Frase Semente / Chave privada",
+  "textEnterSeedPhrasePrivateKey": "Insira sua frase semente ou chave privada",
+  "textEnterSeedPhrasePrivateKeyDescription": "Use espaços entre as palavras se inserir uma frase semente",
+  "textExportPrivateKey": "Exportar chave privada",
+  "textExportPrivateKeyDescription": "Se você mudar de dispositivo, precisará desta Chave Privada para acessar sua conta. Mantenha-os em um local seguro e secreto e não conte a ninguém esta Chave Privada! Essas palavras podem ser usadas para roubar todas as suas contas",
+  "textExportPrivateKeyDescription1": "Não conte a ninguém esta chave privada! Essas palavras podem ser usadas para roubar todas as suas contas"
 }

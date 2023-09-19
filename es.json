@@ -1110,5 +1110,12 @@
   "textBeginnerClass0116": "1. Este tipo de recompensa presenta una mayor diferencia en la distribución de recompensas y es más competitivo. Aparte del factor que los usuarios tienen diferentes bolígrafos, lo más importante es el aumento del porcentaje de votación de la opción por la que votaste cuando finaliza una pregunta*.",
   "textBeginnerClass0117": "2. Se le puede otorgar independientemente de si la opción fue la elección de la mayoría o la elección de la minoría en el momento de su voto.",
   "textBeginnerClass0118": "*En la etapa inicial de la votación, es relativamente fácil ver un aumento significativo en la votación cuando hay menos participantes. Cuanto más cerca esté la cuestión del plazo, más difícil será lograr el mismo aumento. El algoritmo introduce un coeficiente de etapa de votación adicional para mantener el equilibrio, asegurando que el cálculo de la recompensa de Tipo 2 sea justo en cualquier momento.",
-  "textBeginnerClass0119": "La próxima vez compartiremos cómo funcionan el Premio Me gusta y el Premio Razón."
+  "textBeginnerClass0119": "La próxima vez compartiremos cómo funcionan el Premio Me gusta y el Premio Razón.",
+  "textImportExistingWallet": "Importar billetera existente",
+  "textImportExistingWalletDescription": "Frase Semilla / Llave privada",
+  "textEnterSeedPhrasePrivateKey": "Introduzca su frase semilla o clave privada",
+  "textEnterSeedPhrasePrivateKeyDescription": "Utilice espacios entre palabras si ingresa una frase semilla",
+  "textExportPrivateKey": "Exportar clave privada",
+  "textExportPrivateKeyDescription": "Si cambia de dispositivo, necesitará esta clave privada para acceder a su cuenta. ¡Guárdalos en un lugar seguro y secreto y no le digas a nadie esta clave privada! Estas palabras pueden usarse para robar todas tus cuentas.",
+  "textExportPrivateKeyDescription1": "¡No le digas a nadie esta clave privada! Estas palabras pueden usarse para robar todas tus cuentas."
 }

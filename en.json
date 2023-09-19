@@ -1110,5 +1110,12 @@
   "textBeginnerClass0116": "1. This type of reward features a larger difference in reward distribution and is more competitive. Apart from the factor that users hold different Pens, the more important thing is the voting percentage increase of the option you voted for when a question ends*.",
   "textBeginnerClass0117": "2. You may be awarded regardless of whether the option was the majority's choice or the minority's choice at the time of your vote.",
   "textBeginnerClass0118": "*At the early stage of voting, it's relatively easy to see a significant increase in voting when there are fewer participants. The closer the question is to the deadline, the harder it is to achieve the same increase. The algorithm introduces an additional voting stage coefficient to keep things balanced, ensuring that the calculation of the Type 2 reward is fair at any point in time.",
-  "textBeginnerClass0119": "Next time, we will share how the Likes Prize and Reason Prize work."
+  "textBeginnerClass0119": "Next time, we will share how the Likes Prize and Reason Prize work.",
+  "textImportExistingWallet": "Import existing wallet",
+  "textImportExistingWalletDescription": "Seed Phrase / Private Key",
+  "textEnterSeedPhrasePrivateKey": "Enter your seed phrase or private key",
+  "textEnterSeedPhrasePrivateKeyDescription": "Use spaces between words if entering a seed phrase",
+  "textExportPrivateKey": "Export private key",
+  "textExportPrivateKeyDescription": "If you change devices, you will need this Private Key to access your account. Keep them in a safe, secret place and don't tell anyone this Private Key! These words can be used to steal all your accounts",
+  "textExportPrivateKeyDescription1": "Don't tell anyone this private key! These words can be used to steal all your accounts"
 }

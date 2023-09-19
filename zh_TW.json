@@ -1110,5 +1110,12 @@
   "textBeginnerClass0116": "1. 是一種分配差異較大、競爭性更強的獎勵，除了持有筆不同的因素外，更重要的是您投的選項，在問題截止時上升的幅度*。",
   "textBeginnerClass0117": "2. 無論您投票的時候，該選項是多數人的選擇，還是少數人的選擇，您都可能獲得該獎勵。",
   "textBeginnerClass0118": "*投票早期已投的票數很少，上升較大幅度很容易；越臨近截止，上升同樣的幅度越難。我們的演算法考慮到了這一點，引入了額外投票階段係數作為平衡，保證在任何時間點投票，類型2獎勵的計算都是公平的",
-  "textBeginnerClass0119": "下一期，我們將向大家分享點贊獎和理由獎的原理。"
+  "textBeginnerClass0119": "下一期，我們將向大家分享點贊獎和理由獎的原理。",
+  "textImportExistingWallet": "導入已有錢包",
+  "textImportExistingWalletDescription": "助記詞 / 私鑰",
+  "textEnterSeedPhrasePrivateKey": "輸入助記詞或私鑰",
+  "textEnterSeedPhrasePrivateKeyDescription": "如果輸入助記詞，請在單詞之間使用空格",
+  "textExportPrivateKey": "導出私鑰",
+  "textExportPrivateKeyDescription": "如果您更換設備，您將需要此私鑰來訪問您的帳戶。 將它們保存在安全、秘密的地方，不要告訴任何人這個私鑰！ 這些詞可以用來盜取你所有的帳戶",
+  "textExportPrivateKeyDescription1": "不要告訴任何人這個私鑰！ 這些詞可以用來竊取你所有的帳戶"
 }

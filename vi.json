@@ -1110,5 +1110,12 @@
   "textBeginnerClass0116": "1. Loại phần thưởng này có sự khác biệt lớn hơn trong việc phân bổ phần thưởng và có tính cạnh tranh cao hơn. Ngoài yếu tố người dùng giữ các Bút khác nhau, điều quan trọng hơn là tỷ lệ phần trăm bình chọn của tùy chọn bạn đã bình chọn khi câu hỏi kết thúc* tăng lên.",
   "textBeginnerClass0117": "2. Bạn có thể được trao giải bất kể lựa chọn đó là lựa chọn của đa số hay thiểu số tại thời điểm bạn bỏ phiếu.",
   "textBeginnerClass0118": "*Ở giai đoạn đầu của cuộc bỏ phiếu, tương đối dễ dàng nhận thấy số phiếu bầu tăng lên đáng kể khi có ít người tham gia hơn. Câu hỏi càng gần thời hạn thì càng khó đạt được mức tăng tương tự. Thuật toán đưa ra một hệ số giai đoạn bỏ phiếu bổ sung để giữ mọi thứ được cân bằng, đảm bảo rằng việc tính toán phần thưởng Loại 2 là công bằng tại bất kỳ thời điểm nào.",
-  "textBeginnerClass0119": "Lần tới, chúng tôi sẽ chia sẻ cách hoạt động của Giải thưởng Lượt thích và Giải thưởng Lý do."
+  "textBeginnerClass0119": "Lần tới, chúng tôi sẽ chia sẻ cách hoạt động của Giải thưởng Lượt thích và Giải thưởng Lý do.",
+  "textImportExistingWallet": "Nhập ví hiện có",
+  "textImportExistingWalletDescription": "Dãy mã bảo mật / Khóa riêng",
+  "textEnterSeedPhrasePrivateKey": "Nhập cụm từ hạt giống hoặc khóa riêng của bạn",
+  "textEnterSeedPhrasePrivateKeyDescription": "Sử dụng dấu cách giữa các từ nếu nhập cụm từ gốc",
+  "textExportPrivateKey": "Xuất khóa riêng",
+  "textExportPrivateKeyDescription": "Nếu bạn thay đổi thiết bị, bạn sẽ cần Khóa riêng này để truy cập vào tài khoản của mình. Hãy giữ chúng ở nơi an toàn, bí mật và đừng nói cho ai biết Private Key này! Những từ này có thể được sử dụng để đánh cắp tất cả tài khoản của bạn",
+  "textExportPrivateKeyDescription1": "Đừng nói cho ai biết khóa riêng này! Những từ này có thể được sử dụng để đánh cắp tất cả tài khoản của bạn"
 }
