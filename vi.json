@@ -1117,5 +1117,7 @@
   "textEnterSeedPhrasePrivateKeyDescription": "Sử dụng dấu cách giữa các từ nếu nhập cụm từ gốc",
   "textExportPrivateKey": "Xuất khóa riêng",
   "textExportPrivateKeyDescription": "Nếu bạn thay đổi thiết bị, bạn sẽ cần Khóa riêng này để truy cập vào tài khoản của mình. Hãy giữ chúng ở nơi an toàn, bí mật và đừng nói cho ai biết Private Key này! Những từ này có thể được sử dụng để đánh cắp tất cả tài khoản của bạn",
-  "textExportPrivateKeyDescription1": "Đừng nói cho ai biết khóa riêng này! Những từ này có thể được sử dụng để đánh cắp tất cả tài khoản của bạn"
+  "textExportPrivateKeyDescription1": "Đừng nói cho ai biết khóa riêng này! Những từ này có thể được sử dụng để đánh cắp tất cả tài khoản của bạn",
+  "pointType408": "Hoa hồng giải thưởng",
+  "pointType409": "Tiền thưởng theo xu hướng"
 }

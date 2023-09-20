@@ -189,7 +189,7 @@
   "textInvestTrend": "支持趋势",
   "textLikeIncome": "点赞奖",
   "textLikes": "点赞",
-  "textLikesDescription": "问题结束后，获赞最多的5个理由将胜出，给胜出理由点赞的人可以瓜分积分",
+  "textLikesDescription": "",
   "textLogin": "登录",
   "textLoginWallet": "钱包登录",
   "textLogOut": "退出登录",
@@ -1117,5 +1117,7 @@
   "textEnterSeedPhrasePrivateKeyDescription": "如果输入助记词，请在单词之间使用空格",
   "textExportPrivateKey": "导出私钥",
   "textExportPrivateKeyDescription": "如果您更换设备，您将需要此私钥来访问您的帐户。 将它们保存在安全、秘密的地方，不要告诉任何人这个私钥！ 这些词可以用来盗取你所有的账户",
-  "textExportPrivateKeyDescription1": "不要告诉任何人这个私钥！ 这些词可以用来窃取你所有的账户"
+  "textExportPrivateKeyDescription1": "不要告诉任何人这个私钥！ 这些词可以用来窃取你所有的账户",
+  "pointType408": "抽成奖励",
+  "pointType409": "趋势奖励"
 }

@@ -1117,5 +1117,7 @@
   "textEnterSeedPhrasePrivateKeyDescription": "如果輸入助記詞，請在單詞之間使用空格",
   "textExportPrivateKey": "導出私鑰",
   "textExportPrivateKeyDescription": "如果您更換設備，您將需要此私鑰來訪問您的帳戶。 將它們保存在安全、秘密的地方，不要告訴任何人這個私鑰！ 這些詞可以用來盜取你所有的帳戶",
-  "textExportPrivateKeyDescription1": "不要告訴任何人這個私鑰！ 這些詞可以用來竊取你所有的帳戶"
+  "textExportPrivateKeyDescription1": "不要告訴任何人這個私鑰！ 這些詞可以用來竊取你所有的帳戶",
+  "pointType408": "抽成奖励",
+  "pointType409": "趋势奖励"
 }

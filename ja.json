@@ -1117,5 +1117,7 @@
   "textEnterSeedPhrasePrivateKeyDescription": "シードフレーズを入力する場合は単語の間にスペースを使用してください",
   "textExportPrivateKey": "秘密鍵のエクスポート",
   "textExportPrivateKeyDescription": "デバイスを変更する場合は、アカウントにアクセスするためにこの秘密キーが必要になります。 それらを安全な秘密の場所に保管し、この秘密キーを誰にも教えないでください。 これらの言葉を使用すると、すべてのアカウントが盗まれる可能性があります",
-  "textExportPrivateKeyDescription1": "この秘密キーは誰にも教えないでください。 これらの言葉を使用すると、すべてのアカウントが盗まれる可能性があります"
+  "textExportPrivateKeyDescription1": "この秘密キーは誰にも教えないでください。 これらの言葉を使用すると、すべてのアカウントが盗まれる可能性があります",
+  "pointType408": "賞品手数料",
+  "pointType409": "トレンドボーナス"
 }
