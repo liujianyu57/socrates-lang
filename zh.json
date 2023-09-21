@@ -1119,5 +1119,9 @@
   "textExportPrivateKeyDescription": "如果您更换设备，您将需要此私钥来访问您的帐户。 将它们保存在安全、秘密的地方，不要告诉任何人这个私钥！ 这些词可以用来盗取你所有的账户",
   "textExportPrivateKeyDescription1": "不要告诉任何人这个私钥！ 这些词可以用来窃取你所有的账户",
   "pointType408": "抽成奖励",
-  "pointType409": "趋势奖励"
+  "pointType409": "趋势奖励",
+  "tipsRiskTrade": "当前交易存在风险",
+  "textPrizeCommission": "抽成奖励",
+  "textTrendingBonus": "趋势奖励",
+  "textAskerPrize": "提问奖励"
 }

@@ -1119,5 +1119,9 @@
   "textExportPrivateKeyDescription": "デバイスを変更する場合は、アカウントにアクセスするためにこの秘密キーが必要になります。 それらを安全な秘密の場所に保管し、この秘密キーを誰にも教えないでください。 これらの言葉を使用すると、すべてのアカウントが盗まれる可能性があります",
   "textExportPrivateKeyDescription1": "この秘密キーは誰にも教えないでください。 これらの言葉を使用すると、すべてのアカウントが盗まれる可能性があります",
   "pointType408": "賞品手数料",
-  "pointType409": "トレンドボーナス"
+  "pointType409": "トレンドボーナス",
+  "tipsRiskTrade": "現在の取引は危険です",
+  "textPrizeCommission": "賞品手数料",
+  "textTrendingBonus": "トレンドボーナス",
+  "textAskerPrize": "質問者の報酬"
 }
