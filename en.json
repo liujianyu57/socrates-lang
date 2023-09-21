@@ -1123,5 +1123,7 @@
   "tipsRiskTrade": "Current transaction is risky",
   "textPrizeCommission": "Prize commission",
   "textTrendingBonus": "Trending Bonus",
-  "textAskerPrize": "Asker's Reward"
+  "textAskerPrize": "Asker's Reward",
+  "textReadAll": "All read",
+  "textNoUnread": "No unread yet"
 }

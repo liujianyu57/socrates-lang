@@ -1123,5 +1123,7 @@
   "tipsRiskTrade": "現在の取引は危険です",
   "textPrizeCommission": "賞品手数料",
   "textTrendingBonus": "トレンドボーナス",
-  "textAskerPrize": "質問者の報酬"
+  "textAskerPrize": "質問者の報酬",
+  "textReadAll": "全部読んだ",
+  "textNoUnread": "まだ未読はありません"
 }

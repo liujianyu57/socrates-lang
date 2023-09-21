@@ -1123,5 +1123,7 @@
   "tipsRiskTrade": "Текущая сделка рискованная",
   "textPrizeCommission": "Призовая комиссия",
   "textTrendingBonus": "Трендовый бонус",
-  "textAskerPrize": "Награда Аскера"
+  "textAskerPrize": "Награда Аскера",
+  "textReadAll": "Все прочитано",
+  "textNoUnread": "Непрочитанных пока нет"
 }

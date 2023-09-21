@@ -1123,5 +1123,7 @@
   "tipsRiskTrade": "當前交易存在風險",
   "textPrizeCommission": "抽成奖励",
   "textTrendingBonus": "趨勢獎勵",
-  "textAskerPrize": "提問獎勵"
+  "textAskerPrize": "提問獎勵",
+  "textReadAll": "全部已讀",
+  "textNoUnread": "暫無未讀"
 }

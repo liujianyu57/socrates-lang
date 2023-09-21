@@ -1123,5 +1123,7 @@
   "tipsRiskTrade": "La transacción actual es riesgosa",
   "textPrizeCommission": "Comisión de premios",
   "textTrendingBonus": "Bono de tendencia",
-  "textAskerPrize": "Recompensa de pregunta"
+  "textAskerPrize": "Recompensa de pregunta",
+  "textReadAll": "Todo leido",
+  "textNoUnread": "Aún no leídos"
 }

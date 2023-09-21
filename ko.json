@@ -1123,5 +1123,7 @@
   "tipsRiskTrade": "현재 거래는 위험합니다",
   "textPrizeCommission": "상금 커미션",
   "textTrendingBonus": "인기 보너스",
-  "textAskerPrize": "질문자의 보상"
+  "textAskerPrize": "질문자의 보상",
+  "textReadAll": "모두 읽음",
+  "textNoUnread": "아직 읽지 않은 항목 없음"
 }
