@@ -1125,5 +1125,8 @@
   "textTrendingBonus": "Tiền thưởng theo xu hướng",
   "textAskerPrize": "Phần thưởng của người hỏi",
   "textReadAll": "Tất cả được đọc",
-  "textNoUnread": "Chưa đọc"
+  "textNoUnread": "Chưa đọc",
+  "textAddToHomeScreen": "Thêm vào màn hình chính",
+  "textAddToHomeScreenDescription1": "Để cài đặt ứng dụng, bạn cần thêm trang web này vào màn hình chính.",
+  "textAddToHomeScreenDescription2": "Trong menu trình duyệt của bạn, hãy nhấn vào biểu tượng Chia sẻ và chọn Thêm vào Màn hình chính trong các tùy chọn. Sau đó mở ứng dụng Socrates trên màn hình chính của bạn."
 }

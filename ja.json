@@ -1125,5 +1125,8 @@
   "textTrendingBonus": "トレンドボーナス",
   "textAskerPrize": "質問者の報酬",
   "textReadAll": "全部読んだ",
-  "textNoUnread": "まだ未読はありません"
+  "textNoUnread": "まだ未読はありません",
+  "textAddToHomeScreen": "ホーム画面に追加します",
+  "textAddToHomeScreenDescription1": "アプリをインストールするには、この Web サイトをホーム画面に追加する必要があります。",
+  "textAddToHomeScreenDescription2": "ブラウザのメニューで [共有] アイコンをタップし、オプションで [ホーム画面に追加] を選択します。 次に、ホーム画面でソクラテス アプリを開きます。"
 }

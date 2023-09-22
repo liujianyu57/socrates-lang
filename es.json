@@ -1125,5 +1125,8 @@
   "textTrendingBonus": "Bono de tendencia",
   "textAskerPrize": "Recompensa de pregunta",
   "textReadAll": "Todo leido",
-  "textNoUnread": "Aún no leídos"
+  "textNoUnread": "Aún no leídos",
+  "textAddToHomeScreen": "Añadir a la pantalla principal",
+  "textAddToHomeScreenDescription1": "Para instalar la aplicación, debe agregar este sitio web a su pantalla de inicio.",
+  "textAddToHomeScreenDescription2": "En el menú de su navegador, toque el ícono Compartir y elija Agregar a la pantalla de inicio en las opciones. Luego abre la aplicación Sócrates en tu pantalla de inicio."
 }

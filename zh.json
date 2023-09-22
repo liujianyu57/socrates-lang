@@ -1125,5 +1125,8 @@
   "textTrendingBonus": "趋势奖励",
   "textAskerPrize": "提问奖励",
   "textReadAll": "全部已读",
-  "textNoUnread": "暂无未读"
+  "textNoUnread": "暂无未读",
+  "textAddToHomeScreen": "添加到主屏幕",
+  "textAddToHomeScreenDescription1": "要安装该应用程序，您需要将此网站添加到您的主屏幕。",
+  "textAddToHomeScreenDescription2": "在浏览器菜单中，点击“共享”图标，然后在选项中选择“添加到主屏幕”。 然后在主屏幕上打开苏格拉底应用程序。"
 }

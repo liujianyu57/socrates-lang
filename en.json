@@ -1125,5 +1125,8 @@
   "textTrendingBonus": "Trending Bonus",
   "textAskerPrize": "Asker's Reward",
   "textReadAll": "All read",
-  "textNoUnread": "No unread yet"
+  "textNoUnread": "No unread yet",
+  "textAddToHomeScreen": "Add To Home Screen",
+  "textAddToHomeScreenDescription1": "To install the app, you need to add this website to your home screen.",
+  "textAddToHomeScreenDescription2": "In your browser menu, tap the Share icon and choose Add to Home Screen in the options. Then open the Socrates app on your home screen."
 }
