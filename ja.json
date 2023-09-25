@@ -938,7 +938,7 @@
   "btnAuthorize": "认可する",
   "tipsEnterPositiveInteger": "正の整数を入力してください",
   "textBuyPointSuccessDescription01": "ポイントが正常に购入されました。ウォレット ページに移动して残高を确认してください。",
-  "textBuyPointMinLimit": "最低 10",
+  "textBuyPointMinLimit": "最低 {value1}",
   "btnBlock": "ブロック",
   "textBlockUser": "ブロック @{value1}",
   "btnUnblock": "ブロックを解除する",

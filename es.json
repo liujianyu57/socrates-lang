@@ -938,7 +938,7 @@
   "btnAuthorize": "Autorizar",
   "tipsEnterPositiveInteger": "Por favor ingrese un número entero positivo",
   "textBuyPointSuccessDescription01": "Compre puntos con éxito, vaya a la página de la billetera para verificar el saldo",
-  "textBuyPointMinLimit": "Mínimo 10",
+  "textBuyPointMinLimit": "Mínimo {value1}",
   "btnBlock": "Bloquear",
   "textBlockUser": "Bloquear @{value1}",
   "btnUnblock": "Desatascar",

@@ -938,7 +938,7 @@
   "btnAuthorize": "ủy quyền",
   "tipsEnterPositiveInteger": "Vui lòng nhập số nguyên dương",
   "textBuyPointSuccessDescription01": "Mua điểm thành công, vui lòng vào trang ví để kiểm tra số dư",
-  "textBuyPointMinLimit": "tối thiểu 10",
+  "textBuyPointMinLimit": "tối thiểu {value1}",
   "btnBlock": "Khối",
   "textBlockUser": "Chặn @{value1}",
   "btnUnblock": "Mở khóa",

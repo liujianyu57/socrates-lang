@@ -938,7 +938,7 @@
   "btnAuthorize": "인정 받은",
   "tipsEnterPositiveInteger": "양의 정수를 입력하세요.",
   "textBuyPointSuccessDescription01": "포인트 구매에 성공했습니다. 지갑 페이지로 이동하여 잔액을 확인하세요.",
-  "textBuyPointMinLimit": "최소 10",
+  "textBuyPointMinLimit": "최소 {value1}",
   "btnBlock": "차단하다",
   "textBlockUser": "차단 @{value1}",
   "btnUnblock": "차단 해제",

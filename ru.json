@@ -938,7 +938,7 @@
   "btnAuthorize": "Разрешать",
   "tipsEnterPositiveInteger": "Пожалуйста, введите положительное целое число",
   "textBuyPointSuccessDescription01": "Приобретите баллы успешно, перейдите на страницу кошелька, чтобы проверить баланс",
-  "textBuyPointMinLimit": "Минимум 10",
+  "textBuyPointMinLimit": "Минимум {value1}",
   "btnBlock": "Блокировать",
   "textBlockUser": "Блокировать @{value1}",
   "btnUnblock": "Разблокировать",

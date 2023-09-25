@@ -938,7 +938,7 @@
   "btnAuthorize": "Autorizar",
   "tipsEnterPositiveInteger": "Insira um número inteiro positivo",
   "textBuyPointSuccessDescription01": "Adquira pontos com sucesso, vá para a página da carteira para verificar o saldo",
-  "textBuyPointMinLimit": "Mínimo 10",
+  "textBuyPointMinLimit": "Mínimo {value1}",
   "btnBlock": "Bloquear",
   "textBlockUser": "Bloquear @{value1}",
   "btnUnblock": "Desbloquear",

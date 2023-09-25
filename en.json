@@ -938,7 +938,7 @@
   "btnAuthorize": "Authorize",
   "tipsEnterPositiveInteger": "Please enter a positive integer",
   "textBuyPointSuccessDescription01": "Purchase point(s) successfully, please go to the wallet page to check the balance",
-  "textBuyPointMinLimit": "Minimum 10",
+  "textBuyPointMinLimit": "Minimum {value1}",
   "btnBlock": "Block",
   "textBlockUser": "Block @{value1}",
   "btnUnblock": "Unblock",

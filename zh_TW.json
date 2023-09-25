@@ -938,7 +938,7 @@
   "btnAuthorize": "授權",
   "tipsEnterPositiveInteger": "請輸入正整數",
   "textBuyPointSuccessDescription01": "已成功購買積分，請前往錢包頁面查看餘額",
-  "textBuyPointMinLimit": "最小10",
+  "textBuyPointMinLimit": "最小{value1}",
   "btnBlock": "遮罩",
   "textBlockUser": "遮罩 @{value1}",
   "btnUnblock": "取消遮罩",

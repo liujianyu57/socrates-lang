@@ -938,7 +938,7 @@
   "btnAuthorize": "授权",
   "tipsEnterPositiveInteger": "请输入正整数",
   "textBuyPointSuccessDescription01": "已成功购买积分，请前往钱包页面查看余额",
-  "textBuyPointMinLimit": "最小10",
+  "textBuyPointMinLimit": "最小{value1}",
   "btnBlock": "屏蔽",
   "textBlockUser": "屏蔽 @{value1}",
   "btnUnblock": "取消屏蔽",
