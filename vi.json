@@ -814,7 +814,7 @@
   "textInvestableNFTValue": "Поддержка стоимости баллов с помощью NFT",
   "textHoldNFTToday": "Bạn giữ {value1} NFT pen hôm nay",
   "textNFTInvestmentDescription": "Nền tảng quét để tìm Bút NFT được giữ trong ví của mỗi người dùng hàng ngày vào lúc 00:00 UTC và chụp ảnh nhanh Bút NFT của mỗi người dùng cho ngày hôm đó. Kết quả quét cho biết giá trị điểm mà người dùng có thể hỗ trợ bằng cách sử dụng NFT vào ngày đó. Mỗi Bút trị giá {value1} điểm. Tối đa {value2} câu hỏi mỗi ngày khi sử dụng hỗ trợ NFT.",
-  "textPrivateProgressDescription1": "Các câu hỏi thường được xếp hạng theo thứ tự giảm dần dựa trên giá trị mức độ phổ biến của chúng. Top 50 sẽ được liệt kê trong [Xếp hạng giá trị nóng], nơi các câu hỏi thường sẽ được xem xét để trở thành câu hỏi thịnh hành.",
+  "textPrivateProgressDescription1": "Các câu hỏi thường được xếp hạng theo thứ tự giảm dần dựa trên giá trị mức độ phổ biến của chúng. Top 20 sẽ được liệt kê trong [Xếp hạng giá trị nóng], nơi các câu hỏi thường sẽ được xem xét để trở thành câu hỏi thịnh hành.",
   "textPrivateProgressDescription2": "Điểm câu hỏi chung = Điểm bỏ phiếu + Điểm cho lý do + Điểm cho lượt thích + Điểm hỗ trợ + Hỗ trợ NFT",
   "textPrivateProgressDescription3": "Đối với mỗi số điểm dành cho lượt bình chọn, lý do và lượt thích, điểm của câu hỏi sẽ tăng thêm 1; cứ mỗi điểm hỗ trợ, điểm của câu hỏi sẽ tăng thêm 1; đối với mỗi lần hỗ trợ NFT, điểm của câu hỏi sẽ tăng thêm {value1}",
   "textPrivateProgressDescription4": "Thứ hạng được cập nhật mỗi 10 phút",

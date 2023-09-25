@@ -814,7 +814,7 @@
   "textInvestableNFTValue": "使用NFT可支持的积分价值",
   "textHoldNFTToday": "今日持有{value1}支NFT笔",
   "textNFTInvestmentDescription": "每天UTC 00:00点平台扫描每个用户的钱包地址中的持有的NFT笔，快照得到每个用户在当天的NFT笔，当天扫描的结果表示该用户今天使用NFT支持的积分价值，每1支笔价值{value1}分数。每天使用NFT支持的问题最多{value2}个。",
-  "textPrivateProgressDescription1": "普通问题根据热度值倒序排列，前50名进入到【问题排队榜】，该榜单中的普通问题将被审核成为趋势问题。",
+  "textPrivateProgressDescription1": "普通问题根据热度值倒序排列，前20名进入到【问题排队榜】，该榜单中的普通问题将被审核成为趋势问题。",
   "textPrivateProgressDescription2": "普通问题分数 = 投票花费积分 + 理由花费积分 + 点赞花费积分 + 积分支持 + NFT支持",
   "textPrivateProgressDescription3": "投票、理由、点赞每花费1 积分，该问题分数增加1；每支持1分，该问题分数增加1；每1个NFT支持，该问题分数增加{value1}",
   "textPrivateProgressDescription4": "排名名次每10分钟更新1次",

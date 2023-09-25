@@ -814,7 +814,7 @@
   "textInvestableNFTValue": "Valor de puntos de apoyo usando NFT",
   "textHoldNFTToday": "Hoy usted tiene {value1} pen NFT",
   "textNFTInvestmentDescription": "La plataforma busca los bolígrafos NFT que se encuentran en la billetera de cada usuario todos los días a las 00:00 UTC y toma una instantánea de los bolígrafos NFT de cada usuario de ese día. El resultado del escaneo indica el valor de puntos que el usuario puede soportar usando NFT ese día. Cada bolígrafo vale {value1} puntos. Hasta {value2} preguntas por día con soporte NFT.",
-  "textPrivateProgressDescription1": "Las preguntas frecuentes se clasifican en orden descendente según sus valores de popularidad. Las 50 primeras se enumerarán en la [Clasificación de valor caliente], donde las preguntas frecuentes se revisarán para convertirse en tendencia.",
+  "textPrivateProgressDescription1": "Las preguntas frecuentes se clasifican en orden descendente según sus valores de popularidad. Las 20 primeras se enumerarán en la [Clasificación de valor caliente], donde las preguntas frecuentes se revisarán para convertirse en tendencia.",
   "textPrivateProgressDescription2": "Puntuaciones de preguntas comunes = Puntos por votar + Puntos por razones + Puntos por Me gusta + Puntos de soporte + Soporte de NFT",
   "textPrivateProgressDescription3": "Por cada punto gastado en votos, motivos y me gusta, la puntuación de la pregunta aumentará en 1; por cada punto de apoyo, la puntuación de la pregunta aumentará en 1; por cada soporte NFT, la puntuación de la pregunta aumentará en {value1}",
   "textPrivateProgressDescription4": "Las ránkings se actualizan cada 10 minutos",
