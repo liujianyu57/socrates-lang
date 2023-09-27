@@ -1128,5 +1128,6 @@
   "textNoUnread": "Chưa đọc",
   "textAddToHomeScreen": "Thêm vào màn hình chính",
   "textAddToHomeScreenDescription1": "Để cài đặt ứng dụng, bạn cần thêm trang web này vào màn hình chính.",
-  "textAddToHomeScreenDescription2": "Trong menu trình duyệt của bạn, hãy nhấn vào biểu tượng Chia sẻ và chọn Thêm vào Màn hình chính trong các tùy chọn. Sau đó mở ứng dụng Socrates trên màn hình chính của bạn."
+  "textAddToHomeScreenDescription2": "Trong menu trình duyệt của bạn, hãy nhấn vào biểu tượng Chia sẻ và chọn Thêm vào Màn hình chính trong các tùy chọn. Sau đó mở ứng dụng Socrates trên màn hình chính của bạn.",
+  "error3054": "Đã vượt quá số lượt thích tối đa cho câu hỏi này"
 }

@@ -1128,5 +1128,6 @@
   "textNoUnread": "아직 읽지 않은 항목 없음",
   "textAddToHomeScreen": "홈 화면에 추가",
   "textAddToHomeScreenDescription1": "앱을 설치하려면 홈 화면에 웹사이트를 추가해야 합니다.",
-  "textAddToHomeScreenDescription2": "브라우저 메뉴에서 공유 아이콘을 클릭하고 옵션 중에서 홈 화면에 추가를 선택하세요. 그런 다음 홈 화면에서 소크라테스 앱을 엽니다."
+  "textAddToHomeScreenDescription2": "브라우저 메뉴에서 공유 아이콘을 클릭하고 옵션 중에서 홈 화면에 추가를 선택하세요. 그런 다음 홈 화면에서 소크라테스 앱을 엽니다.",
+  "error3054": "이 질문에 대한 최대 좋아요 수를 초과했습니다."
 }

@@ -1128,5 +1128,6 @@
   "textNoUnread": "Ainda não foi lido",
   "textAddToHomeScreen": "Adicionar à tela inicial",
   "textAddToHomeScreenDescription1": "Para instalar o aplicativo, você precisa adicionar este site à sua tela inicial.",
-  "textAddToHomeScreenDescription2": "No menu do navegador, toque no ícone Compartilhar e escolha Adicionar à tela inicial nas opções. Em seguida, abra o aplicativo Sócrates na tela inicial."
+  "textAddToHomeScreenDescription2": "No menu do navegador, toque no ícone Compartilhar e escolha Adicionar à tela inicial nas opções. Em seguida, abra o aplicativo Sócrates na tela inicial.",
+  "error3054": "O número máximo de curtidas para esta pergunta foi excedido"
 }
