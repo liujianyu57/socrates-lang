@@ -1129,5 +1129,12 @@
   "textAddToHomeScreen": "添加到主屏幕",
   "textAddToHomeScreenDescription1": "要安装该应用程序，您需要将此网站添加到您的主屏幕。",
   "textAddToHomeScreenDescription2": "在浏览器菜单中，点击“共享”图标，然后在选项中选择“添加到主屏幕”。 然后在主屏幕上打开苏格拉底应用程序。",
-  "error3054": "已超过本题的最大点赞次数"
+  "error3054": "已超过本题的最大点赞次数",
+  "1earnRach": "参考朋友。 赚取高达 {value1} 的佣金。",
+  "textobtaied": "当您的朋友购买或升级SBT笔时，您可以获得佣金。",
+  "rebatepointssq": "好友铸造或升级SBT笔，邀请人可获得好友买笔金额对应的返佣，返佣为相应价值的积分。",
+  "effectiveaa": "*有效好友指的是购买SBT笔的用户。",
+  "effective122": "有效好友数量",
+  "scale11": "返佣比例",
+  "earnUltraa": "赚取高达{value1}的佣金"
 }

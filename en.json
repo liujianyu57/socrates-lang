@@ -1129,5 +1129,12 @@
   "textAddToHomeScreen": "Add To Home Screen",
   "textAddToHomeScreenDescription1": "To install the app, you need to add this website to your home screen.",
   "textAddToHomeScreenDescription2": "In your browser menu, tap the Share icon and choose Add to Home Screen in the options. Then open the Socrates app on your home screen.",
-  "error3054": "The maximum number of likes for this question has been exceeded"
+  "error3054": "The maximum number of likes for this question has been exceeded",
+  "1earnRach": "Refer Friends.  Earn up to {value1} commission.",
+  "textobtaied": "You can get a commission when your friends buy or upgrade SBT pens.",
+  "rebatepointssq": "",
+  "effectiveaa": "",
+  "effective122": "",
+  "scale11": "",
+  "earnUltraa": ""
 }
