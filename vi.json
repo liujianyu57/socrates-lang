@@ -1144,5 +1144,7 @@
   "Selectnetwork1": "",
   "extbidirectExcha": "",
   "ndispensablecast1": "",
-  "Tip24smistake": "Bút NFT không thể được chuyển trong vòng 24 giờ. Vui lòng thử lại sau."
+  "Tip24smistake": "Bút NFT không thể được chuyển trong vòng 24 giờ. Vui lòng thử lại sau.",
+  "Textlimityy1": "Tổng số không thể vượt quá {value1}",
+  "TextUnlimited": "Điểm cho mỗi câu hỏi có thể được hỗ trợ nhiều lần"
 }

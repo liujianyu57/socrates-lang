@@ -1144,5 +1144,7 @@
   "Selectnetwork1": "",
   "extbidirectExcha": "",
   "ndispensablecast1": "",
-  "Tip24smistake": "NFT 펜은 24시간 이내에 양도할 수 없습니다. 나중에 다시 시도 해주십시오."
+  "Tip24smistake": "NFT 펜은 24시간 이내에 양도할 수 없습니다. 나중에 다시 시도 해주십시오.",
+  "Textlimityy1": "총계는 {value1}을(를) 초과할 수 없습니다.",
+  "TextUnlimited": "각 질문에 대한 점수는 여러 번 지원될 수 있습니다."
 }

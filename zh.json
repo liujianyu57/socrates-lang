@@ -1144,5 +1144,7 @@
   "Selectnetwork1": "选择Polygon网络，往钱包内充值Matic和USDT资产",
   "extbidirectExcha": " 参与问答会消耗积分，奖励也通过积分发放，积分与USDT可随时双向兑换",
   "ndispensablecast1": "笔是参与问答的必需品，现在铸造吧！",
-  "Tip24smistake": "24小时内无法转让NFT笔。请稍后再试。"
+  "Tip24smistake": "24小时内无法转让NFT笔。请稍后再试。",
+  "Textlimityy1": "累计不能超过{value1}",
+  "TextUnlimited": "每题积分可以多次支持"
 }

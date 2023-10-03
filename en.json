@@ -1144,5 +1144,7 @@
   "Selectnetwork1": "",
   "extbidirectExcha": "",
   "ndispensablecast1": "",
-  "Tip24smistake": "NFT pens cannot be transferred within 24 hours. Please try again later."
+  "Tip24smistake": "NFT pens cannot be transferred within 24 hours. Please try again later.",
+  "Textlimityy1": "The total cannot exceed {value1}",
+  "TextUnlimited": "Points for each question can be supported multiple times"
 }

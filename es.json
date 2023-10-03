@@ -1144,5 +1144,7 @@
   "Selectnetwork1": "",
   "extbidirectExcha": "",
   "ndispensablecast1": "",
-  "Tip24smistake": "Los bolígrafos NFT no se pueden transferir dentro de las 24 horas. Por favor, inténtelo de nuevo más tarde."
+  "Tip24smistake": "Los bolígrafos NFT no se pueden transferir dentro de las 24 horas. Por favor, inténtelo de nuevo más tarde.",
+  "Textlimityy1": "El total no puede exceder {valor1}",
+  "TextUnlimited": "Los puntos por cada pregunta se pueden admitir varias veces"
 }
