@@ -1150,14 +1150,12 @@
   "Textchancer1": "Vote on questions for a chance to earn point rewards.",
   "Titleaa3": "Vote now",
   "Textpublishp1": "You can use points to engage in questions. Select the answer you think is correct and comment on the question.",
-  "Textvotemore1q": "
-By participating in voting, you have a chance to earn point rewards for your selected answer with the most votes.",
+  "Textvotemore1q": "By participating in voting, you have a chance to earn point rewards for your selected answer with the most votes.",
   "Textbefore2q": "The more likes your reason receives, the higher your chances of winning rewards.",
   "Textbeforeee": "Meaningful reasons deserve a like. Like it for a chance to win the Likes Prize.",
   "Textfriendw1s": "Invite friends to like your reason for a chance to earn point rewards!",
   "Textlives1": "Like the replies you like for a chance to win the Likes Prize!",
-  "Textsupport1z": "
-You have a chance to earn the Support Prize if your supported question becomes a trending question.",
+  "Textsupport1z": "You have a chance to earn the Support Prize if your supported question becomes a trending question.",
   "Titleaa4": "Create your first question",
   "Text1chance": "Create a question and win rewards",
   "Titleaa5": "Ask questions",
@@ -1165,8 +1163,7 @@ You have a chance to earn the Support Prize if your supported question becomes a
   "Textquesionn": "Interactions, such as votes, comments, and likes, will increase the popularity value of your question. When the question becomes a trending question, it will receive more attention.",
   "Textqduoin1": "The more attention your question receives, the higher the accumulated amount of the prize pool. After the question ends, you can share the prize pool.",
   "Titleaa6": "Tips for earning point rewards",
-  "Titleaa7": "
-Pens",
+  "Titleaa7": "Pens",
   "Textholdv1": "Users who hold a higher-level SBT Pen and more NFT Pens will get more rewards.",
   "Titleaa8": "Early birds",
   "Text100rr1": "Being among the first 100 participants increases your chances of winning when the question ends.",
@@ -1179,27 +1176,21 @@ Pens",
   "Textproblemfinishvv": "If your question becomes a trending question, you will receive additional trending rewards when the question ends.",
   "Titleaa13": "Increase the prize pool",
   "Textyoubilemmm": "The larger amount of your question's prize pool, the more rewards you will receive. Inviting more people to participate in your question can quickly increase the prize pool.",
-  "Textquanv1": "
-All questions are created as common questions at the beginning.",
-  "Overlengthvurur": "Every day, the top [Value] common questions in the Popularity Values Ranking have a chance to become trending questions after moderation. Trending questions typically have larger prize pools.
-",
+  "Textquanv1": "All questions are created as common questions at the beginning.",
+  "Overlengthvurur": "Every day, the top [Value] common questions in the Popularity Values Ranking have a chance to become trending questions after moderation. Trending questions typically have larger prize pools.",
   "Highlevelrrr": "Higher-level SBT Pens and NFT Pens can increase the weight of votes for each vote.",
-  "Texteveryqi1": "Every day, the top [Value] common questions in the Popularity Values Ranking have a chance to become trending questions after moderation.
-",
+  "Texteveryqi1": "Every day, the top [Value] common questions in the Popularity Values Ranking have a chance to become trending questions after moderation.",
   "Textrankingvv1": "This ranking is generated based on the total amount of points in the question's prize pools.",
-  "Textrankingvv2": "This ranking is generated based on the user's earned points.
-",
+  "Textrankingvv2": "This ranking is generated based on the user's earned points.",
   "Textrankingvv3": "This ranking is generated based on the user's participation in voting.",
   "Textrankingvv4": "This ranking is generated based on the number of questions created by the user.",
   "Textpenyea3": "Pens are essential for participating in questions. SBT Pens have three levels, each with a different earning coefficient.",
   "Textcanxiaovv": "Participating in questions consumes points, and rewards are also distributed in points.",
   "Textzuchenrr": "After successfully minting a Pen, users have a {value1} chance of getting an NFT Pen.NFT Pens are rare, and its earning coefficient is equivalent to a Level 3 SBT Pen.",
-  "Texthighyoerrc": "
-The prize pool is shared by users who are among the first 100 voters and vote for the answer with the most votes. If the users are beyond the top 100, the higher the percentage increase of the answer they voted for, the higher rewards they will get. However, if the percentage drops by more than 5%, the users will receive no rewards.",
+  "Texthighyoerrc": "The prize pool is shared by users who are among the first 100 voters and vote for the answer with the most votes. If the users are beyond the top 100, the higher the percentage increase of the answer they voted for, the higher rewards they will get. However, if the percentage drops by more than 5%, the users will receive no rewards.",
   "Tedainhore": "After users like a reason, the higher the percentage increase for the answer supported by that reason, the higher the ranking of that reason in terms of likes, and the more rewards the users get. However, if the percentage drops by more than 5%, the users will receive no rewards.",
   "Textqin5verr": "Only the top 5 reasons can receive the Reason Prize. The more likes the reasons receive, the more rewards the users get.",
-  "Textdanquisonvurc": "
-When a common question becomes a trending question, all supporters will receive rewards. Those who support the question with a larger amount and at an earlier time will receive more rewards.",
+  "Textdanquisonvurc": "When a common question becomes a trending question, all supporters will receive rewards. Those who support the question with a larger amount and at an earlier time will receive more rewards.",
   "Textjialgcjwtcv": "Rewards are given to the question creator. When a question becomes a trending question, the question creator will receive additional rewards.",
   "textwarnrr12": "network anomaly"
 }

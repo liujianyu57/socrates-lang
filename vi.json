@@ -1147,15 +1147,12 @@
   "Tip24smistake": "Bút NFT không thể được chuyển trong vòng 24 giờ. Vui lòng thử lại sau.",
   "Textlimityy1": "Tổng số không thể vượt quá {value1}",
   "TextUnlimited": "Điểm cho mỗi câu hỏi có thể được hỗ trợ nhiều lần",
-  "Textchancer1": "
-Bình chọn cho các câu hỏi để có cơ hội tích điểm.",
+  "Textchancer1": "Bình chọn cho các câu hỏi để có cơ hội tích điểm.",
   "Titleaa3": "Bình chọn bây giờ",
-  "Textpublishp1": "
-Bạn có thể sử dụng điểm để tham gia vào các câu hỏi. Hãy chọn câu trả lời mà bạn cho là đúng và bình luận về câu hỏi.",
+  "Textpublishp1": "Bạn có thể sử dụng điểm để tham gia vào các câu hỏi. Hãy chọn câu trả lời mà bạn cho là đúng và bình luận về câu hỏi.",
   "Textvotemore1q": "Bằng cách tham gia bình chọn, bạn có cơ hội tích điểm cho câu trả lời đã chọn có nhiều phiếu bình chọn nhất.",
   "Textbefore2q": "Lý do của bạn càng nhận được nhiều lượt thích thì cơ hội giành được phần thưởng của bạn càng cao.",
-  "Textbeforeee": "
-Những lý do ý nghĩa xứng đáng được nhận lượt thích. Hãy thích những lý do đó để có cơ hội giành được Giải Lượt thích.",
+  "Textbeforeee": "Những lý do ý nghĩa xứng đáng được nhận lượt thích. Hãy thích những lý do đó để có cơ hội giành được Giải Lượt thích.",
   "Textfriendw1s": "Mời bạn bè thích lý do của bạn để có cơ hội tích điểm!",
   "Textlives1": "Hãy thích những câu trả lời bạn thích để có cơ hội giành được Giải Lượt thích!",
   "Textsupport1z": "Bạn có cơ hội giành được Giải Hỗ trợ nếu câu hỏi được hỗ trợ của bạn trở thành câu hỏi thịnh hành.",
@@ -1163,8 +1160,7 @@ Những lý do ý nghĩa xứng đáng được nhận lượt thích. Hãy thí
   "Text1chance": "Tạo câu hỏi và giành phần thưởng",
   "Titleaa5": "Đặt câu hỏi",
   "Textquesbin": "Bạn có thể sử dụng điểm để đặt câu hỏi, nhận phiếu bình chọn và nhận xét từ người khác và kiếm phần thưởng.",
-  "Textquesionn": "
-Các tương tác, chẳng hạn như phiếu bình chọn, bình luận và lượt thích sẽ làm tăng giá trị mức độ phổ biến cho câu hỏi của bạn. Khi câu hỏi trở thành câu hỏi thịnh hành, câu hỏi sẽ nhận được nhiều sự quan tâm hơn.",
+  "Textquesionn": "Các tương tác, chẳng hạn như phiếu bình chọn, bình luận và lượt thích sẽ làm tăng giá trị mức độ phổ biến cho câu hỏi của bạn. Khi câu hỏi trở thành câu hỏi thịnh hành, câu hỏi sẽ nhận được nhiều sự quan tâm hơn.",
   "Textqduoin1": "Câu hỏi của bạn càng nhận được nhiều sự quan tâm thì tổng quỹ thưởng tích lũy càng cao. Sau khi câu hỏi kết thúc, bạn có thể cùng giành được quỹ thưởng.",
   "Titleaa6": "
 Mẹo tích điểm thưởng",
@@ -1175,33 +1171,24 @@ Mẹo tích điểm thưởng",
   "Titleaa9": "Lượt thích/Bình chọn",
   "Textrrzan": "Bình chọn cho câu trả lời có nhiều lượt bình chọn hoặc lý do thích câu trả lời được nhiều người yêu thích.",
   "Titleaa10": "Các câu hỏi thịnh hành",
-  "Textlongrcc": "
-Tham gia vào các câu hỏi xu hướng. Các câu hỏi thịnh hành thường có tổng giải thưởng lớn hơn.",
+  "Textlongrcc": "Tham gia vào các câu hỏi xu hướng. Các câu hỏi thịnh hành thường có tổng giải thưởng lớn hơn.",
   "Titleaa11": "Làm cách nào tôi có thể tích được nhiều điểm hơn bằng cách đặt câu hỏi?",
   "Titleaa12": "Trở thành một câu hỏi thịnh hành",
-  "Textproblemfinishvv": "
-Nếu câu hỏi của bạn trở thành câu hỏi thịnh hành, bạn sẽ nhận được thêm phần thưởng thịnh hành khi câu hỏi kết thúc.",
+  "Textproblemfinishvv": "Nếu câu hỏi của bạn trở thành câu hỏi thịnh hành, bạn sẽ nhận được thêm phần thưởng thịnh hành khi câu hỏi kết thúc.",
   "Titleaa13": "Tăng tổng quỹ thưởng",
-  "Textyoubilemmm": "Tổng quỹ thưởng cho câu hỏi của bạn càng lớn thì bạn càng nhận được nhiều phần thưởng. Mời thêm người tham gia vào câu hỏi của bạn có thể nhanh chóng tăng tổng quỹ thưởng.
-",
+  "Textyoubilemmm": "Tổng quỹ thưởng cho câu hỏi của bạn càng lớn thì bạn càng nhận được nhiều phần thưởng. Mời thêm người tham gia vào câu hỏi của bạn có thể nhanh chóng tăng tổng quỹ thưởng.",
   "Textquanv1": "Lúc đầu, tất cả các câu hỏi được tạo ra như những câu hỏi thường.",
-  "Overlengthvurur": "Hàng ngày, các câu hỏi thịnh hành nhất về [Value] trong Bảng xếp hạng Giá trị Mức độ Phổ biến có cơ hội trở thành câu hỏi thịnh hành sau khi được kiểm duyệt. Các câu hỏi thịnh hành thường có tổng quỹ thưởng lớn hơn.
-",
+  "Overlengthvurur": "Hàng ngày, các câu hỏi thịnh hành nhất về [Value] trong Bảng xếp hạng Giá trị Mức độ Phổ biến có cơ hội trở thành câu hỏi thịnh hành sau khi được kiểm duyệt. Các câu hỏi thịnh hành thường có tổng quỹ thưởng lớn hơn.",
   "Highlevelrrr": "Bút SBT và Bút NFT cấp cao hơn có thể tăng giá trị số phiếu bình chọn cho mỗi phiếu bình chọn.",
-  "Texteveryqi1": "
-Hàng ngày, các câu hỏi thịnh hành nhất về [Value] trong Bảng xếp hạng Giá trị Mức độ Phổ biến có cơ hội trở thành câu hỏi thịnh hành sau khi được kiểm duyệt.",
-  "Textrankingvv1": "
-Thứ hạng này được tạo dựa trên tổng số điểm trong nhóm quỹ thưởng của câu hỏi.",
+  "Texteveryqi1": "Hàng ngày, các câu hỏi thịnh hành nhất về [Value] trong Bảng xếp hạng Giá trị Mức độ Phổ biến có cơ hội trở thành câu hỏi thịnh hành sau khi được kiểm duyệt.",
+  "Textrankingvv1": "Thứ hạng này được tạo dựa trên tổng số điểm trong nhóm quỹ thưởng của câu hỏi.",
   "Textrankingvv2": "Xếp hạng này được tạo dựa trên số điểm tích được của người dùng.",
   "Textrankingvv3": "Xếp hạng này được tạo dựa trên sự tham gia bình chọn của người dùng.",
   "Textrankingvv4": "Thứ hạng này được tạo dựa trên số lượng câu hỏi do người dùng tạo.",
   "Textpenyea3": "Bút là vật dụng cần thiết để tham gia trả lời các câu hỏi. Bút SBT có ba cấp độ, mỗi cấp độ có hệ số tích điểm khác nhau.",
-  "Textcanxiaovv": "
-Việc tham gia các câu hỏi sẽ tiêu tốn điểm và phần thưởng cũng được chia thành điểm.
-",
+  "Textcanxiaovv": "Việc tham gia các câu hỏi sẽ tiêu tốn điểm và phần thưởng cũng được chia thành điểm.",
   "Textzuchenrr": "Sau khi tạo Bút thành công, người dùng có {value1} cơ hội nhận được Bút NFT. Bút NFT rất hiếm và hệ số tích điểm của nó tương đương với Bút SBT Cấp 3.",
-  "Texthighyoerrc": "
-Tổng quỹ thưởng được chia sẻ bởi những người dùng nằm trong số 100 người bình chọn đầu tiên và bình chọn cho câu trả lời có nhiều phiếu bình chọn nhất. Nếu người dùng nằm ngoài top 100, tỷ lệ phần trăm câu trả lời họ bình chọn càng tăng thì phần thưởng họ sẽ nhận được càng cao. Tuy nhiên, nếu tỷ lệ phần trăm giảm hơn 5%, người dùng sẽ không nhận được phần thưởng.",
+  "Texthighyoerrc": "Tổng quỹ thưởng được chia sẻ bởi những người dùng nằm trong số 100 người bình chọn đầu tiên và bình chọn cho câu trả lời có nhiều phiếu bình chọn nhất. Nếu người dùng nằm ngoài top 100, tỷ lệ phần trăm câu trả lời họ bình chọn càng tăng thì phần thưởng họ sẽ nhận được càng cao. Tuy nhiên, nếu tỷ lệ phần trăm giảm hơn 5%, người dùng sẽ không nhận được phần thưởng.",
   "Tedainhore": "Sau khi người dùng thích một lý do, tỷ lệ phần trăm tăng cho câu trả lời được hỗ trợ bởi lý do đó càng cao, thứ hạng của lý do đó về lượt thích càng cao và người dùng nhận được càng nhiều phần thưởng. Tuy nhiên, nếu tỷ lệ phần trăm giảm hơn 5%, người dùng sẽ không nhận được phần thưởng.",
   "Textqin5verr": "Chỉ 5 lý do hàng đầu mới có thể nhận được Giải Lý do. Lý do nhận được càng nhiều lượt thích thì người dùng càng nhận được nhiều phần thưởng.",
   "Textdanquisonvurc": "Khi một câu hỏi thường trở thành câu hỏi thịnh hành, tất cả những người ủng hộ sẽ nhận được phần thưởng. Những người ủng hộ câu hỏi với số tiền lớn hơn và vào thời gian sớm hơn sẽ nhận được nhiều phần thưởng hơn.",
