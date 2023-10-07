@@ -1211,8 +1211,7 @@
   "Onlythisyye": "フォロワーのみが私にメッセージを送ることができます",
   "Onyguanvw": "{Username}はフォロワーからのメッセージのみを許可します。メッセージを送信する前に{Username}をフォローしてください。",
   "Textnoever": "すべてのユーザーからのメッセージをブロックします",
-  "Textyouno1eve": "
-ユーザーは誰からもプライベート メッセージ リクエストを受け付けないポリシーを設定しているため、{Username} にプライベート メッセージを送信できません。",
+  "Textyouno1eve": "ユーザーは誰からもプライベート メッセージ リクエストを受け付けないポリシーを設定しているため、{Username} にプライベート メッセージを送信できません。",
   "Textopenxiao": "通知を有効にする",
   "TextOffv1": "通知を無効にする",
   "Extdelete1": "会話を削除する",
@@ -1221,5 +1220,6 @@
   "Personatextvu": "DM通知",
   "Texteveryl3ong1": "以下のユーザーからのダイレクトメッセージを許可します",
   "Titlemegvu1": "全員",
-  "Titlegzwdpeople": "フォロワー"
+  "Titlegzwdpeople": "フォロワー",
+  "Textverifym": "理解した"
 }

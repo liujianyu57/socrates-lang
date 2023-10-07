@@ -1211,8 +1211,7 @@
   "Onlythisyye": "팔로워만 메시지 전송 가능",
   "Onyguanvw": "{Username} 님은 팔로워의 메시지만 허용합니다. 메시지를 전송하기 전 {Username} 님을 팔로우하십시오.",
   "Textnoever": "모든 사용자의 메시지 차단",
-  "Textyouno1eve": "
-사용자가 다른 사람의 비공개 메시지 요청을 수락하지 않도록 정책을 설정했기 때문에 {Username}에게 비공개 메시지를 보낼 수 없습니다.",
+  "Textyouno1eve": "사용자가 다른 사람의 비공개 메시지 요청을 수락하지 않도록 정책을 설정했기 때문에 {Username}에게 비공개 메시지를 보낼 수 없습니다.",
   "Textopenxiao": "알림 활성화",
   "TextOffv1": "알림 비활성화",
   "Extdelete1": "대화 삭제",
@@ -1221,5 +1220,6 @@
   "Personatextvu": "DM 알림",
   "Texteveryl3ong1": "팔로우한 사용자의 다이렉트 메시지 허용",
   "Titlemegvu1": "모두",
-  "Titlegzwdpeople": "팔로워"
+  "Titlegzwdpeople": "팔로워",
+  "Textverifym": "이해했다"
 }
