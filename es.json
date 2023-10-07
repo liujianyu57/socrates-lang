@@ -1211,7 +1211,7 @@
   "Onlythisyye": "Solo seguidores pueden enviarme mensajes",
   "Onyguanvw": "{Username} solo permite mensajes de seguidores. Por favor, siga a {Username} antes de enviar un mensaje.",
   "Textnoever": "Bloquear mensajes de todos los usuarios",
-  "Textyouno1eve": "No puede enviar un mensaje directo a {Username} porque {Username} ha configurado la solicitud de mensaje como "Bloquear mensajes de todos los usuarios".",
+  "Textyouno1eve": "No puede enviar un mensaje privado a {Username} porque el usuario ha configurado una política para no aceptar solicitudes de mensajes privados de nadie.",
   "Textopenxiao": "Habilitar notificaciones",
   "TextOffv1": "Deshabilitar notificaciones",
   "Extdelete1": "Borrar Conversaciones",

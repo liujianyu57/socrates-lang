@@ -1211,7 +1211,7 @@
   "Onlythisyye": "Chỉ những người theo dõi tôi mới có thể nhắn tin cho tôi",
   "Onyguanvw": "{Username} chỉ cho phép người theo dõi nhắn tin. Vui lòng theo dõi {Username} trước khi gửi tin nhắn.",
   "Textnoever": "Chặn tin nhắn từ tất cả người dùng",
-  "Textyouno1eve": "Bạn không thể gửi tin nhắn trực tiếp tới {Username} vì {Username} đã đặt yêu cầu tin nhắn thành "Chặn tin nhắn từ tất cả người dùng".",
+  "Textyouno1eve": "Bạn không thể gửi tin nhắn riêng tư tới {Username} vì người dùng đã thiết lập chính sách không chấp nhận yêu cầu tin nhắn riêng tư từ bất kỳ ai.",
   "Textopenxiao": "Bật thông báo",
   "TextOffv1": "Tắt thông báo",
   "Extdelete1": "Xóa các cuộc trò chuyện",
