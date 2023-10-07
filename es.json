@@ -1118,7 +1118,7 @@
   "textExportPrivateKey": "Exportar clave privada",
   "textExportPrivateKeyDescription": "Si cambia de dispositivo, necesitará esta clave privada para acceder a su cuenta. ¡Guárdalos en un lugar seguro y secreto y no le digas a nadie esta clave privada! Estas palabras pueden usarse para robar todas tus cuentas.",
   "textExportPrivateKeyDescription1": "¡No le digas a nadie esta clave privada! Estas palabras pueden usarse para robar todas tus cuentas.",
-  "pointType408": "Comisión de premios",
+  "pointType408": "Recompensa de pregunta",
   "pointType409": "Bono de tendencia",
   "tipsRiskTrade": "La transacción actual es riesgosa",
   "textPrizeCommission": "Comisión de premios",

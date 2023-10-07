@@ -1118,7 +1118,7 @@
   "textExportPrivateKey": "Export private key",
   "textExportPrivateKeyDescription": "If you change devices, you will need this Private Key to access your account. Keep them in a safe, secret place and don't tell anyone this Private Key! These words can be used to steal all your accounts",
   "textExportPrivateKeyDescription1": "Don't tell anyone this private key! These words can be used to steal all your accounts",
-  "pointType408": "Prize commission",
+  "pointType408": "Asker's Reward",
   "pointType409": "Trending Bonus",
   "tipsRiskTrade": "Current transaction is risky",
   "textPrizeCommission": "Prize commission",
