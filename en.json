@@ -1221,5 +1221,6 @@
   "Texteveryl3ong1": "Allow direct messages from the following users",
   "Titlemegvu1": "Everyone",
   "Titlegzwdpeople": "Followers",
-  "Textverifym": "Understood"
+  "Textverifym": "Understood",
+  "error3055": "The maximum accumulation cannot exceed {value1}"
 }
