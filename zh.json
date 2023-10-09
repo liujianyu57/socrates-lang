@@ -1230,5 +1230,9 @@
   "Havesbtscope": "*持有SBT笔可选范围：",
   "Limitenterr2": "请在正确范围内输入",
   "textparti1": "参与",
-  "textresult1": "结果"
+  "textresult1": "结果",
+  "Qutype": "问题讨论类型",
+  "Typerr1": "辩论",
+  "Textstatementcop": "辩论型问题在100人之前不展示理由和选项。投票人数超过100人之后公开得票率和历史趋势，你可以随时查看票数分布、票数走势和得票率走势",
+  "Limitopen": "100人之后可显示理由列表"
 }
