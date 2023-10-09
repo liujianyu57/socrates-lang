@@ -1222,5 +1222,13 @@
   "Titlemegvu1": "Todos",
   "Titlegzwdpeople": "Seguidores",
   "Textverifym": "Entendido",
-  "error3055": "A acumulação máxima não pode exceder {value1}"
+  "error3055": "A acumulação máxima não pode exceder {value1}",
+  "Filterconsume": "Pontos contribuídos",
+  "Customizeintegral": "Personalizar os pontos a serem contribuídos",
+  "TexteditVarious": "Você tem a opção de ajustar o número de pontos que um usuário contribui ao votar, curtir e comentar uma pergunta.",
+  "Havenftscope": "Intervalo de valores destinado a usuários com NFT Pens:",
+  "Havesbtscope": "Intervalo de valores destinado a usuários com SBT Pen:",
+  "Limitenterr2": "Por favor insira dentro do intervalo correto",
+  "textparti1": "participar",
+  "textresult1": "resultado"
 }

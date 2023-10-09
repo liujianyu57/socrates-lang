@@ -1222,5 +1222,13 @@
   "Titlemegvu1": "Mọi người",
   "Titlegzwdpeople": "Người theo dõi",
   "Textverifym": "Hiểu",
-  "error3055": "Số tiền tích lũy tối đa không được vượt quá {value1}"
+  "error3055": "Số tiền tích lũy tối đa không được vượt quá {value1}",
+  "Filterconsume": "Điểm đóng góp",
+  "Customizeintegral": "Tùy chỉnh điểm để đóng góp",
+  "TexteditVarious": "Bạn có thể tùy chỉnh số điểm mà người dùng đóng góp để bình chọn, thích và nhận xét về một câu hỏi.",
+  "Havenftscope": "Phạm vi giá trị cho người dùng cầm NFT Pens:",
+  "Havesbtscope": "Phạm vi giá trị dành cho người dùng cầm SBT Pen:",
+  "Limitenterr2": "Vui lòng nhập trong phạm vi chính xác",
+  "textparti1": "tham gia",
+  "textresult1": "kết quả"
 }

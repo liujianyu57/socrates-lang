@@ -1222,5 +1222,13 @@
   "Titlemegvu1": "全員",
   "Titlegzwdpeople": "フォロワー",
   "Textverifym": "理解した",
-  "error3055": "最大累積は {value1} を超えることはできません"
+  "error3055": "最大累積は {value1} を超えることはできません",
+  "Filterconsume": "貢献ポイント",
+  "Customizeintegral": "貢献ポイントをカスタマイズする",
+  "TexteditVarious": "質問に対する投票、「いいね！」、コメントに対してユーザーの貢献ポイント数をカスタマイズすることができます。",
+  "Havenftscope": "NFT Pensを持つユーザーの値の範囲：",
+  "Havesbtscope": "SBT Penを持つユーザーの値の範囲：",
+  "Limitenterr2": "正しい範囲で入力してください",
+  "textparti1": "参加する",
+  "textresult1": "結果"
 }

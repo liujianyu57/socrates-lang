@@ -1222,5 +1222,13 @@
   "Titlemegvu1": "每個人",
   "Titlegzwdpeople": "關注我的人",
   "Textverifym": "明白了",
-  "error3055": "最大累積不能超過{value1}"
+  "error3055": "最大累積不能超過{value1}",
+  "Filterconsume": "積分消耗",
+  "Customizeintegral": "自定義消耗積分",
+  "TexteditVarious": "你可以自定義參與者投票、按讚、撰寫理由所消耗積分",
+  "Havenftscope": "* 持有 NFT 筆可選範圍：",
+  "Havesbtscope": "* 持有 SBT 筆可選範圍：",
+  "Limitenterr2": "請在正確範圍內輸入",
+  "textparti1": "參與",
+  "textresult1": "結果"
 }

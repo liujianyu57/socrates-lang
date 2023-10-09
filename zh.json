@@ -1222,5 +1222,13 @@
   "Titlemegvu1": "每个人",
   "Titlegzwdpeople": "关注我的人",
   "Textverifym": "明白了",
-  "error3055": "最大累积不能超过{value1}"
+  "error3055": "最大累积不能超过{value1}",
+  "Filterconsume": "积分消耗",
+  "Customizeintegral": "自定义消耗积分",
+  "TexteditVarious": "你可以自定义参与问题者投票、点赞、写理由所消耗积分",
+  "Havenftscope": "*持有NFT笔可选范围:",
+  "Havesbtscope": "*持有SBT笔可选范围：",
+  "Limitenterr2": "请在正确范围内输入",
+  "textparti1": "参与",
+  "textresult1": "结果"
 }
