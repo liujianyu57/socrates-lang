@@ -1234,5 +1234,6 @@
   "Qutype": "Tipo de pregunta",
   "Typerr1": "Debate",
   "Textstatementcop": "En el caso de una pregunta tipo debate, sus razones y respuestas no se muestran hasta que más de 100 usuarios voten por la pregunta. Cuando el número de votantes supere los 100, se podrá ver el porcentaje de votos y la tendencia histórica, y podrá visualizar la distribución de los votos, la tendencia de los votos y la tendencia del porcentaje de votos en cualquier momento.",
-  "Limitopen": "La lista de razones se podrá ver cuando más de 100 usuarios voten por la pregunta."
+  "Limitopen": "La lista de razones se podrá ver cuando más de 100 usuarios voten por la pregunta.",
+  "mistakehintpen": "Aún no tienes bolígrafo"
 }

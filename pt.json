@@ -1234,5 +1234,6 @@
   "Qutype": "Tipo de pergunta",
   "Typerr1": "Discussão",
   "Textstatementcop": "Em perguntas do tipo discussão, os motivos e respostas não são visíveis até que pelo menos 100 usuários tenham votado na pergunta. Quando mais de 100 pessoas tiverem votado, você poderá ver a taxa de votação e o histórico de tendências, bem como a distribuição de votos a qualquer momento.",
-  "Limitopen": "A lista de motivos será exibida quando mais de 100 usuários votarem na pergunta."
+  "Limitopen": "A lista de motivos será exibida quando mais de 100 usuários votarem na pergunta.",
+  "mistakehintpen": "Você ainda não tem uma caneta"
 }

@@ -1234,5 +1234,6 @@
   "Qutype": "Question type",
   "Typerr1": "Discussion",
   "Textstatementcop": "For a discussion-type question, its reasons and answers are not displayed until over 100 users vote on the question. After the number of voters exceeds 100, the vote rate and historical trend will be displayed, and you can view the distribution of votes, the trend of votes, and the trend of vote rate at any time.",
-  "Limitopen": "The reason list will be displayed when over 100 users vote on the question."
+  "Limitopen": "The reason list will be displayed when over 100 users vote on the question.",
+  "mistakehintpen": "You don't have a pen yet"
 }
