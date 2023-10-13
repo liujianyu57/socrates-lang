@@ -1235,5 +1235,9 @@
   "Typerr1": "辩论",
   "Textstatementcop": "辩论型问题在100人之前不展示理由和选项。投票人数超过100人之后公开得票率和历史趋势，你可以随时查看票数分布、票数走势和得票率走势",
   "Limitopen": "100人之后可显示理由列表",
-  "mistakehintpen": "你还没有笔"
+  "mistakehintpen": "你还没有笔",
+  "hintFinish": "剩余结束时间",
+  "textpayhintrr2": "Sign this message to prove you have access to this wallet. Signing will cost nothing.",
+  "textregisterr1": "Welcome to Socrates! 
+Sign this message to prove you have access to this wallet. Signing will cost nothing."
 }

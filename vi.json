@@ -1235,5 +1235,9 @@
   "Typerr1": "Câu hỏi dạng thảo luận",
   "Textstatementcop": "Đối với câu hỏi dạng thảo luận, lý do và câu trả lời của câu hỏi đó không được hiển thị cho đến khi có hơn 100 người dùng bình chọn cho câu hỏi. Sau khi số lượng người bình chọn vượt quá 100, tỷ lệ phiếu bình chọn và xu hướng lịch sử sẽ được hiển thị và bạn có thể xem phân bổ phiếu bình chọn, xu hướng phiếu bình chọn và xu hướng tỷ lệ phiếu bình chọn bất cứ lúc nào.",
   "Limitopen": "Danh sách lý do sẽ được hiển thị khi có trên 100 người dùng bình chọn cho câu hỏi.",
-  "mistakehintpen": "Bạn chưa có bút"
+  "mistakehintpen": "Bạn chưa có bút",
+  "hintFinish": "thời gian kết thúc còn lại",
+  "textpayhintrr2": "Ký vào tin nhắn này để chứng minh bạn có quyền truy cập vào ví này. Việc ký kết sẽ không mất phí gì.",
+  "textregisterr1": "Chào mừng đến với Socrates!
+Ký vào tin nhắn này để chứng minh bạn có quyền truy cập vào ví này. Việc ký kết sẽ không mất phí gì."
 }
