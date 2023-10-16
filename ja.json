@@ -4,38 +4,29 @@
   "btnAll": "全部",
   "btnAnswer": "投票",
   "btnAvatar": "プロフィール写真",
-  "btnBuy": "買う
-",
+  "btnBuy": "買う",
   "btnBuyPen": "ペンを購入
 する",
   "btnBuyPoint": "ポイントを購入
 する",
   "btnCancel": "キャンセル",
-  "btnChangeAnswer": "投票を変更する
-",
-  "btnChannel": "チャンネル
-",
+  "btnChangeAnswer": "投票を変更する",
+  "btnChannel": "チャンネル",
   "btnCollapse": "折りたたむ",
-  "btnConfirm": "確認
-",
+  "btnConfirm": "確認",
   "btnConfirmPay": "支払いを確認
 する",
   "btnCopyToClipboard": "クリップボードにコピー",
   "btnCreate": "作成",
   "btnDark": "ダークモード",
   "btnDone": "终わり",
-  "btnEdit": "編集
-",
+  "btnEdit": "編集",
   "btnEmail": "Eメール",
-  "btnEnterSocrates": "ソクラテスに参加する
-",
+  "btnEnterSocrates": "ソクラテスに参加する",
   "btnExportSeedPhrase": "シードフレーズのエクスポート",
-  "btnFollow": "フォローする
-",
-  "textFollowing": "フォロー中
-",
-  "btnFollowing": "フォロー中
-",
+  "btnFollow": "フォローする",
+  "textFollowing": "フォロー中",
+  "btnFollowing": "フォロー中",
   "textFollows": "フォロワー",
   "btnFollowSystem": "デバイス設定を使用する",
   "btnForgetPassword": "パスワードをお忘れですか？",
@@ -57,10 +48,8 @@
   "btnLoginWallet": "ウォレットでログイン",
   "btnLogOut": "ログアウト",
   "btnMint": "ミント",
-  "btnMintingPen": "ペンをミントしています。
-",
-  "btnMintPenSuccess": "ペンのミントが成功しました。
-",
+  "btnMintingPen": "ペンをミントしています。",
+  "btnMintPenSuccess": "ペンのミントが成功しました。",
   "btnModifyPassword": "パスワードを変更する",
   "btnMore": "もっと",
   "btnMoreReply": "さらに返信",
@@ -68,14 +57,11 @@
   "btnNickname": "ニックネーム",
   "btnPassword": "パスワード",
   "btnPaste": "ペースト",
-  "btnPointWithdraw": "ポイントを出金
-",
+  "btnPointWithdraw": "ポイントを出金",
   "btnProfile": "プロフィール",
   "btnReceive": "受け取る",
-  "btnRecover": "回復
-",
-  "btnRecycle": "リサイクル
-",
+  "btnRecover": "回復",
+  "btnRecycle": "リサイクル",
   "btnReply": "返事",
   "btnResend": "再送信",
   "btnScan": "QRコードをスキャンします",
@@ -83,32 +69,22 @@
   "btnSend": "送信",
   "btnSendCode": "コードの
 送信",
-  "btnSettings": "設定
-",
+  "btnSettings": "設定",
   "btnSignUp": "サインアップ",
   "btnSignUpWallet": "ウォレットで登録する",
   "btnSkip": "スキップ",
-  "btnTerms": "利用規約
-",
-  "btnTheme": "利用規約
-",
-  "btnTransfer": "転送
-",
+  "btnTerms": "利用規約",
+  "btnTheme": "利用規約",
+  "btnTransfer": "転送",
   "btnUpgrade": "アップグレード",
-  "btnValidTime": "{value1} 有効時間
-",
-  "btnVerificationLogin": "認証ログイン
-",
-  "btnViewOnEtherscan": "イーサスキャンで確認する
-",
-  "btnWantInvest": "サポートする
-",
+  "btnValidTime": "{value1} 有効時間",
+  "btnVerificationLogin": "認証ログイン",
+  "btnViewOnEtherscan": "イーサスキャンで確認する",
+  "btnWantInvest": "サポートする",
   "inputTipsAddReason": "理由を追加して
 ください",
-  "inputTipsAmount": "金額
-",
-  "inputTipsCreateQuestion": "質問を作成する
-",
+  "inputTipsAmount": "金額",
+  "inputTipsCreateQuestion": "質問を作成する",
   "inputTipsEmail": "Eメール",
   "inputTipsOption": "オプション {value1}",
   "inputTipsReceiver": "アドレスを入力または贴り付けます",
@@ -130,12 +106,10 @@
   "textAddLink": "リンクを追加する",
   "textAddLinkDescription": "追加できるリンクは 1 つだけです",
   "textAddReason": "理由を追加",
-  "textAddress": "アドレス
-",
+  "textAddress": "アドレス",
   "textAgreeTerms": "サインアップすると、{value1} に同意したことになります。",
   "textAllChannel": "全部のチャンネル",
-  "textAmount": "金額
-",
+  "textAmount": "金額",
   "textAnswerIncome": "ディスカッション赏",
   "textAnswerNumber": "総投票数",
   "textAnswerPeople": "投票者",
@@ -143,8 +117,7 @@
   "textAnswerRankingDescription": "ユーザーが投じた投票数に基づいて生成され、毎日更新されます",
   "textAnswers": "投票",
   "textAreaDescription": "異なる地域のコンテンツとアカウントは相互運用できません",
-  "textAskNumber": "質問数
-",
+  "textAskNumber": "質問数",
   "textAskRanking": "質問ランキング",
   "textAskRankingDescription": "ユーザーが作成した質問の数に応じて生成され、毎日更新されます",
   "textAvailable": "利用可能",
