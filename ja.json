@@ -5,17 +5,14 @@
   "btnAnswer": "投票",
   "btnAvatar": "プロフィール写真",
   "btnBuy": "買う",
-  "btnBuyPen": "ペンを購入
-する",
-  "btnBuyPoint": "ポイントを購入
-する",
+  "btnBuyPen": "ペンを購入する",
+  "btnBuyPoint": "ポイントを購入する",
   "btnCancel": "キャンセル",
   "btnChangeAnswer": "投票を変更する",
   "btnChannel": "チャンネル",
   "btnCollapse": "折りたたむ",
   "btnConfirm": "確認",
-  "btnConfirmPay": "支払いを確認
-する",
+  "btnConfirmPay": "支払いを確認する",
   "btnCopyToClipboard": "クリップボードにコピー",
   "btnCreate": "作成",
   "btnDark": "ダークモード",
@@ -67,8 +64,7 @@
   "btnScan": "QRコードをスキャンします",
   "btnSeedPhrase": "シードフレーズ",
   "btnSend": "送信",
-  "btnSendCode": "コードの
-送信",
+  "btnSendCode": "コードの送信",
   "btnSettings": "設定",
   "btnSignUp": "サインアップ",
   "btnSignUpWallet": "ウォレットで登録する",
@@ -81,8 +77,7 @@
   "btnVerificationLogin": "認証ログイン",
   "btnViewOnEtherscan": "イーサスキャンで確認する",
   "btnWantInvest": "サポートする",
-  "inputTipsAddReason": "理由を追加して
-ください",
+  "inputTipsAddReason": "理由を追加してください",
   "inputTipsAmount": "金額",
   "inputTipsCreateQuestion": "質問を作成する",
   "inputTipsEmail": "Eメール",
