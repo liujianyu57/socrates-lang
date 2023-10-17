@@ -1238,5 +1238,6 @@
   "mistakehintpen": "You don't have a pen yet",
   "hintFinish": "remaining end time",
   "textpayhintrr2": "Sign this message to prove you have access to this wallet. Signing will cost nothing.",
-  "textregisterr1": "Welcome to Socrates! Sign this message to prove you have access to this wallet. Signing will cost nothing."
+  "textregisterr1": "Welcome to Socrates! Sign this message to prove you have access to this wallet. Signing will cost nothing.",
+  "enterlimitinte": "Please enter the points consumed by those who participated in the question"
 }
