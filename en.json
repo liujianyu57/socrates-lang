@@ -1239,5 +1239,9 @@
   "hintFinish": "remaining end time",
   "textpayhintrr2": "Sign this message to prove you have access to this wallet. Signing will cost nothing.",
   "textregisterr1": "Welcome to Socrates! Sign this message to prove you have access to this wallet. Signing will cost nothing.",
-  "enterlimitinte": "Please enter the points consumed by those who participated in the question"
+  "enterlimitinte": "Please enter the points consumed by those who participated in the question",
+  "buttonshh11": "Share",
+  "Clickbuttonr1": "Click {value1} button.",
+  "Convertforapplica": "Transform this website into an app on your home screen for quick access.",
+  "AddScreenhost": "新增到主螢幕"
 }

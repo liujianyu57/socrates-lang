@@ -1239,5 +1239,9 @@
   "hintFinish": "剩餘結束時間",
   "textpayhintrr2": "Sign this message to prove you have access to this wallet. Signing will cost nothing.",
   "textregisterr1": "Welcome to Socrates! Sign this message to prove you have access to this wallet. Signing will cost nothing.",
-  "enterlimitinte": "請輸入參與問題者消耗積分"
+  "enterlimitinte": "請輸入參與問題者消耗積分",
+  "buttonshh11": "分享",
+  "Clickbuttonr1": "點選{value1}按鈕。",
+  "Convertforapplica": "將此網站轉換為主螢幕上的應用程序，以便快速存取。",
+  "AddScreenhost": "新增到主螢幕"
 }

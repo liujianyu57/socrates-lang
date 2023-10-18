@@ -1239,5 +1239,9 @@
   "hintFinish": "hora de finalización restante",
   "textpayhintrr2": "Firme este mensaje para demostrar que tiene acceso a esta billetera. Firmar no te costará nada.",
   "textregisterr1": "¡Bienvenido a Sócrates!Firme este mensaje para demostrar que tiene acceso a esta billetera. Firmar no te costará nada.",
-  "enterlimitinte": "Por favor ingrese los puntos consumidos por quienes participaron en la pregunta."
+  "enterlimitinte": "Por favor ingrese los puntos consumidos por quienes participaron en la pregunta.",
+  "buttonshh11": "compartir",
+  "Clickbuttonr1": "Haga clic en el botón {value1}.",
+  "Convertforapplica": "Convierta este sitio web en una aplicación en su pantalla de inicio para un acceso rápido.",
+  "AddScreenhost": "Añadir a la pantalla principal"
 }

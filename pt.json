@@ -1239,5 +1239,9 @@
   "hintFinish": "hora de término restante",
   "textpayhintrr2": "Assine esta mensagem para provar que você tem acesso a esta carteira. A assinatura não custará nada.",
   "textregisterr1": "Bem-vindo ao Sócrates!Assine esta mensagem para provar que você tem acesso a esta carteira. A assinatura não custará nada.",
-  "enterlimitinte": "Informe os pontos consumidos por quem participou da questão"
+  "enterlimitinte": "Informe os pontos consumidos por quem participou da questão",
+  "buttonshh11": "compartilhar",
+  "Clickbuttonr1": "Clique no botão {value1}.",
+  "Convertforapplica": "Converta este site em um aplicativo na tela inicial para acesso rápido.",
+  "AddScreenhost": "Adicionar à tela inicial"
 }
