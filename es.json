@@ -1243,5 +1243,8 @@
   "buttonshh11": "compartir",
   "Clickbuttonr1": "Haga clic en el botón {value1}.",
   "Convertforapplica": "Convierta este sitio web en una aplicación en su pantalla de inicio para un acceso rápido.",
-  "AddScreenhost": "Añadir a la pantalla principal"
+  "AddScreenhost": "Añadir a la pantalla principal",
+  "textDetaill1": "Detalles",
+  "networkNextt11": "Continuar en un navegador web →",
+  "textOpennn1": "Luego abre la aplicación Sócrates en tu pantalla de inicio."
 }
