@@ -1255,5 +1255,6 @@
   "acceptetcc": "{value1}、{value2}、{value3}について同意します。",
   "textagreeCom": "私は本規約を読み、同意します。",
   "choosewall": "ウォレットを接続する",
-  "networkgett": "{value1}チェーンでUSDTを受け取ります。"
+  "networkgett": "{value1}チェーンでUSDTを受け取ります。",
+  "textriskhintt": "現在の動作は危険です。後でもう一度試すか、カスタマー サービスに問い合わせて相談してください。"
 }

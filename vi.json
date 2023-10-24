@@ -1255,5 +1255,6 @@
   "acceptetcc": "Chấp nhận {value1}, {value2} và {value3}.",
   "textagreeCom": "Tôi đã đọc và chấp nhận các điều khoản.",
   "choosewall": "Kết nối ví",
-  "networkgett": "Bạn sẽ nhận được USDT trên chuỗi {value1}."
+  "networkgett": "Bạn sẽ nhận được USDT trên chuỗi {value1}.",
+  "textriskhintt": "Hành vi hiện tại có nhiều rủi ro, vui lòng thử lại sau hoặc liên hệ với bộ phận dịch vụ khách hàng để được tư vấn."
 }

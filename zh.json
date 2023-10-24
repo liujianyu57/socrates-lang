@@ -1255,5 +1255,6 @@
   "acceptetcc": "接受{value1}、{value2}和{value3}",
   "textagreeCom": "我已阅读并同意",
   "choosewall": "选择钱包",
-  "networkgett": "你将会在{value1}链上收到兑换的USDT"
+  "networkgett": "你将会在{value1}链上收到兑换的USDT",
+  "textriskhintt": "当前行为存在风险，请稍后再试或联系客服咨询。"
 }

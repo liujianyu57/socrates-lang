@@ -1255,5 +1255,6 @@
   "acceptetcc": "Acepte {value1}, {value2}, y {value3}.",
   "textagreeCom": "He leído y acepto las condiciones.",
   "choosewall": "Conecte una billetera",
-  "networkgett": "Recibirá USDT en la {value1} cadena."
+  "networkgett": "Recibirá USDT en la {value1} cadena.",
+  "textriskhintt": "El comportamiento actual es riesgoso. Vuelva a intentarlo más tarde o comuníquese con el servicio de atención al cliente para realizar una consulta."
 }

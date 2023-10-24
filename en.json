@@ -1255,5 +1255,6 @@
   "acceptetcc": "Accept the {value1}, {value2}, and {value3}.",
   "textagreeCom": "I have read and accept the terms.",
   "choosewall": "Connect a wallet",
-  "networkgett": "You will receive the USDT on the {value1} chain."
+  "networkgett": "You will receive the USDT on the {value1} chain.",
+  "textriskhintt": "The current behavior is risky, please try again later or contact customer service for consultation."
 }
