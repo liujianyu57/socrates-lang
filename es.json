@@ -1256,5 +1256,8 @@
   "textagreeCom": "He leído y acepto las condiciones.",
   "choosewall": "Conecte una billetera",
   "networkgett": "Recibirá USDT en la {value1} cadena.",
-  "textriskhintt": "El comportamiento actual es riesgoso. Vuelva a intentarlo más tarde o comuníquese con el servicio de atención al cliente para realizar una consulta."
+  "textriskhintt": "El comportamiento actual es riesgoso. Vuelva a intentarlo más tarde o comuníquese con el servicio de atención al cliente para realizar una consulta.",
+  "votetitleNumber": "El número de personas que votaron sobre esta pregunta.",
+  "differentcontinue": "El bolígrafo SBT en esta dirección está en la cadena {value1} y no está disponible en {value1}. Confirma si deseas continuar."
+  "differentpenvoo": "Los diferentes niveles de bolígrafos SBT y NFT aumentarán el número de votos en una sola votación"
 }

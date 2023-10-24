@@ -1256,5 +1256,8 @@
   "textagreeCom": "I have read and accept the terms.",
   "choosewall": "Connect a wallet",
   "networkgett": "You will receive the USDT on the {value1} chain.",
-  "textriskhintt": "The current behavior is risky, please try again later or contact customer service for consultation."
+  "textriskhintt": "The current behavior is risky, please try again later or contact customer service for consultation.",
+  "votetitleNumber": "The number of people who voted on this question",
+  "differentcontinue": "The SBT pen at this address is on the {value1} chain and is not available on {value1}. Please confirm whether to continue."
+  "differentpenvoo": "Different levels of SBT pens and NFT pens will increase the number of votes in a single vote"
 }

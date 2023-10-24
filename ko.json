@@ -1256,5 +1256,8 @@
   "textagreeCom": "본인은 약관을 읽고 수락합니다.",
   "choosewall": "지갑 연결",
   "networkgett": "{value1} 체인에서 USDT을(를) 받습니다.",
-  "textriskhintt": "현재 동작은 위험합니다. 나중에 다시 시도하거나 고객 서비스에 문의하여 상담해 보세요."
+  "textriskhintt": "현재 동작은 위험합니다. 나중에 다시 시도하거나 고객 서비스에 문의하여 상담해 보세요.",
+  "votetitleNumber": "이 질문에 투표한 사람의 수",
+  "differentcontinue": "이 주소의 SBT 펜은 {value1} 체인에 있으며 {value1}에서는 사용할 수 없습니다. 계속할지 확인하세요."
+  "differentpenvoo": "SBT 펜과 NFT 펜의 레벨이 다르면 한 번의 투표에서 투표 수가 늘어납니다."
 }
