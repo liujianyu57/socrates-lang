@@ -1246,5 +1246,14 @@
   "AddScreenhost": "Añadir a la pantalla principal",
   "textDetaill1": "Detalles",
   "networkNextt11": "Continuar en un navegador web →",
-  "textOpennn1": "Luego abre la aplicación Sócrates en tu pantalla de inicio."
+  "textOpennn1": "Luego abre la aplicación Sócrates en tu pantalla de inicio.",
+  "notyett1": "no establecido",
+  "textMnemonicase": "Después de registrarse Socrates, debe conectar su billetera. Socrates no almacenará ni conservará sus frases semilla, las cuales se encriptan y almacenan localmente en su dispositivo.",
+  "Selectnetworkk": "Seleccione una red",
+  "cannotchanged": "Elija una red para usar Socrates. Su elección no se puede cambiar una vez realizada.",
+  "handlingfeee": "Cargos por retiro",
+  "acceptetcc": "Acepte {value1}, {value2}, y {value3}.",
+  "textagreeCom": "He leído y acepto las condiciones.",
+  "choosewall": "Conecte una billetera",
+  "networkgett": "Recibirá USDT en la {value1} cadena."
 }

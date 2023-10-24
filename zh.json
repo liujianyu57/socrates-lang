@@ -1246,5 +1246,14 @@
   "AddScreenhost": "添加到主屏幕",
   "textDetaill1": "详情",
   "networkNextt11": "在网络浏览器上继续 →",
-  "textOpennn1": "然后在主屏幕上打开苏格拉底应用程序。"
+  "textOpennn1": "然后在主屏幕上打开苏格拉底应用程序。",
+  "notyett1": "未设置",
+  "textMnemonicase": "注册账户后需绑定钱包。Socrates不存储、持有您的助记词。您的助记词将加密保存在设备本地。",
+  "Selectnetworkk": "选择网络",
+  "cannotchanged": "选择您使用Socrates的网络，选定后不可修改",
+  "handlingfeee": "兑换手续费",
+  "acceptetcc": "接受{value1}、{value2}和{value3}",
+  "textagreeCom": "我已阅读并同意",
+  "choosewall": "选择钱包",
+  "networkgett": "你将会在{value1}链上收到兑换的USDT"
 }

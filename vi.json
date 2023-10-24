@@ -1246,5 +1246,14 @@
   "AddScreenhost": "Thêm vào màn hình chính",
   "textDetaill1": "Chi tiết",
   "networkNextt11": "Tiếp tục trên trình duyệt web →",
-  "textOpennn1": "Sau đó mở ứng dụng Socrates trên màn hình chính của bạn."
+  "textOpennn1": "Sau đó mở ứng dụng Socrates trên màn hình chính của bạn.",
+  "notyett1": "không được thiết lập",
+  "textMnemonicase": "Sau khi đăng ký Socrates, bạn cần kết nối ví của mình. Socrates sẽ không lưu trữ hoặc giữ lại các cụm từ gốc được mã hóa và lưu trữ cục bộ trên thiết bị của bạn.",
+  "Selectnetworkk": "Chọn mạng",
+  "cannotchanged": "Chọn mạng để sử dụng bằng Socrates. Lựa chọn của bạn không thể thay đổi một khi đã thực hiện.",
+  "handlingfeee": "Phí rút tiền",
+  "acceptetcc": "Chấp nhận {value1}, {value2} và {value3}.",
+  "textagreeCom": "Tôi đã đọc và chấp nhận các điều khoản.",
+  "choosewall": "Kết nối ví",
+  "networkgett": "Bạn sẽ nhận được USDT trên chuỗi {value1}."
 }

@@ -1246,5 +1246,14 @@
   "AddScreenhost": "Adicionar à tela inicial",
   "textDetaill1": "Detalhes",
   "networkNextt11": "Continue em um navegador da web →",
-  "textOpennn1": "Em seguida, abra o aplicativo Sócrates na tela inicial."
+  "textOpennn1": "Em seguida, abra o aplicativo Sócrates na tela inicial.",
+  "notyett1": "não configurado",
+  "textMnemonicase": "Após se registrar no Socrates, será necessário conectar sua carteira. O Socrates não armazenará ou reterá suas frases de recuperação, criptografadas e armazenadas localmente em seu dispositivo.",
+  "Selectnetworkk": "Escolha da rede",
+  "cannotchanged": "Escolha a rede para usar com o Socrates. Sua opção não pode ser alterada depois de concluída.",
+  "handlingfeee": "Taxas para saques",
+  "acceptetcc": "Aceitação de {value1}, {value2} e {value3}.",
+  "textagreeCom": "Li e aceitei os termos.",
+  "choosewall": "Conectar uma carteira",
+  "networkgett": "Você receberá USDT no {value1} blockchain."
 }

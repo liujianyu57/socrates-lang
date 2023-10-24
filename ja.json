@@ -1246,5 +1246,14 @@
   "AddScreenhost": "ホーム画面に追加します",
   "textDetaill1": "詳細",
   "networkNextt11": "Webブラウザで続ける→",
-  "textOpennn1": "次に、ホーム画面でソクラテス アプリを開きます。"
+  "textOpennn1": "次に、ホーム画面でソクラテス アプリを開きます。",
+  "notyett1": "設定されていません",
+  "textMnemonicase": "Socratesにサインアップした後、ウォレットを接続する必要があります。暗号化されてデバイスのローカルに保存されるシードフレーズは、Socratesによって保存または保持されません。",
+  "Selectnetworkk": "ネットワークを選択する",
+  "cannotchanged": "Socratesで使用するネットワークを選択します。一度決定した選択は変更できません。",
+  "handlingfeee": "出金時の手数料",
+  "acceptetcc": "{value1}、{value2}、{value3}について同意します。",
+  "textagreeCom": "私は本規約を読み、同意します。",
+  "choosewall": "ウォレットを接続する",
+  "networkgett": "{value1}チェーンでUSDTを受け取ります。"
 }

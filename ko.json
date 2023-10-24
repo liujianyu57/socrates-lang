@@ -1246,5 +1246,14 @@
   "AddScreenhost": "홈 화면에 추가",
   "textDetaill1": "세부",
   "networkNextt11": "웹 브라우저에서 계속 →",
-  "textOpennn1": "그런 다음 홈 화면에서 소크라테스 앱을 엽니다."
+  "textOpennn1": "그런 다음 홈 화면에서 소크라테스 앱을 엽니다.",
+  "notyett1": "설정되지 않음",
+  "textMnemonicase": "Socrates에 가입한 후 지갑을 연결해야 합니다. Socrates에서는 시드 단어를 저장하거나 유지하지 않으며, 시드 단어는 암호화되어 장치에 로컬로 저장됩니다.",
+  "Selectnetworkk": "네트워크 선택",
+  "cannotchanged": "Socrates에서 사용할 네트워크를 선택합니다. 선택하고 나면 변경할 수 없습니다.",
+  "handlingfeee": "인출 수수료",
+  "acceptetcc": "{value1}, {value2} 및 {value3}을(를) 수락합니다.",
+  "textagreeCom": "본인은 약관을 읽고 수락합니다.",
+  "choosewall": "지갑 연결",
+  "networkgett": "{value1} 체인에서 USDT을(를) 받습니다."
 }
