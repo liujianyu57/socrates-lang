@@ -1258,6 +1258,6 @@
   "networkgett": "Você receberá USDT no {value1} blockchain.",
   "textriskhintt": "O comportamento atual é arriscado, tente novamente mais tarde ou entre em contato com o atendimento ao cliente para consulta.",
   "votetitleNumber": "O número de pessoas que votaram nesta questão",
-  "differentcontinue": "A caneta do SBT neste endereço está na cadeia {value1} e não está disponível em {value1}. Confirme se deseja continuar."
-  "differentpenvoo": "Diferentes níveis de canetas SBT e canetas NFT aumentarão o número de votos em uma única votação"
+  "differentcontinue": "A caneta do SBT neste endereço está na cadeia {value1} e não está disponível em {value1}. Confirme se deseja continuar.",
+  "differentpenvoo": "Diferentes níveis de canetas SBT e canetas NFT aumentarão o número de votos em uma única votação",
 }

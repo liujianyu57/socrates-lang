@@ -1258,6 +1258,6 @@
   "networkgett": "你将会在{value1}链上收到兑换的USDT",
   "textriskhintt": "当前行为存在风险，请稍后再试或联系客服咨询。",
   "votetitleNumber": "参与本题投票的人数",
-  "differentcontinue": "该地址的SBT笔在{value1}链上，在{value1}上不可用，请确认是否继续"
-  "differentpenvoo": "不同级别的SBT笔和NFT笔会增加单次投票的票数"
+  "differentcontinue": "该地址的SBT笔在{value1}链上，在{value1}上不可用，请确认是否继续",
+  "differentpenvoo": "不同级别的SBT笔和NFT笔会增加单次投票的票数",
 }
