@@ -1259,5 +1259,7 @@
   "textriskhintt": "現在の動作は危険です。後でもう一度試すか、カスタマー サービスに問い合わせて相談してください。",
   "votetitleNumber": "この質問に投票した人の数",
   "differentcontinue": "このアドレスの SBT ペンは {value1} チェーン上にあり、{value1} では使用できません。続行するかどうかを確認してください。",
-  "differentpenvoo": "SBT ペンと NFT ペンのレベルが異なると、1 回の投票での投票数が増加します"
+  "differentpenvoo": "SBT ペンと NFT ペンのレベルが異なると、1 回の投票での投票数が増加します",
+  "filtrshare": "票のシェア",
+  "filtroNumber": "票の数"
 }

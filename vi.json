@@ -1259,5 +1259,7 @@
   "textriskhintt": "Hành vi hiện tại có nhiều rủi ro, vui lòng thử lại sau hoặc liên hệ với bộ phận dịch vụ khách hàng để được tư vấn.",
   "votetitleNumber": "Số người đã bình chọn cho câu hỏi này",
   "differentcontinue": "Bút SBT tại địa chỉ này nằm trên chuỗi {value1} và không có sẵn trên {value1}. Vui lòng xác nhận xem có tiếp tục hay không.",
-  "differentpenvoo": "Các mức bút SBT và bút NFT khác nhau sẽ tăng số lượng phiếu bầu trong một lần bỏ phiếu"
+  "differentpenvoo": "Các mức bút SBT và bút NFT khác nhau sẽ tăng số lượng phiếu bầu trong một lần bỏ phiếu",
+  "filtrshare": "chia sẻ phiếu bầu",
+  "filtroNumber": "Số phiếu bầu"
 }

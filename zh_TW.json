@@ -1259,5 +1259,7 @@
   "textriskhintt": "目前行為有風險，請稍後再試或聯絡客服諮詢。",
   "votetitleNumber": "參與本題投票的人數",
   "differentcontinue": "該位址的SBT筆在{value1}鏈上，在{value1}上不可用，請確認是否繼續",
-  "differentpenvoo": "不同等級的SBT筆和NFT筆會增加單次投票的票數"
+  "differentpenvoo": "不同等級的SBT筆和NFT筆會增加單次投票的票數",
+  "filtrshare": "得票率",
+  "filtroNumber": "票數"
 }
