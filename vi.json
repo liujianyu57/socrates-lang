@@ -1261,5 +1261,9 @@
   "differentcontinue": "Bút SBT tại địa chỉ này nằm trên chuỗi {value1} và không có sẵn trên {value1}. Vui lòng xác nhận xem có tiếp tục hay không.",
   "differentpenvoo": "Các mức bút SBT và bút NFT khác nhau sẽ tăng số lượng phiếu bầu trong một lần bỏ phiếu",
   "filtrshare": "chia sẻ phiếu bầu",
-  "filtroNumber": "Số phiếu bầu"
+  "filtroNumber": "Số phiếu bầu",
+  "titleScreenEditVideo": "Chỉnh sửa video",
+  "btnCrop": "Cắt",
+  "toastVideoTooShort": "Chọn video dài hơn 3 giây.",
+  "toastVideoFileTooBig": "Đảm bảo tệp video có dung lượng dưới 1 GB."
 }

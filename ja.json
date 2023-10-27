@@ -1261,5 +1261,9 @@
   "differentcontinue": "このアドレスの SBT ペンは {value1} チェーン上にあり、{value1} では使用できません。続行するかどうかを確認してください。",
   "differentpenvoo": "SBT ペンと NFT ペンのレベルが異なると、1 回の投票での投票数が増加します",
   "filtrshare": "票のシェア",
-  "filtroNumber": "票の数"
+  "filtroNumber": "票の数",
+  "titleScreenEditVideo": "動画を編集",
+  "btnCrop": "トリム",
+  "toastVideoTooShort": "3秒以上の動画を選択します。",
+  "toastVideoFileTooBig": "動画ファイルが1GB以下であることを確認します。"
 }

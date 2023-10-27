@@ -1261,5 +1261,9 @@
   "differentcontinue": "El bolígrafo SBT en esta dirección está en la cadena {value1} y no está disponible en {value1}. Confirma si deseas continuar.",
   "differentpenvoo": "Los diferentes niveles de bolígrafos SBT y NFT aumentarán el número de votos en una sola votación",
   "filtrshare": "voto compartido",
-  "filtroNumber": "Numero de votos"
+  "filtroNumber": "Numero de votos",
+  "titleScreenEditVideo": "Editar video",
+  "btnCrop": "Recortar",
+  "toastVideoTooShort": "Seleccione videos de más de 3 segundos.",
+  "toastVideoFileTooBig": "Asegúrese que el archivo de video tenga menos de 1 GB."
 }

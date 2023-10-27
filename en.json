@@ -1261,5 +1261,9 @@
   "differentcontinue": "The SBT pen at this address is on the {value1} chain and is not available on {value1}. Please confirm whether to continue.",
   "differentpenvoo": "Different levels of SBT pens and NFT pens will increase the number of votes in a single vote",
   "filtrshare": "vote share",
-  "filtroNumber": "Number of votes"
+  "filtroNumber": "Number of votes",
+  "titleScreenEditVideo": "Edit video",
+  "btnCrop": "Trim",
+  "toastVideoTooShort": "Select videos longer than 3 seconds.",
+  "toastVideoFileTooBig": "Ensure the video file is under 1 GB."
 }

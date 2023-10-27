@@ -1261,5 +1261,9 @@
   "differentcontinue": "A caneta do SBT neste endereço está na cadeia {value1} e não está disponível em {value1}. Confirme se deseja continuar.",
   "differentpenvoo": "Diferentes níveis de canetas SBT e canetas NFT aumentarão o número de votos em uma única votação",
   "filtrshare": "votar compartilhar",
-  "filtroNumber": "Número de votos"
+  "filtroNumber": "Número de votos",
+  "titleScreenEditVideo": "Editar vídeo",
+  "btnCrop": "Aparar",
+  "toastVideoTooShort": "Selecione vídeos com mais de 3 segundos.",
+  "toastVideoFileTooBig": "Verifique se o arquivo de vídeo tem menos de 1 GB."
 }

@@ -1261,5 +1261,9 @@
   "differentcontinue": "이 주소의 SBT 펜은 {value1} 체인에 있으며 {value1}에서는 사용할 수 없습니다. 계속할지 확인하세요.",
   "differentpenvoo": "SBT 펜과 NFT 펜의 레벨이 다르면 한 번의 투표에서 투표 수가 늘어납니다.",
   "filtrshare": "투표 공유",
-  "filtroNumber": "투표수"
+  "filtroNumber": "투표수",
+  "titleScreenEditVideo": "동영상 편집",
+  "btnCrop": "자르기",
+  "toastVideoTooShort": "3초 이상인 동영상을 선택하십시오.",
+  "toastVideoFileTooBig": "동영상 파일은 1GB 미만이어야 합니다."
 }

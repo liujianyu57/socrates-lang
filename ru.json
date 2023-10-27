@@ -1261,5 +1261,9 @@
   "differentcontinue": "",
   "differentpenvoo": "",
   "filtrshare": "",
-  "filtroNumber": ""
+  "filtroNumber": "",
+  "titleScreenEditVideo": "",
+  "btnCrop": "",
+  "toastVideoTooShort": "",
+  "toastVideoFileTooBig": ""
 }

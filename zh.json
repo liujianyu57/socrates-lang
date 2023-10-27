@@ -1261,5 +1261,9 @@
   "differentcontinue": "该地址的SBT笔在{value1}链上，在{value1}上不可用，请确认是否继续",
   "differentpenvoo": "不同级别的SBT笔和NFT笔会增加单次投票的票数",
   "filtrshare": "得票率",
-  "filtroNumber": "票数"
+  "filtroNumber": "票数",
+  "titleScreenEditVideo": "编辑视频",
+  "btnCrop": "裁剪",
+  "toastVideoTooShort": "不能选择小于3秒的视频",
+  "toastVideoFileTooBig": "文件过大，视频应小于1G"
 }
