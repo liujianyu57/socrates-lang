@@ -1265,5 +1265,6 @@
   "titleScreenEditVideo": "Editar vídeo",
   "btnCrop": "Aparar",
   "toastVideoTooShort": "Selecione vídeos com mais de 3 segundos.",
-  "toastVideoFileTooBig": "Verifique se o arquivo de vídeo tem menos de 1 GB."
+  "toastVideoFileTooBig": "Verifique se o arquivo de vídeo tem menos de 1 GB.",
+  "votecomplete1": "Respondida com sucesso."
 }

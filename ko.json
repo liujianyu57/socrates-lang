@@ -1265,5 +1265,6 @@
   "titleScreenEditVideo": "동영상 편집",
   "btnCrop": "자르기",
   "toastVideoTooShort": "3초 이상인 동영상을 선택하십시오.",
-  "toastVideoFileTooBig": "동영상 파일은 1GB 미만이어야 합니다."
+  "toastVideoFileTooBig": "동영상 파일은 1GB 미만이어야 합니다.",
+  "votecomplete1": "투표를 완료했습니다."
 }

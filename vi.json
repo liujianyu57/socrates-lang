@@ -1265,5 +1265,6 @@
   "titleScreenEditVideo": "Chỉnh sửa video",
   "btnCrop": "Cắt",
   "toastVideoTooShort": "Chọn video dài hơn 3 giây.",
-  "toastVideoFileTooBig": "Đảm bảo tệp video có dung lượng dưới 1 GB."
+  "toastVideoFileTooBig": "Đảm bảo tệp video có dung lượng dưới 1 GB.",
+  "votecomplete1": "Đã bình chọn thành công."
 }

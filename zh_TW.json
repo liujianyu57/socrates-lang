@@ -1265,5 +1265,6 @@
   "titleScreenEditVideo": "編輯影片",
   "btnCrop": "裁剪",
   "toastVideoTooShort": "不能選擇短於 3 秒的影片",
-  "toastVideoFileTooBig": "檔案過大，影片應小於1GB"
+  "toastVideoFileTooBig": "檔案過大，影片應小於1GB",
+  "votecomplete1": "投票成功"
 }

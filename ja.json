@@ -1265,5 +1265,6 @@
   "titleScreenEditVideo": "動画を編集",
   "btnCrop": "トリム",
   "toastVideoTooShort": "3秒以上の動画を選択します。",
-  "toastVideoFileTooBig": "動画ファイルが1GB以下であることを確認します。"
+  "toastVideoFileTooBig": "動画ファイルが1GB以下であることを確認します。",
+  "votecomplete1": "投票に成功しました。"
 }

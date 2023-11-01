@@ -1265,5 +1265,6 @@
   "titleScreenEditVideo": "",
   "btnCrop": "",
   "toastVideoTooShort": "",
-  "toastVideoFileTooBig": ""
+  "toastVideoFileTooBig": "",
+  "votecomplete1": ""
 }

@@ -1265,5 +1265,6 @@
   "titleScreenEditVideo": "Edit video",
   "btnCrop": "Trim",
   "toastVideoTooShort": "Select videos longer than 3 seconds.",
-  "toastVideoFileTooBig": "Ensure the video file is under 1 GB."
+  "toastVideoFileTooBig": "Ensure the video file is under 1 GB.",
+  "votecomplete1": "Voted successfully."
 }
