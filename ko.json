@@ -815,7 +815,7 @@
   "textHoldNFTToday": "오늘 {value1}개의 NFT 펜을 보유하고 있습니다.",
   "textNFTInvestmentDescription": "플랫폼은 매일 UTC 00:00에 각 사용자의 지갑에 보관된 NFT 펜을 검색하고 해당 날짜의 각 사용자의 NFT 펜에 대한 스냅샷을 찍습니다. 스캔 결과는 해당 날짜에 사용자가 NFT를 사용하여 지원할 수 있는 포인트 값을 나타냅니다. 각 펜은 {value1}포인트의 가치가 있습니다. NFT 지원을 사용하면 하루에 최대 {value2}개의 질문을 받을 수 있습니다.",
   "textPrivateProgressDescription1": "일반 질문은 인기도 값에 따라 내림차순으로 순위가 매겨집니다. 상위 20개는 [핫 밸류 랭킹]에 나열되며, 여기서 일반 질문이 인기 있는 질문이 될 수 있도록 검토됩니다.",
-  "textPrivateProgressDescription2": "일반질문의 인기값 = (질문 상금풀 - 주입점) * [1+log10(지원량+1)] * [1+log10(주입점+1)]",
+  "textPrivateProgressDescription2": "일반질문의 인기값 = (질문 상금풀 - 주입점) * [1+log10(지원량+1)] * sqrt(유권자) +1)]* [1+log10(주입점+1)]",
   "textPrivateProgressDescription3": "各 NFT でサポートされる金額は {value1} です",
   "textPrivateProgressDescription4": "랭킹은 10분마다 업데이트 됩니다.",
   "textQueuingProgress": "추세 진행 상황",

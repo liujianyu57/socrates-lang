@@ -815,7 +815,7 @@
   "textHoldNFTToday": "あなたは今日 {value1} 個の NFT ペンを持っています",
   "textNFTInvestmentDescription": "プラットフォームは、毎日 UTC 00:00 に各ユーザーのウォレットに保持されている NFT ペンをスキャンし、その日の各ユーザーの NFT ペンのスナップショットを取得します。 スキャン結果は、その日にユーザーがNFTを使用してサポートできるポイント値を示します。 各ペンには {value1} ポイントの価値があります。NFT サポートを使用すると、1 日あたり最大 {value2} 件の質問が可能です。",
   "textPrivateProgressDescription1": "よくある質問は人気順に降順でランキングされます。上位20位までが「注目のバリューランキング」に掲載され、よくある質問がトレンド質問として審査されます。",
-  "textPrivateProgressDescription2": "一般質問の人気値 = (質問賞金総額 - 投入ポイント) * [1+log10(支援額+1)] * [1+log10(投入ポイント+1)]",
+  "textPrivateProgressDescription2": "一般質問の人気値 = (質問賞金総額 - 投入ポイント) * [1+log10(支援額+1)] * sqrt(投票者) +1)]* [1+log10(投入ポイント+1)]",
   "textPrivateProgressDescription3": "各 NFT でサポートされる金額は {value1} です",
   "textPrivateProgressDescription4": "ランキングは10分ごとに更新されます",
   "textQueuingProgress": "進捗状況の傾向",
