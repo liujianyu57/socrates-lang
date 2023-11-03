@@ -1284,5 +1284,6 @@
   "texthanexx": "Puede emitir {value1} votos.",
   "texthavexxspendx": "Tiene {value1} Bolígrafos. Costo de votar y formular razones = Gasto básico x Número de Bolígrafos que posee.",
   "textRankingaward": "Utilice puntos para dar Me gusta a razones. Cuanto más populares sean la razón y la opción, más recompensas podrá ganar. No hay recompensas si la clasificación de la opción desciende más de un 5%.",
-  "textxxlikexx": "Tiene {value1} Bolígrafos. Costo de dar Me gusta = Gasto básico x Número de bolígrafos que posee."
+  "textxxlikexx": "Tiene {value1} Bolígrafos. Costo de dar Me gusta = Gasto básico x Número de bolígrafos que posee.",
+  "textcueer1": "actual"
 }

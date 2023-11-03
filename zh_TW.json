@@ -1284,5 +1284,6 @@
   "texthanexx": "您可以投 {value1} 票",
   "texthavexxspendx": "您擁有 {value1} 支筆，投票和書寫理由的積分花費 x {value1}",
   "textRankingaward": "您可以使用積分按讚其它使用者的理由。該理由所支持的答案上升百分比越多，該理由按讚的排名上升越多，獎金越多，下降超過 5% 則無獎金。",
-  "textxxlikexx": "您擁有 {value1} 支筆，按讚的積分花費 x {value1}"
+  "textxxlikexx": "您擁有 {value1} 支筆，按讚的積分花費 x {value1}",
+  "textcueer1": "目前"
 }

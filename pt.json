@@ -1284,5 +1284,6 @@
   "texthanexx": "Você pode dar {value1} votos.",
   "texthavexxspendx": "Você tem {value1} Canetas. Custo para votar e escrever justificativas = Despesa básica x Número de Canetas que você possui.",
   "textRankingaward": "Use pontos para curtir razões. Quanto mais populares forem a razão e a opção, mais recompensas poderá ganhar. Nenhuma recompensa se a classificação da opção caírem mais do que 5%.",
-  "textxxlikexx": "Você tem {value1} Canetas. Custo para curtir = Despesa básica x Número de Canetas que você possui."
+  "textxxlikexx": "Você tem {value1} Canetas. Custo para curtir = Despesa básica x Número de Canetas que você possui.",
+  "textcueer1": "atual"
 }
