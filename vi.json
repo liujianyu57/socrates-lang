@@ -1285,5 +1285,6 @@
   "texthavexxspendx": "Bạn có {value1} Bút. Chi phí lý do bình chọn và viết = Chi phí cơ bản x Số lượng Bút mà bạn giữ.",
   "textRankingaward": "Sử dụng điểm cho các lý do tương tự. Lý do và lựa chọn càng phổ biến, bạn càng có thể kiếm được nhiều phần thưởng. Không có phần thưởng nếu thứ hạng của lựa chọn giảm hơn 5%.",
   "textxxlikexx": "Bạn có {value1} Bút. Chi phí thích = Chi phí cơ bản x Số lượng Bút mà bạn giữ.",
-  "textcueer1": "hiện hành"
+  "textcueer1": "hiện hành",
+  "texthintEstimatee": "Phí trao đổi ước tính"
 }
