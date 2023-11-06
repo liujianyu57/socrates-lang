@@ -1286,5 +1286,6 @@
   "textRankingaward": "Use points to like reasons. The more popular the reason and option are, the more rewards you can earn. No rewards if the ranking of the option drops more than 5%.",
   "textxxlikexx": "You have {value1} Pens. Liking cost = Basic expense x Number of Pens you hold.",
   "textcueer1": "Current",
-  "texthintEstimatee": "Estimated Fee"
+  "texthintEstimatee": "Estimated Fee",
+  "textforcebighandlingg": "The need to redeem points is greater than the handling fee"
 }

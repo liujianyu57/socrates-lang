@@ -1286,5 +1286,6 @@
   "textRankingaward": "Use pontos para curtir razões. Quanto mais populares forem a razão e a opção, mais recompensas poderá ganhar. Nenhuma recompensa se a classificação da opção caírem mais do que 5%.",
   "textxxlikexx": "Você tem {value1} Canetas. Custo para curtir = Despesa básica x Número de Canetas que você possui.",
   "textcueer1": "atual",
-  "texthintEstimatee": "Taxa de câmbio estimada"
+  "texthintEstimatee": "Taxa de câmbio estimada",
+  "textforcebighandlingg": "A necessidade de resgatar pontos é maior que a taxa de manuseio"
 }

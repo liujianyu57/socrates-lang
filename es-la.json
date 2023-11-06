@@ -1286,5 +1286,6 @@
   "textRankingaward": "Utilice puntos para dar Me gusta a razones. Cuanto más populares sean la razón y la opción, más recompensas podrá ganar. No hay recompensas si la clasificación de la opción desciende más de un 5%.",
   "textxxlikexx": "Tiene {value1} Bolígrafos. Costo de dar Me gusta = Gasto básico x Número de bolígrafos que posee.",
   "textcueer1": "actual",
-  "texthintEstimatee": "Tarifa de cambio estimada"
+  "texthintEstimatee": "Tarifa de cambio estimada",
+  "textforcebighandlingg": "La necesidad de canjear puntos es mayor que la tarifa de gestión."
 }

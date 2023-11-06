@@ -1286,5 +1286,6 @@
   "textRankingaward": "ポイントを使って理由に「いいね」を付けます。理由と選択肢がより人気があるほど、より多くの報酬を獲得できます。選択肢のランキングが5%以上下がる場合、報酬はありません。",
   "textxxlikexx": "{value1}本のペンを持っています。「いいね」コスト = 基本費用 x 保有しているペンの本数。",
   "textcueer1": "現在",
-  "texthintEstimatee": "交換手数料の目安"
+  "texthintEstimatee": "交換手数料の目安",
+  "textforcebighandlingg": "手数料よりもポイント交換の必要性の方が大きい"
 }
