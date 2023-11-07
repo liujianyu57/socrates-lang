@@ -1287,5 +1287,9 @@
   "textxxlikexx": "Você tem {value1} Canetas. Custo para curtir = Despesa básica x Número de Canetas que você possui.",
   "textcueer1": "atual",
   "texthintEstimatee": "Taxa de câmbio estimada",
-  "textforcebighandlingg": "A necessidade de resgatar pontos é maior que a taxa de manuseio"
+  "textforcebighandlingg": "A necessidade de resgatar pontos é maior que a taxa de manuseio",
+  "beginningmark": "pergunta",
+  "titleFunctionn": "taxa de retorno",
+  "titleGundamm": "Obtenha rendimentos de até",
+  "titleparticipatee": "Vamos nos juntar a Sócrates"
 }

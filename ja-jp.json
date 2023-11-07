@@ -1287,5 +1287,9 @@
   "textxxlikexx": "{value1}本のペンを持っています。「いいね」コスト = 基本費用 x 保有しているペンの本数。",
   "textcueer1": "現在",
   "texthintEstimatee": "交換手数料の目安",
-  "textforcebighandlingg": "手数料よりもポイント交換の必要性の方が大きい"
+  "textforcebighandlingg": "手数料よりもポイント交換の必要性の方が大きい",
+  "beginningmark": "問い",
+  "titleFunctionn": "利益率",
+  "titleGundamm": "最大の収量を得る",
+  "titleparticipatee": "一緒にソクラテスに加わりましょう"
 }
