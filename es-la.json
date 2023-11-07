@@ -1278,7 +1278,7 @@
   "Availablexx": "({value1} veces disponible)",
   "Amountreturnn": "Los puntos utilizados para apoyar se reembolsarán en su totalidad cuando se cierre la pregunta.",
   "nftquantityxx": "Bolígrafos NFT: {value1}",
-  "nftfivxxquaan": "Apoyo con NFT: {value1} veces al día y cada NFT equivale a {value1} puntos.",
+  "nftfivxxquaan": "Apoyo con NFT: {value1} veces al día y cada NFT equivale a {value2} puntos.",
   "timemanybinding": "Todos los días a las 00:00 UTC, el sistema registrará una síntesis de las existencias de Bolígrafos NFT en la dirección de su billetera vinculada.",
   "texthighaward": "Utilice los puntos para votar y proporcionar su razón. Cuantos más votos obtenga su opción y más Me gusta reciba su razón, más posibilidades tendrá de ganar puntos de recompensa.",
   "texthanexx": "Puede emitir {value1} votos.",
@@ -1291,5 +1291,6 @@
   "beginningmark": "pregunta",
   "titleFunctionn": "tasa de retorno",
   "titleGundamm": "Obtenga rendimientos de hasta",
-  "titleparticipatee": "Unámonos a Sócrates"
+  "titleparticipatee": "Unámonos a Sócrates",
+  "titleList1": "Apoya la lista"
 }

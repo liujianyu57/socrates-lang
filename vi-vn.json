@@ -1278,7 +1278,7 @@
   "Availablexx": "( {value1} thời gian khả dụng)",
   "Amountreturnn": "Điểm được sử dụng để hỗ trợ sẽ được hoàn trả đầy đủ sau khi câu hỏi kết thúc.",
   "nftquantityxx": "Bút NTF: {value1}",
-  "nftfivxxquaan": "Hỗ trợ NFT: {value1} lần một ngày và mỗi lần NFT bằng {value1} điểm.",
+  "nftfivxxquaan": "Hỗ trợ NFT: {value1} lần một ngày và mỗi lần NFT bằng {value2} điểm.",
   "timemanybinding": "Mỗi ngày vào lúc 00:00 UTC, hệ thống sẽ chụp nhanh các khoản giữ Bút NFT trong địa chỉ ví được liên kết của bạn.",
   "texthighaward": "Sử dụng điểm để bình chọn và đưa ra lý do của bạn. Lựa chọn của bạn càng nhận được nhiều phiếu bầu và lý do của bạn càng nhận được nhiều lượt thích, cơ hội kiếm điểm thưởng của bạn càng cao.",
   "texthanexx": "Bạn có thể bỏ {value1} phiếu.",
@@ -1291,5 +1291,6 @@
   "beginningmark": "câu hỏi",
   "titleFunctionn": "tỷ lệ lợi nhuận",
   "titleGundamm": "Nhận sản lượng lên tới",
-  "titleparticipatee": "Hãy cùng nhau tham gia cùng Socrates"
+  "titleparticipatee": "Hãy cùng nhau tham gia cùng Socrates",
+  "titleList1": "Hỗ trợ danh sách"
 }

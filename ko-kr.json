@@ -1278,7 +1278,7 @@
   "Availablexx": "({value1}회 사용 가능)",
   "Amountreturnn": "지원하는 데 사용한 포인트는 질문이 종료되면 전액 반환됩니다.",
   "nftquantityxx": "NTF 펜: {value1}",
-  "nftfivxxquaan": "NFT 지원: 하루 {value1}회, 각 NFT는 {value1}포인트에 해당합니다.",
+  "nftfivxxquaan": "NFT 지원: 하루 {value1}회, 각 NFT는 {value2}포인트에 해당합니다.",
   "timemanybinding": "매일 00:00(UTC)에 시스템에서 연결된 지갑 주소에 있는 NFT 펜의 보유 상태를 스냅샷으로 찍습니다.",
   "texthighaward": "투표하고 사유를 제시하려면 포인트를 사용합니다. 사용자의 옵션이 더 많은 표를 얻고 사용자의 사유가 더 많은 좋아요를 받을수록 포인트 보상을 얻을 가능성이 높아집니다.",
   "texthanexx": "{value1}표를 투표할 수 있습니다.",
@@ -1291,5 +1291,6 @@
   "beginningmark": "질문",
   "titleFunctionn": "수익률",
   "titleGundamm": "최대 수익을 얻으세요",
-  "titleparticipatee": "소크라테스와 함께 합시다"
+  "titleparticipatee": "소크라테스와 함께 합시다",
+  "titleList1": "목록을 지원하십시오"
 }

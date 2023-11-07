@@ -1278,7 +1278,7 @@
   "Availablexx": "（可用 {value1} 次）",
   "Amountreturnn": "您支持上榜所佔用的積分，將會在問題結束後全額返還。",
   "nftquantityxx": "NFT 筆數量： {value1}",
-  "nftfivxxquaan": "NFT 支持每天可使用 {value1} 次，每支 NFT 筆折合 {value1} 積分。",
+  "nftfivxxquaan": "NFT 支持每天可使用 {value1} 次，每支 NFT 筆折合 {value2} 積分。",
   "timemanybinding": "每日 UTC 00:00 時，系統將對您綁定的錢包位址內的 NFT 持有量進行快照。",
   "texthighaward": "您可以使用積分參與投票和發表您的評論。您選的選項獲得票數最多，理由的按讚數量越多，就越有機會獲得積分獎勵。",
   "texthanexx": "您可以投 {value1} 票",
@@ -1291,5 +1291,6 @@
   "beginningmark": "問題",
   "titleFunctionn": "殖利率",
   "titleGundamm": "獲得收益率高達",
-  "titleparticipatee": "一起來參與Socrates吧"
+  "titleparticipatee": "一起來參與Socrates吧",
+  "titleList1": "支援上榜"
 }

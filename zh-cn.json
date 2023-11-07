@@ -1278,7 +1278,7 @@
   "Availablexx": "(可用{value1}次)",
   "Amountreturnn": "你支持上榜所占用的积分，将会在问题结束后全额返还。",
   "nftquantityxx": "NFT笔数量： {value1}",
-  "nftfivxxquaan": "NFT支持 每天可使用 {value1} 次，每支NFT笔折合 {value1} 积分。",
+  "nftfivxxquaan": "NFT支持 每天可使用 {value1} 次，每支NFT笔折合 {value2} 积分。",
   "timemanybinding": "每日UTC 00:00时，系统将对你绑定的钱包地址内的NFT持有量进行快照。",
   "texthighaward": "你可以使用积分参与投票和发表你的评论。你选的选项获得票数最多，理由的点赞数量越多，就越有机会获得积分奖励。",
   "texthanexx": "你可以投 {value1} 票",
@@ -1291,5 +1291,6 @@
   "beginningmark": "问题",
   "titleFunctionn": "收益率",
   "titleGundamm": "获得收益率高达",
-  "titleparticipatee": "一起来参与Socrates吧"
+  "titleparticipatee": "一起来参与Socrates吧",
+  "titleList1": "支持上榜"
 }

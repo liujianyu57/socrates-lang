@@ -1278,7 +1278,7 @@
   "Availablexx": "({value1} vezes disponíveis)",
   "Amountreturnn": "Os pontos usados para apoiar serão integralmente reembolsados depois que a pergunta for encerrada.",
   "nftquantityxx": "Canetas NTF: {value1}",
-  "nftfivxxquaan": "NFT apoio: {value1} vezes por dia e cada NFT é igual a {value1} pontos.",
+  "nftfivxxquaan": "NFT apoio: {value1} vezes por dia e cada NFT é igual a {value2} pontos.",
   "timemanybinding": "Todos os dias à 00:00 UTC, o sistema fará um registro instantâneo das Canetas NFT mantidas no endereço da sua carteira vinculada.",
   "texthighaward": "Use pontos para votar e informar sua razão. Quanto mais votos sua opção tiver e quanto mais curtidas a sua razão receber, maior são as chances de você ganhar pontos de recompensa.",
   "texthanexx": "Você pode dar {value1} votos.",
@@ -1291,5 +1291,6 @@
   "beginningmark": "pergunta",
   "titleFunctionn": "taxa de retorno",
   "titleGundamm": "Obtenha rendimentos de até",
-  "titleparticipatee": "Vamos nos juntar a Sócrates"
+  "titleparticipatee": "Vamos nos juntar a Sócrates",
+  "titleList1": "Apoie a lista"
 }
