@@ -1278,7 +1278,7 @@
   "Availablexx": "({value1} times available)",
   "Amountreturnn": "Points used to support will be fully refunded after the question ends.",
   "nftquantityxx": "NTF Pens: {value1}",
-  "nftfivxxquaan": "NFT support: 5 times a day, and each NFT equals 100 points.",
+  "nftfivxxquaan": "NFT support: {value1} times a day, and each NFT equals {value1} points.",
   "timemanybinding": "Every day at UTC 00:00, the system will take a snapshot of NFT Pen holdings in your linked wallet address.",
   "texthighaward": "Use points to vote and give your reason. The more votes your option gets and the more likes your reason receives, the higher your chance to earn point rewards.",
   "texthanexx": "You can cast {value1} votes.",
