@@ -1287,7 +1287,7 @@
   "textxxlikexx": "你擁有{value1}支筆，按讚的積分花費 = 基礎花費 x 你擁有筆的數量",
   "textcueer1": "目前",
   "texthintEstimatee": "預估兌換手續費",
-  "textforcebighandlingg": "兌換積分需要大於手續費",
+  "error20047": "兌換積分需要大於手續費",
   "beginningmark": "問題",
   "titleFunctionn": "殖利率",
   "titleGundamm": "獲得收益率高達",

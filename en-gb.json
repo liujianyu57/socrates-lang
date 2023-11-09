@@ -1287,7 +1287,7 @@
   "textxxlikexx": "You have {value1} Pens. Liking cost = Basic expense x Number of Pens you hold.",
   "textcueer1": "Current",
   "texthintEstimatee": "Estimated Fee",
-  "textforcebighandlingg": "The need to redeem points is greater than the handling fee",
+  "error20047": "The need to redeem points is greater than the handling fee",
   "beginningmark": "question",
   "titleFunctionn": "rate of return",
   "titleGundamm": "Get yields up to",

@@ -1287,7 +1287,7 @@
   "textxxlikexx": "Bạn có {value1} Bút. Chi phí thích = Chi phí cơ bản x Số lượng Bút mà bạn giữ.",
   "textcueer1": "hiện hành",
   "texthintEstimatee": "Phí trao đổi ước tính",
-  "textforcebighandlingg": "Nhu cầu đổi điểm lớn hơn phí xử lý",
+  "error20047": "Nhu cầu đổi điểm lớn hơn phí xử lý",
   "beginningmark": "câu hỏi",
   "titleFunctionn": "tỷ lệ lợi nhuận",
   "titleGundamm": "Nhận sản lượng lên tới",

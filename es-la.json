@@ -1287,7 +1287,7 @@
   "textxxlikexx": "Tiene {value1} Bolígrafos. Costo de dar Me gusta = Gasto básico x Número de bolígrafos que posee.",
   "textcueer1": "actual",
   "texthintEstimatee": "Tarifa de cambio estimada",
-  "textforcebighandlingg": "La necesidad de canjear puntos es mayor que la tarifa de gestión.",
+  "error20047": "La necesidad de canjear puntos es mayor que la tarifa de gestión.",
   "beginningmark": "pregunta",
   "titleFunctionn": "tasa de retorno",
   "titleGundamm": "Obtenga rendimientos de hasta",

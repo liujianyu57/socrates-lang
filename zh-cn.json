@@ -1287,7 +1287,7 @@
   "textxxlikexx": "你拥有{value1}支笔，点赞的积分花费 = 基础花费 x 你拥有笔的数量",
   "textcueer1": "当前",
   "texthintEstimatee": "预估兑换手续费",
-  "textforcebighandlingg": "兑换积分需要大于手续费",
+  "error20047": "兑换积分需要大于手续费",
   "beginningmark": "问题",
   "titleFunctionn": "收益率",
   "titleGundamm": "获得收益率高达",
