@@ -505,7 +505,7 @@
   "error10010": "GA secret key is empty",
   "error10011": "Verification failed",
   "error10012": "Email verification has exceeded today's limit",
-  "error10013": "The account is frozen because the number of incorrect passwords exceeds the maximum",
+  "error10013": "If the password is incorrect for more than the maximum number of times, the account has been frozen and will be unfrozen at UTC 0:00",
   "error10014": "photo url illegal",
   "error10015": "The account is bound to a wallet",
   "error10016": "The wallet has been bound to another user",

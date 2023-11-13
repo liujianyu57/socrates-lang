@@ -505,7 +505,7 @@
   "error10010": "A palavra secreta GA está vazia",
   "error10011": "A verificação falhou",
   "error10012": "A verificação de e-mail excedeu o tempo limite para hoje",
-  "error10013": "A sua conta está bloqueada porque você excedeu o número máximo de senhas incorretas",
+  "error10013": "Se a senha estiver incorreta por mais do que o número máximo de vezes, a conta foi congelada e será descongelada às 0:00 UTC.",
   "error10014": "url da foto ilegal",
   "error10015": "A conta está vinculada a uma carteira",
   "error10016": "A carteira foi vinculada a outro utilizador",

@@ -505,7 +505,7 @@
   "error10010": "La clave secreta GA está vacía",
   "error10011": "Verificación fallida",
   "error10012": "La verificación de correo electrónico ha superado el límite de hoy",
-  "error10013": "La cuenta está bloqueada porque el número de contraseñas incorrectas supera el máximo",
+  "error10013": "Si la contraseña es incorrecta más del número máximo de veces, la cuenta se congelará y se desbloqueará a las 0:00 UTC",
   "error10014": "url de foto ilegal",
   "error10015": "La cuenta está vinculada a una cartera",
   "error10016": "La cartera ha sido vinculada a otro usuario",

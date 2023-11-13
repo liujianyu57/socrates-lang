@@ -505,7 +505,7 @@
   "error10010": "Mã bí mật GA đang trống",
   "error10011": "Xác minh thất bại",
   "error10012": "Xác minh email đạt giới hạn ngày",
-  "error10013": "Tài khoản bị đóng băng bởi số lần nhập sai mật khẩu đạt giới hạn",
+  "error10013": "Nếu sai mật khẩu quá số lần tối đa, tài khoản đã bị đóng băng và sẽ không còn bị đóng băng vào lúc UTC 0:00",
   "error10014": "Liên kết ảnh không hợp lệ",
   "error10015": "Tài khoản được liên kết tới một ví",
   "error10016": "Tài khoản đã được liên kết tới một ví khác",
