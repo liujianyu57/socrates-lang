@@ -1233,7 +1233,7 @@
   "textresult1": "结果",
   "Qutype": "问题讨论类型",
   "Typerr1": "辩论",
-  "Textstatementcop": "辩论型问题在{value1}人之前不展示理由和选项。投票人数超过{value2}人之后公开得票率和历史趋势，你可以随时查看票数分布、票数走势和得票率走势",
+  "Textstatementcop": "辩论型问题在{value1}人之前不展示理由和选项。投票人数超过{value1}人之后公开得票率和历史趋势，你可以随时查看票数分布、票数走势和得票率走势",
   "Limitopen": "{value1}人之后可显示理由列表",
   "mistakehintpen": "你还没有笔",
   "hintFinish": "剩余结束时间",

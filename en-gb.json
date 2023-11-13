@@ -1233,7 +1233,7 @@
   "textresult1": "Final",
   "Qutype": "Question type",
   "Typerr1": "Discussion",
-  "Textstatementcop": "For a discussion-type question, its reasons and answers are not displayed until over {value1} users vote on the question. After the number of voters exceeds {value2}, the vote rate and historical trend will be displayed, and you can view the distribution of votes, the trend of votes, and the trend of vote rate at any time.",
+  "Textstatementcop": "For a discussion-type question, its reasons and answers are not displayed until over {value1} users vote on the question. After the number of voters exceeds {value1}, the vote rate and historical trend will be displayed, and you can view the distribution of votes, the trend of votes, and the trend of vote rate at any time.",
   "Limitopen": "The reason list will be displayed when over {value1} users vote on the question.",
   "mistakehintpen": "You don't have a pen yet",
   "hintFinish": "remaining end time",

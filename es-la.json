@@ -1233,7 +1233,7 @@
   "textresult1": "resultado",
   "Qutype": "Tipo de pregunta",
   "Typerr1": "Debate",
-  "Textstatementcop": "En el caso de una pregunta tipo debate, sus razones y respuestas no se muestran hasta que más de {value1} usuarios voten por la pregunta. Cuando el número de votantes supere los {value2}, se podrá ver el porcentaje de votos y la tendencia histórica, y podrá visualizar la distribución de los votos, la tendencia de los votos y la tendencia del porcentaje de votos en cualquier momento.",
+  "Textstatementcop": "En el caso de una pregunta tipo debate, sus razones y respuestas no se muestran hasta que más de {value1} usuarios voten por la pregunta. Cuando el número de votantes supere los {value1}, se podrá ver el porcentaje de votos y la tendencia histórica, y podrá visualizar la distribución de los votos, la tendencia de los votos y la tendencia del porcentaje de votos en cualquier momento.",
   "Limitopen": "La lista de razones se podrá ver cuando más de {value1} usuarios voten por la pregunta.",
   "mistakehintpen": "Aún no tienes bolígrafo",
   "hintFinish": "hora de finalización restante",
