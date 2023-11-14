@@ -975,7 +975,7 @@
   "textSorryYouLeave": "Жаль, что ты уходишь, пока",
   "btnReceived": "Полученный",
   "textAccountWillDeactivated": "Ваш аккаунт будет отключен",
-  "error10052": "Функция вывода баллов пока недоступна",
+  "error10052": "The wallet service is currently being upgraded. After the upgrade is complete, it will support more chains.",
   "tipsForEarlyBird": "Доступно только для ранних пользователей",
   "error3050": "Количество заблокированных вами пользователей достигло предела",
   "btnReportUser": "Сообщить {value1}",

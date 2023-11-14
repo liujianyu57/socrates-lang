@@ -975,7 +975,7 @@
   "textSorryYouLeave": "Xin lỗi khi thấy bạn đi, tạm biệt",
   "btnReceived": "Đã nhận",
   "textAccountWillDeactivated": "Tài khoản của bạn sẽ bị vô hiệu hóa",
-  "error10052": "Chưa có chức năng rút điểm",
+  "error10052": "The wallet service is currently being upgraded. After the upgrade is complete, it will support more chains.",
   "tipsForEarlyBird": "Chỉ dành cho người dùng sớm",
   "error3050": "Số lượng người dùng bạn đã chặn đã đạt đến giới hạn",
   "btnReportUser": "Báo cáo {value1}",

@@ -975,7 +975,7 @@
   "textSorryYouLeave": "行ってしまうのは残念だ、さようなら",
   "btnReceived": "受け取った",
   "textAccountWillDeactivated": "あなたのアカウントは無効になります",
-  "error10052": "ポイント引き出し機能はまだありません",
+  "error10052": "The wallet service is currently being upgraded. After the upgrade is complete, it will support more chains.",
   "tipsForEarlyBird": "現在は早期ユーザーのみに公開されています",
   "error3050": "ブロックしたユーザーの数が制限に達しました",
   "btnReportUser": "報 {value1}",

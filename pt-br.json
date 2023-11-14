@@ -975,7 +975,7 @@
   "textSorryYouLeave": "Desculpe ver você partir, tchau",
   "btnReceived": "Recebido",
   "textAccountWillDeactivated": "Sua conta será desativada",
-  "error10052": "A função de retirada de pontos ainda não está disponível",
+  "error10052": "The wallet service is currently being upgraded. After the upgrade is complete, it will support more chains.",
   "tipsForEarlyBird": "Disponível apenas para usuários madrugadores",
   "error3050": "O número de usuários que você bloqueou atingiu o limite",
   "btnReportUser": "Relatório {value1}",
