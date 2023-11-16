@@ -1295,5 +1295,6 @@
   "titleList1": "목록을 지원하십시오",
   "texbuttonoper": "다시 알림 안 함",
   "buttondownload": "다운로드",
-  "wallettchoose": "지갑 네트워크 선택"
+  "wallettchoose": "지갑 네트워크 선택",
+  "textNumbervotes": "투표수"
 }

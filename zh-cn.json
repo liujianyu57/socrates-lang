@@ -1295,5 +1295,6 @@
   "titleList1": "支持上榜",
   "texbuttonoper": "不再提示",
   "buttondownload": "下载",
-  "wallettchoose": "选择钱包网络"
+  "wallettchoose": "选择钱包网络",
+  "textNumbervotes": "投票次数"
 }
