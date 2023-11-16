@@ -170,7 +170,7 @@
   "textImportWallet": "Импорт кошелек",
   "textImportWalletSuccess": "Успешное создание кошельков",
   "textImportWalletSuccessDescription": "Вы можете перевести {value1} и USDT на свой кошелек, а также проголосовать, поставить лайк или поддержать, чтобы получить вознаграждение.",
-  "textIncome": "Доход",
+  "textIncome": "",
   "textInjectedPointInfo": "Инъекционные {value1} очки, внимание было значительно улучшено!",
   "textInjectPoint": "Инъекция",
   "textInjectPointDescription": "Добавление баллов в ваши вопросы может повысить внимание. Введенные очки пойдут в призовой фонд и не будут возвращены.",
