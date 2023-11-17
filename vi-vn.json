@@ -1296,5 +1296,6 @@
   "texbuttonoper": "Đừng nhắc lại",
   "buttondownload": "Tải xuống",
   "wallettchoose": "Chọn mạng ví",
-  "textNumbervotes": "Số phiếu bầu"
+  "textNumbervotes": "Số phiếu bầu",
+  "textLinkvotecode": "Hãy sử dụng mã mời {value1} để đăng ký, tham gia bỏ phiếu cho các câu hỏi và chia sẻ phần thưởng với tôi!"
 }

@@ -1296,5 +1296,6 @@
   "texbuttonoper": "Do not remind again",
   "buttondownload": "download",
   "wallettchoose": "Select Wallet Network",
-  "textNumbervotes": "Number of votes"
+  "textNumbervotes": "Number of votes",
+  "textLinkvotecode": "Use the invitation code {value1} to register, participate in voting on questions, and share the rewards with me!"
 }

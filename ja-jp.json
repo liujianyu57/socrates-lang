@@ -1296,5 +1296,6 @@
   "texbuttonoper": "二度と思い出させないでください",
   "buttondownload": "ダウンロード",
   "wallettchoose": "ウォレットネットワークを選択してください",
-  "textNumbervotes": "票の数"
+  "textNumbervotes": "票の数",
+  "textLinkvotecode": "招待コード {value1} を使用して登録し、質問への投票に参加し、報酬を私と共有してください。"
 }

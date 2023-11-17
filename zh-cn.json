@@ -1296,5 +1296,6 @@
   "texbuttonoper": "不再提示",
   "buttondownload": "下载",
   "wallettchoose": "选择钱包网络",
-  "textNumbervotes": "投票次数"
+  "textNumbervotes": "投票次数",
+  "textLinkvotecode": "使用邀请码 {value1}注册，参与问题投票，跟我一起瓜分奖励！"
 }

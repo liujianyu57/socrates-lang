@@ -1296,5 +1296,6 @@
   "texbuttonoper": "Não lembre novamente",
   "buttondownload": "download",
   "wallettchoose": "Escolha a rede da carteira",
-  "textNumbervotes": "Número de votos"
+  "textNumbervotes": "Número de votos",
+  "textLinkvotecode": "Use o código de convite {value1} para se cadastrar, participar da votação nas perguntas e compartilhar as recompensas comigo!"
 }

@@ -1296,5 +1296,6 @@
   "texbuttonoper": "no lo vuelvas a recordar",
   "buttondownload": "descargar",
   "wallettchoose": "Elija la red de billetera",
-  "textNumbervotes": "Numero de votos"
+  "textNumbervotes": "Numero de votos",
+  "textLinkvotecode": "Utilice el código de invitación {value1} para registrarse, participar en la votación de preguntas y compartir las recompensas conmigo."
 }
