@@ -1297,5 +1297,6 @@
   "buttondownload": "Tải xuống",
   "wallettchoose": "Chọn mạng ví",
   "textNumbervotes": "Số phiếu bầu",
-  "textLinkvotecode": "Hãy sử dụng mã mời {value1} để đăng ký, tham gia bỏ phiếu cho các câu hỏi và chia sẻ phần thưởng với tôi!"
+  "textLinkvotecode": "Hãy sử dụng mã mời {value1} để đăng ký, tham gia bỏ phiếu cho các câu hỏi và chia sẻ phần thưởng với tôi!",
+  "error4012": "Hành vi hiện tại có nhiều rủi ro, vui lòng thử lại sau hoặc liên hệ với bộ phận dịch vụ khách hàng để được tư vấn."
 }

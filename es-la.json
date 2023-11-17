@@ -1297,5 +1297,6 @@
   "buttondownload": "descargar",
   "wallettchoose": "Elija la red de billetera",
   "textNumbervotes": "Numero de votos",
-  "textLinkvotecode": "Utilice el código de invitación {value1} para registrarse, participar en la votación de preguntas y compartir las recompensas conmigo."
+  "textLinkvotecode": "Utilice el código de invitación {value1} para registrarse, participar en la votación de preguntas y compartir las recompensas conmigo.",
+  "error4012": "El comportamiento actual es riesgoso. Vuelva a intentarlo más tarde o comuníquese con el servicio de atención al cliente para realizar una consulta."
 }

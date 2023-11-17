@@ -1297,5 +1297,6 @@
   "buttondownload": "다운로드",
   "wallettchoose": "지갑 네트워크 선택",
   "textNumbervotes": "투표수",
-  "textLinkvotecode": "초대 코드 {value1}을 사용하여 등록하고 질문에 대한 투표에 참여하고 보상을 저와 공유하세요!"
+  "textLinkvotecode": "초대 코드 {value1}을 사용하여 등록하고 질문에 대한 투표에 참여하고 보상을 저와 공유하세요!",
+  "error4012": "현재 동작은 위험합니다. 나중에 다시 시도하거나 고객 서비스에 문의하여 상담해 보세요."
 }

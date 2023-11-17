@@ -1297,5 +1297,6 @@
   "buttondownload": "download",
   "wallettchoose": "Select Wallet Network",
   "textNumbervotes": "Number of votes",
-  "textLinkvotecode": "Use the invitation code {value1} to register, participate in voting on questions, and share the rewards with me!"
+  "textLinkvotecode": "Use the invitation code {value1} to register, participate in voting on questions, and share the rewards with me!",
+  "error4012": "The current behavior is risky, please try again later or contact customer service for consultation."
 }
