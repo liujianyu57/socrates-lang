@@ -1297,8 +1297,8 @@
   "buttondownload": "descargar",
   "wallettchoose": "Elija la red de billetera",
   "textNumbervotes": "Numero de votos",
-  "textLinkvotecode": "",
-  "error4012": "",
+  "textLinkvotecode": "Use o código de convite {value1} para se cadastrar, participar da votação nas perguntas e compartilhar as recompensas comigo!",
+  "error4012": "O comportamento atual é arriscado, tente novamente mais tarde ou entre em contato com o atendimento ao cliente para consulta.",
   "EnterSocratesparti": "¿Tiene alguna pregunta? ¡Ve a Sócrates ahora! ¡Esperamos ver tus opciones!",
   "textAddChannel": "",
   "textAddupto3channels": ""
