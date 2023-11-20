@@ -1299,5 +1299,7 @@
   "textNumbervotes": "Number of votes",
   "textLinkvotecode": "Use the invitation code {value1} to register, participate in voting on questions, and share the rewards with me!",
   "error4012": "The current behavior is risky, please try again later or contact customer service for consultation.",
-  "EnterSocratesparti": "Got  a question? Go to Socrates Now! Looking forward to see your choices!"
+  "EnterSocratesparti": "Got  a question? Go to Socrates Now! Looking forward to see your choices!",
+  "textAddChannel": "",
+  "textAddupto3channels": ""
 }
