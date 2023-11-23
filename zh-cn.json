@@ -1301,5 +1301,8 @@
   "error4012": "当前行为存在风险，请稍后再试或联系客服咨询。",
   "EnterSocratesparti": "有问题吗？现在就去Socrates！期待看到你的选择！",
   "textAddChannel": "添加频道",
-  "textAddupto3channels": "最多添加3个频道"
+  "textAddupto3channels": "最多添加3个频道",
+  "texttimehint": "7天内不再提示",
+  "textsupportHolist": "邀请好友支持问题冲上热榜，一起瓜分支持大奖",
+  "textsupportHolistt2": "支持问题上热榜，一起瓜分大奖"
 }

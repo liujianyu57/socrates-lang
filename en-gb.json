@@ -1301,5 +1301,8 @@
   "error4012": "The current behaviour is risky. Please try again later or contact customer service.",
   "EnterSocratesparti": "Got a question? Come to Socrates now! Looking forward to seeing your choices!",
   "textAddChannel": "Add channel",
-  "textAddupto3channels": "Add up to 3 channels"
+  "textAddupto3channels": "Add up to 3 channels",
+  "texttimehint": "No more prompts within 7 days",
+  "textsupportHolist": "Invite your friends to boost popularity of the question and share the Support Prize pool together",
+  "textsupportHolistt2": "Boost popularity of the question and win big together"
 }
