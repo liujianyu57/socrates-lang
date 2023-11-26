@@ -913,7 +913,7 @@
   "textReasonIncome": "理由奖",
   "btnDeleteAccout": "注销",
   "textDeleteAccoutDescription01": "这会停用你的账号",
-  "textDeleteAccoutDescription02": "你即将开始你Socrates账号的停用程序。你的Socrates账号(包括你的用户名和公开个人资料)在www.socrates.com、iOS版Socrates以及Android版Socrates上将不再可见。",
+  "textDeleteAccoutDescription02": "你即将开始你Socrates账号的停用程序。你的Socrates账号(包括你的用户名和公开个人资料)在www.socrates.com、iOS版Socrates以及Android版Socrates上将不再可见。删除账户后该钱包地址无法注册新账号，您的SBT笔也将无法使用。",
   "textDeleteAccout": "注销账号",
   "textWillDeleteAccount": "你的账号将被注销",
   "textAccountHaveDelete": "你的账号已停用",
