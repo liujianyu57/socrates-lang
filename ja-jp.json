@@ -1277,7 +1277,7 @@
   "balancexx": "（{value1}件利用可能）",
   "Availablexx": "（{value1}回利用可能）",
   "Amountreturnn": "サポートに使用されたポイントは、質問が終了した後に全額返金されます。",
-  "nftquantityxx": "NTFペン：{value1}",
+  "nftquantityxx": "NFTペン：{value1}",
   "nftfivxxquaan": "NFTサポート：1日{value1}回、各NFTが{value2}点に相当します。",
   "timemanybinding": "毎日00:00（UTC）に、システムはリンクされたウォレットアドレス内のNFTペンの保有状況のスナップショットを取得します。",
   "texthighaward": "ポイントを使用して投票し、理由を記入します。あなたの選択肢が多くの投票を集め、あなたの理由が多くの「いいね」を受けるほど、ポイント報酬を獲得するチャンスが高まります。",
