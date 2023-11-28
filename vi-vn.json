@@ -1230,7 +1230,7 @@
   "Havesbtscope": "Phạm vi giá trị dành cho người dùng cầm Bút SBT:",
   "Limitenterr2": "Vui lòng nhập một giá trị hợp lệ",
   "textparti1": "Tham gia",
-  "textresult1": "Kết quả",
+  "textresult1": "Kết thúc",
   "Qutype": "Loại câu hỏi",
   "Typerr1": "Câu hỏi dạng thảo luận",
   "Textstatementcop": "Đối với câu hỏi dạng thảo luận, lý do và câu trả lời của câu hỏi đó không được hiển thị cho đến khi có hơn {value1} người dùng bình chọn cho câu hỏi. Sau khi số lượng người bình chọn vượt quá {value1}, tỷ lệ phiếu bình chọn và xu hướng lịch sử sẽ được hiển thị và bạn có thể xem phân bổ phiếu bình chọn, xu hướng phiếu bình chọn và xu hướng tỷ lệ phiếu bình chọn bất cứ lúc nào.",

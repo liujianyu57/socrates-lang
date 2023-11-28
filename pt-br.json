@@ -1230,7 +1230,7 @@
   "Havesbtscope": "Faixa de valor para usuários com uma Caneta SBT:",
   "Limitenterr2": "Digite um valor válido",
   "textparti1": "Entrada",
-  "textresult1": "Final",
+  "textresult1": "Terminar",
   "Qutype": "Tipo de pergunta",
   "Typerr1": "Discussão",
   "Textstatementcop": "Para uma pergunta do tipo discussão, suas razões e respostas não são exibidas até que mais de {value1} usuários votem na pergunta. Depois que o número de eleitores ultrapassar {value1}, a taxa de votos e a tendência histórica serão exibidas, e você poderá ver a distribuição de votos, a tendência de votos e a tendência da taxa de votos a qualquer momento.",

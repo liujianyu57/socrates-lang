@@ -1230,7 +1230,7 @@
   "Havesbtscope": "Plage de valeurs pour les utilisateurs titulaires d’un stylo SBT :",
   "Limitenterr2": "Veuillez saisir une valeur valide",
   "textparti1": "Entrée",
-  "textresult1": "Final",
+  "textresult1": "Fin",
   "Qutype": "Type de question",
   "Typerr1": "Débat",
   "Textstatementcop": "Pour une question de type débat, les raisons et les réponses ne sont pas affichées tant que plus de {value1} utilisateurs n’auront pas voté sur la question. Lorsque le nombre de votants dépasse {value1}, le taux de participation et la tendance historique s’affichent et vous pouvez à tout moment consulter la répartition des votes, la tendance des votes et la tendance du taux de vote.",

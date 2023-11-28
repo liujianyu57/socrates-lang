@@ -1230,7 +1230,7 @@
   "Havesbtscope": "Rango de valores para usuarios que posean Bolígrafos SBT:",
   "Limitenterr2": "Por favor, ingrese un valor válido",
   "textparti1": "Entrada",
-  "textresult1": "Final",
+  "textresult1": "Finalizar",
   "Qutype": "Tipo de pregunta",
   "Typerr1": "Debate",
   "Textstatementcop": "En el caso de una pregunta tipo debate, sus razones y respuestas no se muestran hasta que más de {value1} usuarios voten por la pregunta. Cuando el número de votantes supere {value1}, se podrá ver el porcentaje de votos y la tendencia histórica, y podrá visualizar la distribución de los votos, la tendencia de los votos y la tendencia del porcentaje de votos en cualquier momento.",

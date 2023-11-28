@@ -1230,7 +1230,7 @@
   "Havesbtscope": "SBT Kalemi olan kullanıcılar için değer aralığı:",
   "Limitenterr2": "Lütfen geçerli bir değer girin",
   "textparti1": "Giriş",
-  "textresult1": "Son",
+  "textresult1": "Sonlandır",
   "Qutype": "Soru tipi",
   "Typerr1": "Tartışma",
   "Textstatementcop": "Tartışma türündeki bir soru için sebepler ve cevaplar {value1} üzerinde kullanıcı soruyu oylamadan gösterilmez. Oylayanların sayısı {value1} değerini aştıktan sonra oylama oranı ve çok konuşulma geçmişi gösterilir; oyların dağılımını, oyların eğilimini ve oy oranlarının eğilimini her an görüntüleyebilirsiniz.",
