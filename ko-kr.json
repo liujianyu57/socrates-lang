@@ -1074,7 +1074,7 @@
   "textVoteDisplayRule03": "질문이 종료되고 나면 최종 투표 분포가 표시됩니다.",
   "textInvitationCodeRequired": "초대 코드(필수)",
   "textVotes": "투표",
-  "textPreXDisplayVoteRate": "사용자 {value}명이 투표하고 나면 각 질문의 투표 수 스냅샷이 표시됩니다",
+  "textPreXDisplayVoteRate": "사용자 {value1}명이 투표하고 나면 각 질문의 투표 수 스냅샷이 표시됩니다",
   "textEndDisplayVoteRate": "질문이 종료되고 나면 각 질문의 총 표 수가 표시됩니다",
   "textPenToVote": "{value1} 펜 보유: {value2} 표",
   "textVoteHelp": "투표 도움말",
@@ -1300,9 +1300,3 @@
   "textLinkvotecode": "초대 코드 {value1}을 사용하여 등록하고 질문에 대한 투표에 참여하고 보상을 저와 공유하세요!",
   "error4012": "현재 동작은 위험합니다. 나중에 다시 시도하거나 고객 서비스에 문의하여 상담해 보세요.",
   "EnterSocratesparti": "질문이 있으신가요? 지금 소크라테스에게로 가세요! 여러분의 선택을 기대합니다!",
-  "textAddChannel": "채널 추가",
-  "textAddupto3channels": "최대 3개 채널 추가",
-  "texttimehint": "7일 이내에 더 이상 메시지가 표시되지 않습니다.",
-  "textsupportHolist": "친구를 초대하여 질문의 인기를 높이고 지원 상금 풀을 함께 공유하세요.",
-  "textsupportHolistt2": "질문의 인기를 높이고 함께 큰 승리를 거두세요"
-}

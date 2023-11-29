@@ -1074,7 +1074,7 @@
   "textVoteDisplayRule03": "Sau khi câu hỏi kết thúc, hãy hiển thị cách phân bổ bình chọn cuối cùng.",
   "textInvitationCodeRequired": "Mã mời (bắt buộc)",
   "textVotes": "Các bình chọn",
-  "textPreXDisplayVoteRate": "Sau khi {value} người dùng bình chọn, ảnh chụp nhanh về số phiếu bình chọn cho mỗi câu trả lời sẽ được hiển thị",
+  "textPreXDisplayVoteRate": "Sau khi {value1} người dùng bình chọn, ảnh chụp nhanh về số phiếu bình chọn cho mỗi câu trả lời sẽ được hiển thị",
   "textEndDisplayVoteRate": "Sau khi câu hỏi kết thúc, tổng số bình chọn cho mỗi câu trả lời sẽ được hiển thị",
   "textPenToVote": "Cầm {value1} Bút: {value2} bình chọn.",
   "textVoteHelp": "Trợ giúp bình chọn",
@@ -1300,9 +1300,3 @@
   "textLinkvotecode": "Hãy sử dụng mã mời {value1} để đăng ký, tham gia bỏ phiếu cho các câu hỏi và chia sẻ phần thưởng với tôi!",
   "error4012": "Hành vi hiện tại có nhiều rủi ro, vui lòng thử lại sau hoặc liên hệ với bộ phận dịch vụ khách hàng để được tư vấn.",
   "EnterSocratesparti": "Có một câu hỏi? Hãy tới Socrates ngay! Rất mong được xem sự lựa chọn của bạn!",
-  "textAddChannel": "thêm kênh",
-  "textAddupto3channels": "Thêm tối đa 3 kênh",
-  "texttimehint": "Không còn lời nhắc nào trong vòng 7 ngày",
-  "textsupportHolist": "Mời bạn bè của bạn để tăng mức độ phổ biến của câu hỏi và cùng nhau chia sẻ nhóm Giải thưởng Hỗ trợ",
-  "textsupportHolistt2": "Tăng mức độ phổ biến của câu hỏi và cùng nhau giành chiến thắng lớn"
-}

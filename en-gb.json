@@ -1074,7 +1074,7 @@
   "textVoteDisplayRule03": "After the question ends, show the final vote distribution.",
   "textInvitationCodeRequired": "Invitation code (required)",
   "textVotes": "Votes",
-  "textPreXDisplayVoteRate": "After {value} users have voted, a snapshot of the number of votes for each answer will be shown",
+  "textPreXDisplayVoteRate": "After {value1} users have voted, a snapshot of the number of votes for each answer will be shown",
   "textEndDisplayVoteRate": "After the question ends, the overall number of votes for each answer will be shown",
   "textPenToVote": "Hold {value1} Pens: {value2} votes.",
   "textVoteHelp": "Voting help",
@@ -1300,9 +1300,3 @@
   "textLinkvotecode": "Use the invitation code {value1} to register, participate in voting on questions, and share the rewards with me!",
   "error4012": "The current behaviour is risky. Please try again later or contact customer service.",
   "EnterSocratesparti": "Got a question? Come to Socrates now! Looking forward to seeing your choices!",
-  "textAddChannel": "Add channel",
-  "textAddupto3channels": "Add up to 3 channels",
-  "texttimehint": "No more prompts within 7 days",
-  "textsupportHolist": "Invite your friends to boost popularity of the question and share the Support Prize pool together",
-  "textsupportHolistt2": "Boost popularity of the question and win big together"
-}

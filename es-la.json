@@ -1008,7 +1008,7 @@
   "textBeginnerGuide12": "Puede participar en todas las preguntas que vea.",
   "textBeginnerGuide13": "Participe en el debate y comparta su opinión",
   "textBeginnerGuide14": "¡Tómelo en serio y puede llevarse una agradable sorpresa!",
-  "textBeginnerGuide15": "Haga clic en \"Me gusta\" para mostrar su respaldo.",
+  "textBeginnerGuide15": "Haga clic en "Me gusta" para mostrar su respaldo.",
   "textBeginnerGuide16": "Es importante que siempre obtenga la mejor opinión del público.",
   "textBeginnerGuide17": "Respalde y gane",
   "textBeginnerGuide18": "Respaldar una pregunta ayudará a convertirla en una pregunta de tendencia, ¡lo que le brinda la posibilidad de ganar recompensas!",
@@ -1074,7 +1074,7 @@
   "textVoteDisplayRule03": "Una vez que se cierra la pregunta, se muestra la distribución final de los votos.",
   "textInvitationCodeRequired": "Código de invitación (requerido)",
   "textVotes": "Votos",
-  "textPreXDisplayVoteRate": "Después de que {value} usuarios hayan votado, se mostrará un compendio del número de votos de cada respuesta",
+  "textPreXDisplayVoteRate": "Después de que {value1} usuarios hayan votado, se mostrará un compendio del número de votos de cada respuesta",
   "textEndDisplayVoteRate": "Una vez que se cierra la pregunta, se mostrará el número total de votos de cada respuesta",
   "textPenToVote": "Posee {value1} Bolígrafos: {value2} votos.",
   "textVoteHelp": "Ayuda para votar",
@@ -1300,9 +1300,3 @@
   "textLinkvotecode": "Use o código de convite {value1} para se cadastrar, participar da votação nas perguntas e compartilhar as recompensas comigo!",
   "error4012": "O comportamento atual é arriscado, tente novamente mais tarde ou entre em contato com o atendimento ao cliente para consulta.",
   "EnterSocratesparti": "¿Tiene alguna pregunta? ¡Ve a Sócrates ahora! ¡Esperamos ver tus opciones!",
-  "textAddChannel": "Agregar canal",
-  "textAddupto3channels": "Añade hasta 3 canales",
-  "texttimehint": "No más avisos dentro de 7 días",
-  "textsupportHolist": "Invita a tus amigos para aumentar la popularidad de la pregunta y compartir juntos el premio de apoyo.",
-  "textsupportHolistt2": "Aumente la popularidad de la pregunta y ganen a lo grande juntos"
-}

@@ -1074,7 +1074,7 @@
   "textVoteDisplayRule03": "質問を終了した後、最終的な投票分布が表示されます。",
   "textInvitationCodeRequired": "招待コード（必須）",
   "textVotes": "投票",
-  "textPreXDisplayVoteRate": "{value}人のユーザーが投票した後、各回答の投票数のスナップショットが表示されます",
+  "textPreXDisplayVoteRate": "{value1}人のユーザーが投票した後、各回答の投票数のスナップショットが表示されます",
   "textEndDisplayVoteRate": "質問が終了した後、各回答に対する全体の投票数が表示されます",
   "textPenToVote": "以下のペンを{value1}本の持つ：{value2}票",
   "textVoteHelp": "投票ヘルプ",
@@ -1300,9 +1300,3 @@
   "textLinkvotecode": "招待コード {value1} を使用して登録し、質問への投票に参加し、報酬を私と共有してください。",
   "error4012": "現在の動作は危険です。後でもう一度試すか、カスタマー サービスに問い合わせて相談してください。",
   "EnterSocratesparti": "質問がありますか? 今すぐソクラテスのところへ行きましょう！ あなたの選択を楽しみにしています!",
-  "textAddChannel": "チャンネルを追加",
-  "textAddupto3channels": "最大 3 つのチャンネルを追加",
-  "texttimehint": "7 日以内はプロンプトが表示されなくなります",
-  "textsupportHolist": "友達を招待して質問の人気を高め、サポート賞金プールを一緒に共有しましょう",
-  "textsupportHolistt2": "質問の人気を高めて一緒に大きな勝利を収めましょう"
-}

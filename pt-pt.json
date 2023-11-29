@@ -1074,7 +1074,7 @@
   "textVoteDisplayRule03": "Depois da pergunta ser encerrada, a distribuição final dos votos é apresentada.",
   "textInvitationCodeRequired": "Código do convite (obrigatório)",
   "textVotes": "Votos",
-  "textPreXDisplayVoteRate": "Depois de {value} utilizadores terem votado, será apresentado um instantâneo do número de votos de cada resposta.",
+  "textPreXDisplayVoteRate": "Depois de {value1} utilizadores terem votado, será apresentado um instantâneo do número de votos de cada resposta.",
   "textEndDisplayVoteRate": "Depois da pergunta ser encerrada, será apresentado o número total de votos de cada resposta.",
   "textPenToVote": "Tem {value1} pens: {value2} votos.",
   "textVoteHelp": "Ajuda da votação",
@@ -1300,9 +1300,3 @@
   "textLinkvotecode": "Use o código de convite {value1} para se cadastrar, participar da votação nas perguntas e compartilhar as recompensas comigo!",
   "error4012": "O comportamento atual é arriscado, tente novamente mais tarde ou entre em contato com o atendimento ao cliente para consulta.",
   "EnterSocratesparti": "¿Tiene alguna pregunta? ¡Ve a Sócrates ahora! ¡Esperamos ver tus opciones!",
-  "textAddChannel": "Adicionar canal",
-  "textAddupto3channels": "Adicione até 3 canais",
-  "texttimehint": "Não há mais solicitações em 7 dias",
-  "textsupportHolist": "Convide seus amigos para aumentar a popularidade da pergunta e compartilhar o conjunto de prêmios de apoio juntos",
-  "textsupportHolistt2": "Aumente a popularidade da pergunta e ganhe muito juntos"
-}

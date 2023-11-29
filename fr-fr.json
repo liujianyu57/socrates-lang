@@ -1074,7 +1074,7 @@
   "textVoteDisplayRule03": "Après la fin de la question, la répartition finale des votes est affichée.",
   "textInvitationCodeRequired": "Code d’invitation (obligatoire)",
   "textVotes": "Votes",
-  "textPreXDisplayVoteRate": "Après le vote de {value} utilisateurs, un aperçu du nombre de votes pour chaque réponse sera affiché.",
+  "textPreXDisplayVoteRate": "Après le vote de {value1} utilisateurs, un aperçu du nombre de votes pour chaque réponse sera affiché.",
   "textEndDisplayVoteRate": "Après la fin de la question, le nombre total de votes pour chaque réponse sera affiché.",
   "textPenToVote": "Détenez {value1} stylos : {value2} votes.",
   "textVoteHelp": "Aide au vote",
@@ -1300,9 +1300,3 @@
   "textLinkvotecode": "",
   "error4012": "",
   "EnterSocratesparti": "",
-  "textAddChannel": "",
-  "textAddupto3channels": "",
-  "texttimehint": "",
-  "textsupportHolist": "",
-  "textsupportHolistt2": ""
-}
