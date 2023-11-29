@@ -1357,5 +1357,5 @@
   "bountylimit": "보너스 패키지의 금액은 0.01을 초과할 수 없습니다",
   "bountyscope": "값은 {value1} 및 {value2} 사이여야 합니다",
   "bountycreateinjection": "{value1} 생성 + {value2} 주입 + {value3}보너스 패키지",
-  "bountycreate": "{value1} 생성 +  {value2}보너스 패키지"
+  "bountycreate": "{value1} 생성 + {value2}보너스 패키지"
 }

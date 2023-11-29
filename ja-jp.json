@@ -1357,5 +1357,5 @@
   "bountylimit": "ボーナスパッケージの金額は0.01以上である必要があります。",
   "bountyscope": "{value1}～{value2}の範囲内で値を指定してください。",
   "bountycreateinjection": "{value1} を作成 + {value2} を注入 + {value3}ボーナスパッケージ",
-  "bountycreate": "{value1} を作成 +  {value2}ボーナスパッケージ"
+  "bountycreate": "{value1} を作成 + {value2}ボーナスパッケージ"
 }

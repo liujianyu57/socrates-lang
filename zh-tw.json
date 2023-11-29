@@ -1357,5 +1357,5 @@
   "bountylimit": "單一紅包金額不得小於 0.01",
   "bountyscope": "請在 {value1}-{value2} 內輸入",
   "bountycreateinjection": "創建 {value1} + 注入 {value2} + 紅包{value3}",
-  "bountycreate": "創建 {value1} +  紅包{value2}"
+  "bountycreate": "創建 {value1} + 紅包{value2}"
 }

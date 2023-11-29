@@ -1357,5 +1357,5 @@
   "bountylimit": "O valor de um pacote de bônus não deve ser inferior a 0,01",
   "bountyscope": "O valor deve estar entre {value1} e {value2}",
   "bountycreateinjection": "Criar {value1} + Injetar {value2} + Pacote de bônus{value3}",
-  "bountycreate": "Criar {value1} +  Pacote de bônus{value2}"
+  "bountycreate": "Criar {value1} + Pacote de bônus{value2}"
 }

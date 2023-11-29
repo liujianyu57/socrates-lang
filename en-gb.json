@@ -1357,5 +1357,5 @@
   "bountylimit": "The amount of a bonus package must be no less than 0.01",
   "bountyscope": "The value must be between {value1} and {value2}",
   "bountycreateinjection": "Create {value1} + inject {value2} + Bonus package{value3}",
-  "bountycreate": "Create {value1} +  Bonus package{value2}"
+  "bountycreate": "Create {value1} + Bonus package{value2}"
 }

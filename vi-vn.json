@@ -1357,5 +1357,5 @@
   "bountylimit": "Số tiền của hồng bao không được nhỏ hơn 0,01",
   "bountyscope": "Giá trị phải nằm trong khoảng từ {value1} đến {value2}",
   "bountycreateinjection": "Tạo {value1} + Tiêm {value2} + Hồng bao{value3}",
-  "bountycreate": "Tạo {value1} +  Hồng bao{value2}"
+  "bountycreate": "Tạo {value1} + Hồng bao{value2}"
 }
