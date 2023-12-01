@@ -1357,5 +1357,9 @@
   "bountyscope": "The value must be between {value1} and {value2}",
   "bountycreateinjection": "Create {value1} + inject {value2} + Bonus package{value3}",
   "bountycreate": "Create {value1} + Bonus package{value2}",
-  "textBindWalletDescription": "You can create a new wallet or import an existing web3 wallet. After connecting the wallet, you can participate and receive rewards."
+  "textBindWalletDescription": "You can create a new wallet or import an existing web3 wallet. After connecting the wallet, you can participate and receive rewards.",
+  "toaslimit1": "Only one bonus package can exist at the same time period.",
+  "quantity1": "Total",
+  "receivetotal2": "Claimed{value1},Total {value2} points",
+  "Reservetotal1": "Booked{value1},Total {value2} points"
 }

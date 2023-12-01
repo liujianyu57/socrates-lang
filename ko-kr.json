@@ -1357,5 +1357,9 @@
   "bountyscope": "값은 {value1} 및 {value2} 사이여야 합니다",
   "bountycreateinjection": "{value1} 생성 + {value2} 주입 + {value3}보너스 패키지",
   "bountycreate": "{value1} 생성 + {value2}보너스 패키지",
-  "textBindWalletDescription": "새 지갑을 만들거나 기존 web3 지갑을 가져올 수 있습니다. 지갑을 연결한 후 참여하여 보상을 받을 수 있습니다."
+  "textBindWalletDescription": "새 지갑을 만들거나 기존 web3 지갑을 가져올 수 있습니다. 지갑을 연결한 후 참여하여 보상을 받을 수 있습니다.",
+  "toaslimit1": "동시에 하나의 보너스 패키지만 존재할 수 있습니다.",
+  "quantity1": "총",
+  "receivetotal2": "수령함{value1},총액 {value2} 포인트",
+  "Reservetotal1": "예약됨{value1},총액 {value2} 포인트"
 }

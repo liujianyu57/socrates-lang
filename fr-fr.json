@@ -1357,5 +1357,9 @@
   "bountyscope": "",
   "bountycreateinjection": "",
   "bountycreate": "",
-  "textBindWalletDescription": "Vous pouvez créer un nouveau portefeuille ou importer un portefeuille web3. Après avoir connecté le portefeuille, vous pouvez participer et recevoir des récompenses."
+  "textBindWalletDescription": "Vous pouvez créer un nouveau portefeuille ou importer un portefeuille web3. Après avoir connecté le portefeuille, vous pouvez participer et recevoir des récompenses.",
+  "toaslimit1": "",
+  "quantity1": "",
+  "receivetotal2": "",
+  "Reservetotal1": ""
 }

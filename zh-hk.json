@@ -1342,7 +1342,7 @@
   "bountyshare": "答題贏利是",
   "bountytotal": "總利是",
   "bountyme1": "我的利是",
-  "bountyquantity": "{value1}/{value2} 個",
+  "bountyquantity": "{value1}/{value2}",
   "bountyintegral1": "共 {value1}/{value2} 積分",
   "bountyReceipt1": "已到賬",
   "bountyreturn": "利是退還",
@@ -1357,5 +1357,9 @@
   "bountyscope": "請在 {value1}-{value2} 內輸入",
   "bountycreateinjection": "",
   "bountycreate": "",
-  "textBindWalletDescription": "可建立新錢包，或導入已有 web3 錢包進行連結，連結錢包後可參與投票、領取積分獎勵。"
+  "textBindWalletDescription": "可建立新錢包，或導入已有 web3 錢包進行連結，連結錢包後可參與投票、領取積分獎勵。",
+  "toaslimit1": "",
+  "quantity1": "",
+  "receivetotal2": "",
+  "Reservetotal1": ""
 }

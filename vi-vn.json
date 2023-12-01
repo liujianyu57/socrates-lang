@@ -1357,5 +1357,9 @@
   "bountyscope": "Giá trị phải nằm trong khoảng từ {value1} đến {value2}",
   "bountycreateinjection": "Tạo {value1} + Tiêm {value2} + Hồng bao{value3}",
   "bountycreate": "Tạo {value1} + Hồng bao{value2}",
-  "textBindWalletDescription": "Bạn có thể tạo ví mới hoặc nhập ví web3 hiện có. Sau khi kết nối với ví, bạn có thể tham gia và nhận phần thưởng."
+  "textBindWalletDescription": "Bạn có thể tạo ví mới hoặc nhập ví web3 hiện có. Sau khi kết nối với ví, bạn có thể tham gia và nhận phần thưởng.",
+  "toaslimit1": "Chỉ có thể tồn tại một gói thưởng trong cùng một khoảng thời gian.",
+  "quantity1": "Tổng cộng",
+  "receivetotal2": "Đã nhận{value1},Tổng cộng {value2} điểm",
+  "Reservetotal1": "Đã đặt{value1},Tổng cộng {value2} điểm"
 }

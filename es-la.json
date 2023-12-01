@@ -1357,5 +1357,9 @@
   "bountyscope": "El valor debe estar entre {value1} y {value2}",
   "bountycreateinjection": "Crear {value1} + Inyectar {value2} + Paquete de Bonificación{value3}",
   "bountycreate": "Crear {value1} + Paquete de Bonificación{value2}",
-  "textBindWalletDescription": "Puede crear una nueva billetera o importar una billetera web3 existente. Después de conectar la billetera, podrá participar y recibir recompensas."
+  "textBindWalletDescription": "Puede crear una nueva billetera o importar una billetera web3 existente. Después de conectar la billetera, podrá participar y recibir recompensas.",
+  "toaslimit1": "Sólo puede existir un paquete de bonificación al mismo tiempo.",
+  "quantity1": "Total",
+  "receivetotal2": "Reclamado{value1},Total {value2} puntos",
+  "Reservetotal1": "Reservado{value1},Total {value2} puntos"
 }

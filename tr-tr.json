@@ -1357,5 +1357,9 @@
   "bountyscope": "",
   "bountycreateinjection": "",
   "bountycreate": "",
-  "textBindWalletDescription": "Yeni bir cüzdan oluşturabilir veya mevcut bir web3 cüzdanını içeri aktarabilirsiniz. Cüzdanı bağladıktan sonra, katılıp ödül alabilirsiniz."
+  "textBindWalletDescription": "Yeni bir cüzdan oluşturabilir veya mevcut bir web3 cüzdanını içeri aktarabilirsiniz. Cüzdanı bağladıktan sonra, katılıp ödül alabilirsiniz.",
+  "toaslimit1": "",
+  "quantity1": "",
+  "receivetotal2": "",
+  "Reservetotal1": ""
 }

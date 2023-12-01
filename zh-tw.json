@@ -1342,7 +1342,7 @@
   "bountyshare": "答題贏紅包",
   "bountytotal": "總紅包",
   "bountyme1": "我的紅包",
-  "bountyquantity": "{value1}/{value2} 個",
+  "bountyquantity": "{value1}/{value2}",
   "bountyintegral1": "共 {value1}/{value2} 積分",
   "bountyReceipt1": "已入帳",
   "bountyreturn": "紅包退還",
@@ -1357,5 +1357,9 @@
   "bountyscope": "請在 {value1}-{value2} 內輸入",
   "bountycreateinjection": "創建 {value1} + 注入 {value2} + 紅包{value3}",
   "bountycreate": "創建 {value1} + 紅包{value2}",
-  "textBindWalletDescription": "可建立新錢包，或匯入已有 web3 錢包進行綁定，綁定錢包後可參與投票、領取積分獎勵。"
+  "textBindWalletDescription": "可建立新錢包，或匯入已有 web3 錢包進行綁定，綁定錢包後可參與投票、領取積分獎勵。",
+  "toaslimit1": "同一時間只能存在1個紅包",
+  "quantity1": "共",
+  "receivetotal2": "已領取 {value1} 個，共 {value2} 積分",
+  "Reservetotal1": "已預定 {value1} 個，共 {value2} 積分"
 }

@@ -1357,5 +1357,9 @@
   "bountyscope": "O valor deve estar entre {value1} e {value2}",
   "bountycreateinjection": "",
   "bountycreate": "",
-  "textBindWalletDescription": "Pode criar uma nova carteira ou importar uma carteira web3 existente. Após ligar a carteira, pode participar e receber prémios."
+  "textBindWalletDescription": "Pode criar uma nova carteira ou importar uma carteira web3 existente. Após ligar a carteira, pode participar e receber prémios.",
+  "toaslimit1": "",
+  "quantity1": "",
+  "receivetotal2": "",
+  "Reservetotal1": ""
 }

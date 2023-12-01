@@ -1357,5 +1357,9 @@
   "bountyscope": "O valor deve estar entre {value1} e {value2}",
   "bountycreateinjection": "Criar {value1} + Injetar {value2} + Pacote de bônus{value3}",
   "bountycreate": "Criar {value1} + Pacote de bônus{value2}",
-  "textBindWalletDescription": "Você pode criar uma nova carteira ou importar uma carteira web3 existente. Após conectar a carteira, você pode participar e receber recompensas."
+  "textBindWalletDescription": "Você pode criar uma nova carteira ou importar uma carteira web3 existente. Após conectar a carteira, você pode participar e receber recompensas.",
+  "toaslimit1": "Apenas um pacote de bônus pode existir no mesmo período.",
+  "quantity1": "Total",
+  "receivetotal2": "Resgatado{value1},Total {value2} pontos",
+  "Reservetotal1": "Inscrito{value1},Total {value2} pontos"
 }
