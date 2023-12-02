@@ -1353,7 +1353,7 @@
   "bountyDetails": "Chi tiết",
   "bountyReserve1": "Đã đặt",
   "bountyReserve12": "Đã gửi",
-  "bountylimit": "Số tiền của hồng bao không được nhỏ hơn 0,01",
+  "bountylimit": "Số tiền của hồng bao không được nhỏ hơn {value1}",
   "bountyscope": "Giá trị phải nằm trong khoảng từ {value1} đến {value2}",
   "bountycreateinjection": "Tạo {value1} + Tiêm {value2} + Hồng bao{value3}",
   "bountycreate": "Tạo {value1} + Hồng bao{value2}",

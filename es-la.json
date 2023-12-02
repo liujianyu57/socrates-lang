@@ -1353,7 +1353,7 @@
   "bountyDetails": "Detalles",
   "bountyReserve1": "Reservado",
   "bountyReserve12": "Enviado",
-  "bountylimit": "El monto de un paquete de bonificación no debe ser inferior a 0.01",
+  "bountylimit": "El monto de un paquete de bonificación no debe ser inferior a {value1}",
   "bountyscope": "El valor debe estar entre {value1} y {value2}",
   "bountycreateinjection": "Crear {value1} + Inyectar {value2} + Paquete de Bonificación{value3}",
   "bountycreate": "Crear {value1} + Paquete de Bonificación{value2}",

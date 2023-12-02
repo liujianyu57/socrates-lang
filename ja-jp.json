@@ -1353,7 +1353,7 @@
   "bountyDetails": "詳細",
   "bountyReserve1": "予約済み",
   "bountyReserve12": "送信済み",
-  "bountylimit": "ボーナスパッケージの金額は0.01以上である必要があります。",
+  "bountylimit": "ボーナスパッケージの金額は{value1}以上である必要があります。",
   "bountyscope": "{value1}～{value2}の範囲内で値を指定してください。",
   "bountycreateinjection": "{value1} を作成 + {value2} を注入 + {value3}ボーナスパッケージ",
   "bountycreate": "{value1} を作成 + {value2}ボーナスパッケージ",

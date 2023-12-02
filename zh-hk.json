@@ -1353,7 +1353,7 @@
   "bountyDetails": "利是詳情",
   "bountyReserve1": "已預定",
   "bountyReserve12": "已發佈",
-  "bountylimit": "單封利是金額不得小於 0.01",
+  "bountylimit": "單封利是金額不得小於 {value1}",
   "bountyscope": "請在 {value1}-{value2} 內輸入",
   "bountycreateinjection": "",
   "bountycreate": "",

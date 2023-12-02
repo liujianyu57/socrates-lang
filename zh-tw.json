@@ -1353,7 +1353,7 @@
   "bountyDetails": "紅包詳細資訊",
   "bountyReserve1": "已預定",
   "bountyReserve12": "已發佈",
-  "bountylimit": "單一紅包金額不得小於 0.01",
+  "bountylimit": "單一紅包金額不得小於 {value1}",
   "bountyscope": "請在 {value1}-{value2} 內輸入",
   "bountycreateinjection": "創建 {value1} + 注入 {value2} + 紅包{value3}",
   "bountycreate": "創建 {value1} + 紅包{value2}",

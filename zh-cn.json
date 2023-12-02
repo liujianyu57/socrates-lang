@@ -1353,7 +1353,7 @@
   "bountyDetails": "红包详情",
   "bountyReserve1": "已预定",
   "bountyReserve12": "已发布",
-  "bountylimit": "单个红包金额不得小于0.01",
+  "bountylimit": "单个红包金额不得小于{value1}",
   "bountyscope": "请在{value1}-{value2}内输入",
   "bountycreateinjection": "创建{value1} + 注入{value2} + 红包{value3}",
   "bountycreate": "创建{value1} + 红包{value2}",

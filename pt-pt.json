@@ -1353,7 +1353,7 @@
   "bountyDetails": "Detalhes",
   "bountyReserve1": "Reservado",
   "bountyReserve12": "Enviado",
-  "bountylimit": "O montante de um pacote de bónus não pode ser inferior a 0,01",
+  "bountylimit": "O montante de um pacote de bónus não pode ser inferior a {value1}",
   "bountyscope": "O valor deve estar entre {value1} e {value2}",
   "bountycreateinjection": "",
   "bountycreate": "",
