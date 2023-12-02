@@ -1361,5 +1361,6 @@
   "toaslimit1": "동시에 하나의 보너스 패키지만 존재할 수 있습니다.",
   "quantity1": "총",
   "receivetotal2": "수령함{value1},총액 {value2} 포인트",
-  "Reservetotal1": "예약됨{value1},총액 {value2} 포인트"
+  "Reservetotal1": "예약됨{value1},총액 {value2} 포인트",
+  "choosereceivecondition": "수령 조건을 선택해주세요."
 }

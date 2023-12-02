@@ -1361,5 +1361,6 @@
   "toaslimit1": "同一时间只能存在1个红包",
   "quantity1": "共",
   "receivetotal2": "已领取{value1}个，共{value2}积分",
-  "Reservetotal1": "已预定{value1}个，共{value2}积分"
+  "Reservetotal1": "已预定{value1}个，共{value2}积分",
+  "choosereceivecondition": "请选择领取条件"
 }

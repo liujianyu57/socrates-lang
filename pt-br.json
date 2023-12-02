@@ -1361,5 +1361,6 @@
   "toaslimit1": "Apenas um pacote de bônus pode existir no mesmo período.",
   "quantity1": "Total",
   "receivetotal2": "Resgatado{value1},Total {value2} pontos",
-  "Reservetotal1": "Inscrito{value1},Total {value2} pontos"
+  "Reservetotal1": "Inscrito{value1},Total {value2} pontos",
+  "choosereceivecondition": "Selecione as condições de recebimento"
 }

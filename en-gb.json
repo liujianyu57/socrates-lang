@@ -1361,5 +1361,6 @@
   "toaslimit1": "Only one bonus package can exist at the same time period.",
   "quantity1": "Total",
   "receivetotal2": "Claimed{value1},Total {value2} points",
-  "Reservetotal1": "Booked{value1},Total {value2} points"
+  "Reservetotal1": "Booked{value1},Total {value2} points",
+  "choosereceivecondition": "Please select the conditions for receipt"
 }

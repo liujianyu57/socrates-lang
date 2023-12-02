@@ -1361,5 +1361,6 @@
   "toaslimit1": "Chỉ có thể tồn tại một gói thưởng trong cùng một khoảng thời gian.",
   "quantity1": "Tổng cộng",
   "receivetotal2": "Đã nhận{value1},Tổng cộng {value2} điểm",
-  "Reservetotal1": "Đã đặt{value1},Tổng cộng {value2} điểm"
+  "Reservetotal1": "Đã đặt{value1},Tổng cộng {value2} điểm",
+  "choosereceivecondition": "Vui lòng chọn điều kiện để nhận"
 }

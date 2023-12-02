@@ -1361,5 +1361,6 @@
   "toaslimit1": "同時に存在できるボーナス パッケージは 1 つだけです。",
   "quantity1": "合計",
   "receivetotal2": "請求済み{value1},合計{value2}ポイント",
-  "Reservetotal1": "予約済み{value1},合計{value2}ポイント"
+  "Reservetotal1": "予約済み{value1},合計{value2}ポイント",
+  "choosereceivecondition": "受け取り条件を選択してください"
 }
