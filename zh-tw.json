@@ -1362,5 +1362,6 @@
   "quantity1": "共",
   "receivetotal2": "已領取 {value1} 個，共 {value2} 積分",
   "Reservetotal1": "已預定 {value1} 個，共 {value2} 積分",
-  "choosereceivecondition": "請選擇領取條件"
+  "choosereceivecondition": "請選擇領取條件",
+  "error32009": "當前投票操作過於頻繁，請稍後再試。"
 }

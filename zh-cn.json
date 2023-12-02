@@ -1362,5 +1362,6 @@
   "quantity1": "共",
   "receivetotal2": "已领取{value1}个，共{value2}积分",
   "Reservetotal1": "已预定{value1}个，共{value2}积分",
-  "choosereceivecondition": "请选择领取条件"
+  "choosereceivecondition": "请选择领取条件",
+  "error32009": "当前投票操作过于频繁，请稍后再试。"
 }

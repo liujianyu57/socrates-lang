@@ -1362,5 +1362,6 @@
   "quantity1": "合計",
   "receivetotal2": "請求済み{value1},合計{value2}ポイント",
   "Reservetotal1": "予約済み{value1},合計{value2}ポイント",
-  "choosereceivecondition": "受け取り条件を選択してください"
+  "choosereceivecondition": "受け取り条件を選択してください",
+  "error32009": "現在の投票操作が頻繁すぎます。後ほど再試行してください。"
 }
