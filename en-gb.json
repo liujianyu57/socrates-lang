@@ -1363,5 +1363,6 @@
   "receivetotal2": "Claimed{value1},Total {value2} points",
   "Reservetotal1": "Booked{value1},Total {value2} points",
   "choosereceivecondition": "Please select the conditions for receipt",
-  "error66666": "Your current voting action is too frequent, please try again later."
+  "error66666": "Your current voting action is too frequent, please try again later.",
+  "NoInvitationcode": "No invitation code?"
 }

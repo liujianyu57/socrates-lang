@@ -1363,5 +1363,6 @@
   "receivetotal2": "수령함{value1},총액 {value2} 포인트",
   "Reservetotal1": "예약됨{value1},총액 {value2} 포인트",
   "choosereceivecondition": "수령 조건을 선택해주세요.",
-  "error66666": "현재 투표 작업이 너무 자주 발생합니다. 나중에 다시 시도해 주세요."
+  "error66666": "현재 투표 작업이 너무 자주 발생합니다. 나중에 다시 시도해 주세요.",
+  "NoInvitationcode": "초대코드가 없나요?"
 }

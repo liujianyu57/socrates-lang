@@ -1363,5 +1363,6 @@
   "receivetotal2": "Đã nhận{value1},Tổng cộng {value2} điểm",
   "Reservetotal1": "Đã đặt{value1},Tổng cộng {value2} điểm",
   "choosereceivecondition": "Vui lòng chọn điều kiện để nhận",
-  "error66666": "Hoạt động bầu chọn hiện tại quá thường xuyên, vui lòng thử lại sau."
+  "error66666": "Hoạt động bầu chọn hiện tại quá thường xuyên, vui lòng thử lại sau.",
+  "NoInvitationcode": "Không có mã mời?"
 }

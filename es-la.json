@@ -1363,5 +1363,6 @@
   "receivetotal2": "Reclamado{value1},Total {value2} puntos",
   "Reservetotal1": "Reservado{value1},Total {value2} puntos",
   "choosereceivecondition": "Selecione as condições de recebimento",
-  "error66666": "La acción de votar actual es demasiado frecuente, por favor inténtelo de nuevo más tarde."
+  "error66666": "La acción de votar actual es demasiado frecuente, por favor inténtelo de nuevo más tarde.",
+  "NoInvitationcode": "¿Sin código de invitación?"
 }
