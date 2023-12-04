@@ -1270,7 +1270,7 @@
   "textformulaillust": "인기도 점수 = 보상 풀의 액수(주입된 포인트 제외) * [1 + log10(지원 포인트 + 1)] * [1 + log10(주입된 포인트 + 1)]",
   "questionListt": "인기도 순위",
   "textlistto": "순위에 오르려면 {value1} 필요",
-  "votehu": "투표자",
+  "votehu": "서포터즈",
   "tewasupport": "지원함",
   "textwysupport": "내가 지원함",
   "balancexx": "({value1} 사용 가능)",
@@ -1363,5 +1363,5 @@
   "receivetotal2": "수령함{value1},총액 {value2} 포인트",
   "Reservetotal1": "예약됨{value1},총액 {value2} 포인트",
   "choosereceivecondition": "수령 조건을 선택해주세요.",
-  "error32009": "현재 투표 작업이 너무 자주 발생합니다. 나중에 다시 시도해 주세요."
+  "error66666": "현재 투표 작업이 너무 자주 발생합니다. 나중에 다시 시도해 주세요."
 }

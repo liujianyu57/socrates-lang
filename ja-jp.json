@@ -1270,7 +1270,7 @@
   "textformulaillust": "人気スコア = 賞金プールの金額（注入ポイントを除く） * [1 + log10（サポートポイント + 1）] * [1 + log10（注入ポイント + 1）]",
   "questionListt": "人気ランキング",
   "textlistto": "ランキング入りには{value1}が必要",
-  "votehu": "投票者",
+  "votehu": "サポーター",
   "tewasupport": "サポート付き",
   "textwysupport": "私はサポートしてきました",
   "balancexx": "（{value1}件利用可能）",
@@ -1363,5 +1363,5 @@
   "receivetotal2": "請求済み{value1},合計{value2}ポイント",
   "Reservetotal1": "予約済み{value1},合計{value2}ポイント",
   "choosereceivecondition": "受け取り条件を選択してください",
-  "error32009": "現在の投票操作が頻繁すぎます。後ほど再試行してください。"
+  "error66666": "現在の投票操作が頻繁すぎます。後ほど再試行してください。"
 }

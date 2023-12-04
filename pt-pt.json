@@ -1270,7 +1270,7 @@
   "textformulaillust": "Puntuación de popularidad = Cantidad en el premio acumulado (excluyendo los puntos inyectados) * [1 + log10 (puntos de apoyo + 1)] * [1 + log10 (puntos inyectados + 1)]",
   "questionListt": "Clasificación de Popularidad",
   "textlistto": "Necesita {value1} para ser clasificado",
-  "votehu": "Votante",
+  "votehu": "",
   "tewasupport": "Apoyada",
   "textwysupport": "He apoyado",
   "balancexx": "({value1} disponible)",
@@ -1363,5 +1363,5 @@
   "receivetotal2": "",
   "Reservetotal1": "",
   "choosereceivecondition": "",
-  "error32009": ""
+  "error66666": ""
 }

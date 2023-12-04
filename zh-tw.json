@@ -1270,7 +1270,7 @@
   "textformulaillust": "熱度值 = 問題獎池(不含注入積分) * [1 + log10(支持金額 + 1)] * [1 + log10(注入積分 + 1)]",
   "questionListt": "問題排行榜",
   "textlistto": "還差 {value1} 上榜",
-  "votehu": "人",
+  "votehu": "支持者",
   "tewasupport": "已支持",
   "textwysupport": "我已支持",
   "balancexx": "（餘額 {value1}）",
@@ -1363,5 +1363,5 @@
   "receivetotal2": "已領取 {value1} 個，共 {value2} 積分",
   "Reservetotal1": "已預定 {value1} 個，共 {value2} 積分",
   "choosereceivecondition": "請選擇領取條件",
-  "error32009": "當前投票操作過於頻繁，請稍後再試。"
+  "error66666": "當前投票操作過於頻繁，請稍後再試。"
 }

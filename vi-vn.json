@@ -1270,7 +1270,7 @@
   "textformulaillust": "Điểm phổ biến = Số tiền trong tổng giải thưởng (không bao gồm điểm được giới thiệu) * [1 + log10(điểm hỗ trợ + 1)] * [1 + log10(điểm được giới thiệu + 1)]",
   "questionListt": "Xếp hạng mức độ phổ biến",
   "textlistto": "Cần {value1} để được xếp hạng",
-  "votehu": "N̉gười bình chọn",
+  "votehu": "Người ủng hộ",
   "tewasupport": "Được hỗ trợ",
   "textwysupport": "Tôi đã ủng hộ",
   "balancexx": "( {value1} có sẵn)",
@@ -1363,5 +1363,5 @@
   "receivetotal2": "Đã nhận{value1},Tổng cộng {value2} điểm",
   "Reservetotal1": "Đã đặt{value1},Tổng cộng {value2} điểm",
   "choosereceivecondition": "Vui lòng chọn điều kiện để nhận",
-  "error32009": "Hoạt động bầu chọn hiện tại quá thường xuyên, vui lòng thử lại sau."
+  "error66666": "Hoạt động bầu chọn hiện tại quá thường xuyên, vui lòng thử lại sau."
 }

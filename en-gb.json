@@ -1270,7 +1270,7 @@
   "textformulaillust": "Popularity score = Amount in the prize pool (excluding injected points) * [1 + log10(support points + 1)] * [1 + log10(injected points + 1)]",
   "questionListt": "Popularity Ranking",
   "textlistto": "Need {value1} to be ranked",
-  "votehu": "Voter",
+  "votehu": "Supporters",
   "tewasupport": "Supported",
   "textwysupport": "I have supported",
   "balancexx": "({value1} available)",
@@ -1363,5 +1363,5 @@
   "receivetotal2": "Claimed{value1},Total {value2} points",
   "Reservetotal1": "Booked{value1},Total {value2} points",
   "choosereceivecondition": "Please select the conditions for receipt",
-  "error32009": "Your current voting action is too frequent, please try again later."
+  "error66666": "Your current voting action is too frequent, please try again later."
 }
