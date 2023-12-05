@@ -1345,8 +1345,8 @@
   "bountyquantity": "{value1}/{value2}",
   "bountyintegral1": "合計：{value1}/{value2}ポイント",
   "bountyReceipt1": "預け入れ",
-  "pointType500": "ボーナスパッケージの払い戻し",
-  "pointType501": "ボーナスパッケージの金額",
+  "pointType610": "ボーナスパッケージの払い戻し",
+  "pointType611": "ボーナスパッケージの金額",
   "bountynotify111": "おめでとうございます。{value1}ポイントを獲得しました",
   "bountynotify112": "{value1}ポイントが払い戻されました",
   "bountylist": "ボーナスパッケージ",
@@ -1365,5 +1365,5 @@
   "choosereceivecondition": "受け取り条件を選択してください",
   "error66666": "現在の投票操作が頻繁すぎます。後ほど再試行してください。",
   "NoInvitationcode": "招待コードがありませんか?",
-  "pointType502": "送信"
+  "pointType612": "送信"
 }
