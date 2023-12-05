@@ -1345,8 +1345,8 @@
   "bountyquantity": "{value1}/{value2}",
   "bountyintegral1": "Total: {value1}/{value2} points",
   "bountyReceipt1": "Deposited",
-  "bountyreturn": "Refund of bonus package",
-  "bountyget": "Amount of bonus package",
+  "pointType500": "Refund of bonus package",
+  "pointType501": "Amount of bonus package",
   "bountynotify111": "Congrats, you received {value1} points",
   "bountynotify112": "{value1} points have been refunded",
   "bountylist": "Bonus packages",
@@ -1364,5 +1364,6 @@
   "Reservetotal1": "Booked{value1},Total {value2} points",
   "choosereceivecondition": "Please select the conditions for receipt",
   "error66666": "Your current voting action is too frequent, please try again later.",
-  "NoInvitationcode": "No invitation code?"
+  "NoInvitationcode": "No invitation code?",
+  "pointType502": "Send"
 }

@@ -1345,8 +1345,8 @@
   "bountyquantity": "",
   "bountyintegral1": "",
   "bountyReceipt1": "",
-  "bountyreturn": "",
-  "bountyget": "",
+  "pointType500": "",
+  "pointType501": "",
   "bountynotify111": "",
   "bountynotify112": "",
   "bountylist": "",
@@ -1364,5 +1364,6 @@
   "Reservetotal1": "",
   "choosereceivecondition": "",
   "error66666": "",
-  "NoInvitationcode": ""
+  "NoInvitationcode": "",
+  "pointType502": ""
 }

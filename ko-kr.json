@@ -1345,8 +1345,8 @@
   "bountyquantity": "{value1}/{value2}",
   "bountyintegral1": "총액: {value1}/{value2} 포인트",
   "bountyReceipt1": "입금됨",
-  "bountyreturn": "보너스 패키지 환불",
-  "bountyget": "보너스 패키지 금액",
+  "pointType500": "보너스 패키지 환불",
+  "pointType501": "보너스 패키지 금액",
   "bountynotify111": "축하합니다. {value1}포인트를 받았습니다",
   "bountynotify112": "{value1} 포인트가 환불되었습니다",
   "bountylist": "보너스 패키지",
@@ -1364,5 +1364,6 @@
   "Reservetotal1": "예약됨{value1},총액 {value2} 포인트",
   "choosereceivecondition": "수령 조건을 선택해주세요.",
   "error66666": "현재 투표 작업이 너무 자주 발생합니다. 나중에 다시 시도해 주세요.",
-  "NoInvitationcode": "초대코드가 없나요?"
+  "NoInvitationcode": "초대코드가 없나요?",
+  "pointType502": "전송"
 }

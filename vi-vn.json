@@ -1345,8 +1345,8 @@
   "bountyquantity": "{value1}/{value2}",
   "bountyintegral1": "Tổng cộng: {value1}/{value2} điểm",
   "bountyReceipt1": "Đã gửi tiền",
-  "bountyreturn": "Hoàn trả hồng bao",
-  "bountyget": "Số lượng hồng bao",
+  "pointType500": "Hoàn trả hồng bao",
+  "pointType501": "Số lượng hồng bao",
   "bountynotify111": "Xin chúc mừng, bạn đã nhận được {value1} điểm",
   "bountynotify112": "{value1} điểm đã được hoàn lại",
   "bountylist": "Hồng bao",
@@ -1364,5 +1364,6 @@
   "Reservetotal1": "Đã đặt{value1},Tổng cộng {value2} điểm",
   "choosereceivecondition": "Vui lòng chọn điều kiện để nhận",
   "error66666": "Hoạt động bầu chọn hiện tại quá thường xuyên, vui lòng thử lại sau.",
-  "NoInvitationcode": "Không có mã mời?"
+  "NoInvitationcode": "Không có mã mời?",
+  "pointType502": "Gửi"
 }

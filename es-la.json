@@ -1345,8 +1345,8 @@
   "bountyquantity": "{value1}/{value2}",
   "bountyintegral1": "Total: {value1}/{value2} puntos",
   "bountyReceipt1": "Depositados",
-  "bountyreturn": "Reembolso de paquete de bonificación",
-  "bountyget": "Monto de paquete de bonificación",
+  "pointType500": "Reembolso de paquete de bonificación",
+  "pointType501": "Monto de paquete de bonificación",
   "bountynotify111": "Felicitaciones, recibió {value1} puntos",
   "bountynotify112": "Se reembolsaron {value1} puntos",
   "bountylist": "Paquetes de bonificación",
@@ -1364,5 +1364,6 @@
   "Reservetotal1": "Reservado{value1},Total {value2} puntos",
   "choosereceivecondition": "Selecione as condições de recebimento",
   "error66666": "La acción de votar actual es demasiado frecuente, por favor inténtelo de nuevo más tarde.",
-  "NoInvitationcode": "¿Sin código de invitación?"
+  "NoInvitationcode": "¿Sin código de invitación?",
+  "pointType502": "Enviar"
 }

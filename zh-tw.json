@@ -1345,8 +1345,8 @@
   "bountyquantity": "{value1}/{value2}",
   "bountyintegral1": "共 {value1}/{value2} 積分",
   "bountyReceipt1": "已入帳",
-  "bountyreturn": "紅包退還",
-  "bountyget": "紅包金額",
+  "pointType500": "紅包退還",
+  "pointType501": "紅包金額",
   "bountynotify111": "恭喜您獲得紅包 {value1} 積分",
   "bountynotify112": "紅包金額已退還 {value1} 積分",
   "bountylist": "紅包清單",
@@ -1364,5 +1364,6 @@
   "Reservetotal1": "已預定 {value1} 個，共 {value2} 積分",
   "choosereceivecondition": "請選擇領取條件",
   "error66666": "當前投票操作過於頻繁，請稍後再試。",
-  "NoInvitationcode": "沒有邀請碼？"
+  "NoInvitationcode": "沒有邀請碼？",
+  "pointType502": "發佈紅包"
 }
