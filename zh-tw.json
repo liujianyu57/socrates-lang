@@ -1345,7 +1345,7 @@
   "bountyquantity": "{value1}/{value2}",
   "bountyintegral1": "共 {value1}/{value2} 積分",
   "bountyReceipt1": "已入帳",
-  "pointType610": "紅包退還",
+  "pointType612": "紅包退還",
   "pointType611": "紅包金額",
   "bountynotify111": "恭喜您獲得紅包 {value1} 積分",
   "bountynotify112": "紅包金額已退還 {value1} 積分",
@@ -1365,5 +1365,5 @@
   "choosereceivecondition": "請選擇領取條件",
   "error66666": "當前投票操作過於頻繁，請稍後再試。",
   "NoInvitationcode": "沒有邀請碼？",
-  "pointType612": "發佈紅包"
+  "pointType610": "發佈紅包"
 }

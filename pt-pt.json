@@ -1345,7 +1345,7 @@
   "bountyquantity": "{value1}/{value2}",
   "bountyintegral1": "Total: {value1}/{value2} pontos",
   "bountyReceipt1": "Depositado",
-  "pointType610": "Reembolso do pacote de bónus",
+  "pointType612": "Reembolso do pacote de bónus",
   "pointType611": "Montante do pacote de bónus",
   "bountynotify111": "Parabéns, recebeu {value1} pontos",
   "bountynotify112": "{value1} pontos foram reembolsados",
@@ -1365,5 +1365,5 @@
   "choosereceivecondition": "",
   "error66666": "",
   "NoInvitationcode": "",
-  "pointType612": "Enviar"
+  "pointType610": "Enviar"
 }

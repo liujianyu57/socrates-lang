@@ -1345,7 +1345,7 @@
   "bountyquantity": "{value1}/{value2}",
   "bountyintegral1": "共 {value1}/{value2} 積分",
   "bountyReceipt1": "已到賬",
-  "pointType610": "利是退還",
+  "pointType612": "利是退還",
   "pointType611": "利是金額",
   "bountynotify111": "恭喜你獲得利是 {value1} 積分",
   "bountynotify112": "利是金額已返還 {value1} 積分",
@@ -1365,5 +1365,5 @@
   "choosereceivecondition": "",
   "error66666": "",
   "NoInvitationcode": "",
-  "pointType612": "發佈利是"
+  "pointType610": "發佈利是"
 }

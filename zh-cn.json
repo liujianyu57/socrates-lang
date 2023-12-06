@@ -1345,7 +1345,7 @@
   "bountyquantity": "{value1}/{value2}",
   "bountyintegral1": "共{value1}/{value2}积分",
   "bountyReceipt1": "已到账",
-  "pointType610": "红包返还",
+  "pointType612": "红包返还",
   "pointType611": "红包金额",
   "bountynotify111": "恭喜你获得红包{value1}积分",
   "bountynotify112": "红包金额已返还{value1}积分",
@@ -1365,5 +1365,5 @@
   "choosereceivecondition": "请选择领取条件",
   "error66666": "当前投票操作过于频繁，请稍后再试。",
   "NoInvitationcode": "没有邀请码？",
-  "pointType612": "发布红包"
+  "pointType610": "发布红包"
 }
