@@ -1389,8 +1389,7 @@
   "textFollowQuestion": "Soruyu takip et",
   "textReceiveNotification": "Popülerlik puanı ve veri değişiklikleri hakkında güncel bildirimler almak için soruyu takip edin",
   "textQuestionEnd": "{value1} sorunuz sona erdi. Sonucu görmek için tıklayın",
-  "textQuestionEndedIn6": "{value1} sorunuzun süresinin bitmesine 6 saat kaldı
-",
+  "textQuestionEndedIn6": "{value1} sorunuzun süresinin bitmesine 6 saat kaldı",
   "textPopularity": "{value1} sorunuzun popülerlik puanı {value2} puana ulaştı, {value3}sırada.",
   "textQuestionTrending": "{value1} sorunuz çok konuşulanlarda",
   "textGift": "Hediye ver",
