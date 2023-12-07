@@ -1329,7 +1329,7 @@
   "bountyDisbursed": "利是已發放完畢",
   "bountyrec1": "領取",
   "bountyFinish1": "問題已結束",
-  "bountyReceived11": "利是已在 {value1} 日領取",
+  "bountyReceived11": "利是已在 {value1} 領取",
   "Received1": "已領取",
   "bountydidmakeit": "未達標",
   "bountyToissued": "待發放",

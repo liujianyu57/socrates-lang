@@ -1329,7 +1329,7 @@
   "bountyDisbursed": "紅包已發放完畢",
   "bountyrec1": "領取",
   "bountyFinish1": "問題已結束",
-  "bountyReceived11": "紅包已在 {value1} 號領取",
+  "bountyReceived11": "紅包已在 {value1} 領取",
   "Received1": "已領取",
   "bountydidmakeit": "未達標",
   "bountyToissued": "待發放",

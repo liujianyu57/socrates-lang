@@ -1379,7 +1379,7 @@
   "textTo2": "Para",
   "textTransferToNetwork": "Transferência para a rede vinculada ao endereço atual",
   "textDeposit": "Depositar {value1}",
-  "textTransfer": "Transferir \"{value1}\" para:",
+  "textTransfer": "Transferir "{value1}" para:",
   "textLoginPassword": "Digite a senha de login",
   "textDeposit2": "Depositar",
   "textTransfer2": "Transferir",

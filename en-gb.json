@@ -1379,7 +1379,7 @@
   "textTo2": "To",
   "textTransferToNetwork": "Transfer to the network linked to the current address",
   "textDeposit": "Deposit {value1}",
-  "textTransfer": "Transfer \"{value1}\" to:",
+  "textTransfer": "Transfer "{value1}" to:",
   "textLoginPassword": "Enter login password",
   "textDeposit2": "Deposit",
   "textTransfer2": "Transfer",
@@ -1389,7 +1389,8 @@
   "textFollowQuestion": "Follow question",
   "textReceiveNotification": "Follow the question to receive the up-to-date notification on its popularity score and data changes",
   "textQuestionEnd": "Your {value1} question has ended. Click to view the result",
-  "textQuestionEndedIn6": "There are 6 hours left before your {value1} question ends",
+  "textQuestionEndedIn6": "There are 6 hours left before your {value1} question ends
+",
   "textPopularity": "The popularity score of your {value1}question has reached {value2}, ranking {value3}.",
   "textQuestionTrending": "Your {value1}question has become trending",
   "textGift": "Give gift",
