@@ -1379,7 +1379,7 @@
   "textTo2": "To",
   "textTransferToNetwork": "Transfer to the network linked to the current address",
   "textDeposit": "Deposit {value1}",
-  "textTransfer": "Transfer "{value1}" to:",
+  "textTransfer": "Transfer \"{value1}\" to:",
   "textLoginPassword": "Enter login password",
   "textDeposit2": "Deposit",
   "textTransfer2": "Transfer",
