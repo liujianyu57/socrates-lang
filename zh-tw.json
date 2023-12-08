@@ -1379,7 +1379,7 @@
   "textTo2": "收款位址",
   "textTransferToNetwork": "轉帳到目前位址的綁定網路",
   "textDeposit": "儲值 {value1}",
-  "textTransfer": "轉帳\\\"{value1}\\\"到：",
+  "textTransfer": "轉帳\"{value1}\"到：",
   "textLoginPassword": "輸入登入密碼",
   "textDeposit2": "儲值",
   "textTransfer2": "從錢包轉帳",
@@ -1406,5 +1406,12 @@
   "textWinNFT": "{value1} 贈送 {value2} 筆給您，並抽中 NFT 筆。",
   "textReceiveNFT": "恭喜您獲得 NFT 筆！",
   "textTransferCrypto": "從錢包轉入代幣",
-  "textSendToSameNetwork": "這是一個 {value1} 錢包，只能向該錢包發送 {value2} 或 {value3} 代幣。"
+  "textSendToSameNetwork": "這是一個 {value1} 錢包，只能向該錢包發送 {value2} 或 {value3} 代幣。",
+  "error6702": "紅包不存在",
+  "error6703": "參與投票後可領取紅包",
+  "error6704": "紅包已發放完畢",
+  "error6705": "紅包已領取",
+  "error6706": "沒搶到，再試一次",
+  "textGetPoint1": "恭喜獲得 {value1} 積分獎勵，獎勵比率為 {value2}",
+  "PointType700": "積分空投"
 }

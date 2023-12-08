@@ -1379,7 +1379,7 @@
   "textTo2": "送信先",
   "textTransferToNetwork": "現在のアドレスにリンクされたネットワークに送金",
   "textDeposit": "{value1}を入金",
-  "textTransfer": "以下の宛先に\\\"{value1}\\\"を送金：",
+  "textTransfer": "以下の宛先に\"{value1}\"を送金：",
   "textLoginPassword": "ログインパスワードを入力",
   "textDeposit2": "入金",
   "textTransfer2": "送金",
@@ -1406,5 +1406,12 @@
   "textWinNFT": "{value1}があなたに{value2}ペンを送り、あなたはNFTペンを獲得しました。",
   "textReceiveNFT": "おめでとうございます。NFTペンを受け取りました。",
   "textTransferCrypto": "ウォレットから暗号通貨を送金する",
-  "textSendToSameNetwork": "こちらが{value1}のウォレットです。{value2}または{value3}トークンのみをこのウォレットに送信します。"
+  "textSendToSameNetwork": "こちらが{value1}のウォレットです。{value2}または{value3}トークンのみをこのウォレットに送信します。",
+  "error6702": "ボーナスパッケージがありません",
+  "error6703": "ボーナスパッケージを請求する前に投票する",
+  "error6704": "ボーナスパッケージは残っていません",
+  "error6705": "ボーナスパッケージを請求しました",
+  "error6706": "ボーナスパッケージがありません。もう一度お試しください",
+  "textGetPoint1": "おめでとうございます。{value1}ポイントを獲得しました。あなたの報酬率は{value2}です",
+  "PointType700": "ポイントの報酬"
 }

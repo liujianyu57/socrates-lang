@@ -1379,7 +1379,7 @@
   "textTo2": "대상",
   "textTransferToNetwork": "현재 주소에 연결된 네트워크로 송금",
   "textDeposit": "{value1} 입금",
-  "textTransfer": "다음으로 \\\"{value1}\\\"송금",
+  "textTransfer": "다음으로 \"{value1}\"송금",
   "textLoginPassword": "로그인 비밀번호 입력",
   "textDeposit2": "입금",
   "textTransfer2": "송금",
@@ -1406,5 +1406,12 @@
   "textWinNFT": "{value1}님이 {value2} 펜을 주었으며 귀하는 NFT 펜을 획득했습니다.",
   "textReceiveNFT": "축하합니다. NFT 펜을 받았습니다.",
   "textTransferCrypto": "지갑에서 암호화폐 송금",
-  "textSendToSameNetwork": "이것은 {value1} 지갑입니다. {value2} 또는 {value3} 토큰만 이 지갑으로 보냅니다."
+  "textSendToSameNetwork": "이것은 {value1} 지갑입니다. {value2} 또는 {value3} 토큰만 이 지갑으로 보냅니다.",
+  "error6702": "보너스 패키지가 존재하지 않습니다",
+  "error6703": "보너스 패키지를 수령하기 전에 투표",
+  "error6704": "남은 보너스 패키지 없음",
+  "error6705": "보너스 패키지 수령함",
+  "error6706": "보너스 패키지가 없습니다. 다시 시도하십시오.",
+  "textGetPoint1": "축하합니다. {value1} 포인트를 받았습니다. 보상율은 {value2}입니다",
+  "PointType700": "포인트 보상"
 }

@@ -1379,7 +1379,7 @@
   "textTo2": "To",
   "textTransferToNetwork": "Transfer to the network linked to the current address",
   "textDeposit": "Deposit {value1}",
-  "textTransfer": "Transfer \\\"{value1}\\\" to:",
+  "textTransfer": "Transfer \"{value1}\" to:",
   "textLoginPassword": "Enter login password",
   "textDeposit2": "Deposit",
   "textTransfer2": "Transfer",
@@ -1406,5 +1406,12 @@
   "textWinNFT": "{value1} has given you a {value2} Pen, and you have won an NFT Pen.",
   "textReceiveNFT": "Congrats, you have received an NFT Pen.",
   "textTransferCrypto": "Transfer crypto from wallet",
-  "textSendToSameNetwork": "This is the {value1} wallet. Only send {value2} or {value3} tokens to this wallet."
+  "textSendToSameNetwork": "This is the {value1} wallet. Only send {value2} or {value3} tokens to this wallet.",
+  "error6702": "Bonus package does not exist",
+  "error6703": "Vote before claiming the bonus package",
+  "error6704": "No bonus package left",
+  "error6705": "Bonus package claimed",
+  "error6706": "Oops, no bonus package, please try again",
+  "textGetPoint1": "Congrats, you have been awarded with {value1} points. Your reward rate is {value2}",
+  "PointType700": "Point rewards"
 }

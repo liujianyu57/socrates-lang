@@ -1379,7 +1379,7 @@
   "textTo2": "收款地址",
   "textTransferToNetwork": "转账到当前地址的绑定网络",
   "textDeposit": "充值{value1}",
-  "textTransfer": "转账 \\\"{value1}\\\" 到:",
+  "textTransfer": "转账 \"{value1}\" 到:",
   "textLoginPassword": "输入登录密码",
   "textDeposit2": "充值",
   "textTransfer2": "从钱包转账",
@@ -1406,5 +1406,12 @@
   "textWinNFT": "{value1}赠送了你 {value2} Pen，并抽中NFT笔。",
   "textReceiveNFT": "恭喜你获得NFT笔！",
   "textTransferCrypto": "从钱包转入币",
-  "textSendToSameNetwork": "这是一个{value1}钱包，只能向该钱包发送{value2} 或 {value3}代币。"
+  "textSendToSameNetwork": "这是一个{value1}钱包，只能向该钱包发送{value2} 或 {value3}代币。",
+  "error6702": "红包不存在",
+  "error6703": "参与投票后可领取红包",
+  "error6704": "红包已发放完毕",
+  "error6705": "红包已领取",
+  "error6706": "没抢到, 再试一次",
+  "textGetPoint1": "恭喜获得{value1}积分奖励，奖励比率为{value2}",
+  "PointType700": "积分空投"
 }

@@ -1379,7 +1379,7 @@
   "textTo2": "Alıcı",
   "textTransferToNetwork": "Mevcut adrese bağlı ağa aktar",
   "textDeposit": "{value1} yatır",
-  "textTransfer": "\\\"{value1}\\\"şuraya aktar:",
+  "textTransfer": "\"{value1}\"şuraya aktar:",
   "textLoginPassword": "Oturum açma parolasını girin",
   "textDeposit2": "Yatır",
   "textTransfer2": "Aktar",
@@ -1406,5 +1406,12 @@
   "textWinNFT": "{value1}, size bir {value2} Kalemi verdi ve siz de NFT Kalemi kazandınız.",
   "textReceiveNFT": "Tebrikler, bir NFT Kalemi aldınız.",
   "textTransferCrypto": "Cüzdandan kripto aktar",
-  "textSendToSameNetwork": "Bu {value1}cüzdanıdır. Bu cüzdana yalnızca {value2} veya {value3} tokeni gönder."
+  "textSendToSameNetwork": "Bu {value1}cüzdanıdır. Bu cüzdana yalnızca {value2} veya {value3} tokeni gönder.",
+  "error6702": "Bonus paketi mevcut değil",
+  "error6703": "Bonus paketini talep etmeden önce oy verin",
+  "error6704": "",
+  "error6705": "Bonus paketi talep edildi",
+  "error6706": "Hata, bonus paketi yok, lütfen yeniden deneyin",
+  "textGetPoint1": "Tebrikler, size {value1} puan verildi. Ödül değeriniz {value2}",
+  "PointType700": "Ödül puanları"
 }

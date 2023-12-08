@@ -1379,7 +1379,7 @@
   "textTo2": "À",
   "textTransferToNetwork": "Transfert vers le réseau lié à l’adresse actuelle",
   "textDeposit": "Déposer {value1}",
-  "textTransfer": "Transférer\\\"{value1}\\\"vers :",
+  "textTransfer": "Transférer\"{value1}\"vers :",
   "textLoginPassword": "Saisir le mot de passe de connexion",
   "textDeposit2": "Déposer",
   "textTransfer2": "Transférer",
@@ -1406,5 +1406,12 @@
   "textWinNFT": "{value1} vous a offert un stylo {value2}, et vous avez gagné un stylo NFT.",
   "textReceiveNFT": "Félicitations, vous avez reçu un stylo NFT.",
   "textTransferCrypto": "Transférer des cryptomonnaies à partir d’un portefeuille",
-  "textSendToSameNetwork": "Ce portefeuille est le portefeuille {value1}. N’envoyez que des jetons {value2} ou {value3} à ce portefeuille."
+  "textSendToSameNetwork": "Ce portefeuille est le portefeuille {value1}. N’envoyez que des jetons {value2} ou {value3} à ce portefeuille.",
+  "error6702": "Le bonus n’existe pas",
+  "error6703": "Votez avant de réclamer le bonus",
+  "error6704": "",
+  "error6705": "Bonus revendiqué",
+  "error6706": "Oups, pas d’offre de bonus, veuillez réessayer",
+  "textGetPoint1": "Félicitations, vous avez reçu {value1} points en récompense. Votre taux de récompense est de {value2}",
+  "PointType700": "Récompenses en points"
 }

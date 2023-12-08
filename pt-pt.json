@@ -1379,7 +1379,7 @@
   "textTo2": "Para",
   "textTransferToNetwork": "Transferir para a rede associada ao endereço atual",
   "textDeposit": "Depositar {value1}",
-  "textTransfer": "Transferir \\\"{value1}\\\"para:",
+  "textTransfer": "Transferir \"{value1}\"para:",
   "textLoginPassword": "Inserir palavra-passe de início de sessão",
   "textDeposit2": "Depositar",
   "textTransfer2": "Transferir",
@@ -1406,5 +1406,12 @@
   "textWinNFT": "{value1} deu-lhe uma caneta {value2} e você ganhou uma caneta NFT.",
   "textReceiveNFT": "Parabéns, recebeu uma caneta NFT.",
   "textTransferCrypto": "Transferir criptomoedas da carteira",
-  "textSendToSameNetwork": "Esta é a carteira {value1}. Envie apenas tokens {value2} ou {value3} para esta carteira."
+  "textSendToSameNetwork": "Esta é a carteira {value1}. Envie apenas tokens {value2} ou {value3} para esta carteira.",
+  "error6702": "O pacote de bónus não existe",
+  "error6703": "Vote antes de reclamar o pacote de bónus",
+  "error6704": "Nenhum pacote de bónus restante",
+  "error6705": "Pacote de bónus reclamado",
+  "error6706": "Ooops, nenhum pacote de bónus, tente novamente",
+  "textGetPoint1": "Parabéns, ganhou {value1} pontos. A sua taxa de prémio é {value2}",
+  "PointType700": "Prémios de pontos"
 }

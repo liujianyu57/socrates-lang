@@ -1379,7 +1379,7 @@
   "textTo2": "A",
   "textTransferToNetwork": "Transferir a la red vinculada a la dirección actual",
   "textDeposit": "Depositar {value1}",
-  "textTransfer": "Transferir \\\"{value1}\\\" a:",
+  "textTransfer": "Transferir \"{value1}\" a:",
   "textLoginPassword": "Ingrese la contraseña de inicio de sesión",
   "textDeposit2": "Depositar",
   "textTransfer2": "Transferir",
@@ -1406,5 +1406,12 @@
   "textWinNFT": "{value1} le ha obsequiado un Bolígrafo {value2} y ha ganado un Bolígrafo NFT.",
   "textReceiveNFT": "Felicitaciones, ha recibido un Bolígrafo NFT.",
   "textTransferCrypto": "Transferir criptomonedas desde la billetera",
-  "textSendToSameNetwork": "Esta es la billetera {value1}. Envíe únicamente tokens {value2} o {value3} a esta billetera."
+  "textSendToSameNetwork": "Esta es la billetera {value1}. Envíe únicamente tokens {value2} o {value3} a esta billetera.",
+  "error6702": "El paquete de bonificación no existe",
+  "error6703": "Vote antes de reclamar el paquete de bonificación",
+  "error6704": "No queda ningún paquete de bonificación",
+  "error6705": "Paquete de bonificación reclamado",
+  "error6706": "Uy, no hay paquete de bonificación, por favor inténtelo de nuevo",
+  "textGetPoint1": "Felicitaciones, ha sido premiado con {value1} puntos. Su tasa de recompensa es {value2}",
+  "PointType700": "Puntos de recompensa"
 }

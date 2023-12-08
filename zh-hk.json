@@ -1379,7 +1379,7 @@
   "textTo2": "收款地址",
   "textTransferToNetwork": "轉賬到目前地址的連結網絡",
   "textDeposit": "增值 {value1}",
-  "textTransfer": "轉賬\\\"{value1}\\\"到：",
+  "textTransfer": "轉賬\"{value1}\"到：",
   "textLoginPassword": "輸入登入密碼",
   "textDeposit2": "增值",
   "textTransfer2": "從錢包轉賬",
@@ -1406,5 +1406,12 @@
   "textWinNFT": "{value1}贈送了你 {value2} 筆，並抽中 NFT 筆。",
   "textReceiveNFT": "恭喜你獲得 NFT 筆！",
   "textTransferCrypto": "從錢包轉入幣",
-  "textSendToSameNetwork": "這是一個 {value1} 錢包，只能向該錢包發送 {value2}或 {value3} 代幣。"
+  "textSendToSameNetwork": "這是一個 {value1} 錢包，只能向該錢包發送 {value2}或 {value3} 代幣。",
+  "error6702": "利是不存在",
+  "error6703": "參與投票後可領取利是",
+  "error6704": "利是已發放完畢",
+  "error6705": "利是已領取",
+  "error6706": "搶不到，再試一次",
+  "textGetPoint1": "恭喜獲得 {value1} 積分獎勵，獎勵比率為 {value2}",
+  "PointType700": "積分空投"
 }

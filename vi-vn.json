@@ -1379,7 +1379,7 @@
   "textTo2": "Đến",
   "textTransferToNetwork": "Chuyển sang mạng được liên kết với địa chỉ hiện tại",
   "textDeposit": "Nạp {value1}",
-  "textTransfer": "Chuyển \\\"{value1}\\\" đến:",
+  "textTransfer": "Chuyển \"{value1}\" đến:",
   "textLoginPassword": "Nhập mật khẩu đăng nhập",
   "textDeposit2": "Nạp",
   "textTransfer2": "Chuyển khoản",
@@ -1406,5 +1406,12 @@
   "textWinNFT": "{value1}đã tặng bạn một Bút {value2}và bạn đã thắng được một Bút NFT.",
   "textReceiveNFT": "Xin chúc mừng, bạn đã nhận được Bút NFT.",
   "textTransferCrypto": "Chuyển tiền điện tử từ ví",
-  "textSendToSameNetwork": "Đây là ví {value1}. Chỉ gửi mã thông báo {value2}hoặc {value3} tới ví này."
+  "textSendToSameNetwork": "Đây là ví {value1}. Chỉ gửi mã thông báo {value2}hoặc {value3} tới ví này.",
+  "error6702": "Gói thưởng không tồn tại",
+  "error6703": "Bình chọn trước khi nhận gói thưởng",
+  "error6704": "Không còn hồng bao",
+  "error6705": "Đã yêu cầu gói thưởng",
+  "error6706": "Rất tiếc, không có gói thưởng, vui lòng thử lại",
+  "textGetPoint1": "Xin chúc mừng, bạn đã được thưởng {value1} điểm. Tỷ lệ phần thưởng của bạn là {value2}",
+  "PointType700": "Phần thưởng điểm"
 }
