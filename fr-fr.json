@@ -1413,5 +1413,19 @@
   "error6705": "Bonus revendiqué",
   "error6706": "Oups, pas d’offre de bonus, veuillez réessayer",
   "textGetPoint1": "Félicitations, vous avez reçu {value1} points en récompense. Votre taux de récompense est de {value2}",
-  "PointType700": "Récompenses en points"
+  "PointType700": "Récompenses en points",
+  "error3073": "Le bonus n’existe pas",
+  "error3074": "Une erreur s’est produite lors de la création du bonus",
+  "error3075": "Une erreur de paramètre s’est produite lors de la création du bonus",
+  "error3076": "Montant exceptionnel du bonus",
+  "error3077": "Le montant de votre bonus commun est trop élevé",
+  "error3078": "Le nombre de destinataires de votre bonus commun est trop élevé",
+  "error3079": "Le montant de votre bonus aléatoire est trop élevé",
+  "error3080": "Le nombre de destinataires de votre bonus aléatoire est trop élevé",
+  "error3081": "Le montant de votre bonus commun est trop faible",
+  "error3082": "Le nombre de destinataires de votre bonus commun est trop faible",
+  "error3083": "Le montant de votre bonus aléatoire est trop faible",
+  "error3084": "Le nombre de destinataires de votre bonus aléatoires est trop faible",
+  "error3090": "Une exception s’est produite au niveau du service du bonus",
+  "error3091": "La création d’un bonus est en cours"
 }

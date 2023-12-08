@@ -1413,5 +1413,19 @@
   "error6705": "Bonus package claimed",
   "error6706": "Oops, no bonus package, please try again",
   "textGetPoint1": "Congrats, you have been awarded with {value1} points. Your reward rate is {value2}",
-  "PointType700": "Point rewards"
+  "PointType700": "Point rewards",
+  "error3073": "Bonus package does not exist",
+  "error3074": "An error occurred while creating the bonus package",
+  "error3075": "A parameter error occurred while creating the bonus package",
+  "error3076": "Exceptional amount of the bonus package",
+  "error3077": "The amount of your common bonus package is too high",
+  "error3078": "The number of receivers for your common bonus package is too high",
+  "error3079": "The amount of your random bonus package is too high",
+  "error3080": "The number of receivers for your random package is too high",
+  "error3081": "The amount of your common bonus package is too low",
+  "error3082": "The number of receivers for your common bonus package is too low",
+  "error3083": "The amount of your random bonus package is too low",
+  "error3084": "The number of receivers for your random bonus package is too low",
+  "error3090": "A bonus package service exception occurred",
+  "error3091": "A bonus package is being created"
 }

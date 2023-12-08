@@ -1413,5 +1413,19 @@
   "error6705": "Đã yêu cầu gói thưởng",
   "error6706": "Rất tiếc, không có gói thưởng, vui lòng thử lại",
   "textGetPoint1": "Xin chúc mừng, bạn đã được thưởng {value1} điểm. Tỷ lệ phần thưởng của bạn là {value2}",
-  "PointType700": "Phần thưởng điểm"
+  "PointType700": "Phần thưởng điểm",
+  "error3073": "Gói thưởng không tồn tại",
+  "error3074": "Đã xảy ra lỗi khi tạo gói thưởng",
+  "error3075": "Đã xảy ra lỗi tham số khi tạo gói thưởng",
+  "error3076": "Số tiền đặc biệt của gói thưởng",
+  "error3077": "Số tiền gói thưởng chung của bạn quá cao",
+  "error3078": "Số lượng người nhận gói thưởng chung của bạn quá cao",
+  "error3079": "Số lượng gói thưởng ngẫu nhiên của bạn quá cao",
+  "error3080": "Số lượng người nhận gói thưởng ngẫu nhiên của bạn quá cao",
+  "error3081": "Số lượng gói thưởng chung của bạn quá thấp",
+  "error3082": "Số lượng người nhận gói thưởng chung của bạn quá thấp",
+  "error3083": "Số lượng gói thưởng ngẫu nhiên của bạn quá thấp",
+  "error3084": "Số lượng người nhận gói thưởng ngẫu nhiên của bạn quá thấp",
+  "error3090": "Đã xảy ra ngoại lệ dịch vụ gói thưởng",
+  "error3091": "Một gói tiền thưởng đang được tạo"
 }

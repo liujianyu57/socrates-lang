@@ -1413,5 +1413,19 @@
   "error6705": "Paquete de bonificación reclamado",
   "error6706": "Uy, no hay paquete de bonificación, por favor inténtelo de nuevo",
   "textGetPoint1": "Felicitaciones, ha sido premiado con {value1} puntos. Su tasa de recompensa es {value2}",
-  "PointType700": "Puntos de recompensa"
+  "PointType700": "Puntos de recompensa",
+  "error3073": "El paquete de bonificación no existe",
+  "error3074": "Se produjo un error al crear el paquete del bonificación",
+  "error3075": "Se produjo un error de parámetro al crear el paquete del bonificación",
+  "error3076": "Importe excepcional del paquete de bonificación",
+  "error3077": "El importe de tu paquete de bonificación común es demasiado elevado",
+  "error3078": "El número de receptores de tu paquete de bonificación común es demasiado elevado",
+  "error3079": "El importe de tu paquete de bonificación aleatorio común es demasiado elevado",
+  "error3080": "El número de receptores de tu paquete de bonificación aleatorio común es demasiado elevado",
+  "error3081": "El importe de tu paquete de bonificación común es demasiado bajo",
+  "error3082": "El número de receptores de tu paquete de bonificación común es demasiado bajo",
+  "error3083": "El importe de tu paquete de bonificación aleatorio común es demasiado bajo",
+  "error3084": "El número de receptores de tu paquete de bonificación aleatorio común es demasiado bajo",
+  "error3090": "Se produjo una excepción en el servicio de paquetes de bonificación",
+  "error3091": "Se está creando un paquete de bonificación"
 }

@@ -1413,5 +1413,19 @@
   "error6705": "Bonus paketi talep edildi",
   "error6706": "Hata, bonus paketi yok, lütfen yeniden deneyin",
   "textGetPoint1": "Tebrikler, size {value1} puan verildi. Ödül değeriniz {value2}",
-  "PointType700": "Ödül puanları"
+  "PointType700": "Ödül puanları",
+  "error3073": "Bonus paketi mevcut değil",
+  "error3074": "Bonus paketi oluşturulurken bir hata oluştu",
+  "error3075": "Bonus paketi oluşturulurken bir parametre hatası oluştu",
+  "error3076": "Bonus paketi için olağan dışı tutar",
+  "error3077": "Genel bonus paketinizin tutarı çok yüksek",
+  "error3078": "Genel bonus paketinizin alıcı sayısı çok yüksek",
+  "error3079": "Rastgele bonus paketinizin tutarı çok yüksek",
+  "error3080": "Rastgele bonus paketinizin alıcı sayısı çok yüksek",
+  "error3081": "Genel bonus paketinizin tutarı çok düşük",
+  "error3082": "Genel bonus paketinizin alıcı sayısı çok düşük",
+  "error3083": "Rastgele bonus paketinizin tutarı çok düşük",
+  "error3084": "Rastgele bonus paketinizin alıcı sayısı çok düşük",
+  "error3090": "Bonus paketi hizmeti özel durumu oluştu",
+  "error3091": "Bonus paketi oluşturuluyor"
 }

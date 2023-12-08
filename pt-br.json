@@ -1413,5 +1413,19 @@
   "error6705": "Pacote de bônus resgatado",
   "error6706": "Ôpa! Nenhum pacote de bônus, tente novamente",
   "textGetPoint1": "Parabéns, você foi premiado com {value1} pontos. Sua taxa de recompensa é {value2}",
-  "PointType700": "Pontos de recompensa"
+  "PointType700": "Pontos de recompensa",
+  "error3073": "O pacote de bônus não existe",
+  "error3074": "Ocorreu um erro durante a criação do pacote de bônus",
+  "error3075": "Ocorreu um erro de parâmetro durante a criação do pacote de bônus",
+  "error3076": "Valor excepcional do pacote de bônus",
+  "error3077": "O valor do seu pacote de bônus comum é muito alto",
+  "error3078": "O número de destinatários do seu pacote de bônus comum é muito alto",
+  "error3079": "O valor do seu pacote de bônus aleatório é muito alto",
+  "error3080": "O número de destinatários do seu pacote de bônus aleatório é muito alto",
+  "error3081": "O valor do seu pacote de bônus comum é muito baixo",
+  "error3082": "O número de destinatários do seu pacote de bônus comum é muito baixo",
+  "error3083": "O valor do seu pacote de bônus aleatório é muito baixo",
+  "error3084": "O número de destinatários do seu pacote de bônus aleatório é muito baixo",
+  "error3090": "Ocorreu uma exceção de serviço no pacote de bônus",
+  "error3091": "Um pacote de bônus está sendo criado"
 }

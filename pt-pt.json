@@ -1413,5 +1413,19 @@
   "error6705": "Pacote de bónus reclamado",
   "error6706": "Ooops, nenhum pacote de bónus, tente novamente",
   "textGetPoint1": "Parabéns, ganhou {value1} pontos. A sua taxa de prémio é {value2}",
-  "PointType700": "Prémios de pontos"
+  "PointType700": "Prémios de pontos",
+  "error3073": "O pacote de bónus não existe",
+  "error3074": "Ocorreu um erro durante a criação do pacote de bónus",
+  "error3075": "Ocorreu um parâmetro de erro durante a criação do pacote de bónus",
+  "error3076": "Montante excecional do pacote de bónus",
+  "error3077": "O montante do seu pacote de bónus comum é demasiado alto",
+  "error3078": "O número de recetores para o seu pacote de bónus comum é demasiado alto",
+  "error3079": "O montante do seu pacote de bónus aleatório é demasiado alto",
+  "error3080": "O número de recetores para o seu pacote de bónus aleatório é demasiado alto",
+  "error3081": "O montante do seu pacote de bónus comum é demasiado baixo",
+  "error3082": "O número de recetores para o seu pacote de bónus comum é demasiado baixo",
+  "error3083": "O montante do seu pacote de bónus aleatório é demasiado baixo",
+  "error3084": "O número de recetores para o seu pacote de bónus aleatório é demasiado baixo",
+  "error3090": "Ocorreu uma exceção do serviço de pacote de bónus",
+  "error3091": "Está a ser criado um pacote de bónus"
 }
