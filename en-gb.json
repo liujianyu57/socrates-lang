@@ -1427,5 +1427,6 @@
   "error3083": "The amount of your random bonus package is too low",
   "error3084": "The number of receivers for your random bonus package is too low",
   "error3090": "A bonus package service exception occurred",
-  "error3091": "A bonus package is being created"
+  "error3091": "A bonus package is being created",
+  "error3072": "Only one bonus package can exist at the same time period."
 }

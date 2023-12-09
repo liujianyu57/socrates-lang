@@ -1427,5 +1427,6 @@
   "error3083": "Le montant de votre bonus aléatoire est trop faible",
   "error3084": "Le nombre de destinataires de votre bonus aléatoires est trop faible",
   "error3090": "Une exception s’est produite au niveau du service du bonus",
-  "error3091": "La création d’un bonus est en cours"
+  "error3091": "La création d’un bonus est en cours",
+  "error3072": ""
 }

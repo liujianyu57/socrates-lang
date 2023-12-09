@@ -1427,5 +1427,6 @@
   "error3083": "Số lượng gói thưởng ngẫu nhiên của bạn quá thấp",
   "error3084": "Số lượng người nhận gói thưởng ngẫu nhiên của bạn quá thấp",
   "error3090": "Đã xảy ra ngoại lệ dịch vụ gói thưởng",
-  "error3091": "Một gói tiền thưởng đang được tạo"
+  "error3091": "Một gói tiền thưởng đang được tạo",
+  "error3072": "Chỉ có thể tồn tại một gói thưởng trong cùng một khoảng thời gian."
 }

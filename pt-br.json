@@ -1427,5 +1427,6 @@
   "error3083": "O valor do seu pacote de bônus aleatório é muito baixo",
   "error3084": "O número de destinatários do seu pacote de bônus aleatório é muito baixo",
   "error3090": "Ocorreu uma exceção de serviço no pacote de bônus",
-  "error3091": "Um pacote de bônus está sendo criado"
+  "error3091": "Um pacote de bônus está sendo criado",
+  "error3072": "Apenas um pacote de bônus pode existir no mesmo período."
 }

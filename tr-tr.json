@@ -1427,5 +1427,6 @@
   "error3083": "Rastgele bonus paketinizin tutarı çok düşük",
   "error3084": "Rastgele bonus paketinizin alıcı sayısı çok düşük",
   "error3090": "Bonus paketi hizmeti özel durumu oluştu",
-  "error3091": "Bonus paketi oluşturuluyor"
+  "error3091": "Bonus paketi oluşturuluyor",
+  "error3072": ""
 }

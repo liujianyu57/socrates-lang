@@ -1427,5 +1427,6 @@
   "error3083": "O montante do seu pacote de bónus aleatório é demasiado baixo",
   "error3084": "O número de recetores para o seu pacote de bónus aleatório é demasiado baixo",
   "error3090": "Ocorreu uma exceção do serviço de pacote de bónus",
-  "error3091": "Está a ser criado um pacote de bónus"
+  "error3091": "Está a ser criado um pacote de bónus",
+  "error3072": ""
 }
