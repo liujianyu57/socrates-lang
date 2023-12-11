@@ -1428,5 +1428,6 @@
   "error3084": "Rastgele bonus paketinizin alıcı sayısı çok düşük",
   "error3090": "Bonus paketi hizmeti özel durumu oluştu",
   "error3091": "Bonus paketi oluşturuluyor",
-  "error3072": ""
+  "error3072": "",
+  "textPleaseTypeValidReferralCode": ""
 }

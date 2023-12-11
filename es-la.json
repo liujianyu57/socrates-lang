@@ -1428,5 +1428,6 @@
   "error3084": "El número de receptores de tu paquete de bonificación aleatorio común es demasiado bajo",
   "error3090": "Se produjo una excepción en el servicio de paquetes de bonificación",
   "error3091": "Se está creando un paquete de bonificación",
-  "error3072": "Sólo puede existir un paquete de bonificación al mismo tiempo."
+  "error3072": "Sólo puede existir un paquete de bonificación al mismo tiempo.",
+  "textPleaseTypeValidReferralCode": "Por favor introduce un código de invitación válido"
 }
