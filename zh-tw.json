@@ -1379,7 +1379,7 @@
   "textTo2": "收款位址",
   "textTransferToNetwork": "轉帳到目前位址的綁定網路",
   "textDeposit": "儲值 {value1}",
-  "textTransfer": "轉帳\"{value1}\"到：",
+  "textTransfer": "轉帳\\\"{value1}\\\"到：",
   "textLoginPassword": "輸入登入密碼",
   "textDeposit2": "儲值",
   "textTransfer2": "從錢包轉帳",
