@@ -1429,5 +1429,6 @@
   "error3090": "红包服务异常",
   "error3091": "已经有一个红包在创建过程中",
   "error3072": "同一时间只能存在1个红包",
-  "textPleaseTypeValidReferralCode": "请输入有效邀请码"
+  "textPleaseTypeValidReferralCode": "请输入有效邀请码",
+  "FunctionAirdrop": "空投"
 }

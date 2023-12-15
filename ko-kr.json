@@ -1429,5 +1429,6 @@
   "error3090": "보너스 패키지 서비스 예외가 발생함",
   "error3091": "보너스 패키지 만드는 중",
   "error3072": "동시에 하나의 보너스 패키지만 존재할 수 있습니다.",
-  "textPleaseTypeValidReferralCode": "유효한 초대 코드를 입력하세요."
+  "textPleaseTypeValidReferralCode": "유효한 초대 코드를 입력하세요.",
+  "FunctionAirdrop": "공중 투하"
 }

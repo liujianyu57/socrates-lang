@@ -1429,5 +1429,6 @@
   "error3090": "紅包服務異常",
   "error3091": "已經有一個紅包建立中",
   "error3072": "同一時間只能存在1個紅包",
-  "textPleaseTypeValidReferralCode": "請輸入有效邀請碼"
+  "textPleaseTypeValidReferralCode": "請輸入有效邀請碼",
+  "FunctionAirdrop": "空投"
 }

@@ -1429,5 +1429,6 @@
   "error3090": "A bonus package service exception occurred",
   "error3091": "A bonus package is being created",
   "error3072": "Only one bonus package can exist at the same time period.",
-  "textPleaseTypeValidReferralCode": "Please enter a valid invitation code"
+  "textPleaseTypeValidReferralCode": "Please enter a valid invitation code",
+  "FunctionAirdrop": "Airdrop"
 }

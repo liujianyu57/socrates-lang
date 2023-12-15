@@ -1429,5 +1429,6 @@
   "error3090": "利是服務不正常",
   "error3091": "已經有一封利是在建立過程中",
   "error3072": "同一時間只能存在1個利是",
-  "textPleaseTypeValidReferralCode": ""
+  "textPleaseTypeValidReferralCode": "",
+  "FunctionAirdrop": ""
 }
