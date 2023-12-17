@@ -1430,5 +1430,7 @@
   "error3091": "已經有一封利是在建立過程中",
   "error3072": "同一時間只能存在1個利是",
   "textPleaseTypeValidReferralCode": "",
-  "FunctionAirdrop": ""
+  "FunctionAirdrop": "",
+  "titleairdrop": "",
+  "titleopenreceive": ""
 }

@@ -1430,5 +1430,7 @@
   "error3091": "Um pacote de bônus está sendo criado",
   "error3072": "Apenas um pacote de bônus pode existir no mesmo período.",
   "textPleaseTypeValidReferralCode": "Por favor insira um código de convite válido",
-  "FunctionAirdrop": "Lançamento aéreo"
+  "FunctionAirdrop": "Lançamento aéreo",
+  "titleairdrop": "Airdrop de Gênesis",
+  "titleopenreceive": "Já disponível para reivindicação"
 }

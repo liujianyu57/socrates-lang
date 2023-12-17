@@ -1430,5 +1430,7 @@
   "error3091": "已經有一個紅包建立中",
   "error3072": "同一時間只能存在1個紅包",
   "textPleaseTypeValidReferralCode": "請輸入有效邀請碼",
-  "FunctionAirdrop": "空投"
+  "FunctionAirdrop": "空投",
+  "titleairdrop": "創世空投",
+  "titleopenreceive": "現已開放領取"
 }

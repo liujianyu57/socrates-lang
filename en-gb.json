@@ -1430,5 +1430,7 @@
   "error3091": "A bonus package is being created",
   "error3072": "Only one bonus package can exist at the same time period.",
   "textPleaseTypeValidReferralCode": "Please enter a valid invitation code",
-  "FunctionAirdrop": "Airdrop"
+  "FunctionAirdrop": "Airdrop",
+  "titleairdrop": "Genesis Airdrop",
+  "titleopenreceive": "Now Available for Claim"
 }

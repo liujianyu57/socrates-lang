@@ -1430,5 +1430,7 @@
   "error3091": "ボーナスパッケージを作成中",
   "error3072": "同時に存在できるボーナス パッケージは 1 つだけです。",
   "textPleaseTypeValidReferralCode": "有効な招待コードを入力してください",
-  "FunctionAirdrop": "エアドロップ"
+  "FunctionAirdrop": "エアドロップ",
+  "titleairdrop": "ジェネシス空投",
+  "titleopenreceive": "すでに受取可能"
 }

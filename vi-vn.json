@@ -1430,5 +1430,7 @@
   "error3091": "Một gói tiền thưởng đang được tạo",
   "error3072": "Chỉ có thể tồn tại một gói thưởng trong cùng một khoảng thời gian.",
   "textPleaseTypeValidReferralCode": "Vui lòng nhập mã mời hợp lệ",
-  "FunctionAirdrop": "Airdrop"
+  "FunctionAirdrop": "Airdrop",
+  "titleairdrop": "Genesis Airdrop",
+  "titleopenreceive": "Hiện đã có thể nhận"
 }

@@ -1430,5 +1430,7 @@
   "error3091": "La création d’un bonus est en cours",
   "error3072": "",
   "textPleaseTypeValidReferralCode": "",
-  "FunctionAirdrop": ""
+  "FunctionAirdrop": "",
+  "titleairdrop": "",
+  "titleopenreceive": ""
 }

@@ -1430,5 +1430,7 @@
   "error3091": "Se está creando un paquete de bonificación",
   "error3072": "Sólo puede existir un paquete de bonificación al mismo tiempo.",
   "textPleaseTypeValidReferralCode": "Por favor introduce un código de invitación válido",
-  "FunctionAirdrop": "Entrega por paracaídas"
+  "FunctionAirdrop": "Entrega por paracaídas",
+  "titleairdrop": "Airdrop de Génesis",
+  "titleopenreceive": "Ya disponible para reclamar"
 }
