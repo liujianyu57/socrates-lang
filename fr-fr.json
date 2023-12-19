@@ -1379,7 +1379,7 @@
   "textTo2": "À",
   "textTransferToNetwork": "Transfert vers le réseau lié à l’adresse actuelle",
   "textDeposit": "Déposer {value1}",
-  "textTransfer": "Transférer\"{value1}\"vers :",
+  "textTransfer": "Transférer\\\"{value1}\\\"vers :",
   "textLoginPassword": "Saisir le mot de passe de connexion",
   "textDeposit2": "Déposer",
   "textTransfer2": "Transférer",
@@ -1430,7 +1430,7 @@
   "error3091": "La création d’un bonus est en cours",
   "error3072": "",
   "textPleaseTypeValidReferralCode": "",
-  "FunctionAirdrop": "",
+  "FunctionAirdrop": "Airdrop",
   "titleairdrop": "",
   "titleopenreceive": ""
 }

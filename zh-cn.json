@@ -1379,7 +1379,7 @@
   "textTo2": "收款地址",
   "textTransferToNetwork": "转账到当前地址的绑定网络",
   "textDeposit": "充值{value1}",
-  "textTransfer": "转账 \"{value1}\" 到:",
+  "textTransfer": "转账 \\\"{value1}\\\" 到:",
   "textLoginPassword": "输入登录密码",
   "textDeposit2": "充值",
   "textTransfer2": "从钱包转账",
