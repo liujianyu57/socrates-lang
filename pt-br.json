@@ -1379,7 +1379,7 @@
   "textTo2": "Para",
   "textTransferToNetwork": "Transferência para a rede vinculada ao endereço atual",
   "textDeposit": "Depositar {value1}",
-  "textTransfer": "Transferir \\\"{value1}\\\" para:",
+  "textTransfer": "Transferir \"{value1}\" para:",
   "textLoginPassword": "Digite a senha de login",
   "textDeposit2": "Depositar",
   "textTransfer2": "Transferir",
@@ -1446,12 +1446,3 @@
   "textVoteToClaim": "Vote antes de resgatar o pacote de bônus",
   "textReVoteToClaim": "Vote novamente para resgatar o pacote de bônus",
   "textIncorrect1": "Muitas tentativas incorretas. Tente novamente daqui a uma hora.",
-  "textIncorrect24": "Muitas tentativas incorretas. Tente novamente daqui 24 hora.",
-  "tradeconduct": "Transação em andamento",
-  "tradesuccess": "Transação bem-sucedida",
-  "walletassetsconverted": "Total estimado de ativos (USD)",
-  "textMagicUse": "A conta foi cadastrada com o Magic Wallet. Faça login na plataforma com o e-mail",
-  "textUseEmail": "Login com e-mail",
-  "textSoftwareUpdate": "Atualização do software",
-  "textNewVersionMagic": "A nova versão é compatível com o cadastro e o login com o Magic Wallet. Faça a atualização para a versão mais recente."
-}

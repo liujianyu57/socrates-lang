@@ -1379,7 +1379,7 @@
   "textTo2": "收款位址",
   "textTransferToNetwork": "轉帳到目前位址的綁定網路",
   "textDeposit": "儲值 {value1}",
-  "textTransfer": "轉帳\\\"{value1}\\\"到：",
+  "textTransfer": "轉帳\"{value1}\"到：",
   "textLoginPassword": "輸入登入密碼",
   "textDeposit2": "儲值",
   "textTransfer2": "從錢包轉帳",
@@ -1446,12 +1446,3 @@
   "textVoteToClaim": "參與投票可領取紅包",
   "textReVoteToClaim": "重新參與投票可領取紅包",
   "textIncorrect1": "錯誤次數已達上限，請 1 小時後重新嘗試。",
-  "textIncorrect24": "錯誤次數已達上限，請 24小時後重新嘗試。",
-  "tradeconduct": "正在交易",
-  "tradesuccess": "交易成功",
-  "walletassetsconverted": "錢包資產折合 (USD)",
-  "textMagicUse": "帳號已使用 magic.link 錢包註冊，請使用電子郵件登入。",
-  "textUseEmail": "請使用電子郵件登入。",
-  "textSoftwareUpdate": "版本更新",
-  "textNewVersionMagic": "新版本將支援 Magic 錢包註冊/登入，為保證正常使用，請立即更新新版本。"
-}

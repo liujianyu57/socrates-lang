@@ -1379,7 +1379,7 @@
   "textTo2": "收款地址",
   "textTransferToNetwork": "转账到当前地址的绑定网络",
   "textDeposit": "充值{value1}",
-  "textTransfer": "转账 \\\"{value1}\\\" 到:",
+  "textTransfer": "转账 \"{value1}\" 到:",
   "textLoginPassword": "输入登录密码",
   "textDeposit2": "充值",
   "textTransfer2": "从钱包转账",
@@ -1446,12 +1446,3 @@
   "textVoteToClaim": "参与投票可领取红包",
   "textReVoteToClaim": "重新参与投票可领取红包",
   "textIncorrect1": "错误次数已达上限，请1小时后重新尝试。",
-  "textIncorrect24": "错误次数已达上限，请 24 小时后重新尝试。",
-  "tradeconduct": "正交易中",
-  "tradesuccess": "交易成功",
-  "walletassetsconverted": "钱包资产折合（USD）",
-  "textMagicUse": "账号已使用magic.link钱包注册，请使用邮箱登录。",
-  "textUseEmail": "请使用邮箱登录。",
-  "textSoftwareUpdate": "版本更新",
-  "textNewVersionMagic": "新版本将支持Magic钱包注册/登录，为保证正常使用，请立即更新新版本。"
-}

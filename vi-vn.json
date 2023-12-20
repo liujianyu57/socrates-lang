@@ -1379,7 +1379,7 @@
   "textTo2": "Đến",
   "textTransferToNetwork": "Chuyển sang mạng được liên kết với địa chỉ hiện tại",
   "textDeposit": "Nạp {value1}",
-  "textTransfer": "Chuyển \\\"{value1}\\\" đến:",
+  "textTransfer": "Chuyển \"{value1}\" đến:",
   "textLoginPassword": "Nhập mật khẩu đăng nhập",
   "textDeposit2": "Nạp",
   "textTransfer2": "Chuyển khoản",
@@ -1446,12 +1446,3 @@
   "textVoteToClaim": "Bình chọn trước khi nhận gói thưởng",
   "textReVoteToClaim": "Bình chọn lại để nhận gói thưởng",
   "textIncorrect1": "Quá nhiều lần thử sai. Vui lòng thử lại sau một giờ.",
-  "textIncorrect24": "Số lỗi đã đạt đến giới hạn trên, vui lòng thử lại sau 24 giờ.",
-  "tradeconduct": "Giao dịch đang diễn ra",
-  "tradesuccess": "Giao dịch thành công",
-  "walletassetsconverted": "Tổng tài sản ước tính (USD)",
-  "textMagicUse": "Tài khoản đã đăng ký Magic Wallet. Vui lòng đăng nhập vào nền tảng bằng email",
-  "textUseEmail": "Đăng nhập bằng email",
-  "textSoftwareUpdate": "Cập nhật phần mềm",
-  "textNewVersionMagic": "Phiên bản mới hỗ trợ đăng ký và đăng nhập bằng Magic Wallet. Vui lòng cập nhật lên phiên bản mới nhất."
-}

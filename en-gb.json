@@ -1379,7 +1379,7 @@
   "textTo2": "To",
   "textTransferToNetwork": "Transfer to the network linked to the current address",
   "textDeposit": "Deposit {value1}",
-  "textTransfer": "Transfer \\\"{value1}\\\" to:",
+  "textTransfer": "Transfer \"{value1}\" to:",
   "textLoginPassword": "Enter login password",
   "textDeposit2": "Deposit",
   "textTransfer2": "Transfer",
@@ -1446,12 +1446,3 @@
   "textVoteToClaim": "Vote before claiming the bonus package",
   "textReVoteToClaim": "Vote again to claim the bonus package",
   "textIncorrect1": "Too many incorrect attempts. Please try again one hour later.",
-  "textIncorrect24": "Too many incorrect attempts. Please try again 24 hour later.",
-  "tradeconduct": "Transaction in progress",
-  "tradesuccess": "Transaction successful",
-  "walletassetsconverted": "Estimated total asset (USD)",
-  "textMagicUse": "The account has signed up with Magic Wallet. Please log in to the platform with email",
-  "textUseEmail": "Login with email",
-  "textSoftwareUpdate": "Software update",
-  "textNewVersionMagic": "The new version supports sign-up and login with Magic Wallet. Please update to the latest version."
-}
