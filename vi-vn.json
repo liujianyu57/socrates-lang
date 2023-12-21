@@ -1379,7 +1379,7 @@
   "textTo2": "Đến",
   "textTransferToNetwork": "Chuyển sang mạng được liên kết với địa chỉ hiện tại",
   "textDeposit": "Nạp {value1}",
-  "textTransfer": "Chuyển \"{value1}\" đến:",
+  "textTransfer": "Chuyển \\\"{value1}\\\" đến:",
   "textLoginPassword": "Nhập mật khẩu đăng nhập",
   "textDeposit2": "Nạp",
   "textTransfer2": "Chuyển khoản",
@@ -1467,5 +1467,6 @@
   "airdroprankingTipscontent7": "4. Giới thiệu người dùng mới tham gia để nhận thêm phần thưởng điểm",
   "airdroprankingTipscontent8": "Mời bạn bè của bạn tham gia nền tảng của chúng tôi, và khi họ mua hoặc nâng cấp bút SBT, bạn sẽ nhận được tới 10% hoa hồng. Điều này không chỉ giúp bạn bè của bạn có trải nghiệm tốt hơn mà còn mang lại thu nhập bổ sung cho bạn.",
   "airdroprankingTipscontent3": "Đăng câu hỏi hấp dẫn để khuyến khích nhiều người dùng tương tác hơn, từ đó kiếm được phần thưởng điểm.",
-  "texttimehint1": "Không còn lời nhắc nào trong vòng {value1} ngày"
+  "texttimehint1": "Không còn lời nhắc nào trong vòng {value1} ngày",
+  "tipsValidityMinLimit": "Khoảng thời gian hiệu lực không được ít hơn {value1} ngày {value2} giờ {value3} phút"
 }

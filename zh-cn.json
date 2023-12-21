@@ -1379,7 +1379,7 @@
   "textTo2": "收款地址",
   "textTransferToNetwork": "转账到当前地址的绑定网络",
   "textDeposit": "充值{value1}",
-  "textTransfer": "转账 \"{value1}\" 到:",
+  "textTransfer": "转账 \\\"{value1}\\\" 到:",
   "textLoginPassword": "输入登录密码",
   "textDeposit2": "充值",
   "textTransfer2": "从钱包转账",
@@ -1467,5 +1467,6 @@
   "airdroprankingTipscontent7": "4、推荐新用户加入，获得更多积分奖励",
   "airdroprankingTipscontent8": "邀请您的朋友加入我们的平台，当他们购买或升级SBT笔时，您将获得高达10%的佣金。这不仅能帮助您的朋友获得更佳体验，也为您带来额外收益。",
   "airdroprankingTipscontent3": "发布有吸引力的问题，促进更多用户参与互动，从而获得积分奖励。",
-  "texttimehint1": "{value1}天内不再提示"
+  "texttimehint1": "{value1}天内不再提示",
+  "tipsValidityMinLimit": "有效期不能低于{value1}天{value2}时{value3}分"
 }

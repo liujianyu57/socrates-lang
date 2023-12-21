@@ -1379,7 +1379,7 @@
   "textTo2": "À",
   "textTransferToNetwork": "Transfert vers le réseau lié à l’adresse actuelle",
   "textDeposit": "Déposer {value1}",
-  "textTransfer": "Transférer\"{value1}\"vers :",
+  "textTransfer": "Transférer\\\"{value1}\\\"vers :",
   "textLoginPassword": "Saisir le mot de passe de connexion",
   "textDeposit2": "Déposer",
   "textTransfer2": "Transférer",
@@ -1467,5 +1467,6 @@
   "airdroprankingTipscontent7": "",
   "airdroprankingTipscontent8": "",
   "airdroprankingTipscontent3": "",
-  "texttimehint1": ""
+  "texttimehint1": "",
+  "tipsValidityMinLimit": ""
 }

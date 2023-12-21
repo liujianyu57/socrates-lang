@@ -1379,7 +1379,7 @@
   "textTo2": "Alıcı",
   "textTransferToNetwork": "Mevcut adrese bağlı ağa aktar",
   "textDeposit": "{value1} yatır",
-  "textTransfer": "\"{value1}\"şuraya aktar:",
+  "textTransfer": "\\\"{value1}\\\"şuraya aktar:",
   "textLoginPassword": "Oturum açma parolasını girin",
   "textDeposit2": "Yatır",
   "textTransfer2": "Aktar",
@@ -1467,5 +1467,6 @@
   "airdroprankingTipscontent7": "",
   "airdroprankingTipscontent8": "",
   "airdroprankingTipscontent3": "",
-  "texttimehint1": ""
+  "texttimehint1": "",
+  "tipsValidityMinLimit": ""
 }

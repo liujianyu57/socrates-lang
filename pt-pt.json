@@ -1379,7 +1379,7 @@
   "textTo2": "Para",
   "textTransferToNetwork": "Transferir para a rede associada ao endereço atual",
   "textDeposit": "Depositar {value1}",
-  "textTransfer": "Transferir \"{value1}\"para:",
+  "textTransfer": "Transferir \\\"{value1}\\\"para:",
   "textLoginPassword": "Inserir palavra-passe de início de sessão",
   "textDeposit2": "Depositar",
   "textTransfer2": "Transferir",
@@ -1467,5 +1467,6 @@
   "airdroprankingTipscontent7": "",
   "airdroprankingTipscontent8": "",
   "airdroprankingTipscontent3": "",
-  "texttimehint1": ""
+  "texttimehint1": "",
+  "tipsValidityMinLimit": "O período de validade não pode ser inferior a {value1}dias {value2} horas {value3}minutos"
 }

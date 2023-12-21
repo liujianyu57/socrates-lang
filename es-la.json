@@ -1379,7 +1379,7 @@
   "textTo2": "A",
   "textTransferToNetwork": "Transferir a la red vinculada a la dirección actual",
   "textDeposit": "Depositar {value1}",
-  "textTransfer": "Transferir \"{value1}\" a:",
+  "textTransfer": "Transferir \\\"{value1}\\\" a:",
   "textLoginPassword": "Ingrese la contraseña de inicio de sesión",
   "textDeposit2": "Depositar",
   "textTransfer2": "Transferir",
@@ -1467,5 +1467,6 @@
   "airdroprankingTipscontent7": "4. Recomendar a nuevos usuarios unirse y obtener más recompensas de puntos",
   "airdroprankingTipscontent8": "Invita a tus amigos a unirse a nuestra plataforma, y cuando compren o actualicen bolígrafos SBT, recibirás hasta un 10% de comisión. Esto no solo ayuda a tus amigos a obtener una mejor experiencia, sino que también te brinda ingresos adicionales.",
   "airdroprankingTipscontent3": "Publica preguntas atractivas para fomentar más interacción de los usuarios, y así obtener recompensas en puntos.",
-  "texttimehint1": "No más avisos dentro de {value1} días"
+  "texttimehint1": "No más avisos dentro de {value1} días",
+  "tipsValidityMinLimit": "El período de validez no puede ser inferior a {value1}días {value2} horas {value3}minutos"
 }

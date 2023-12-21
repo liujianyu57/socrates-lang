@@ -1379,7 +1379,7 @@
   "textTo2": "收款位址",
   "textTransferToNetwork": "轉帳到目前位址的綁定網路",
   "textDeposit": "儲值 {value1}",
-  "textTransfer": "轉帳\"{value1}\"到：",
+  "textTransfer": "轉帳\\\"{value1}\\\"到：",
   "textLoginPassword": "輸入登入密碼",
   "textDeposit2": "儲值",
   "textTransfer2": "從錢包轉帳",
@@ -1467,5 +1467,6 @@
   "airdroprankingTipscontent7": "4、推薦新用戶加入，獲得更多積分獎勵",
   "airdroprankingTipscontent8": "邀請您的朋友加入我們的平台，當他們購買或升級SBT筆時，您將獲得高達10%的佣金。這不僅能幫助您的朋友獲得更佳體驗，也為您帶來額外收益。",
   "airdroprankingTipscontent3": "發佈有吸引力的問題，促進更多用戶參與互動，從而獲得積分獎勵。",
-  "texttimehint1": "{value1}天內不再提示"
+  "texttimehint1": "{value1}天內不再提示",
+  "tipsValidityMinLimit": "有效期限不能低於{value1}天{value2}時{value3}分"
 }
