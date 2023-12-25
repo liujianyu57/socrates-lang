@@ -1379,7 +1379,7 @@
   "textTo2": "대상",
   "textTransferToNetwork": "현재 주소에 연결된 네트워크로 송금",
   "textDeposit": "{value1} 입금",
-  "textTransfer": "다음으로 \\\"{value1}\\\"송금",
+  "textTransfer": "다음으로 "{value1}"송금",
   "textLoginPassword": "로그인 비밀번호 입력",
   "textDeposit2": "입금",
   "textTransfer2": "송금",

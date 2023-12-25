@@ -1379,7 +1379,7 @@
   "textTo2": "Para",
   "textTransferToNetwork": "Transferência para a rede vinculada ao endereço atual",
   "textDeposit": "Depositar {value1}",
-  "textTransfer": "Transferir \\\"{value1}\\\" para:",
+  "textTransfer": "Transferir "{value1}" para:",
   "textLoginPassword": "Digite a senha de login",
   "textDeposit2": "Depositar",
   "textTransfer2": "Transferir",
@@ -1468,5 +1468,5 @@
   "airdroprankingTipscontent8": "Convidar seus amigos para participar da plataforma Socrates. Quando eles comprarem uma Caneta SBT ou atualizarem sua Caneta SBT, você receberá uma comissão de indicação de até 10%. Isso não apenas ajuda seus amigos a obter uma melhor experiência de usuário, mas também lhe traz recompensas adicionais.",
   "airdroprankingTipscontent3": "Criar perguntas chamativas para incentivar mais interação do usuário e, assim, ganhar pontos como recompensa.",
   "texttimehint1": "Não me lembrar novamente por {value1} dias",
-  "tipsValidityMinLimit": "O período de validade não pode ser inferior a {value1}d {value2}h {value3}min"
+  "tipsValidityMinLimit": "El periodo de validez no puede ser inferior a {value1} d {value2} h {value3} min"
 }
