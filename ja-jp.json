@@ -237,7 +237,7 @@
   "textPublicInvestDescription": "この質問はトレンド入りしています。終了後、サポーターは合計ポイントのうち{value1}ポイントを報酬として分け合うことができます。",
   "textQuestion": "質問",
   "textQueueRanking": "人気ランキング",
-  "textQueueRankingDescription": "このリストのトップ20の質問のうち{value1}個が毎日トレンドに選ばれます。トレンド入りしていない、または締め切られていない質問はこのリストに残り、モデレート後にトレンドになる可能性があります。",
+  "textQueueRankingDescription": "トレンド問題には毎日 {value1} 個の割り当てがあります。キューの進行状況はクリアされません。トレンド問題になっていない問題は引き続きキューに入れられます。承認されると、トレンド問題になります。",
   "textReasons": "理由",
   "textReceive": "受け取る",
   "textReceiver": "受取人",

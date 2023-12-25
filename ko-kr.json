@@ -237,7 +237,7 @@
   "textPublicInvestDescription": "이 질문은 인기 질문이 되었습니다. 종료되고 나면 지원자들이 총 {value1}포인트를 보상으로 나눌 수 있습니다.",
   "textQuestion": "질문",
   "textQueueRanking": "인기도 순위",
-  "textQueueRankingDescription": "이 목록에 있는 상위 20개 질문 중 {value1}개가 매일 인기 질문으로 선택됩니다. 인기 질문이 된 적 없고 아직 종료되지 않은 질문이 목록에 남아 있으면 조정 후 인기 질문이 될 수 있습니다.",
+  "textQueueRankingDescription": "매일 인기 이슈에 대한 할당량은 {value1}개입니다. 대기열 진행 상황은 지워지지 않습니다. 인기 이슈가 되지 않은 이슈는 계속 대기열에 추가됩니다. 승인되면 인기 이슈가 됩니다.",
   "textReasons": "사유",
   "textReceive": "수신",
   "textReceiver": "수신자",

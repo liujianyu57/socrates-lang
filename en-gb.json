@@ -237,7 +237,7 @@
   "textPublicInvestDescription": "This question has become trending. Once ended, the supporters can share {value1} of the total points as rewards.",
   "textQuestion": "Questions",
   "textQueueRanking": "Popularity Ranking",
-  "textQueueRankingDescription": "{value1} of the top 20 questions in this list will be chosen to become trending every day. Questions that haven’t become trending and have not closed will remain in this list and may become trending after moderation.",
+  "textQueueRankingDescription": "There are {value1} quotas for trending issues every day. The queue progress will not be cleared. Those that have not become trending issues will continue to be queued. If approved, they will become trending issues.",
   "textReasons": "Reasons",
   "textReceive": "Receive",
   "textReceiver": "Receiver",

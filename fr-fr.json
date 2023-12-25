@@ -237,7 +237,7 @@
   "textPublicInvestDescription": "Cette question est devenue tendance. Une fois l’opération terminée, les partisans peuvent se partager {value1} du total des points en guise de récompense.",
   "textQuestion": "Questions",
   "textQueueRanking": "Classement de popularité",
-  "textQueueRankingDescription": "{value1} des 20 premières questions de cette liste seront choisies pour devenir tendance chaque jour. Les questions qui ne sont pas devenues tendance et qui n’ont pas été fermées resteront dans cette liste et pourront devenir tendance après modération.",
+  "textQueueRankingDescription": "",
   "textReasons": "Raisons",
   "textReceive": "Recevoir",
   "textReceiver": "Destinataire",

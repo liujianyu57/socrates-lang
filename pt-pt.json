@@ -237,7 +237,7 @@
   "textPublicInvestDescription": "Esta pergunta tornou-se tendência. Depois de terminar, os apoiantes poderão partilhar {value1} dos pontos totais como prémio.",
   "textQuestion": "Perguntas",
   "textQueueRanking": "Classificação de popularidade",
-  "textQueueRankingDescription": "{value1} das 20 melhores perguntas desta lista serão escolhidas todos os dias para se tornarem tendência. As perguntas que não se tornarem tendência e não forem encerradas continuarão nesta lista e poderão tornar-se tendência após a moderação.",
+  "textQueueRankingDescription": "",
   "textReasons": "Motivos",
   "textReceive": "Receber",
   "textReceiver": "Destinatário",

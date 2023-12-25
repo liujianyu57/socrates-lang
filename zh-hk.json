@@ -237,7 +237,7 @@
   "textPublicInvestDescription": "已成為趨勢問題，結束後支持者可瓜分總積分的 {value1} 作為獎勵。",
   "textQuestion": "問題",
   "textQueueRanking": "問題排隊榜",
-  "textQueueRankingDescription": "每日成為趨勢問題的名額有 {value1} 個，排隊進度不會清空，未成趨勢問題的將繼續排隊，審核通過將成為趨勢問題。",
+  "textQueueRankingDescription": "",
   "textReasons": "理由",
   "textReceive": "增值幣",
   "textReceiver": "接收者",

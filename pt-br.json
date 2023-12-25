@@ -237,7 +237,7 @@
   "textPublicInvestDescription": "Essa pergunta se tornou pública. Após o término, os apoiadores podem compartilhar {value1} do total de pontos como recompensa.",
   "textQuestion": "Perguntas",
   "textQueueRanking": "Classificação de Popularidade",
-  "textQueueRankingDescription": "{value1} das 20 principais perguntas dessa lista serão escolhidas para se tornarem públicas todos os dias. As perguntas que não se tornaram públicas e não foram fechadas permanecerão nessa lista e poderão se tornar públicas após a moderação.",
+  "textQueueRankingDescription": "Há cotas de {value1} para problemas de tendência todos os dias. O progresso da fila não será apagado. Aqueles que não se tornaram problemas de tendência continuarão na fila. Se aprovados, se tornarão problemas de tendência.",
   "textReasons": "Razões",
   "textReceive": "Receber",
   "textReceiver": "Recebedor",

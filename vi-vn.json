@@ -237,7 +237,7 @@
   "textPublicInvestDescription": "Câu hỏi này đã trở thành thịnh hành. Sau khi trò chơi kết thúc, những người hỗ trợ có thể chia sẻ {value1} trong tổng số điểm làm phần thưởng.",
   "textQuestion": "Câu hỏi",
   "textQueueRanking": "Xếp hạng mức độ phổ biến",
-  "textQueueRankingDescription": "{value1} trong số 20 câu hỏi hàng đầu trong danh sách này sẽ được chọn để trở thành câu hỏi thịnh hành mỗi ngày. Các câu hỏi chưa trở thành câu hỏi thịnh hành và chưa bị đóng sẽ vẫn nằm trong danh sách này và có thể trở thành câu hỏi thịnh hành sau khi được kiểm duyệt.",
+  "textQueueRankingDescription": "Có hạn ngạch {value1} cho các vấn đề thịnh hành mỗi ngày. Tiến trình xếp hàng sẽ không bị xóa. Những vấn đề chưa trở thành vấn đề thịnh hành sẽ tiếp tục được xếp hàng đợi. Nếu được phê duyệt, chúng sẽ trở thành vấn đề thịnh hành.",
   "textReasons": "Các lý do",
   "textReceive": "Nhận",
   "textReceiver": "Người nhận",

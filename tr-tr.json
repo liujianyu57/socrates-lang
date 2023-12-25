@@ -237,7 +237,7 @@
   "textPublicInvestDescription": "Bu soru çok konuşulanlar arasına girdi. Tamamlandıktan sonra destekleyenler ödül olarak toplam puanın {value1} kadarını paylaşabilir.",
   "textQuestion": "Sorular",
   "textQueueRanking": "Popülerlik Sıralaması",
-  "textQueueRankingDescription": "Her gün bu listedeki en iyi 20 sorundan {value1} tanesi çok konuşulanlar olarak seçilecektir. Çok konuşulanlar arasına girmemiş ve kapanmamış sorular listede kalacak olup moderasyondan sonra en çok konuşulanlar arasına girebilir.",
+  "textQueueRankingDescription": "",
   "textReasons": "Sebepler",
   "textReceive": "Al",
   "textReceiver": "Alıcı",
