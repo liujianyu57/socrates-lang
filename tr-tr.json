@@ -1379,7 +1379,7 @@
   "textTo2": "Alıcı",
   "textTransferToNetwork": "Mevcut adrese bağlı ağa aktar",
   "textDeposit": "{value1} yatır",
-  "textTransfer": ""{value1}"şuraya aktar:",
+  "textTransfer": "‘{value1}'şuraya aktar:",
   "textLoginPassword": "Oturum açma parolasını girin",
   "textDeposit2": "Yatır",
   "textTransfer2": "Aktar",

@@ -1379,7 +1379,7 @@
   "textTo2": "送信先",
   "textTransferToNetwork": "現在のアドレスにリンクされたネットワークに送金",
   "textDeposit": "{value1}を入金",
-  "textTransfer": "以下の宛先に"{value1}"を送金：",
+  "textTransfer": "以下の宛先に‘{value1}‘を送金：",
   "textLoginPassword": "ログインパスワードを入力",
   "textDeposit2": "入金",
   "textTransfer2": "送金",

@@ -1379,7 +1379,7 @@
   "textTo2": "Đến",
   "textTransferToNetwork": "Chuyển sang mạng được liên kết với địa chỉ hiện tại",
   "textDeposit": "Nạp {value1}",
-  "textTransfer": "Chuyển "{value1}" đến:",
+  "textTransfer": "Chuyển ‘{value1}‘ đến:",
   "textLoginPassword": "Nhập mật khẩu đăng nhập",
   "textDeposit2": "Nạp",
   "textTransfer2": "Chuyển khoản",
