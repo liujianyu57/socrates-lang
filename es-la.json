@@ -1469,5 +1469,6 @@
   "airdroprankingTipscontent3": "Cree preguntas atractivas para fomentar una mayor interacción de los usuarios y así ganar puntos como recompensa.",
   "texttimehint1": "No volver a recordármelo en {value1} días",
   "tipsValidityMinLimit": "El periodo de validez no puede ser inferior a {value1} d {value2} h {value3} min",
-  "textBindWalletDescription1": "Puedes crear un nuevo monedero. A continuación, puedes votar o darle al «me gusta» para obtener puntos de recompensa. El proveedor de servicios es magic.link"
+  "textBindWalletDescription1": "Puedes crear un nuevo monedero. A continuación, puedes votar o darle al «me gusta» para obtener puntos de recompensa. El proveedor de servicios es magic.link",
+  "textSocratesNet": "Elija una red para usar Socrates. Su elección no se puede cambiar una vez realizada."
 }

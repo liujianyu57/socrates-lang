@@ -1469,5 +1469,6 @@
   "airdroprankingTipscontent3": "Daha fazla kullanıcı etkileşimini teşvik etmek için çekici sorular oluşturun, böylece ödül olarak puan kazanın.",
   "texttimehint1": "{value1} gün boyunca bana hatırlatma",
   "tipsValidityMinLimit": "Geçerlilik süresi {value1}g {value2}sa {value3}dk'dan daha az olamaz",
-  "textBindWalletDescription1": ""
+  "textBindWalletDescription1": "",
+  "textSocratesNet": ""
 }

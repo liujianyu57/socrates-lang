@@ -1469,5 +1469,6 @@
   "airdroprankingTipscontent3": "Crie perguntas atrativas para incentivar mais interação entre os utilizadores e ganhe pontos como prémios.",
   "texttimehint1": "Não volte a lembrar-me nos próximos {value1} dias",
   "tipsValidityMinLimit": "O período de validade não pode ser inferior a {value1}d {value2}h {value3}min",
-  "textBindWalletDescription1": "Você pode criar uma nova carteira. Após a vinculação, você pode responder a perguntas, dar curtidas e receber pontos de recompensa. O provedor de serviços é o magic.link"
+  "textBindWalletDescription1": "Você pode criar uma nova carteira. Após a vinculação, você pode responder a perguntas, dar curtidas e receber pontos de recompensa. O provedor de serviços é o magic.link",
+  "textSocratesNet": "Escolha a rede para usar com o Socrates. Sua opção não pode ser alterada depois de concluída."
 }

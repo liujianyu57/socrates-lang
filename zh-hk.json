@@ -1469,5 +1469,6 @@
   "airdroprankingTipscontent3": "發佈有吸引力的問題，促進更多使用者參與互動，從而獲得積分獎勵。",
   "texttimehint1": "{value1} 天內不再提示",
   "tipsValidityMinLimit": "有效期不能小於 {value1} 天 {value2} 時 {value3} 分",
-  "textBindWalletDescription1": "可建立新錢包，綁定錢包後可參與投票、按讚、領取積分獎勵。服務由 magic.link 提供"
+  "textBindWalletDescription1": "可建立新錢包，綁定錢包後可參與投票、按讚、領取積分獎勵。服務由 magic.link 提供",
+  "textSocratesNet": "選擇你使用 Socrates 的網絡，選定後不可修改。"
 }

@@ -1469,5 +1469,6 @@
   "airdroprankingTipscontent3": "Créez des questions attrayantes afin d’encourager l’interaction des utilisateurs et d’obtenir ainsi des points en récompense.",
   "texttimehint1": "Ne plus me rappeler pendant {value1} jours",
   "tipsValidityMinLimit": "La période de validité ne peut être inférieure à {value1} j {value2} h {value3} min",
-  "textBindWalletDescription1": ""
+  "textBindWalletDescription1": "",
+  "textSocratesNet": ""
 }

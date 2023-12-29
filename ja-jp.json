@@ -1469,5 +1469,6 @@
   "airdroprankingTipscontent3": "魅力的な質問を作成してユーザーの対話を促進し、報酬としてポイントを獲得します。",
   "texttimehint1": "{value1}日の間は思い出させないでください",
   "tipsValidityMinLimit": "有効期間は、{value1}日{value2}時{value3}分未満にすることはできません",
-  "textBindWalletDescription1": "新しいウォレットを作成するか。その後、報酬ポイントを獲得するために投票やいいね！をすることができます。サービスプロバイダはmagic.linkです"
+  "textBindWalletDescription1": "新しいウォレットを作成するか。その後、報酬ポイントを獲得するために投票やいいね！をすることができます。サービスプロバイダはmagic.linkです",
+  "textSocratesNet": "Socratesで使用するネットワークを選択します。一度決定した選択は変更できません。"
 }

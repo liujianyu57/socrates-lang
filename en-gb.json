@@ -1469,5 +1469,6 @@
   "airdroprankingTipscontent3": "Create attractive questions to encourage more user interaction, thereby earning points as rewards.",
   "texttimehint1": "Don't remind me again for {value1} days",
   "tipsValidityMinLimit": "The validity period cannot be less than {value1}d {value2}h {value3}min",
-  "textBindWalletDescription1": "You can create a new wallet. After that, you can vote or like to win reward points. The service provider is magic.link"
+  "textBindWalletDescription1": "You can create a new wallet. After that, you can vote or like to win reward points. The service provider is magic.link",
+  "textSocratesNet": "Choose a network to use with Socrates. Your choice cannot be changed once made."
 }

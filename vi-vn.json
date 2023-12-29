@@ -1469,5 +1469,6 @@
   "airdroprankingTipscontent3": "Tạo các câu hỏi hấp dẫn để khuyến khích người dùng tương tác nhiều hơn, từ đó kiếm điểm làm phần thưởng.",
   "texttimehint1": "Không nhắc lại trong {value1} ngày",
   "tipsValidityMinLimit": "Khoảng thời gian hiệu lực không thể ít hơn {value1}ngày {value2}giờ {value3}phút",
-  "textBindWalletDescription1": "Bạn có thể tạo một ví mới. Sau đó, bạn có thể bình chọn hoặc thích để giành điểm thưởng. Nhà cung cấp dịch vụ là magic.link"
+  "textBindWalletDescription1": "Bạn có thể tạo một ví mới. Sau đó, bạn có thể bình chọn hoặc thích để giành điểm thưởng. Nhà cung cấp dịch vụ là magic.link",
+  "textSocratesNet": "Chọn mạng để sử dụng bằng Socrates. Lựa chọn của bạn không thể thay đổi một khi đã thực hiện."
 }
