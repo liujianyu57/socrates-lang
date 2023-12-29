@@ -1249,7 +1249,7 @@
   "notyett1": "未設定",
   "textMnemonicase": "Socratesにサインアップした後、ウォレットを接続する必要があります。暗号化されてデバイスのローカルに保存されるシードフレーズは、Socratesによって保存または保持されません。",
   "Selectnetworkk": "ネットワークを選択する",
-  "cannotchanged": "Socratesで使用するネットワークを選択します。一度決定した選択は変更できません。",
+  "cannotchanged": "Socratesで使用するネットワークを選択します。一度決定した選択は変更できません。サービスプロバイダはmagic.linkです",
   "handlingfeee": "出金時の手数料",
   "acceptetcc": "{value1}、{value2}、{value3}について同意します。",
   "textagreeCom": "私は本規約を読み、同意します。",
@@ -1468,5 +1468,6 @@
   "airdroprankingTipscontent8": "友達をSocratesのプラットフォームにご招待ください。紹介者がSBTペンを購入した場合、またはSBTペンをアップグレードした場合、最大10%の紹介手数料を受け取ることができます。これはあなたの友達がより良いユーザー体験を得るだけでなく、あなたにさらなる報酬をもたらします。",
   "airdroprankingTipscontent3": "魅力的な質問を作成してユーザーの対話を促進し、報酬としてポイントを獲得します。",
   "texttimehint1": "{value1}日の間は思い出させないでください",
-  "tipsValidityMinLimit": "有効期間は、{value1}日{value2}時{value3}分未満にすることはできません"
+  "tipsValidityMinLimit": "有効期間は、{value1}日{value2}時{value3}分未満にすることはできません",
+  "textBindWalletDescription1": "新しいウォレットを作成するか。その後、報酬ポイントを獲得するために投票やいいね！をすることができます。サービスプロバイダはmagic.linkです"
 }

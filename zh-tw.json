@@ -1249,7 +1249,7 @@
   "notyett1": "未設定",
   "textMnemonicase": "註冊賬戶後需連結錢包。Socrates 既不儲存，亦不持有你的助記詞。你的助記詞將加密儲存在設備本機。",
   "Selectnetworkk": "選擇網路",
-  "cannotchanged": "選擇您使用 Socrates 的網路，選定後不可修改",
+  "cannotchanged": "選擇你使用 Socrates 的網絡，選定後不可修改。服務由 magic.link 提供",
   "handlingfeee": "兌換手續費",
   "acceptetcc": "接受 {value1}、{value2} 和 {value3}",
   "textagreeCom": "我已閱讀並同意",
@@ -1468,5 +1468,6 @@
   "airdroprankingTipscontent8": "邀請您的朋友加入我們的平台，當他們購買或升級 SBT 筆時，您將獲得高達 10% 的佣金。這不僅能幫助您的朋友獲得更佳體驗，也為您帶來額外收益。",
   "airdroprankingTipscontent3": "發佈有吸引力的問題，促進更多使用者參與互動，從而獲得積分獎勵。",
   "texttimehint1": "{value1} 天內不再提示",
-  "tipsValidityMinLimit": "有效期不能小於 {value1} 天 {value2} 時 {value3} 分"
+  "tipsValidityMinLimit": "有效期不能小於 {value1} 天 {value2} 時 {value3} 分",
+  "textBindWalletDescription1": "可建立新錢包，綁定錢包後可參與投票、按讚、領取積分獎勵。服務由 magic.link 提供"
 }

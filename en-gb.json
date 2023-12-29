@@ -1249,7 +1249,7 @@
   "notyett1": "Not set",
   "textMnemonicase": "After signing up for Socrates, you need to connect your wallet. Socrates will not store or retain your seed phrases, which are encrypted and stored locally on your device.",
   "Selectnetworkk": "Choose network",
-  "cannotchanged": "Choose a network to use with Socrates. Your choice cannot be changed once made.",
+  "cannotchanged": "Choose a network to use with Socrates. Your choice cannot be changed once made.The service provider is magic.link",
   "handlingfeee": "Withdrawal fees",
   "acceptetcc": "Accept the {value1}, {value2}, and {value3}.",
   "textagreeCom": "I have read and accept the terms.",
@@ -1468,5 +1468,6 @@
   "airdroprankingTipscontent8": "Invite your friends to join the Socrates platform. When they purchase an SBT Pen or upgrade their SBT Pen, you will receive up to 10% referral commission. This not only helps your friends get better user experience but also brings you additional rewards.",
   "airdroprankingTipscontent3": "Create attractive questions to encourage more user interaction, thereby earning points as rewards.",
   "texttimehint1": "Don't remind me again for {value1} days",
-  "tipsValidityMinLimit": "The validity period cannot be less than {value1}d {value2}h {value3}min"
+  "tipsValidityMinLimit": "The validity period cannot be less than {value1}d {value2}h {value3}min",
+  "textBindWalletDescription1": "You can create a new wallet. After that, you can vote or like to win reward points. The service provider is magic.link"
 }

@@ -1249,7 +1249,7 @@
   "notyett1": "No se ha establecido",
   "textMnemonicase": "Después de registrarse Socrates, debe conectar su billetera. Socrates no almacenará ni conservará sus frases semilla, las cuales se encriptan y almacenan localmente en su dispositivo.",
   "Selectnetworkk": "Seleccione una red",
-  "cannotchanged": "Elija una red para usar Socrates. Su elección no se puede cambiar una vez realizada.",
+  "cannotchanged": "Elija una red para usar Socrates. Su elección no se puede cambiar una vez realizada.El proveedor de servicios es magic.link",
   "handlingfeee": "Cargos por retiro",
   "acceptetcc": "Acepte {value1}, {value2}, y {value3}.",
   "textagreeCom": "He leído y acepto las condiciones.",
@@ -1468,5 +1468,6 @@
   "airdroprankingTipscontent8": "Invite a sus amigos a unirse a la plataforma Socrates. Cuando compren un Bolígrafo SBT o actualicen su Bolígrafo SBT, recibirá hasta un 10% de comisión por referirlos Esto no sólo ayuda a sus amigos a tener una mejor experiencia de usuario, sino que también le aporta recompensas adicionales.",
   "airdroprankingTipscontent3": "Cree preguntas atractivas para fomentar una mayor interacción de los usuarios y así ganar puntos como recompensa.",
   "texttimehint1": "No volver a recordármelo en {value1} días",
-  "tipsValidityMinLimit": "El periodo de validez no puede ser inferior a {value1} d {value2} h {value3} min"
+  "tipsValidityMinLimit": "El periodo de validez no puede ser inferior a {value1} d {value2} h {value3} min",
+  "textBindWalletDescription1": "Puedes crear un nuevo monedero. A continuación, puedes votar o darle al «me gusta» para obtener puntos de recompensa. El proveedor de servicios es magic.link"
 }

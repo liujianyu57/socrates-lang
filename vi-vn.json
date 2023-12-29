@@ -1249,7 +1249,7 @@
   "notyett1": "Không được thiết lập",
   "textMnemonicase": "Sau khi đăng ký Socrates, bạn cần kết nối ví của mình. Socrates sẽ không lưu trữ hoặc giữ lại các cụm từ gốc được mã hóa và lưu trữ cục bộ trên thiết bị của bạn.",
   "Selectnetworkk": "Chọn mạng",
-  "cannotchanged": "Chọn mạng để sử dụng bằng Socrates. Lựa chọn của bạn không thể thay đổi một khi đã thực hiện.",
+  "cannotchanged": "Chọn mạng để sử dụng bằng Socrates. Lựa chọn của bạn không thể thay đổi một khi đã thực hiện.Nhà cung cấp dịch vụ là magic.link",
   "handlingfeee": "Phí rút tiền",
   "acceptetcc": "Chấp nhận {value1}, {value2} và {value3}.",
   "textagreeCom": "Tôi đã đọc và chấp nhận các điều khoản.",
@@ -1468,5 +1468,6 @@
   "airdroprankingTipscontent8": "Mời bạn bè của bạn tham gia nền tảng Socrates. Khi họ mua Bút SBT hoặc nâng cấp Bút SBT của họ, bạn sẽ nhận được hoa hồng giới thiệu lên tới 10%. Điều này không chỉ giúp bạn bè của bạn có được trải nghiệm người dùng tốt hơn mà còn mang lại cho bạn thêm nhiều phần thưởng.",
   "airdroprankingTipscontent3": "Tạo các câu hỏi hấp dẫn để khuyến khích người dùng tương tác nhiều hơn, từ đó kiếm điểm làm phần thưởng.",
   "texttimehint1": "Không nhắc lại trong {value1} ngày",
-  "tipsValidityMinLimit": "Khoảng thời gian hiệu lực không thể ít hơn {value1}ngày {value2}giờ {value3}phút"
+  "tipsValidityMinLimit": "Khoảng thời gian hiệu lực không thể ít hơn {value1}ngày {value2}giờ {value3}phút",
+  "textBindWalletDescription1": "Bạn có thể tạo một ví mới. Sau đó, bạn có thể bình chọn hoặc thích để giành điểm thưởng. Nhà cung cấp dịch vụ là magic.link"
 }

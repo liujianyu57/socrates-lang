@@ -1249,7 +1249,7 @@
   "notyett1": "설정되지 않음",
   "textMnemonicase": "Socrates에 가입한 후 지갑을 연결해야 합니다. Socrates에서는 시드 단어를 저장하거나 유지하지 않으며, 시드 단어는 암호화되어 장치에 로컬로 저장됩니다.",
   "Selectnetworkk": "네트워크 선택",
-  "cannotchanged": "Socrates에서 사용할 네트워크를 선택합니다. 선택하고 나면 변경할 수 없습니다.",
+  "cannotchanged": "Socrates에서 사용할 네트워크를 선택합니다. 선택하고 나면 변경할 수 없습니다.서비스 제공업체는 magic.link입니다",
   "handlingfeee": "인출 수수료",
   "acceptetcc": "{value1}, {value2} 및 {value3}을(를) 수락합니다.",
   "textagreeCom": "본인은 약관을 읽고 수락합니다.",
@@ -1468,5 +1468,6 @@
   "airdroprankingTipscontent8": "Socrates 플랫폼에 참여할 친구를 초대해 보십시오. 친구가 SBT 펜을 구매하거나 SBT 펜을 업그레이드하면 최대 10%의 추천 수수료를 받습니다. 이렇게 하면 친구는 더 나은 사용자 경험을 할 수 있게 되고 여러분은 추가 보상의 기회를 갖게 됩니다.",
   "airdroprankingTipscontent3": "매력적인 질문을 만들어 더 많은 사용자 상호작용을 장려하고 보상으로 포인트를 적립하십시오.",
   "texttimehint1": "{value1}일간 다시 알리지 않음",
-  "tipsValidityMinLimit": "유효 기간은 {value1}일 {value2}시간 {value3}분 미만일 수 없습니다"
+  "tipsValidityMinLimit": "유효 기간은 {value1}일 {value2}시간 {value3}분 미만일 수 없습니다",
+  "textBindWalletDescription1": "새 지갑을 만들거나 기존. 그런 다음 투표하거나 '좋아요'를 눌러 보상 포인트를 받을 수 있습니다. 서비스 제공업체는 magic.link입니다"
 }
