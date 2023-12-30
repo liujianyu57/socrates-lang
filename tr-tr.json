@@ -1185,7 +1185,7 @@
   "Textrankingvv4": "Bu sıralama, kullanıcı tarafından oluşturulan soru sayısına göre oluşturulur.",
   "Textpenyea3": "Kalemler sorulara katılabilmek için şarttır. SBT Kalemlerinin üç seviyesi vardır ve her birinin kazanç katsayısı farklıdır.",
   "Textcanxiaovv": "Sorulara katılmak puan harcatır ve ödüller de puanlara göre dağıtılır.",
-  "Textzuchenrr": "Bir Kalemi başarılı bir şekilde mintledikten sonra kullanıcılar bir Genesis Kalemi kazanmak için {value1} şansa sahip olur. Genesis Kalemleri nadirdir ve kazanç katsayısı 3. Seviye SBT Kalemine eşdeğerdir.",
+  "Textzuchenrr": "Genesis Kalemleri nadir olup kazanç katsayısı 40’tır.",
   "Texthighyoerrc": "Ödül havuzu, ilk {value1} oylayanlar arasındaki ve en çok oyu alan cevabı oylayan kullanıcılar tarafından paylaşılır. Kullanıcılar ilk {value1} kişiyi de geçerse oyladıkları cevabın yüzdesi o kadar yükselir ve daha yüksek ödül alırlar. Ancak yüzde %5'ten daha fazla düşerse kullanıcılar hiçbir ödül alamaz.",
   "Tedainhore": "Kullanıcılar bir sebebi beğendikten sonra bu sebep tarafından desteklenen cevap için yüzde artar, bu sebebin beğenmeler açısından sıralaması da o kadar yüksek olur ve kullanıcılar daha fazla ödül alır. Ancak yüzde %5'ten daha fazla düşerse kullanıcılar hiçbir ödül alamaz.",
   "Textqin5verr": "Sadece ilk 5 sebep, Sebep Ödülü alabilir. Sebepler ne kadar fazla beğenme alırsa kullanıcılar da o kadar fazla ödül alır.",

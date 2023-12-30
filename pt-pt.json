@@ -1185,7 +1185,7 @@
   "Textrankingvv4": "Esta classificação é gerada com base no número de perguntas criadas pelo utilizado.",
   "Textpenyea3": "As canetas são essenciais para participar em perguntas. As canetas SBT têm três níveis, cada um com um coeficiente de ganho diferente.",
   "Textcanxiaovv": "Participar em perguntas consome pontos, e os prémios também são distribuídos sob a forma de pontos.",
-  "Textzuchenrr": "Depois de cunharem uma caneta com sucesso, os utilizadores têm uma probabilidade de {value1} de receber uma caneta Genesis. As canetas Genesis são raras e o seu coeficiente de ganho é equivalente ao de uma caneta SBT de nível 3.",
+  "Textzuchenrr": "As Canetas Genesis são raras e seu coeficiente de ganho é 40.",
   "Texthighyoerrc": "O prémio total é partilhado pelos utilizadores que se encontrem entre os primeiros {value1} que votaram na resposta com mais votos. Se os utilizadores estiverem acima do top {value1}, quanto maior for o aumento percentual da resposta em que votaram, maiores serão os prémios que receberão. No entanto, se a percentagem baixar mais de 5%, os utilizadores não recebem nenhum prémio.",
   "Tedainhore": "Depois de os utilizadores gostarem de um motivo, quanto maior for o aumento percentual da resposta apoiada por esse motivo, mais alta será a classificação desse motivo em termos de gostos e mais prémios receberão. No entanto, se a percentagem baixar mais de 5%, os utilizadores não recebem nenhum prémio.",
   "Textqin5verr": "Apenas os melhores 5 motivos podem receber o Prémio de Motivo. Quantos mais gostos recebem os motivos, mais prémios os utilizadores recebem.",
