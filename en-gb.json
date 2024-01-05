@@ -812,7 +812,7 @@
   "textOnlyOnceInvest": "You can use the Genesis Pen to support a question once",
   "textInvestableNFTValue": "Point value that can be supported using the Genesis Pen",
   "textHoldNFTToday": "You hold {value1} Genesis Pens today",
-  "textNFTInvestmentDescription": "The platform scans for the Genesis Pen held in each user's wallet every day at UTC 00:00, and takes a snapshot of each user's Genesis Pen for that day. The scan result indicates the point value that the user can support using the Genesis Pen on that day. Each Pen is worth {value1} points.Up to {value2} questions per day using Genesis Pen support.",
+  "textNFTInvestmentDescription": "The platform scans for the Genesis Pen held in each user's wallet every day at UTC 00:00, and takes a snapshot of each user's Genesis Pen for that day. The scan result indicates the point value that the user can support using the Genesis Pen on that day. Each Pen is worth {value1} points. Up to {value2} questions per day using Genesis Pen support.",
   "textPrivateProgressDescription1": "Common questions are ranked in descending order based on their popularity score. The top 20 will be listed in the [Popularity Ranking], where common questions will be reviewed to become trending ones.",
   "textPrivateProgressDescription2": "Popularity score of common questions = (Amount of the question's prize pool - Injected points) * [1+log10(Support amount+1)] * [1+log10(Injected points+1)]",
   "textPrivateProgressDescription3": "The amount supported by each Genesis Pen is {value1}",
