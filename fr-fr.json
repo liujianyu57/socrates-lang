@@ -1140,7 +1140,7 @@
   "TextbindRewards1": "Créez un portefeuille et participez à des débats pour obtenir des récompenses élevées.",
   "Titleaa1": "Afficher les actifs",
   "Titleaa2": "Cliquez sur le portefeuille pour visualiser vos actifs.",
-  "Selectnetwork1": "Sélectionnez le réseau Polygon et ajoutez des MATIC et des USDT à votre portefeuille.",
+  "Selectnetwork1": "Sélectionnez le réseau {value1}et ajoutez des {value2} et des USDT à votre portefeuille.",
   "extbidirectExcha": "La participation aux questions consomme des points et les récompenses sont également distribuées sous forme de points. Les points peuvent être échangés sous forme de USDT, tandis que les USDT peuvent être utilisés pour acheter des points.",
   "ndispensablecast1": "Les stylos sont indispensables pour participer aux questions. Monnayer un stylo dès maintenant !",
   "Tip24smistake": "Les stylos Genesis ne peuvent pas être transférés dans les 24 heures. Veuillez réessayer plus tard.",

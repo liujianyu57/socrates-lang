@@ -1140,7 +1140,7 @@
   "TextbindRewards1": "ウォレットを作成し、議論に参加して高い報酬を得ます",
   "Titleaa1": "資産を表示する",
   "Titleaa2": "ウォレットをクリックすると資産が表示されます。",
-  "Selectnetwork1": "Polygonネットワークを選択し、MATICとUSDTをウォレットに追加します。",
+  "Selectnetwork1": "{value1}ネットワークを選択し、{value2}とUSDTをウォレットに追加します。",
   "extbidirectExcha": "質問に参加するとポイントが消費され、報酬もポイントとして分配されます。ポイントはUSDTとして交換でき、USDTはポイントの購入に使用できます。",
   "ndispensablecast1": "質問に参加するためにはペンが必須です。今すぐペンをミントしよう！",
   "Tip24smistake": "Genesisペンは24時間以内に送れません。後でもう一度お試しください。",

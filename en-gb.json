@@ -1140,7 +1140,7 @@
   "TextbindRewards1": "Create a wallet and participate in debates to get high rewards",
   "Titleaa1": "View assets",
   "Titleaa2": "Click the wallet to view your assets.",
-  "Selectnetwork1": "Select the Polygon network and add MATIC and USDT to your wallet.",
+  "Selectnetwork1": "Select the {value1} network and add {value2} and USDT to your wallet.",
   "extbidirectExcha": "Participating in questions consumes points, and rewards are also distributed as points. Points can be redeemed as USDT, whilst USDT can be used to buy points.",
   "ndispensablecast1": "Pens are essential for participating in questions. Mint a Pen now!",
   "Tip24smistake": "Genesis Pens cannot be transferred within 24 hours. Please try again later.",

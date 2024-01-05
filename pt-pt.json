@@ -1140,7 +1140,7 @@
   "TextbindRewards1": "Crie uma carteira e participe em debates para receber prémios melhores",
   "Titleaa1": "Ver ativos",
   "Titleaa2": "Clique na carteira para ver os seus ativos.",
-  "Selectnetwork1": "Selecione a rede Polygon e adicione MATIC e USDT à sua carteira.",
+  "Selectnetwork1": "Selecione a rede {value1} e adicione {value2} e USDT à sua carteira.",
   "extbidirectExcha": "Participar em perguntas consome pontos; os prémios também são distribuídos sob a forma de pontos. Os pontos podem ser trocados por USDT, e USDT podem ser utilizados para comprar pontos.",
   "ndispensablecast1": "As canetas são essenciais para participar em perguntas. Cunhe uma caneta agora!",
   "Tip24smistake": "As canetas Genesis não podem ser transferidas no período de 24 horas. Tente novamente mais tarde.",

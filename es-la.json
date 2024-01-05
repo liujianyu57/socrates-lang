@@ -1140,7 +1140,7 @@
   "TextbindRewards1": "Crea una billetera y participa en debates para obtener grandes recompensas",
   "Titleaa1": "Ver activos",
   "Titleaa2": "Haga clic en el monedero para ver sus activos.",
-  "Selectnetwork1": "Seleccione la red Polygon y agregue MATIC y USDT a su billetera.",
+  "Selectnetwork1": "Seleccione la red {value1}\n y agregue {value2} y USDT a su billetera.",
   "extbidirectExcha": "Participar en las preguntas consume puntos y las recompensas también se distribuyen en puntos. Los puntos pueden canjearse por USDT, mientras que los USDT pueden utilizarse para comprar puntos.",
   "ndispensablecast1": "Los bolígrafos son esenciales para participar en las preguntas. ¡Acuñe un Bolígrafo ahora!",
   "Tip24smistake": "Los Bolígrafos Genesis no pueden transferirse dentro de un lapso de 24 horas. Por favor, intente de nuevo más tarde.",

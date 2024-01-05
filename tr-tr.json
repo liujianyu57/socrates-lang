@@ -1140,7 +1140,7 @@
   "TextbindRewards1": "Bir cüzdan oluşturun ve daha yüksek ödüller kazanmak için tartışmalara katılın",
   "Titleaa1": "Varlıkları görüntüle",
   "Titleaa2": "Varlıklarınızı görüntülemek için cüzdana tıklayın.",
-  "Selectnetwork1": "Polygon ağını seçin ve cüzdanınıza MATIC ve USDT ekleyin.",
+  "Selectnetwork1": "{value1} ağını seçin ve cüzdanınıza {value2} ve USDT ekleyin.",
   "extbidirectExcha": "Sorulara katılmak puan harcatır ve ödüller de puanlara göre dağıtılır. Puanlar USDT olarak geri alınabilirken USDT puan satın almak için kullanılabilir.",
   "ndispensablecast1": "Kalemler sorulara katılabilmek için şarttır. Hemen bir Kalem mintleyin!",
   "Tip24smistake": "Genesis Kalemleri 24 saat içinde aktarılamaz. Lütfen daha sonra yeniden deneyin.",

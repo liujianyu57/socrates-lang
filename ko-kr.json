@@ -1140,7 +1140,7 @@
   "TextbindRewards1": "높은 보상을 얻으려면 지갑을 만들고 토론에 참여하십시오",
   "Titleaa1": "자산 보기",
   "Titleaa2": "지갑을 클릭해 자산을 살펴보세요.",
-  "Selectnetwork1": "Polygon 네트워크를 선택하고 MATIC 및 USDT를 지갑에 추가합니다.",
+  "Selectnetwork1": "{value1} 네트워크를 선택하고 {value2} 및 USDT를 지갑에 추가합니다.",
   "extbidirectExcha": "질문 참여 시 포인트가 소모되며 보상도 포인트로 지급됩니다. 포인트는 USDT로 변환할 수 있고 USDT는 포인트 구매에 사용할 수 있습니다.",
   "ndispensablecast1": "펜은 질문 참여 시 필수입니다. 지금 펜을 발행하세요!",
   "Tip24smistake": "Genesis 펜을 24시간 이내에 송금할 수 없습니다. 나중에 다시 시도하십시오",
