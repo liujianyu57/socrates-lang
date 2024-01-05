@@ -1541,5 +1541,6 @@
   "textRewardParticipants": "",
   "textPointRefunded": "",
   "textPointsBeHeld": "",
-  "textPopExpired": ""
+  "textPopExpired": "",
+  "textPopHistory": ""
 }

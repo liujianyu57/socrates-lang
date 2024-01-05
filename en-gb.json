@@ -1541,5 +1541,6 @@
   "textRewardParticipants": "Rewards to participants",
   "textPointRefunded": "The points will be refunded to the quiz creator after the quiz ends.",
   "textPointsBeHeld": "Some points will be held for this question to reward the user who got the answer right. If no one answers the question or no one answers the question correctly, the points will be refunded. The number of points held equals the number of points required for participation multiplied by the odds of the question option.",
-  "textPopExpired": "This question has expired."
+  "textPopExpired": "This question has expired.",
+  "textPopHistory": "Pop quiz"
 }

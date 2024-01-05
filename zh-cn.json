@@ -1541,5 +1541,6 @@
   "textRewardParticipants": "答对奖励积分",
   "textPointRefunded": "问题结束积分返还提问者",
   "textPointsBeHeld": "此问题会先投入部分积分，用于奖励给回答正确的人，如无人回答或回答错误，积分将会被退回。投入积分=参与所需积分*问题选项对应赔率。",
-  "textPopExpired": "该问题已过期，无法投票。"
+  "textPopExpired": "该问题已过期，无法投票。",
+  "textPopHistory": "快问快答历史记录"
 }

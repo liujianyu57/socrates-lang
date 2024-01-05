@@ -1541,5 +1541,6 @@
   "textRewardParticipants": "Katılımcılar için ödüller",
   "textPointRefunded": "Test sona erdiğinde puanlar testi oluşturan kişiye geri gönderilir.",
   "textPointsBeHeld": "Doğru cevabı bulan kullanıcıya ödül vermek için bazı puanlar bu soru için tutulur. Kimse soruyu cevaplamaz veya kimse soruyu doğru bir şekilde cevaplamazsa puanlar geri verilir. Tutulan puan miktarı, katılım için gerekli puanın soru seçeneği olasılığı ile çarpılmasına eşittir.",
-  "textPopExpired": "Bu sorunun süresi sona erdi."
+  "textPopExpired": "Bu sorunun süresi sona erdi.",
+  "textPopHistory": "Hızlı test"
 }
