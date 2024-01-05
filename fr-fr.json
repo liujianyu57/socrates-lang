@@ -1542,5 +1542,7 @@
   "textPointRefunded": "Les points seront restitués au créateur du jeu-questionnaire lorsque celui-ci est terminé.",
   "textPointsBeHeld": "Certains points seront retenus pour cette question afin de récompenser l’utilisateur qui a trouvé la bonne réponse. Si personne ne répond à la question ou si personne ne répond correctement à la question, les points seront remboursés. Le nombre de points détenus est égal au nombre de points requis pour la participation multiplié par la cote de l’option de la question.",
   "textPopExpired": "Cette question a expiré.",
-  "textPopHistory": "Jeu-questionnaire"
+  "textPopHistory": "Jeu-questionnaire",
+  "textTransferPioneer": "Transférer le Pioneer Pen",
+  "textBuyOnOpenSea": "Vous avez monnayé un Pioneer Pen sur Socrates. En outre, vous pouvez également en acheter un sur OpenSea."
 }

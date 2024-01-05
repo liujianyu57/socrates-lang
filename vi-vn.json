@@ -1542,5 +1542,7 @@
   "textPointRefunded": "Điểm sẽ được hoàn lại cho người tạo bài kiểm tra sau khi kết thúc kiểm tra.",
   "textPointsBeHeld": "Điểm sẽ được giữ cho câu hỏi này để thưởng cho người dùng trả lời đúng. Nếu không ai trả lời hoặc không ai trả lời đúng câu hỏi thì số điểm sẽ được hoàn lại. Số điểm giữ lại bằng số điểm yêu cầu để tham gia nhân với tỷ lệ cược của lựa chọn phương án trả lời câu hỏi.",
   "textPopExpired": "Câu hỏi này đã hết hạn.",
-  "textPopHistory": "Kiểm tra ngắn"
+  "textPopHistory": "Kiểm tra ngắn",
+  "textTransferPioneer": "Chuyển Pioneer Pen",
+  "textBuyOnOpenSea": "Bạn đã đúc được một Pioneer Pen trên Socrates. Bạn cũng có thể mua thêm một cái trên OpenSea."
 }

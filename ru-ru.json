@@ -1542,5 +1542,7 @@
   "textPointRefunded": "",
   "textPointsBeHeld": "",
   "textPopExpired": "",
-  "textPopHistory": ""
+  "textPopHistory": "",
+  "textTransferPioneer": "",
+  "textBuyOnOpenSea": ""
 }

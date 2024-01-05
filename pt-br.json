@@ -1542,5 +1542,7 @@
   "textPointRefunded": "Os pontos serão reembolsados ao criador do teste após o término dele.",
   "textPointsBeHeld": "Alguns pontos serão mantidos para essa pergunta para recompensar o usuário que acertou a resposta. Se ninguém responder à pergunta ou se ninguém responder à pergunta corretamente, os pontos serão reembolsados. O número de pontos mantidos é igual ao número de pontos necessários para participação multiplicado pelas probabilidades da opção de pergunta.",
   "textPopExpired": "Esta pergunta expirou.",
-  "textPopHistory": "Teste rápido"
+  "textPopHistory": "Teste rápido",
+  "textTransferPioneer": "Transferir Pioneer Pen",
+  "textBuyOnOpenSea": "Você cunhou uma Pioneer Pen no Socrates. Além disso, você também pode comprar uma no OpenSea."
 }

@@ -1542,5 +1542,7 @@
   "textPointRefunded": "クイズが終了した後、ポイントはクイズ作成者に返還されます。",
   "textPointsBeHeld": "この質問にはいくつかのポイントが保留され、正しい回答をしたユーザーに報酬として贈られます。誰も質問に回答しないか、正しい回答がない場合、ポイントは返還されます。保留されているポイント数は、参加に必要なポイント数に質問の選択肢のオッズを掛けたものに等しいです。",
   "textPopExpired": "この質問は終了しました。",
-  "textPopHistory": "抜き打ちクイズ"
+  "textPopHistory": "抜き打ちクイズ",
+  "textTransferPioneer": "Pioneer Penを送る",
+  "textBuyOnOpenSea": "あなたはSocratesのPioneer Penをミントしました。さらに、OpenSeaで購入することもできます。"
 }

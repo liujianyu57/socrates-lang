@@ -1542,5 +1542,7 @@
   "textPointRefunded": "The points will be refunded to the quiz creator after the quiz ends.",
   "textPointsBeHeld": "Some points will be held for this question to reward the user who got the answer right. If no one answers the question or no one answers the question correctly, the points will be refunded. The number of points held equals the number of points required for participation multiplied by the odds of the question option.",
   "textPopExpired": "This question has expired.",
-  "textPopHistory": "Pop quiz"
+  "textPopHistory": "Pop quiz",
+  "textTransferPioneer": "Transfer Pioneer Pen",
+  "textBuyOnOpenSea": "You have minted a Pioneer Pen on Socrates. Additionally, you can also buy one on OpenSea."
 }

@@ -1542,5 +1542,7 @@
   "textPointRefunded": "퀴즈가 끝나면 퀴즈 생성자에게 포인트가 환불됩니다.",
   "textPointsBeHeld": "이 질문의 정답을 맞힌 사용자에게 보상으로 제공할 포인트가 보류됩니다. 아무도 질문에 답하지 않거나 정답을 맞힌 사람이 없으면 포인트는 환불됩니다. 보류되는 포인트는 참여에 필요한 포인트에 질문 옵션의 배당률을 곱한 값과 같습니다.",
   "textPopExpired": "이 질문은 만료되었습니다.",
-  "textPopHistory": "깜짝 퀴즈"
+  "textPopHistory": "깜짝 퀴즈",
+  "textTransferPioneer": "Pioneer Pen 전송",
+  "textBuyOnOpenSea": "Socrates에서 Pioneer Pen을 민팅했습니다. 또한 OpenSea에서도 구매할 수 있습니다."
 }

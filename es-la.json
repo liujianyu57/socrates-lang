@@ -1542,5 +1542,7 @@
   "textPointRefunded": "Los puntos se reintegrarán al creador del cuestionario una vez haya finalizado.",
   "textPointsBeHeld": "Se guardarán algunos puntos de esta pregunta para recompensar al usuario que haya acertado la respuesta. Si nadie responde la pregunta o nadie responde correctamente, se reintegrarán los puntos. El número de puntos guardados es igual al número de puntos necesarios para participar multiplicado por las probabilidades de la opción de la pregunta.",
   "textPopExpired": "Esta pregunta ha expirado.",
-  "textPopHistory": "Cuestionario sorpresa"
+  "textPopHistory": "Cuestionario sorpresa",
+  "textTransferPioneer": "Transferir Pioneer Pen",
+  "textBuyOnOpenSea": "Ha acuñado un Pioneer Pen en Socrates. Igualmente, también puede comprar uno en OpenSea."
 }
