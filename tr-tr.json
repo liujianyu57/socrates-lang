@@ -1620,5 +1620,11 @@
   "tagAmount": "Tutar",
   "tagConfirm": "Onayla",
   "tagEnter": "Çekilecek tutarı girin.",
-  "tagIWantWithdraw": "Para çekmek istiyorum"
+  "tagIWantWithdraw": "Para çekmek istiyorum",
+  "textHideInteractions": "Etkileşimleri gizle",
+  "textUnhideInteraction": "Etkileşimleri göster",
+  "textWannaHide": "Etkileşimlerinizi gizlemek mi istiyorsunuz? Gizlendikten sonra diğer kullanıcılar oy, beğeni, destek ve oluşturulan sorular gibi etkileşimlerinizi görmez.",
+  "textWnnaUnhide": "Etkileşimlerinizi göstermek ister misiniz? Gösterildikten sonra diğer kullanıcılar oylar, beğeniler, destek ve oluşturulan sorular gibi etkileşimlerinizi görmez.",
+  "textUserHidden": "Bu kullanıcının gizli etkileşimleri var.",
+  "tagHideInteraction": "Etkileşimleri gizle"
 }

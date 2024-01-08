@@ -1620,5 +1620,11 @@
   "tagAmount": "金額",
   "tagConfirm": "確認",
   "tagEnter": "引き出し金額を入力してください。",
-  "tagIWantWithdraw": "引き出したいです"
+  "tagIWantWithdraw": "引き出したいです",
+  "textHideInteractions": "インタラクションを非表示にする",
+  "textUnhideInteraction": "インタラクションを再表示する",
+  "textWannaHide": "インタラクションを非表示にしたいですか? 非表示にすると、投票、いいね、サポート、作成された質問などのインタラクションが他のユーザーに表示されなくなります。",
+  "textWnnaUnhide": "インタラクションを再表示しますか? 非表示を解除すると、投票、いいね、サポート、作成された質問などのインタラクションが他のユーザーに表示されなくなります。",
+  "textUserHidden": "このユーザーには非表示のインタラクションがあります。",
+  "tagHideInteraction": "インタラクションを非表示にする"
 }

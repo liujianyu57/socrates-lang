@@ -1620,5 +1620,11 @@
   "tagAmount": "",
   "tagConfirm": "",
   "tagEnter": "",
-  "tagIWantWithdraw": ""
+  "tagIWantWithdraw": "",
+  "textHideInteractions": "",
+  "textUnhideInteraction": "",
+  "textWannaHide": "",
+  "textWnnaUnhide": "",
+  "textUserHidden": "",
+  "tagHideInteraction": ""
 }

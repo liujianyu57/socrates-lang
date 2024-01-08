@@ -1620,5 +1620,11 @@
   "tagAmount": "Số lượng",
   "tagConfirm": "Xác nhận",
   "tagEnter": "Nhập số tiền cần rút.",
-  "tagIWantWithdraw": "Tôi muốn rút"
+  "tagIWantWithdraw": "Tôi muốn rút",
+  "textHideInteractions": "Ẩn tương tác",
+  "textUnhideInteraction": "Hiện tương tác",
+  "textWannaHide": "Bạn có muốn ẩn các tương tác của mình không? Sau khi ẩn, những người dùng khác sẽ không nhìn thấy các tương tác của bạn như phiếu bầu, lượt thích, hỗ trợ và câu hỏi đã tạo.",
+  "textWnnaUnhide": "Bạn có muốn hiện các tương tác của mình không? Sau khi hiển thị, những người dùng khác sẽ không nhìn thấy các tương tác của bạn, chẳng hạn như phiếu bầu, lượt thích, hỗ trợ và câu hỏi đã tạo.",
+  "textUserHidden": "Người dùng này có các tương tác ẩn.",
+  "tagHideInteraction": "Ẩn tương tác"
 }

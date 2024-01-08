@@ -1620,5 +1620,11 @@
   "tagAmount": "轉換額度",
   "tagConfirm": "確認轉換",
   "tagEnter": "輸入轉出額度",
-  "tagIWantWithdraw": "我要轉出"
+  "tagIWantWithdraw": "我要轉出",
+  "textHideInteractions": "隱藏記錄",
+  "textUnhideInteraction": "顯示記錄",
+  "textWannaHide": "是否隱藏參與記錄，隱藏後其他用戶進入你的個人中心則看不到你參與的內容（投票、按讚、支持、提問）",
+  "textWnnaUnhide": "是否顯示參與記錄，顯示後其他用戶進入你的個人中心可以看到你參與的內容（投票、按讚、支持、提問）",
+  "textUserHidden": "該用戶已隱藏所參與的內容",
+  "tagHideInteraction": "隱藏參與記錄"
 }

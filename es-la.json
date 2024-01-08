@@ -1620,5 +1620,11 @@
   "tagAmount": "Cantidad",
   "tagConfirm": "Confirmar",
   "tagEnter": "Ingresar el importe a retirar.",
-  "tagIWantWithdraw": "Quiero retirar"
+  "tagIWantWithdraw": "Quiero retirar",
+  "textHideInteractions": "Ocultar interacciones",
+  "textUnhideInteraction": "Mostrar interacciones",
+  "textWannaHide": "¿Quieres ocultar tus interacciones? Después de ocultarse, otros usuarios no verán sus interacciones, como votos, me gusta, soporte y preguntas creadas.",
+  "textWnnaUnhide": "¿Quieres mostrar tus interacciones? Después de mostrarlo, otros usuarios no verán sus interacciones, como votos, me gusta, soporte y preguntas creadas.",
+  "textUserHidden": "Este usuario tiene interacciones ocultas.",
+  "tagHideInteraction": "Ocultar interacciones"
 }

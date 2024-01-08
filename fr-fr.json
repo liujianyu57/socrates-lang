@@ -1620,5 +1620,11 @@
   "tagAmount": "Montant",
   "tagConfirm": "Confirmer",
   "tagEnter": "Saisissez le montant à retirer.",
-  "tagIWantWithdraw": "Je veux retirer"
+  "tagIWantWithdraw": "Je veux retirer",
+  "textHideInteractions": "Masquer les interactions",
+  "textUnhideInteraction": "Afficher les interactions",
+  "textWannaHide": "Vous souhaitez masquer vos interactions ? Une fois masqués, les autres utilisateurs ne verront plus vos interactions, telles que les votes, les likes, l'assistance et les questions créées.",
+  "textWnnaUnhide": "Voulez-vous afficher vos interactions ? Une fois affichés, les autres utilisateurs ne verront plus vos interactions, telles que les votes, les likes, l'assistance et les questions créées.",
+  "textUserHidden": "Cet utilisateur a des interactions masquées.",
+  "tagHideInteraction": "Masquer les interactions"
 }

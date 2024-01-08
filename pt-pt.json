@@ -1620,5 +1620,11 @@
   "tagAmount": "Montante",
   "tagConfirm": "Confirmar",
   "tagEnter": "Insira o montante a levantar.",
-  "tagIWantWithdraw": "Pretendo levantar"
+  "tagIWantWithdraw": "Pretendo levantar",
+  "textHideInteractions": "Ocultar interações",
+  "textUnhideInteraction": "Mostrar interações",
+  "textWannaHide": "Você quer ocultar suas interações? Depois de ocultar, outros usuários não verão suas interações, como votos, curtidas, suporte e perguntas criadas.",
+  "textWnnaUnhide": "Você quer exibir suas interações? Depois de reexibir, outros usuários não verão suas interações, como votos, curtidas, suporte e perguntas criadas.",
+  "textUserHidden": "Este usuário ocultou interações.",
+  "tagHideInteraction": "Ocultar interações"
 }

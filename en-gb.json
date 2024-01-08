@@ -1620,5 +1620,11 @@
   "tagAmount": "Amount",
   "tagConfirm": "Confirm",
   "tagEnter": "Enter the amount to withdraw.",
-  "tagIWantWithdraw": "I want to withdraw"
+  "tagIWantWithdraw": "I want to withdraw",
+  "textHideInteractions": "Hide interactions",
+  "textUnhideInteraction": "Unhide interactions",
+  "textWannaHide": "Do you want to hide your interactions? After hiding, other users won't see your interactions, such as votes, likes, support, and questions created.",
+  "textWnnaUnhide": "Do you want to unhide your interactions? After unhiding, other users won't see your interactions, such as votes, likes, support, and questions created.",
+  "textUserHidden": "This user has hidden interactions.",
+  "tagHideInteraction": "Hide interactions"
 }

@@ -1620,5 +1620,11 @@
   "tagAmount": "금액",
   "tagConfirm": "확인",
   "tagEnter": "인출할 금액을 입력합니다.",
-  "tagIWantWithdraw": "인출하겠습니다"
+  "tagIWantWithdraw": "인출하겠습니다",
+  "textHideInteractions": "상호작용 숨기기",
+  "textUnhideInteraction": "상호작용 숨기기 해제",
+  "textWannaHide": "상호 작용을 숨기시겠습니까? 숨긴 후에는 다른 사용자가 투표, 좋아요, 지원, 생성된 질문과 같은 상호 작용을 볼 수 없습니다.",
+  "textWnnaUnhide": "상호 작용 숨기기를 해제하시겠습니까? 숨기기를 해제하면 다른 사용자는 투표, 좋아요, 지원, 생성된 질문과 같은 상호 작용을 볼 수 없습니다.",
+  "textUserHidden": "이 사용자에게는 숨겨진 상호작용이 있습니다.",
+  "tagHideInteraction": "상호작용 숨기기"
 }
