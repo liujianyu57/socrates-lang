@@ -526,7 +526,7 @@
   "error3002": "Görüntü yüklenemedi",
   "error3003": "Görüntü alınamadı",
   "error3006": "İçerik geçersiz karakterler içeriyor",
-  "error3007": "Görüntü dosyası adı hatası",
+  "error3007": "Resim boyutu veya formatı eşleşmiyor",
   "error3008": "Seçenekler değiştirilirken eski ve yeni seçenekler birbirinden farklı olmalıdır",
   "error3009": "Seçenek mevcut değil",
   "error3010": "Lütfen bahsetmek istediğiniz kullanıcıyı seçin",

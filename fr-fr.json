@@ -526,7 +526,7 @@
   "error3002": "Échec du téléversement de l’image",
   "error3003": "Échec de l’obtention de l’image",
   "error3006": "Le contexte comprend des caractères illégaux",
-  "error3007": "Erreur de nom de fichier image",
+  "error3007": "La taille ou le format de l'image ne correspond pas",
   "error3008": "Lorsque les options sont modifiées, la nouvelle option doit être différente de l’ancienne",
   "error3009": "L’option n’existe pas",
   "error3010": "Veuillez sélectionner l’utilisateur que vous souhaitez mentionner",

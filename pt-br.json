@@ -526,7 +526,7 @@
   "error3002": "Falha ao carregar a imagem",
   "error3003": "Falha ao obter a imagem",
   "error3006": "O contexto inclui caracteres ilegais",
-  "error3007": "Erro no nome do arquivo de imagem",
+  "error3007": "O tamanho ou formato da imagem não corresponde",
   "error3008": "Ao modificar opções, as opções antigas e novas devem ser diferentes",
   "error3009": "A opção não existe",
   "error3010": "Selecione o usuário que deseja mencionar",

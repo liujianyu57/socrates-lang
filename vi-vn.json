@@ -526,7 +526,7 @@
   "error3002": "Không thể tải hình ảnh lên",
   "error3003": "Không thể lấy được hình ảnh",
   "error3006": "Văn bản chứa các ký tự không hợp lệ",
-  "error3007": "Lỗi tên file ảnh",
+  "error3007": "Kích thước hoặc định dạng hình ảnh không khớp",
   "error3008": "Khi sửa đổi tùy chọn, tùy chọn cũ và mới phải khác nhau",
   "error3009": "Tùy chọn không tồn tại",
   "error3010": "Vui lòng chọn người dùng bạn muốn đề cập",

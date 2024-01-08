@@ -526,7 +526,7 @@
   "error3002": "Failed to upload the image",
   "error3003": "Failed to obtain the image",
   "error3006": "Context includes illegal characters",
-  "error3007": "Image file name error",
+  "error3007": "Image size or format does not match",
   "error3008": "When modifying options, the old and new options must be different",
   "error3009": "Option does not exist",
   "error3010": "Please select the user you want to mention",
