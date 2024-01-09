@@ -1578,7 +1578,7 @@
   "textCustomiseCap": "自定义批准限制：",
   "textPolygonGas": "Polygon gas费",
   "textTryAgainPen": "请重新交易，拥有笔之后可用于答题、辩论、点赞和提问等功能。",
-  "textCongratsPen": "恭喜获得{value}先锋笔。",
+  "textCongratsPen": "恭喜获得{value1}先锋笔。",
   "textLeavePage": "交易预计在几分钟内完成，你可以离开或继续等待，交易完成之后先锋笔将会转入你的账户。",
   "tagAll1": "全部",
   "tagSale": "在售",

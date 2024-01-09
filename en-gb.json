@@ -1578,7 +1578,7 @@
   "textCustomiseCap": "Customise funds cap:",
   "textPolygonGas": "Polygon gas fee",
   "textTryAgainPen": "Please try again. Holding a Pen grants you access to answering, debating, liking, and question creation features.",
-  "textCongratsPen": "Congrats! You have obtained {value} Pioneer Pen.",
+  "textCongratsPen": "Congrats! You have obtained {value1} Pioneer Pen.",
   "textLeavePage": "The transaction may take several minutes, and you can leave this page during the process. The Pioneer Pen will be transferred to your account after the transaction is completed.",
   "tagAll1": "All",
   "tagSale": "For sale",

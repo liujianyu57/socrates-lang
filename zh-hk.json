@@ -1578,7 +1578,7 @@
   "textCustomiseCap": "自定義批准限制：",
   "textPolygonGas": "Polygon gas 費",
   "textTryAgainPen": "請重新交易，擁有筆之後可用於答題、辯論、讚好和提問等功能。",
-  "textCongratsPen": "恭喜獲得 {value} 先鋒筆",
+  "textCongratsPen": "恭喜獲得 {value1} 先鋒筆",
   "textLeavePage": "交易預計在幾分鐘內完成，你可以離開或繼續等待，交易完成之後先鋒筆將會轉入你的賬戶。",
   "tagAll1": "全部",
   "tagSale": "在售",

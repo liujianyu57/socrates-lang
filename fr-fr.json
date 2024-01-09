@@ -1578,7 +1578,7 @@
   "textCustomiseCap": "Personnalisez le plafond des fonds :",
   "textPolygonGas": "Frais de gas Polygon",
   "textTryAgainPen": "Veuillez réessayer. Détenir un Pen vous permet d’accéder aux fonctions de réponse, de débat, d’appréciation et de création de questions.",
-  "textCongratsPen": "Félicitations ! Vous avez obtenu un Pioneer Pen de {value}..",
+  "textCongratsPen": "Félicitations ! Vous avez obtenu un Pioneer Pen de {value1}..",
   "textLeavePage": "La transaction peut prendre plusieurs minutes et vous pouvez quitter cette page pendant le processus. Le Pioneer Pen sera transféré sur votre compte une fois la transaction terminée.",
   "tagAll1": "Tous",
   "tagSale": "À vendre",

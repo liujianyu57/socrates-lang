@@ -1578,7 +1578,7 @@
   "textCustomiseCap": "자금 한도 사용자 지정:",
   "textPolygonGas": "Polygon 연료비",
   "textTryAgainPen": "다시 시도하십시오. Pen을 보유하면 답변, 토론, 좋아요, 질문 생성 기능을 이용할 수 있게 됩니다.",
-  "textCongratsPen": "축하합니다! {value}개의 Pioneer Pen을 획득했습니다.",
+  "textCongratsPen": "축하합니다! {value1}개의 Pioneer Pen을 획득했습니다.",
   "textLeavePage": "거래에는 몇 분 정도 소요될 수 있으며, 처리 중에 이 페이지에서 나가도 됩니다. 거래가 완료되면 Pioneer Pen이 계좌로 송금됩니다.",
   "tagAll1": "모두",
   "tagSale": "판매용",
