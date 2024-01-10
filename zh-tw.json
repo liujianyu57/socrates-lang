@@ -1540,7 +1540,7 @@
   "pointType352": "答題消耗積分",
   "pointType353": "答對獎勵積分",
   "textPointRefunded": "問題結束，積分退還提問者",
-  "textPointsBeHeld": "此問題會先投入部分積分，用於獎勵給回答正確的人，如無人回答或回答錯誤，積分將會退回。投入積分 = 參與所需積分 * 問題選項對應賠率。",
+  "textPointsBeHeld": "此問題會先投入部分積分，用於獎勵給回答正確的人，如無人回答或回答錯誤，積分將會退回。投入積分 = 參與所需積分 * 問題選項對應獎勵回報率。",
   "textPopExpired": "該問題已過期，無法投票。",
   "textPopHistory": "快問快答歷史記錄",
   "textTransferPioneer": "轉讓先鋒筆",

@@ -1540,7 +1540,7 @@
   "pointType352": "Pontos para participantes",
   "pointType353": "Prémios para participantes",
   "textPointRefunded": "Os pontos serão reembolsados ao criador do questionário após o questionário terminar.",
-  "textPointsBeHeld": "Alguns pontos serão mantidos para esta pergunta para premiar o utilizador que acertar na resposta. Se ninguém responder à pergunta ou ninguém responder corretamente, os pontos serão reembolsados. O número de pontos mantidos equivale ao número de pontos necessários para a participação multiplicados pelas probabilidades da opção da pergunta.",
+  "textPointsBeHeld": "Esta questão irá primeiro investir alguns pontos para recompensar quem responder corretamente.Se ninguém responder ou a resposta estiver errada, os pontos serão devolvidos. Pontos de investimento = pontos necessários para participação * As opções de perguntas correspondem à taxa de retorno da recompensa.",
   "textPopExpired": "Esta pergunta expirou.",
   "textPopHistory": "Questionário rápido",
   "textTransferPioneer": "Transferir Pioneer Pen",

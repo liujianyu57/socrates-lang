@@ -1540,7 +1540,7 @@
   "pointType352": "Điểm cho người tham gia",
   "pointType353": "Phần thưởng cho người tham gia",
   "textPointRefunded": "Điểm sẽ được hoàn lại cho người tạo bài kiểm tra sau khi kết thúc kiểm tra.",
-  "textPointsBeHeld": "Điểm sẽ được giữ cho câu hỏi này để thưởng cho người dùng trả lời đúng. Nếu không ai trả lời hoặc không ai trả lời đúng câu hỏi thì số điểm sẽ được hoàn lại. Số điểm giữ lại bằng số điểm yêu cầu để tham gia nhân với tỷ lệ cược của lựa chọn phương án trả lời câu hỏi.",
+  "textPointsBeHeld": "Câu hỏi này đầu tiên sẽ đầu tư một số điểm để thưởng cho người trả lời đúng, nếu không có ai trả lời hoặc trả lời sai thì sẽ được trả lại điểm. Điểm đầu tư = điểm cần thiết để tham gia * Tùy chọn câu hỏi tương ứng với tỷ lệ hoàn vốn thưởng.",
   "textPopExpired": "Câu hỏi này đã hết hạn.",
   "textPopHistory": "Kiểm tra ngắn",
   "textTransferPioneer": "Chuyển Pioneer Pen",
