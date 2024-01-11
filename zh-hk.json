@@ -1379,7 +1379,7 @@
   "textTo2": "收款地址",
   "textTransferToNetwork": "轉賬到目前地址的連結網絡",
   "textDeposit": "增值 {value1}",
-  "textTransfer": "轉賬‘{value1}‘到：",
+  "textTransfer": "轉賬{value1}到：",
   "textLoginPassword": "輸入登入密碼",
   "textDeposit2": "增值",
   "textTransfer2": "從錢包轉賬",
