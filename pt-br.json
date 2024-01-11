@@ -1267,7 +1267,7 @@
   "toastVideoFileTooBig": "Verifique se o arquivo de vídeo tem menos de 1 GB.",
   "votecomplete1": "Respondida com sucesso.",
   "textquestionprize1": "Você pode usar pontos e Genesis Pens para melhorar a popularidade. Se sua pergunta se tornar pública, você ganhará o Prêmio de Apoio.",
-  "textformulaillust": "Pontuação da popularidade = {value1}/[1+e^(-{value2}*Número de eleitores)] + {value3}/[1+e^(-{value4}*Número total de pontos contribuídos)] + {value5}/[1+e^(-{value6}*Número de pontos injetados)] + {value7}/[1+e^(-{value8}*Número de pontos injetados)]",
+  "textformulaillust": "Pontuação da popularidade = 150/[1+e^(-0.001*Número de eleitores)] + 500/[1+e^(-0.001*Número total de pontos contribuídos)] + 250/[1+e^(-0.001*Número de pontos injetados)] + 100/[1+e^(-0.001*Número de pontos injetados)]",
   "questionListt": "Classificação de Popularidade",
   "textlistto": "É necessário {value1} para ser classificado",
   "votehu": "Apoiadores",

@@ -1267,7 +1267,7 @@
   "toastVideoFileTooBig": "檔案過大，影片應小於 1 GB",
   "votecomplete1": "投票成功",
   "textquestionprize1": "你可以使用積分和創世筆支持來提升問題的熱度值，若你支持的問題成為趨勢問題，你將會獲得支持獎。",
-  "textformulaillust": "熱度值 = {value1}/[1+e^(-{value2}* 投票人數)] + {value3}/[1+e^(-{value4}* 用戶消耗總積分)] + {value5}/[ 1+e^(-{value6}* 支援積分)] + {value7}/[1+e^(-{value8}* 注入積分)]",
+  "textformulaillust": "熱度值 = 150/[1+e^(-0.001}* 投票人數)] + 500/[1+e^(-{value4}* 用戶消耗總積分)] + 250/[ 1+e^(-{value6}* 支援積分)] + 100/[1+e^(-{value8}* 注入積分)]",
   "questionListt": "問題排行榜",
   "textlistto": "還差 {value1} 上榜",
   "votehu": "",

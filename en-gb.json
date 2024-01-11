@@ -1267,7 +1267,7 @@
   "toastVideoFileTooBig": "Ensure the video file is under 1 GB.",
   "votecomplete1": "Voted successfully.",
   "textquestionprize1": "You can use points and Genesis Pens to boost popularity. If your supported question becomes trending, you'll earn the Support Prize.",
-  "textformulaillust": "Popularity score = {value1}/[1+e^(-{value2}*Number of voters)] + {value3}/[1+e^(-{value4}*Total number of contributed points)] + {value5}/[1+e^(-{value6}*Number of injected points)] + {value7}/[1+e^(-{value8}*Number of injected points)]",
+  "textformulaillust": "Popularity score = 150/[1+e^(-0.001*Number of voters)] + 500/[1+e^(-0.001*Total number of contributed points)] + 250/[1+e^(-0.001*Number of injected points)] + 100/[1+e^(-0.001*Number of injected points)]",
   "questionListt": "Popularity Ranking",
   "textlistto": "Need {value1} to be ranked",
   "votehu": "Supporters",
