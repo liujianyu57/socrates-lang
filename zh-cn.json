@@ -1690,7 +1690,5 @@
   "tagmanage": "管理",
   "tagFrommintomax": "价格从低到高",
   "tagFrommaxtomin": "价格从高到低",
-  "txetSellingPrice": "出售价格",
-  "tagHideInteract": "隐藏记录",
-  "tagUnhide": "显示记录"
+  "txetSellingPrice": "出售价格"
 }

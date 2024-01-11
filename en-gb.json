@@ -526,7 +526,7 @@
   "error3002": "Failed to upload the image",
   "error3003": "Failed to obtain the image",
   "error3006": "Context includes illegal characters",
-  "error3007": "Image size or format does not match",
+  "error3007": "Image size or format not supported.",
   "error3008": "When modifying options, the old and new options must be different",
   "error3009": "Option does not exist",
   "error3010": "Please select the user you want to mention",
@@ -1548,7 +1548,7 @@
   "textSocratesNostandardsAns": "Socrates encourages multiple-choice questions without standard answers. Your quiz, your rules.",
   "textSocratesNostandardsAns1": "Socrates encourages multiple-choice questions without standard answers. Choose the one you believe it's true.",
   "tagAddPic": "Add image",
-  "textGenesisRare": "The Genesis Pen is rare, and its earning coefficient is higher that of an advanced Pioneer Pen.",
+  "textGenesisRare": "The Genesis Pen is rare, and its earning coefficient is more than that of an advanced Pioneer Pen.",
   "textNoGas": "Insufficient gas fees.",
   "textBuyPioneer": "Buy Pioneer Pen",
   "tagMarketplace": "Marketplace",
@@ -1690,7 +1690,5 @@
   "tagmanage": "Manage",
   "tagFrommintomax": "From min. to max. price",
   "tagFrommaxtomin": "From min. to max. price",
-  "txetSellingPrice": "Selling price",
-  "tagHideInteract": "Hide interactions",
-  "tagUnhide": "Unhide interactions"
+  "txetSellingPrice": "Selling price"
 }
