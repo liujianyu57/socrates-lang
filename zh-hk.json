@@ -1678,5 +1678,19 @@
   "texUseLinked": "請使用關聯了{value1}的錢包",
   "textCancelled": "已取消導入錢包",
   "textCancelledWallet": "您已取消導入錢包",
-  "tagRetry": "重試"
+  "tagRetry": "重試",
+  "error3200": "該先鋒筆不屬於你",
+  "error3202": "先鋒筆已下架",
+  "error3203": "先鋒筆已售出",
+  "error3206": "該價格變動，請重試",
+  "error3207": "新獲得的先鋒筆短時間內不能出售和轉賬",
+  "error3208": "不能購買自己出售的先鋒筆",
+  "Buypenownlimit": "不能購買自己出售的先鋒筆",
+  "tagsell": "出售",
+  "tagmanage": "管理",
+  "tagFrommintomax": "價格從低到高",
+  "tagFrommaxtomin": "價格從高到低",
+  "txetSellingPrice": "出售價格",
+  "tagHideInteract": "隱藏記錄",
+  "tagUnhide": "顯示記錄"
 }

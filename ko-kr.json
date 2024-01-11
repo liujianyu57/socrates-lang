@@ -1678,5 +1678,19 @@
   "texUseLinked": "{value1}과(와) 연결된 지갑을 사용해 주세요",
   "textCancelled": "지갑 가져오기가 취소되었습니다.",
   "textCancelledWallet": "지갑 가져오기를 취소하셨습니다.",
-  "tagRetry": "다시 해 보다"
+  "tagRetry": "다시 해 보다",
+  "error3200": "이 파이오니어 펜은 당신의 것이 아닙니다",
+  "error3202": "파이오니어 펜이 선반에서 제거되었습니다.",
+  "error3203": "파이오니어 펜 판매",
+  "error3206": "가격이 변경되었습니다. 다시 시도해 주세요.",
+  "error3207": "새로 획득한 파이오니어 펜은 단기간 동안 판매 및 양도가 불가능합니다.",
+  "error3208": "직접 판매하는 파이오니어 펜은 구매할 수 없습니다.",
+  "Buypenownlimit": "직접 판매하는 파이오니어 펜은 구매할 수 없습니다.",
+  "tagsell": "팔다",
+  "tagmanage": "관리하다",
+  "tagFrommintomax": "가격이 낮은 것부터 높은 것 순으로",
+  "tagFrommaxtomin": "가격이 높은 것부터 낮은 것 순으로",
+  "txetSellingPrice": "판매 가격",
+  "tagHideInteract": "기록 숨기기",
+  "tagUnhide": "기록 표시"
 }

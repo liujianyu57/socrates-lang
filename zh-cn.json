@@ -1678,5 +1678,19 @@
   "texUseLinked": "请使用关联了{value1}的钱包",
   "textCancelled": "已取消导入钱包",
   "textCancelledWallet": "您已取消导入钱包",
-  "tagRetry": "重试"
+  "tagRetry": "重试",
+  "error3200": "该先锋笔不属于你",
+  "error3202": "先锋笔已下架",
+  "error3203": "先锋笔已售出",
+  "error3206": "该价格变动，请重试",
+  "error3207": "新获得的先锋笔短时间内不能出售和转账",
+  "error3208": "不能购买自己出售的先锋笔",
+  "Buypenownlimit": "不能购买自己出售的先锋笔",
+  "tagsell": "出售",
+  "tagmanage": "管理",
+  "tagFrommintomax": "价格从低到高",
+  "tagFrommaxtomin": "价格从高到低",
+  "txetSellingPrice": "出售价格",
+  "tagHideInteract": "隐藏记录",
+  "tagUnhide": "显示记录"
 }

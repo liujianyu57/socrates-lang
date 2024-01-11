@@ -1678,5 +1678,19 @@
   "texUseLinked": "Use the wallet linked to {value1}.",
   "textCancelled": "Cancelled importing wallet",
   "textCancelledWallet": "You have cancelled importing the wallet.",
-  "tagRetry": "Retry"
+  "tagRetry": "Retry",
+  "error3200": "This Pioneer Pen does not belong to you.",
+  "error3202": "This Pioneer Pen has been delisted.",
+  "error3203": "This Pioneer Pen has been sold.",
+  "error3206": "The price has changed. Please try again.",
+  "error3207": "A newly obtained Pioneer Pen cannot be sold or transferred in a short time.",
+  "error3208": "Buying a sold Pioneer Pen from yourself is not allowed.",
+  "Buypenownlimit": "Buying a sold Pioneer Pen from yourself is not allowed.",
+  "tagsell": "Sell",
+  "tagmanage": "Manage",
+  "tagFrommintomax": "From min. to max. price",
+  "tagFrommaxtomin": "From min. to max. price",
+  "txetSellingPrice": "Selling price",
+  "tagHideInteract": "Hide interactions",
+  "tagUnhide": "Unhide interactions"
 }

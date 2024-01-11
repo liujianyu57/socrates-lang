@@ -1678,5 +1678,19 @@
   "texUseLinked": "",
   "textCancelled": "",
   "textCancelledWallet": "",
-  "tagRetry": ""
+  "tagRetry": "",
+  "error3200": "",
+  "error3202": "",
+  "error3203": "",
+  "error3206": "",
+  "error3207": "",
+  "error3208": "",
+  "Buypenownlimit": "",
+  "tagsell": "",
+  "tagmanage": "",
+  "tagFrommintomax": "",
+  "tagFrommaxtomin": "",
+  "txetSellingPrice": "",
+  "tagHideInteract": "",
+  "tagUnhide": ""
 }

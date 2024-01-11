@@ -1678,5 +1678,19 @@
   "texUseLinked": "Use a carteira associada a {value1}",
   "textCancelled": "Importação de carteira cancelada",
   "textCancelledWallet": "Você cancelou a importação da carteira",
-  "tagRetry": "Tentar novamente"
+  "tagRetry": "Tentar novamente",
+  "error3200": "Esta caneta Pioneer não pertence a você",
+  "error3202": "Caneta Pioneer foi retirada das prateleiras",
+  "error3203": "Caneta Pioneer vendida",
+  "error3206": "O preço mudou, tente novamente",
+  "error3207": "A Pioneer Pen recém-obtida não pode ser vendida ou transferida por um curto período de tempo",
+  "error3208": "Você não pode comprar canetas Pioneer vendidas sozinho",
+  "Buypenownlimit": "Você não pode comprar canetas Pioneer vendidas sozinho",
+  "tagsell": "vender",
+  "tagmanage": "gerenciar",
+  "tagFrommintomax": "Preço de baixo a alto",
+  "tagFrommaxtomin": "Preço de alto a baixo",
+  "txetSellingPrice": "preço de venda",
+  "tagHideInteract": "Ocultar registros",
+  "tagUnhide": "Mostrar registros"
 }

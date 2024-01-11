@@ -1678,5 +1678,19 @@
   "texUseLinked": "Vui lòng sử dụng ví được liên kết với {value1}",
   "textCancelled": "Đã hủy nhập ví",
   "textCancelledWallet": "Bạn đã hủy việc nhập ví",
-  "tagRetry": "Thử lại"
+  "tagRetry": "Thử lại",
+  "error3200": "Chiếc bút Pioneer này không thuộc về bạn",
+  "error3202": "Chiếc bút Pioneer đã được loại bỏ khỏi kệ",
+  "error3203": "Đã bán bút Pioneer",
+  "error3206": "Giá đã thay đổi, vui lòng thử lại",
+  "error3207": "Bút Pioneer mới nhận được không thể bán hoặc chuyển nhượng trong thời gian ngắn",
+  "error3208": "Bạn không thể tự mua bút Pioneer",
+  "Buypenownlimit": "Bạn không thể tự mua bút Pioneer",
+  "tagsell": "bán",
+  "tagmanage": "quản lý",
+  "tagFrommintomax": "giá từ thấp đến cao",
+  "tagFrommaxtomin": "giá từ cao đến thấp",
+  "txetSellingPrice": "giá bán",
+  "tagHideInteract": "Ẩn bản ghi",
+  "tagUnhide": "Hiển thị hồ sơ"
 }

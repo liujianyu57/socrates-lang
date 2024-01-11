@@ -1678,5 +1678,19 @@
   "texUseLinked": "Utilice la billetera asociada con {value1}",
   "textCancelled": "Importación de billetera cancelada",
   "textCancelledWallet": "Has cancelado la importación de la billetera.",
-  "tagRetry": "Rever"
+  "tagRetry": "Rever",
+  "error3200": "Este bolígrafo Pioneer no te pertenece",
+  "error3202": "El bolígrafo Pioneer ha sido retirado de los estantes.",
+  "error3203": "Se vende pluma pionera",
+  "error3206": "El precio ha cambiado, por favor inténtalo de nuevo.",
+  "error3207": "El Pioneer Pen recién obtenido no se puede vender ni transferir durante un corto período de tiempo.",
+  "error3208": "No puedes comprar bolígrafos Pioneer vendidos por ti mismo",
+  "Buypenownlimit": "No puedes comprar bolígrafos Pioneer vendidos por ti mismo",
+  "tagsell": "vender",
+  "tagmanage": "administrar",
+  "tagFrommintomax": "Precio de menor a mayor",
+  "tagFrommaxtomin": "Precio de mayor a menor",
+  "txetSellingPrice": "precio de venta",
+  "tagHideInteract": "Ocultar registros",
+  "tagUnhide": "Mostrar registros"
 }
