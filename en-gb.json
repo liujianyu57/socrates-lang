@@ -1690,5 +1690,6 @@
   "tagmanage": "Manage",
   "tagFrommintomax": "From min. to max. price",
   "tagFrommaxtomin": "From min. to max. price",
-  "txetSellingPrice": "Selling price"
+  "txetSellingPrice": "Selling price",
+  "textapproveinwallet": "Please approve in wallet"
 }

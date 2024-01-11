@@ -1690,5 +1690,6 @@
   "tagmanage": "quản lý",
   "tagFrommintomax": "giá từ thấp đến cao",
   "tagFrommaxtomin": "giá từ cao đến thấp",
-  "txetSellingPrice": "giá bán"
+  "txetSellingPrice": "giá bán",
+  "textapproveinwallet": "Vui lòng phê duyệt trong ví"
 }

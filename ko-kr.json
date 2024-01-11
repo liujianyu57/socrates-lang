@@ -1690,5 +1690,6 @@
   "tagmanage": "관리",
   "tagFrommintomax": "최저가에서 최고가",
   "tagFrommaxtomin": "최저가에서 최고가",
-  "txetSellingPrice": "판매 가격"
+  "txetSellingPrice": "판매 가격",
+  "textapproveinwallet": "지갑에서 승인해주세요"
 }

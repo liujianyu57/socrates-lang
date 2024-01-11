@@ -1690,5 +1690,6 @@
   "tagmanage": "管理",
   "tagFrommintomax": "價格從低到高",
   "tagFrommaxtomin": "價格從高到低",
-  "txetSellingPrice": "出售價格"
+  "txetSellingPrice": "出售價格",
+  "textapproveinwallet": "請在錢包中進行批准"
 }
