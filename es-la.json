@@ -1689,7 +1689,7 @@
   "tagsell": "Vender",
   "tagmanage": "Administrar",
   "tagFrommintomax": "Del precio mínimo al máximo",
-  "tagFrommaxtomin": "Del precio mínimo al máximo",
+  "tagFrommaxtomin": "Del precio máximo al mínimo",
   "txetSellingPrice": "Precio de venta",
   "textapproveinwallet": "Por favor apruebe en la billetera"
 }

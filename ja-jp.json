@@ -1689,7 +1689,7 @@
   "tagsell": "販売",
   "tagmanage": "管理",
   "tagFrommintomax": "最低価格から最高価格まで",
-  "tagFrommaxtomin": "最低価格から最高価格まで",
+  "tagFrommaxtomin": "最高価格から最低価格まで",
   "txetSellingPrice": "販売価格",
   "textapproveinwallet": "ウォレットで承認してください"
 }
