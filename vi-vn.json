@@ -1267,7 +1267,7 @@
   "toastVideoFileTooBig": "Đảm bảo tệp video có dung lượng dưới 1 GB.",
   "votecomplete1": "Đã bình chọn thành công.",
   "textquestionprize1": "Bạn có thể sử dụng điểm và Genesis Pens để tăng mức độ thịnh hành. Nếu câu hỏi được hỗ trợ của bạn trở thành xu hướng, bạn sẽ nhận được Giải thưởng Hỗ trợ.",
-  "textformulaillust": "Điểm phổ biến = 150/[1+e^(-0.001*Số lượng người bình chọn)] + 500/[1+e^(-0.001*Tổng số điểm đóng góp)] + 250/[1+e^(-0.001*Số điểm được cấp)] + 100/[1+e^(-0.001*Số điểm được cấp)]",
+  "textformulaillust": "Điểm phổ biến = {value1}/[1+e^(-{value2}*Số lượng người bình chọn)] + {value3}/[1+e^(-{value4}*Tổng số điểm đóng góp)] + {value5} /[1+e^(-{value6}*Số điểm được cấp)] + {value7}/[1+e^(-{value8}*Số điểm được cấp)]",
   "questionListt": "Xếp hạng mức độ phổ biến",
   "textlistto": "Cần {value1} để được xếp hạng",
   "votehu": "Người ủng hộ",

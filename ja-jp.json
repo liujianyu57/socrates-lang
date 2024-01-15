@@ -1267,7 +1267,7 @@
   "toastVideoFileTooBig": "動画ファイルが1GB以下であることを確認します。",
   "votecomplete1": "投票に成功しました。",
   "textquestionprize1": "人気を高めるためにポイントとGenesis Pensを利用できます。あなたのサポートした質問がトレンド入りした場合、サポート賞を獲得できます。",
-  "textformulaillust": "人気スコア = 150/[1+e^（-0.001*投票者数）] + 500/[1+e^（-0.001*投稿ポイントの総数）] + 250/[1+e^（-0.001*注入ポイント数）] + 100/[1+e^（-0.001*注入ポイント数）]",
+  "textformulaillust": "人気スコア = {value1}/[1+e^（-{value2}*投票者数）] + {value3}/[1+e^（-{value4}*投稿ポイントの総数）] + {value5}/[1+e^（-{value6}*注入ポイント数）] + {value7}/[1+e^（-{value8}*注入ポイント数）]",
   "questionListt": "人気ランキング",
   "textlistto": "ランキング入りには{value1}が必要",
   "votehu": "サポーター",
