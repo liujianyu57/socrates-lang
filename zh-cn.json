@@ -1698,7 +1698,7 @@
   "errorIncorrectVerificationCode": "验证码不正确",
   "textAccountAlreadyExist": "该帐户已存在",
   "textCreateWalletForMe": "为我创建钱包",
-  "textSelectSocratesNetwork": "请选择苏格拉底网络； 一旦选择，以后将无法修改。",
+  "textSelectSocratesNetwork": "请选择Socrates网络； 一旦选择，以后将无法修改。",
   "textMagicLinkProvided": "钱包服务由Magic.link提供",
   "textImportedWallets": "导入钱包",
   "textImportRegisteredWallets": "导入已注册的钱包",
