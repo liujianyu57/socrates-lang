@@ -1669,7 +1669,7 @@
   "textPasswordNotMatch": "两次密码不一致，请重新设置密码。",
   "textOnlyregistered": "仅支持注册用户导入钱包，新用户请使用邮箱注册。",
   "textNotRegistered": "钱包未注册",
-  "textPlzSign": "您导入的钱包未注册Socrates，请使用邮箱进行{value1}",
+  "textPlzSign": "您导入的钱包未注册Socrates，请使用邮箱进行注册",
   "textSignupEmail": "使用邮箱注册",
   "textAccountExists": "账号已存在",
   "textViaEmail": "您导入的钱包为Magic.link钱包，为了您账户的安全，建议使用邮箱继续登录",

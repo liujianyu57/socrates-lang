@@ -1669,7 +1669,7 @@
   "textPasswordNotMatch": "The passwords do not match. Please check your password.",
   "textOnlyregistered": "Only registered users can import their wallet. If you are a first-time user, sign up for Socrates first.",
   "textNotRegistered": "Wallet not registered",
-  "textPlzSign": "The wallet imported is not registered on Socrates. Please {value1} with email.",
+  "textPlzSign": "The wallet imported is not registered on Socrates. Please sign up with email.",
   "textSignupEmail": "Sign up with email",
   "textAccountExists": "Account already exists",
   "textViaEmail": "The wallet you are importing is a Magic Wallet. For account security, it's recommended to log in via e-mail.",
