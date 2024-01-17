@@ -1645,7 +1645,7 @@
   "tagContinue": "Continue",
   "tagOR": "OR",
   "tagThroughGoogle": "Continue with Google",
-  "textEmailcannotEmpty": "The email address feild cannot be left empty.",
+  "textEmailcannotEmpty": "The email address faild cannot be left empty.",
   "textWrongEmail": "Invalid email address.",
   "textWrongVeriCode": "Incorrect verification code.",
   "textCreateWallet1": "Create wallet",
