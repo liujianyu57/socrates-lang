@@ -1719,5 +1719,6 @@
   "textWalletIsNotRegistered": "Billetera no registrada.",
   "textWalletIsNotRegisteredPleaseRegisterWithEmail": "La billetera no está registrada. Regístrate con un correo electrónico.",
   "textRegisterWithEmail": "Regístrarse con un correo electrónico",
-  "textMagicUseEmail": "Estás vinculando a Magic Wallter en tu cuenta. Para la seguridad de la cuenta, inicia sesión en Socrates con tu correo electrónico."
+  "textMagicUseEmail": "Estás vinculando a Magic Wallter en tu cuenta. Para la seguridad de la cuenta, inicia sesión en Socrates con tu correo electrónico.",
+  "textAutoRegistered": "Una vez que se haya verificado el correo electrónico, este quedará automáticamente registrado con Socrates."
 }

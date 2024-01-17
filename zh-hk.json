@@ -1719,5 +1719,6 @@
   "textWalletIsNotRegistered": "錢包未註冊",
   "textWalletIsNotRegisteredPleaseRegisterWithEmail": "錢包未註冊，請使用郵箱註冊",
   "textRegisterWithEmail": "使用郵箱註冊",
-  "textMagicUseEmail": "你連接的錢包為 Magic.link 錢包，為了你帳戶的安全，建議使用郵箱繼續登入"
+  "textMagicUseEmail": "你連接的錢包為 Magic.link 錢包，為了你帳戶的安全，建議使用郵箱繼續登入",
+  "textAutoRegistered": "當未註冊的郵箱驗證成功後將自動註冊"
 }

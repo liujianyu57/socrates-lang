@@ -1719,5 +1719,6 @@
   "textWalletIsNotRegistered": "지갑이 등록되어 있지 않습니다.",
   "textWalletIsNotRegisteredPleaseRegisterWithEmail": "지갑이 등록되어 있지 않습니다. 이메일로 가입하십시오.",
   "textRegisterWithEmail": "이메일로 가입",
-  "textMagicUseEmail": "Magic Wallet을 계정에 연결합니다. 계정 보안을 위해 이메일로 Socrates에 로그인하십시오."
+  "textMagicUseEmail": "Magic Wallet을 계정에 연결합니다. 계정 보안을 위해 이메일로 Socrates에 로그인하십시오.",
+  "textAutoRegistered": "이메일이 인증되면 Socrates에 자동으로 등록됩니다."
 }

@@ -1719,5 +1719,6 @@
   "textWalletIsNotRegistered": "Carteira não registrada.",
   "textWalletIsNotRegisteredPleaseRegisterWithEmail": "A carteira não está registrada. Registre-se usando seu e-mail.",
   "textRegisterWithEmail": "Registrar-se usando seu e-mail",
-  "textMagicUseEmail": "Você está vinculando uma Magic Wallet à sua conta. Para proteger sua conta, faça login no Socrates usando seu e-mail."
+  "textMagicUseEmail": "Você está vinculando uma Magic Wallet à sua conta. Para proteger sua conta, faça login no Socrates usando seu e-mail.",
+  "textAutoRegistered": "Assim que a verificação do seu e-mail for concluída, ele será automaticamente registrado no Socrates."
 }

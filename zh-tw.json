@@ -1540,7 +1540,7 @@
   "pointType352": "答題消耗積分",
   "pointType353": "答對獎勵積分",
   "textPointRefunded": "問題結束，積分退還提問者",
-  "textPointsBeHeld": "建立快問快答需要注入積分以獎勵回答正確的使用者，問題過期無答題或回答錯誤時，積分將會全部退還。_x005f_x000D_\n\n投入積分 = 參與問題所需積分 * 問題獎勵比率。其中兩選項問題獎勵比率為 1，三選項問題獎勵比率為 2，四選項問題獎勵比率為 3",
+  "textPointsBeHeld": "建立快問快答需要注入積分以獎勵回答正確的使用者，問題過期無答題或回答錯誤時，積分將會全部退還。_x005f\r\n\n投入積分 = 參與問題所需積分 * 問題獎勵比率。其中兩選項問題獎勵比率為 1，三選項問題獎勵比率為 2，四選項問題獎勵比率為 3",
   "textPopExpired": "該問題已過期，無法投票。",
   "textPopHistory": "快問快答歷史記錄",
   "textTransferPioneer": "轉讓先鋒筆",
@@ -1719,5 +1719,6 @@
   "textWalletIsNotRegistered": "錢包未註冊",
   "textWalletIsNotRegisteredPleaseRegisterWithEmail": "錢包未註冊，請使用電子郵件地址註冊",
   "textRegisterWithEmail": "使用電子郵件地址註冊",
-  "textMagicUseEmail": "您連線的錢包為 Magic.link 錢包，為了您帳戶的安全，建議使用電子郵件地址繼續登入"
+  "textMagicUseEmail": "您連線的錢包為 Magic.link 錢包，為了您帳戶的安全，建議使用電子郵件地址繼續登入",
+  "textAutoRegistered": "當未註冊的郵箱驗證成功後將自動註冊"
 }

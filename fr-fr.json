@@ -1719,5 +1719,6 @@
   "textWalletIsNotRegistered": "Portefeuille non enregistré.",
   "textWalletIsNotRegisteredPleaseRegisterWithEmail": "Le portefeuille n'est pas enregistré. Veuillez vous inscrire avec l’adresse de courriel.",
   "textRegisterWithEmail": "Inscription avec adresse de courriel",
-  "textMagicUseEmail": "Vous êtes en train de lier un portefeuille Magic Wallet à votre compte. Pour des raisons de sécurité, veuillez vous connecter à votre Socrates avec votre adresse de courriel."
+  "textMagicUseEmail": "Vous êtes en train de lier un portefeuille Magic Wallet à votre compte. Pour des raisons de sécurité, veuillez vous connecter à votre Socrates avec votre adresse de courriel.",
+  "textAutoRegistered": "Une fois votre adresse de messagerie vérifiée, elle sera automatiquement enregistrée auprès de Socrates."
 }

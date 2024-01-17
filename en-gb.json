@@ -1645,7 +1645,7 @@
   "tagContinue": "Continue",
   "tagOR": "OR",
   "tagThroughGoogle": "Continue with Google",
-  "textEmailcannotEmpty": "The email address faild cannot be left empty.",
+  "textEmailcannotEmpty": "The email address field cannot be left empty.",
   "textWrongEmail": "Invalid email address.",
   "textWrongVeriCode": "Incorrect verification code.",
   "textCreateWallet1": "Create wallet",
@@ -1719,5 +1719,6 @@
   "textWalletIsNotRegistered": "Wallet not registered.",
   "textWalletIsNotRegisteredPleaseRegisterWithEmail": "The wallet is not registered. Please sign up with email.",
   "textRegisterWithEmail": "Sign up with email",
-  "textMagicUseEmail": "You are linking a Magic Wallet to your account. For accout security, please log in to Socrates with your email."
+  "textMagicUseEmail": "You are linking a Magic Wallet to your account. For accout security, please log in to Socrates with your email.",
+  "textAutoRegistered": "Once your email is verified, it will automatically be registered with Socrates."
 }

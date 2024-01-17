@@ -1719,5 +1719,6 @@
   "textWalletIsNotRegistered": "Ví chưa được đăng ký.",
   "textWalletIsNotRegisteredPleaseRegisterWithEmail": "Ví chưa được đăng ký. Vui lòng đăng ký bằng email.",
   "textRegisterWithEmail": "Đăng ký với email",
-  "textMagicUseEmail": "Bạn đang liên kết Magic Wallet với tài khoản của mình. Để bảo mật tài khoản, vui lòng đăng nhập Socrates bằng email của bạn."
+  "textMagicUseEmail": "Bạn đang liên kết Magic Wallet với tài khoản của mình. Để bảo mật tài khoản, vui lòng đăng nhập Socrates bằng email của bạn.",
+  "textAutoRegistered": "Sau khi đã xác minh email của bạn, nó sẽ tự động được đăng ký với Socrates."
 }

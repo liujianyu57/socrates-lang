@@ -1719,5 +1719,6 @@
   "textWalletIsNotRegistered": "钱包未注册",
   "textWalletIsNotRegisteredPleaseRegisterWithEmail": "钱包未注册，请使用邮箱注册",
   "textRegisterWithEmail": "使用邮箱注册",
-  "textMagicUseEmail": "您连接的钱包为Magic.link钱包，为了您账户的安全，建议使用邮箱继续登录"
+  "textMagicUseEmail": "您连接的钱包为Magic.link钱包，为了您账户的安全，建议使用邮箱继续登录",
+  "textAutoRegistered": "当未注册的邮箱验证成功后将自动注册"
 }

@@ -1719,5 +1719,6 @@
   "textWalletIsNotRegistered": "Cüzdan kayıtlı değil.",
   "textWalletIsNotRegisteredPleaseRegisterWithEmail": "Cüzdan kayıtlı değil. Lütfen e-posta ile kaydolun.",
   "textRegisterWithEmail": "E-posta ile kaydol",
-  "textMagicUseEmail": "Hesabınıza bir Magic Wallet bağlıyorsunuz. Hesap güvenliği için lütfen Socrates'te e-postanız ile oturum açın."
+  "textMagicUseEmail": "Hesabınıza bir Magic Wallet bağlıyorsunuz. Hesap güvenliği için lütfen Socrates'te e-postanız ile oturum açın.",
+  "textAutoRegistered": "E-postanız doğrulandığında, otomatik olarak Socrates'e kaydolur."
 }

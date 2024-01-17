@@ -1719,5 +1719,6 @@
   "textWalletIsNotRegistered": "ウォレットが未登録です。",
   "textWalletIsNotRegisteredPleaseRegisterWithEmail": "ウォレットが登録されていません。電子メールでサインアップしてください。",
   "textRegisterWithEmail": "電子メールでサインアップ",
-  "textMagicUseEmail": "Magic Walletをお使いのアカウントにリンクしています。アカウントのセキュリティのため、Socratesには電子メールでログインしてください。"
+  "textMagicUseEmail": "Magic Walletをお使いのアカウントにリンクしています。アカウントのセキュリティのため、Socratesには電子メールでログインしてください。",
+  "textAutoRegistered": "電子メールが認証されると、自動的にSocratesに登録されます。"
 }
