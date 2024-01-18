@@ -1540,7 +1540,7 @@
   "pointType352": "Pontos para os participantes",
   "pointType353": "Recompensas para os participantes",
   "textPointRefunded": "Os pontos serão reembolsados ao criador do teste após o término dele.",
-  "textPointsBeHeld": "Ao criar um questionário, deve-se atribuir pontos para recompensar o usuário que responder corretamente. Caso ninguém responda ao questionário ou o questionário seja respondido incorretamente, os pontos atribuídos serão reembolsados.\n\nNúmero de pontos atribuídos = Número de pontos necessários para a participação * Índice de recompensa do questionário. \n\nA proporção de recompensa para perguntas com duas, três e quatro opções é de 1:1, 2:1 e 3:1, respectivamente.",
+  "textPointsBeHeld": "Perguntas Rápidas e Respostas Rápidas começam com uma parte das fichas para premiar o vencedor e para a comissão da plataforma. Se ninguém responder após a pergunta terminar, o criador da pergunta será reembolsado.",
   "textPopExpired": "Esta pergunta expirou.",
   "textPopHistory": "Teste rápido",
   "textTransferPioneer": "Transferir Pioneer Pen",
@@ -1720,5 +1720,7 @@
   "textWalletIsNotRegisteredPleaseRegisterWithEmail": "A carteira não está registrada. Registre-se usando seu e-mail.",
   "textRegisterWithEmail": "Registrar-se usando seu e-mail",
   "textMagicUseEmail": "Você está vinculando uma Magic Wallet à sua conta. Para proteger sua conta, faça login no Socrates usando seu e-mail.",
-  "textAutoRegistered": "Assim que a verificação do seu e-mail for concluída, ele será automaticamente registrado no Socrates."
+  "textAutoRegistered": "Assim que a verificação do seu e-mail for concluída, ele será automaticamente registrado no Socrates.",
+  "pointType356": "Recompensa para o criador do quiz",
+  "pointType357": "Taxas da plataforma"
 }

@@ -1540,7 +1540,7 @@
   "pointType352": "Điểm cho người tham gia",
   "pointType353": "Phần thưởng cho người tham gia",
   "textPointRefunded": "Điểm sẽ được hoàn lại cho người tạo bài kiểm tra sau khi kết thúc kiểm tra.",
-  "textPointsBeHeld": "Khi tạo một bài kiểm tra phổ biến, bạn cần cộng điểm để thưởng cho người dùng trả lời đúng. Nếu không có ai trả lời câu hỏi hoặc câu hỏi trả lời sai, số điểm đã thêm của bạn sẽ được hoàn lại.\n\nSố điểm đã thêm = Số điểm cần thiết để tham gia * Tỷ lệ phần thưởng của bài kiểm tra.\n\nTỷ lệ phần thưởng cho các câu hỏi có hai, ba và bốn tùy chọn lần lượt là 1:1, 2:1 và 3:1.",
+  "textPointsBeHeld": "Câu hỏi và trả lời nhanh bắt đầu với một phần của token để thưởng cho người chiến thắng và phí của nền tảng. Nếu không ai trả lời sau khi câu hỏi kết thúc, người tạo câu hỏi sẽ được hoàn trả token.",
   "textPopExpired": "Câu hỏi này đã hết hạn.",
   "textPopHistory": "Kiểm tra ngắn",
   "textTransferPioneer": "Chuyển Pioneer Pen",
@@ -1720,5 +1720,7 @@
   "textWalletIsNotRegisteredPleaseRegisterWithEmail": "Ví chưa được đăng ký. Vui lòng đăng ký bằng email.",
   "textRegisterWithEmail": "Đăng ký với email",
   "textMagicUseEmail": "Bạn đang liên kết Magic Wallet với tài khoản của mình. Để bảo mật tài khoản, vui lòng đăng nhập Socrates bằng email của bạn.",
-  "textAutoRegistered": "Sau khi đã xác minh email của bạn, nó sẽ tự động được đăng ký với Socrates."
+  "textAutoRegistered": "Sau khi đã xác minh email của bạn, nó sẽ tự động được đăng ký với Socrates.",
+  "pointType356": "Phần thưởng cho người tạo quiz",
+  "pointType357": "Phí của nền tảng"
 }

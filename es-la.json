@@ -1540,7 +1540,7 @@
   "pointType352": "Puntos para los participantes",
   "pointType353": "Recompensas para los participantes",
   "textPointRefunded": "Los puntos se reintegrarán al creador del cuestionario una vez haya finalizado.",
-  "textPointsBeHeld": "Al crear un cuestionario sorpresa, es necesario inyectar puntos para recompensar al usuario que responda correctamente. Si nadie responde el cuestionario sorpresa o responden al cuestionario de forma incorrecta, se te reembolsarán los puntos inyectados.\n\nLa cantidad de puntos inyectados es igual a la cantidad de puntos requeridos para la participación multiplicado por el índice de recompensa del cuestionario.\n\nEl índice de recompensa para las preguntas con dos, tres o cuatro opciones es de 1:1, 2:1, y 3:1 respectivamente.",
+  "textPointsBeHeld": "Las Preguntas y Respuestas Rápidas comienzan con una parte de las fichas para recompensar al ganador y para la comisión de la plataforma. Si nadie responde después de que la pregunta termine, el creador de la pregunta recibirá un reembolso.",
   "textPopExpired": "Esta pregunta ha expirado.",
   "textPopHistory": "Cuestionario sorpresa",
   "textTransferPioneer": "Transferir Pioneer Pen",
@@ -1720,5 +1720,7 @@
   "textWalletIsNotRegisteredPleaseRegisterWithEmail": "La billetera no está registrada. Regístrate con un correo electrónico.",
   "textRegisterWithEmail": "Regístrarse con un correo electrónico",
   "textMagicUseEmail": "Estás vinculando a Magic Wallter en tu cuenta. Para la seguridad de la cuenta, inicia sesión en Socrates con tu correo electrónico.",
-  "textAutoRegistered": "Una vez que se haya verificado el correo electrónico, este quedará automáticamente registrado con Socrates."
+  "textAutoRegistered": "Una vez que se haya verificado el correo electrónico, este quedará automáticamente registrado con Socrates.",
+  "pointType356": "Recompensa para el creador del quiz",
+  "pointType357": "Tarifas de la plataforma"
 }

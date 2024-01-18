@@ -1540,7 +1540,7 @@
   "pointType352": "答题消耗积分",
   "pointType353": "答对奖励积分",
   "textPointRefunded": "问题结束积分返还提问者",
-  "textPointsBeHeld": "创建快问快答需要注入积分以奖励回答正确的用户，问题过期无答题或回答错误时，积分将会全部退还。\n\n投入积分 = 参与问题所需积分 * 问题奖励比率。其中两选项问题奖励比率为1，三选项问题奖励比率为2，四选项问题奖励比率为3",
+  "textPointsBeHeld": "快问快答会先注入部分积分，用于奖励获胜的人和平台抽成；如问题结束后无人回答，出题人投入积分返还。",
   "textPopExpired": "该问题已过期，无法投票。",
   "textPopHistory": "快问快答历史记录",
   "textTransferPioneer": "转让先锋笔",
@@ -1720,5 +1720,7 @@
   "textWalletIsNotRegisteredPleaseRegisterWithEmail": "钱包未注册，请使用邮箱注册",
   "textRegisterWithEmail": "使用邮箱注册",
   "textMagicUseEmail": "您连接的钱包为Magic.link钱包，为了您账户的安全，建议使用邮箱继续登录",
-  "textAutoRegistered": "当未注册的邮箱验证成功后将自动注册"
+  "textAutoRegistered": "当未注册的邮箱验证成功后将自动注册",
+  "pointType356": "快问快答提问者抽成",
+  "pointType357": "快问快答平台抽成"
 }

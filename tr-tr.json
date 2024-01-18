@@ -1540,7 +1540,7 @@
   "pointType352": "Katılımcılar için puanlar",
   "pointType353": "Katılımcılar için ödüller",
   "textPointRefunded": "Test sona erdiğinde puanlar testi oluşturan kişiye geri gönderilir.",
-  "textPointsBeHeld": "Hızlı test oluşturulduğunda, doğru yanıt veren kullanıcıyı ödüllendirmek için puan eklemeniz gerekir. Kimse testi yanıtlamazsa veya test hatalı bir şekilde yanıtlanırsa eklenen puanlarınız iade edilir.\n\nEklenen puan sayısı = Katılmak için gerekli puan * Testin ödül oranı. \n\nİki, üç ve dört seçenekli soruların ödül oranı, sırasıyla 1:1, 2:1 ve 3:1 şeklindedir.",
+  "textPointsBeHeld": "Hızlı Soru ve Hızlı Cevaplar, kazananı ödüllendirmek ve platform komisyonu için bazı jetonlarla başlar. Soru sona erdikten sonra kimse cevap vermezse, soru sahibine jeton iadesi yapılır.",
   "textPopExpired": "Bu sorunun süresi sona erdi.",
   "textPopHistory": "Hızlı test",
   "textTransferPioneer": "Pioneer Pen'i Aktar",
@@ -1720,5 +1720,7 @@
   "textWalletIsNotRegisteredPleaseRegisterWithEmail": "Cüzdan kayıtlı değil. Lütfen e-posta ile kaydolun.",
   "textRegisterWithEmail": "E-posta ile kaydol",
   "textMagicUseEmail": "Hesabınıza bir Magic Wallet bağlıyorsunuz. Hesap güvenliği için lütfen Socrates'te e-postanız ile oturum açın.",
-  "textAutoRegistered": "E-postanız doğrulandığında, otomatik olarak Socrates'e kaydolur."
+  "textAutoRegistered": "E-postanız doğrulandığında, otomatik olarak Socrates'e kaydolur.",
+  "pointType356": "Quiz oluşturanın ödülü",
+  "pointType357": "Platform ücretleri"
 }

@@ -1540,7 +1540,7 @@
   "pointType352": "Points pour les participants",
   "pointType353": "Récompenses pour les participants",
   "textPointRefunded": "Les points seront restitués au créateur du jeu-questionnaire lorsque celui-ci est terminé.",
-  "textPointsBeHeld": "Lorsque vous créez un quiz pop, vous devez injecter des points pour récompenser les utilisateur qui répondent correctement. Si personne ne répond au quiz ou si les réponses au quiz sont incorrectes, vos points injectés vous seront remboursés.\n\nNombre de points injectés = Nombre de points requis pour la participation * Ratio de récompense du quiz. \n\nLe ratio de récompense pour les questions avec deux, trois et quatre options est respectivement de 1:1, 2:1 et 3:1.",
+  "textPointsBeHeld": "Les Questions Rapides et Réponses Rapides commencent avec une partie des jetons pour récompenser le gagnant et pour la commission de la plateforme. Si personne ne répond après la fin de la question, le créateur de la question sera remboursé.",
   "textPopExpired": "Cette question a expiré.",
   "textPopHistory": "Jeu-questionnaire",
   "textTransferPioneer": "Transférer le Pioneer Pen",
@@ -1720,5 +1720,7 @@
   "textWalletIsNotRegisteredPleaseRegisterWithEmail": "Le portefeuille n'est pas enregistré. Veuillez vous inscrire avec l’adresse de courriel.",
   "textRegisterWithEmail": "Inscription avec adresse de courriel",
   "textMagicUseEmail": "Vous êtes en train de lier un portefeuille Magic Wallet à votre compte. Pour des raisons de sécurité, veuillez vous connecter à votre Socrates avec votre adresse de courriel.",
-  "textAutoRegistered": "Une fois votre adresse de messagerie vérifiée, elle sera automatiquement enregistrée auprès de Socrates."
+  "textAutoRegistered": "Une fois votre adresse de messagerie vérifiée, elle sera automatiquement enregistrée auprès de Socrates.",
+  "pointType356": "Récompense pour le créateur du quiz",
+  "pointType357": "Frais de la plateforme"
 }

@@ -1540,7 +1540,7 @@
   "pointType352": "참여자를 위한 포인트",
   "pointType353": "참여자에 대한 보상",
   "textPointRefunded": "퀴즈가 끝나면 퀴즈 생성자에게 포인트가 환불됩니다.",
-  "textPointsBeHeld": "깜짝 퀴즈를 만들려면 정답을 맞힌 사용자에게 보상으로 제공할 포인트를 주입해야 합니다. 아무도 퀴즈에 답하지 않거나 답이 틀릴 경우 주입된 포인트는 환불됩니다.\n\n주입된 포인트 = 참여에 필요한 포인트 * 퀴즈의 보상 비율. \n\n2, 3, 4 옵션이 적용된 질문의 보상 비율은 각각 1:1, 2:1, 3:1입니다.",
+  "textPointsBeHeld": "빠른 질문과 답변은 승자에게 보상과 플랫폼 수수료를 위한 일부 토큰을 사용합니다. 질문이 종료된 후에도 답변이 없는 경우 질문 생성자에게 토큰이 환불됩니다.",
   "textPopExpired": "이 질문은 만료되었습니다.",
   "textPopHistory": "깜짝 퀴즈",
   "textTransferPioneer": "Pioneer Pen 전송",
@@ -1720,5 +1720,7 @@
   "textWalletIsNotRegisteredPleaseRegisterWithEmail": "지갑이 등록되어 있지 않습니다. 이메일로 가입하십시오.",
   "textRegisterWithEmail": "이메일로 가입",
   "textMagicUseEmail": "Magic Wallet을 계정에 연결합니다. 계정 보안을 위해 이메일로 Socrates에 로그인하십시오.",
-  "textAutoRegistered": "이메일이 인증되면 Socrates에 자동으로 등록됩니다."
+  "textAutoRegistered": "이메일이 인증되면 Socrates에 자동으로 등록됩니다.",
+  "pointType356": "퀴즈 제작자 보상",
+  "pointType357": "플랫폼 수수료"
 }

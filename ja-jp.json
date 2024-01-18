@@ -1540,7 +1540,7 @@
   "pointType352": "参加者へのポイント",
   "pointType353": "参加者への報酬",
   "textPointRefunded": "クイズが終了した後、ポイントはクイズ作成者に返還されます。",
-  "textPointsBeHeld": "抜き打ちクイズを作成する場合は、正解したユーザーに報酬を与えるためにポイントを投入する必要があります。誰もクイズに回答しない場合、またはクイズが不正解の場合、投入されたポイントは返されます。\n\n投入されたポイント数 = 参加に必要なポイント数 * クイズの報酬率。\n\n2つ、3つ、そして4つの選択肢がある質問の報酬比は、それぞれ1:1、2:1、そして3:1です。",
+  "textPointsBeHeld": "クイッククエスチョン＆アンサーでは、一部のトークンが勝者への報酬とプラットフォーム手数料に使われます。質問が終了しても回答がない場合、質問者にトークンが返金されます。",
   "textPopExpired": "この質問は終了しました。",
   "textPopHistory": "抜き打ちクイズ",
   "textTransferPioneer": "Pioneer Penを送る",
@@ -1720,5 +1720,7 @@
   "textWalletIsNotRegisteredPleaseRegisterWithEmail": "ウォレットが登録されていません。電子メールでサインアップしてください。",
   "textRegisterWithEmail": "電子メールでサインアップ",
   "textMagicUseEmail": "Magic Walletをお使いのアカウントにリンクしています。アカウントのセキュリティのため、Socratesには電子メールでログインしてください。",
-  "textAutoRegistered": "電子メールが認証されると、自動的にSocratesに登録されます。"
+  "textAutoRegistered": "電子メールが認証されると、自動的にSocratesに登録されます。",
+  "pointType356": "クイズ作成者への報酬",
+  "pointType357": "プラットフォーム手数料"
 }
