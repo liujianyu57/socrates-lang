@@ -1793,5 +1793,6 @@
   "text4Million": "400 萬 SOC 空投",
   "textFirstAirdrop": "Socrates 第一個社區激勵空投",
   "textOlnyClaimETH": "只能在 Ethereum Mainnet 上領取 SOC，請提前準備好充足的 ETH 作為 Gas 費用。",
-  "btnClaimAirdrop": ""
+  "btnClaimAirdrop": "領取我的空投獎勵",
+  "btnForYou": "推薦"
 }

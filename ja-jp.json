@@ -1793,5 +1793,6 @@
   "text4Million": "400万SOCのエアドロップ",
   "textFirstAirdrop": "Socrates初のコミュニティインセンティブのエアドロップ",
   "textOlnyClaimETH": "SOCはEthereum Mainnetのみで請求できます。あなたがガス代をカバーするのに十分なETHを持っていることを確認します。",
-  "btnClaimAirdrop": ""
+  "btnClaimAirdrop": "私のエアドロップの報酬を請求する",
+  "btnForYou": "あなたのために"
 }

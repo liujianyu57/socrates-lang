@@ -1793,5 +1793,6 @@
   "text4Million": "4 Million SOC Airdrop",
   "textFirstAirdrop": "Socrates' first community incentive airdrop",
   "textOlnyClaimETH": "The SOC can only be claimed on the Ethereum Mainnet. Ensure you have enough ETH to cover the gas fee.",
-  "btnClaimAirdrop": "Claim my airdrop rewards"
+  "btnClaimAirdrop": "Claim my airdrop rewards",
+  "btnForYou": "For you"
 }
