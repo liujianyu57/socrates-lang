@@ -1759,7 +1759,7 @@
   "textTie": "平局",
   "textNoOneJoin": "无人参与",
   "textMyDebate": "我的辩论记录",
-  "textVoteDebate": "投票辩论",
+  "textVoteDebate": "已投票",
   "textswitchETH": "切换网络至Ethereum Mainnet",
   "textSOCSwitchEth": "由于SOC是发行在Ethereum Mainnet上的代币，需要切换至该网络才能进行转账。",
   "tagAmountSOC": "数量",

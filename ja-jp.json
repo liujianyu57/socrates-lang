@@ -1759,7 +1759,7 @@
   "textTie": "引き分けで終了",
   "textNoOneJoin": "誰もディベートに参加しませんでした。",
   "textMyDebate": "マイディベート",
-  "textVoteDebate": "投票済み",
+  "textVoteDebate": "投票",
   "textswitchETH": "Ethereum Mainnetへの切り替え",
   "textSOCSwitchEth": "SOCトークンはEthereum Mainnetで発行されるため、資金を送るにはEthereum Mainnetに切り替える必要があります。",
   "tagAmountSOC": "金額",
