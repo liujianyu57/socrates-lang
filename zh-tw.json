@@ -1734,7 +1734,7 @@
   "tagAddArgument": "發佈辯論觀點",
   "textWriteArgument": "寫下您的辯論觀點",
   "tagArgument": "辨論觀點",
-  "textDebateCost": "您將作為 {Value1} 加入辯論。加入辯論需投入 {value2} 積分作為辯論問題一部分獎金，贏得辯論可獲得獎金。",
+  "textDebateCost": "您將作為 {value1} 加入辯論。加入辯論需投入 {value2} 積分作為辯論問題一部分獎金，贏得辯論可獲得獎金。",
   "textValueDebate": "{value1}",
   "textWriteArgument1": "寫下您的論點",
   "textJoining": "加入中",

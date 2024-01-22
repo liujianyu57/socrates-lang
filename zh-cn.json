@@ -1734,7 +1734,7 @@
   "tagAddArgument": "发布辩论观点",
   "textWriteArgument": "写下你的辩论观点",
   "tagArgument": "辨论观点",
-  "textDebateCost": "你将作为{Value1}加入辩论。加入辩论需投入{value2}积分作为辩论问题一部分奖金，赢得辩论可获得奖金。",
+  "textDebateCost": "你将作为{value1}加入辩论。加入辩论需投入{value2}积分作为辩论问题一部分奖金，赢得辩论可获得奖金。",
   "textValueDebate": "{value1}",
   "textWriteArgument1": "写下你的论点",
   "textJoining": "加入中",
