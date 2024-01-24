@@ -1755,7 +1755,7 @@
   "textOnlyJoinCan": "Seul le participant au débat peut ajouter des arguments.",
   "textCannotVote": "Vous ne pouvez pas voter sur le débat auquel vous avez participé.",
   "textSideWin": "Le camp {value1} l’emporte",
-  "textSideWinRewards": "Le camp {value1} l’emporte. Le camp {value2} et les utilisateurs qui votent sur {value2} peuvent gagner des points en guise de récompense.",
+  "textSideWinRewards": "Le camp {value1} l’emporte. Le camp {value1} et les utilisateurs qui votent sur {value1} peuvent gagner des points en guise de récompense.",
   "textTie": "Se termine par un match nul",
   "textNoOneJoin": "Personne n’a rejoint le débat.",
   "textMyDebate": "Mes débats",

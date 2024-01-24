@@ -1755,7 +1755,7 @@
   "textOnlyJoinCan": "Only the debate participant can add arguments.",
   "textCannotVote": "You cannot vote on the debate you participated in.",
   "textSideWin": "The {value1} side wins",
-  "textSideWinRewards": "The {value1} side wins. Both the {value2} side and users who vote on {value2} can earn points as rewards.",
+  "textSideWinRewards": "The {value1} side wins. Both the {value1} side and users who vote on {value1} can earn points as rewards.",
   "textTie": "End in a tie",
   "textNoOneJoin": "No one joined the debate.",
   "textMyDebate": "My debates",

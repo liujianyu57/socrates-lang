@@ -1755,7 +1755,7 @@
   "textOnlyJoinCan": "토론 참가자만 논쟁을 추가할 수 있습니다.",
   "textCannotVote": "참여한 토론에는 투표할 수 없습니다.",
   "textSideWin": "{value1} 측 승리",
-  "textSideWinRewards": "{value1} 측 승리. {value2} 측과 {value2}에 투표한 사용자 모두 포인트를 보상으로 획득할 수 있습니다.",
+  "textSideWinRewards": "{value1} 측 승리. {value1} 측과 {value1}에 투표한 사용자 모두 포인트를 보상으로 획득할 수 있습니다.",
   "textTie": "무승부로 종료",
   "textNoOneJoin": "토론에 참여한 사람이 없습니다.",
   "textMyDebate": "내 토론",

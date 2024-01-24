@@ -1755,7 +1755,7 @@
   "textOnlyJoinCan": "Yalnızca tartışmaya katılan kişi görüş ekleyebilir.",
   "textCannotVote": "Katıldığınız bir tartışmada oy veremezsiniz.",
   "textSideWin": "{value1} tarafı kazandı",
-  "textSideWinRewards": "{value1} tarafı kazandı. Her iki {value2} tarafı ve {value2} ile ilgili oy veren kullanıcılar ödül olarak puan kazanabilir.",
+  "textSideWinRewards": "{value1} tarafı kazandı. Her iki {value1} tarafı ve {value1} ile ilgili oy veren kullanıcılar ödül olarak puan kazanabilir.",
   "textTie": "Berabere bitir",
   "textNoOneJoin": "Tartışmaya kimse katılmadı.",
   "textMyDebate": "Tartışmalarım",

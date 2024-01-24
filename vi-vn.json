@@ -1755,7 +1755,7 @@
   "textOnlyJoinCan": "Chỉ người tham gia tranh luận mới có thể thêm lập luận.",
   "textCannotVote": "Bạn không thể bình chọn cho cuộc tranh luận mà bạn đã tham gia.",
   "textSideWin": "Bên {value1} thắng",
-  "textSideWinRewards": "Bên {value1} thắng. Cả hai bên {value2} và người dùng bình chọn {value2} đều có thể kiếm được điểm làm phần thưởng.",
+  "textSideWinRewards": "Bên {value1} thắng. Cả hai bên {value1} và người dùng bình chọn {value1} đều có thể kiếm được điểm làm phần thưởng.",
   "textTie": "Kết thúc hòa",
   "textNoOneJoin": "Không có ai tham gia cuộc tranh luận.",
   "textMyDebate": "Cuộc tranh luận của tôi",
