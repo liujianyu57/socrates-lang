@@ -1755,7 +1755,7 @@
   "textOnlyJoinCan": "Apenas o participante do debate pode adicionar argumentos.",
   "textCannotVote": "Não pode votar no debate em que participou.",
   "textSideWin": "O lado {value1} ganhou",
-  "textSideWinRewards": "O lado {value1} ganhou. Tanto o lado {value1} como os utilizadores que votaram em {value1} podem ganhar pontos como prémios.",
+  "textSideWinRewards": "{value1} ganha, o orador e todos que votaram no orador podem receber recompensas em pontos.",
   "textTie": "Terminar com um empate",
   "textNoOneJoin": "Ninguém se juntou ao debate.",
   "textMyDebate": "Os meus debates",

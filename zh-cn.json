@@ -1755,7 +1755,7 @@
   "textOnlyJoinCan": "没有参与辩论，不可以发表观点",
   "textCannotVote": "不可以给自己参与辩论的问题投票",
   "textSideWin": "{value1}胜",
-  "textSideWinRewards": "{value1}获胜，辩手和所有给{value1}投票的人都可以获得积分奖励。",
+  "textSideWinRewards": "{value1}获胜，辩手和所有给辩手投票的人都可以获得积分奖励。",
   "textTie": "平局",
   "textNoOneJoin": "无人参与",
   "textMyDebate": "我的辩论记录",

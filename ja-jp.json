@@ -1755,7 +1755,7 @@
   "textOnlyJoinCan": "ディベートの参加者のみが主張を加えることができます。",
   "textCannotVote": "自分が参加したディベートに投票することはできません。",
   "textSideWin": "{value1}のポジションが勝利",
-  "textSideWinRewards": "{value1}のポジションが勝利。{value1}のポジションも、{value1}に投票したユーザーも、報酬としてポイントを獲得できます。",
+  "textSideWinRewards": "{value1} 勝利、ディベーター及びそのディベーターに投票した全員がポイント報酬を得ることができます。",
   "textTie": "引き分けで終了",
   "textNoOneJoin": "誰もディベートに参加しませんでした。",
   "textMyDebate": "マイディベート",
