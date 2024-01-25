@@ -1814,5 +1814,6 @@
   "text1vNearnpoints": "おめでとうございます！{value1}ポイントを獲得しました。",
   "text1vNPoints": "正解の投票者：{value1}人、失ったポイント：{value2}ポイント。",
   "text1vNearnd": "不正解の投票者：{value1}人、獲得したポイント：{value2}ポイント。",
-  "text1vNrefunded": "{value1}ポイントが返されました。"
+  "text1vNrefunded": "{value1}ポイントが返されました。",
+  "textSecond": "秒"
 }

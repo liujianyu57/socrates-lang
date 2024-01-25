@@ -1814,5 +1814,6 @@
   "text1vNearnpoints": "Parabéns! Ganhou {value1} pontos.",
   "text1vNPoints": "Votantes que responderam corretamente: {value1}; Pontos que perdeu: {value2}.",
   "text1vNearnd": "Votantes que responderam incorretamente: {value1}; Pontos que ganhou: {value2}.",
-  "text1vNrefunded": "{value1} pontos reembolsados."
+  "text1vNrefunded": "{value1} pontos reembolsados.",
+  "textSecond": "Segundo"
 }

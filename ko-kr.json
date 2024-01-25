@@ -1814,5 +1814,6 @@
   "text1vNearnpoints": "축하합니다! {value1} 포인트를 획득했습니다.",
   "text1vNPoints": "정답을 맞힌 투표자: {value1}. 잃은 포인트: {value2}.",
   "text1vNearnd": "틀리게 답한 투표자: {value1}, 획득한 포인트: {value2}.",
-  "text1vNrefunded": "{value1} 포인트가 환불되었습니다."
+  "text1vNrefunded": "{value1} 포인트가 환불되었습니다.",
+  "textSecond": "초"
 }

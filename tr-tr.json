@@ -1814,5 +1814,6 @@
   "text1vNearnpoints": "Tebrikler! {value1} puan kazandınız.",
   "text1vNPoints": "Doğru cevap veren oylayan kişiler: {value1}; Kaybettiğiniz puanlar: {value2}.",
   "text1vNearnd": "Hatalı cevap veren oylayan kişiler: {value1}; Kazandığınız puanlar: {value2}.",
-  "text1vNrefunded": "{value1} puan iade edildi."
+  "text1vNrefunded": "{value1} puan iade edildi.",
+  "textSecond": "Saniye"
 }
