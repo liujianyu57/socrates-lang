@@ -1816,5 +1816,21 @@
   "text1vNearnd": "Votants ayant répondu de manière incorrecte : {value1} ; points gagnés : {value2}.",
   "text1vNrefunded": "{value1} points restitués.",
   "textSecond": "Secondes.",
-  "textStartFrom1stFeb": "À partir de 11h00 UTC+0 le 1er février"
+  "textStartFrom1stFeb": "À partir de 11h00 UTC+0 le 1er février",
+  "textPioneerMarketplace": "Pioneer Pen marché",
+  "textRecord": "Un rapport de données du 12 janvier 2024 à ce jour. Les revenus actuels du créateur sont de {value1}.",
+  "textHistoryTrading": "Historique du volume de transactions (USDT)",
+  "textTodayTrading": "Volume de transactions d'aujourd'hui (USDT)",
+  "textTodayRoyalty": "Redevances d'aujourd'hui (USDT)",
+  "text1vNValidTime": "Période de validité : {value1} s",
+  "text1vNSecond": "{value1} s",
+  "text1vNSetNumber": "Définir le nombre de participants",
+  "error3101": "Trop de quiz en cours. Veuillez réessayer plus tard.",
+  "pointType381": "Points introduits lors de la création de questions",
+  "pointType382": "Points contribués pour votre participation au débat 1 contre 100",
+  "pointType383": "Points gagnés pour avoir remporté le débat 1 contre 100",
+  "pointType384": "Points attribués à l'initiateur du débat 1 contre 100",
+  "pointType385": "Points remboursés pour le débat 1 contre 100",
+  "pointType386": "Récompense pour avoir initié le débat 1 contre 100",
+  "pointType387": "Frais de plate-forme pour le débat 1 contre 100"
 }

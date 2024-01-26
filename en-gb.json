@@ -1816,5 +1816,21 @@
   "text1vNearnd": "Voters who answered incorrectly: {value1}; Points you earned: {value2}.",
   "text1vNrefunded": "{value1} points refunded.",
   "textSecond": "Second",
-  "textStartFrom1stFeb": "Starting at 11:00 UTC+0 on February 1st"
+  "textStartFrom1stFeb": "Starting at 11:00 UTC+0 on February 1st",
+  "textPioneerMarketplace": "Pioneer Pen marketplace",
+  "textRecord": "A report of data from January 12, 2024, to the present. The current creator earnings are {value1}.",
+  "textHistoryTrading": "Historical trading volume (USDT)",
+  "textTodayTrading": "Today's trading volume (USDT)",
+  "textTodayRoyalty": "Today's royalties (USDT)",
+  "text1vNValidTime": "Validity period: {value1}s",
+  "text1vNSecond": "{value1}s",
+  "text1vNSetNumber": "Set the number of participants",
+  "error3101": "Too many active quizzes. Please try again later.",
+  "pointType381": "Points injected when creating questions",
+  "pointType382": "Points contributed for participating in the 1 vs. 100 debate",
+  "pointType383": "Points rewards for winning the 1 vs. 100 debate",
+  "pointType384": "Points rewards to the initiator of the 1 vs. 100 debate",
+  "pointType385": "Points refunded for the 1 vs. 100 debate",
+  "pointType386": "Reward for initiating the 1 vs. 100 debate",
+  "pointType387": "Platform fee for the 1 vs. 100 debate"
 }

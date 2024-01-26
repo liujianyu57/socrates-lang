@@ -1816,5 +1816,21 @@
   "text1vNearnd": "Hatalı cevap veren oylayan kişiler: {value1}; Kazandığınız puanlar: {value2}.",
   "text1vNrefunded": "{value1} puan iade edildi.",
   "textSecond": "Saniye",
-  "textStartFrom1stFeb": "1 Şubat 11:00 UTC+0'dan itibaren"
+  "textStartFrom1stFeb": "1 Şubat 11:00 UTC+0'dan itibaren",
+  "textPioneerMarketplace": "Pioneer Pen pazaryeri",
+  "textRecord": "12 Ocak 2024'ten günümüze kadar verileri içeren bir rapor. Oluşturan kişinin mevcut kazancı {value1}.",
+  "textHistoryTrading": "Geçmişe ait işlem hacmi (USDT)",
+  "textTodayTrading": "Bugünkü işlem hacmi (USDT)",
+  "textTodayRoyalty": "Bugünkü işletme payı (USDT)",
+  "text1vNValidTime": "Geçerlilik süresi: {value1}s",
+  "text1vNSecond": "{value1}s",
+  "text1vNSetNumber": "Katılımcı sayısını ayarlayın",
+  "error3101": "Çok fazla aktif test. Lütfen daha sonra yeniden deneyin.",
+  "pointType381": "Soru oluşturulurken eklenen puanlar",
+  "pointType382": "1'e karşı 100 tartışmasına katılmak için eklenen puanlar",
+  "pointType383": "1'e karşı 100 tartışmasını kazanmak için puan ödülleri",
+  "pointType384": "1'e karşı 100 tartışmasını başlatan kişi için puan ödülleri",
+  "pointType385": "1'e karşı 100 tartışması için iade edilen puanlar",
+  "pointType386": "1'e karşı 100 tartışmasını başlatmak için ödül",
+  "pointType387": "1'e karşı 100 tartışması için platform ücreti"
 }

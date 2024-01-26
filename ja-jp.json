@@ -1816,5 +1816,21 @@
   "text1vNearnd": "不正解の投票者：{value1}人、獲得したポイント：{value2}ポイント。",
   "text1vNrefunded": "{value1}ポイントが返されました。",
   "textSecond": "秒",
-  "textStartFrom1stFeb": "2 月 1 日の 11:00 UTC+0 から開始"
+  "textStartFrom1stFeb": "2 月 1 日の 11:00 UTC+0 から開始",
+  "textPioneerMarketplace": "Pioneer Penのマーケットプレイス",
+  "textRecord": "2024年1月12日から現在までのデータをまとめたレポート。現在のクリエーターの収益はです{value1}。",
+  "textHistoryTrading": "過去の取引高（USDT）",
+  "textTodayTrading": "本日の取引高（USDT）",
+  "textTodayRoyalty": "今日のロイヤリティ（USDT）",
+  "text1vNValidTime": "有効期間：{value1}秒",
+  "text1vNSecond": "{value1}秒",
+  "text1vNSetNumber": "参加人数を設定",
+  "error3101": "有効なクイズが多すぎます。後でもう一度お試しください。",
+  "pointType381": "質問作成時に注入するポイント",
+  "pointType382": "1 対 100のディベートに参加した場合の貢献ポイント",
+  "pointType383": "1 対 100のディベートに勝利した場合の報酬ポイント",
+  "pointType384": "1 対 100のディベート提案者に対する報酬ポイント",
+  "pointType385": "1 対 100のディベートで返還されたポイント",
+  "pointType386": "1 対 100のディベートを始めたことに対する報酬",
+  "pointType387": "1 対 100のディベートのプラットフォーム料金"
 }

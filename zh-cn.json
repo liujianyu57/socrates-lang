@@ -1816,5 +1816,21 @@
   "text1vNearnd": "{value1}人回答错误，赚取{value2}积分",
   "text1vNrefunded": "预支付积分退回{value1}积分",
   "textSecond": "秒",
-  "textStartFrom1stFeb": "2月1号11:00 utc+0开始领取"
+  "textStartFrom1stFeb": "2月1号11:00 utc+0开始领取",
+  "textPioneerMarketplace": "先锋笔交易市场",
+  "textRecord": "记录从2024年1月12日至今的数据，当前创作者收益为{value1}",
+  "textHistoryTrading": "历史交易量（USDT）",
+  "textTodayTrading": "当日交易量（USDT）",
+  "textTodayRoyalty": "当日版税（USDT）",
+  "text1vNValidTime": "有效期 {value1} 秒",
+  "text1vNSecond": "{value1} 秒",
+  "text1vNSetNumber": "设置人数",
+  "error3101": "进行中的问题过多，请稍后再试",
+  "pointType381": "创建问题注入积分",
+  "pointType382": "以一敌百答题消耗积分",
+  "pointType383": "以一敌百答对奖励积分",
+  "pointType384": "以一敌百答错提问者奖励积分",
+  "pointType385": "以一敌百积分返还",
+  "pointType386": "以一敌百提问者抽成",
+  "pointType387": "以一敌百平台抽成"
 }

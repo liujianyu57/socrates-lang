@@ -1816,5 +1816,21 @@
   "text1vNearnd": "틀리게 답한 투표자: {value1}, 획득한 포인트: {value2}.",
   "text1vNrefunded": "{value1} 포인트가 환불되었습니다.",
   "textSecond": "초",
-  "textStartFrom1stFeb": "2월 1일 11:00 UTC+0부터 시작"
+  "textStartFrom1stFeb": "2월 1일 11:00 UTC+0부터 시작",
+  "textPioneerMarketplace": "Pioneer Pen 마켓플레이스",
+  "textRecord": "2024년 1월 12일부터 현재까지의 데이터 보고서입니다. 현재 작성자 수익은 입니다{value1}.",
+  "textHistoryTrading": "역대 거래량(USDT)",
+  "textTodayTrading": "금일 거래량(USDT)",
+  "textTodayRoyalty": "금일 로열티(USDT)",
+  "text1vNValidTime": "유효 기간: {value1}초",
+  "text1vNSecond": "{value1}초",
+  "text1vNSetNumber": "참여자 수 설정",
+  "error3101": "진행 중인 퀴즈가 너무 많습니다. 나중에 다시 시도하십시오.",
+  "pointType381": "질문 생성 시 주입된 포인트",
+  "pointType382": "1 대 100 토론에 참여하기 위해 기여한 포인트",
+  "pointType383": "1 대 100 토론 승리에 대한 포인트 보상",
+  "pointType384": "1 대 100 토론 개시자에 대한 포인트 보상",
+  "pointType385": "1 대 100 토론에 대해 환불된 포인트",
+  "pointType386": "1 대 100 토론 시작에 대한 보상",
+  "pointType387": "1 대 100 토론에 대한 플랫폼 요금"
 }

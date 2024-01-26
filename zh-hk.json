@@ -1816,5 +1816,21 @@
   "text1vNearnd": "{value1} 人回答錯誤，賺取 {value2} 積分",
   "text1vNrefunded": "預先支付積分退回 {value1} 積分",
   "textSecond": "秒",
-  "textStartFrom1stFeb": "2月1號11:00 utc+0開始領取"
+  "textStartFrom1stFeb": "2月1號11:00 utc+0開始領取",
+  "textPioneerMarketplace": "先鋒筆交易市場",
+  "textRecord": "記錄從 2024 年 1 月 12 日至今的數據，目前創作者收益為{value1}",
+  "textHistoryTrading": "歷史交易量 (USDT)",
+  "textTodayTrading": "當日交易量 (USDT)",
+  "textTodayRoyalty": "當日版稅 (USDT)",
+  "text1vNValidTime": "有效期限 {value1} 秒",
+  "text1vNSecond": "{value1} 秒",
+  "text1vNSetNumber": "設置人數",
+  "error3101": "進行中的問題過多，請稍後再試",
+  "pointType381": "建立問題注入積分",
+  "pointType382": "以一敵百答題消耗積分",
+  "pointType383": "以一敵百答對獎勵積分",
+  "pointType384": "以一敵百答錯提問者獎勵積分",
+  "pointType385": "以一敵百積分退還",
+  "pointType386": "以一敵百提問者抽成",
+  "pointType387": "以一敵百平台抽成"
 }

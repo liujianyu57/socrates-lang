@@ -1816,5 +1816,21 @@
   "text1vNearnd": "Participantes que responderam incorretamente: {value1}; Pontos ganhos: {value2}.",
   "text1vNrefunded": "{value1} pontos reembolsados.",
   "textSecond": "Segundo",
-  "textStartFrom1stFeb": "A partir das 11h UTC+0 do dia 1º de fevereiro"
+  "textStartFrom1stFeb": "A partir das 11h UTC+0 do dia 1º de fevereiro",
+  "textPioneerMarketplace": "Mercado Pioneer Pen",
+  "textRecord": "Um relatório de dados de 12 de janeiro de 2024 aos dias atuais. Os ganhos do criador atual é {value1}.",
+  "textHistoryTrading": "Histórico do volume de comércio (USDT)",
+  "textTodayTrading": "Volume de comércio de hoje (USDT)",
+  "textTodayRoyalty": "Royalties de hoje (USDT)",
+  "text1vNValidTime": "Período de validade: {value1}s",
+  "text1vNSecond": "{value1}s",
+  "text1vNSetNumber": "Defina o número de participantes",
+  "error3101": "Muitas consultas ativas. Tente novamente mais tarde.",
+  "pointType381": "Pontos injetados ao criar perguntas",
+  "pointType382": "Pontos contribuídos pela participação no 1 vs. 100 debate",
+  "pointType383": "Pontos recompensados por vitórias no 1 vs. 100 debate",
+  "pointType384": "Pontos recompensados ao iniciador do 1 vs. 100 debate",
+  "pointType385": "Pontos reembolsados pelo 1 vs. 100 debate",
+  "pointType386": "Premiação por iniciar o 1 vs. 100 debate",
+  "pointType387": "Taxa da plataforma pelo 1 vs. 100 debate"
 }
