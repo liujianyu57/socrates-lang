@@ -1815,5 +1815,6 @@
   "text1vNPoints": "Les votants qui ont répondu correctement : {value1} ; points perdus : {value2}.",
   "text1vNearnd": "Votants ayant répondu de manière incorrecte : {value1} ; points gagnés : {value2}.",
   "text1vNrefunded": "{value1} points restitués.",
-  "textSecond": "Secondes."
+  "textSecond": "Secondes.",
+  "textStartFrom1stFeb": "À partir de 11h00 UTC+0 le 1er février"
 }

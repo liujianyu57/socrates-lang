@@ -1815,5 +1815,6 @@
   "text1vNPoints": "Người bình chọn đã trả lời đúng: {value1}; điểm bạn bị mất: {value2}.",
   "text1vNearnd": "Người bình chọn đã trả lời sai: {value1}; điểm bạn kiếm được: {value2}.",
   "text1vNrefunded": "{value1} điểm được hoàn lại.",
-  "textSecond": "Thứ hai"
+  "textSecond": "Thứ hai",
+  "textStartFrom1stFeb": "Bắt đầu lúc 11:00 UTC+0 ngày 1 tháng 2"
 }

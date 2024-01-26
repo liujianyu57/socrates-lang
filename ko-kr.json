@@ -1815,5 +1815,6 @@
   "text1vNPoints": "정답을 맞힌 투표자: {value1}. 잃은 포인트: {value2}.",
   "text1vNearnd": "틀리게 답한 투표자: {value1}, 획득한 포인트: {value2}.",
   "text1vNrefunded": "{value1} 포인트가 환불되었습니다.",
-  "textSecond": "초"
+  "textSecond": "초",
+  "textStartFrom1stFeb": "2월 1일 11:00 UTC+0부터 시작"
 }

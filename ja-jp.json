@@ -1815,5 +1815,6 @@
   "text1vNPoints": "正解の投票者：{value1}人、失ったポイント：{value2}ポイント。",
   "text1vNearnd": "不正解の投票者：{value1}人、獲得したポイント：{value2}ポイント。",
   "text1vNrefunded": "{value1}ポイントが返されました。",
-  "textSecond": "秒"
+  "textSecond": "秒",
+  "textStartFrom1stFeb": "2 月 1 日の 11:00 UTC+0 から開始"
 }

@@ -1815,5 +1815,6 @@
   "text1vNPoints": "{value1} 人回答正確，支出 {value2} 積分",
   "text1vNearnd": "{value1} 人回答錯誤，賺取 {value2} 積分",
   "text1vNrefunded": "預支付積分退回 {value1} 積分",
-  "textSecond": "秒"
+  "textSecond": "秒",
+  "textStartFrom1stFeb": "2月1號11:00 utc+0開始領取"
 }

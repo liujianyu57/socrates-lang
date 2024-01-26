@@ -1815,5 +1815,6 @@
   "text1vNPoints": "Doğru cevap veren oylayan kişiler: {value1}; Kaybettiğiniz puanlar: {value2}.",
   "text1vNearnd": "Hatalı cevap veren oylayan kişiler: {value1}; Kazandığınız puanlar: {value2}.",
   "text1vNrefunded": "{value1} puan iade edildi.",
-  "textSecond": "Saniye"
+  "textSecond": "Saniye",
+  "textStartFrom1stFeb": "1 Şubat 11:00 UTC+0'dan itibaren"
 }

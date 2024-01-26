@@ -1815,5 +1815,6 @@
   "text1vNPoints": "Participantes que responderam corretamente: {value1}; Pontos perdidos: {value2}.",
   "text1vNearnd": "Participantes que responderam incorretamente: {value1}; Pontos ganhos: {value2}.",
   "text1vNrefunded": "{value1} pontos reembolsados.",
-  "textSecond": "Segundo"
+  "textSecond": "Segundo",
+  "textStartFrom1stFeb": "A partir das 11h UTC+0 do dia 1º de fevereiro"
 }

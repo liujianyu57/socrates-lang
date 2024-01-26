@@ -1815,5 +1815,6 @@
   "text1vNPoints": "Voters who answered correctly: {value1}; Points you lost: {value2}.",
   "text1vNearnd": "Voters who answered incorrectly: {value1}; Points you earned: {value2}.",
   "text1vNrefunded": "{value1} points refunded.",
-  "textSecond": "Second"
+  "textSecond": "Second",
+  "textStartFrom1stFeb": "Starting at 11:00 UTC+0 on February 1st"
 }
