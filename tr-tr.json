@@ -274,7 +274,7 @@
   "textTransactionDetail": "İşlem detayları",
   "textUser": "Kullanıcılar",
   "textValidTime": "Geçerlilik süresi",
-  "textValidTimeDay": "{value 1} gün",
+  "textValidTimeDay": "{value1} gün",
   "textValidTimeDescription": "Bir soru geçerlilik süresi dolmadan çok konuşulanlar arasına girmezse kaybolacaktır. Soru çok konuşulanlar arasına girerse platform kurallarına göre kapanacaktır.",
   "textVerificationCode": "Doğrulama kodu",
   "textVerifyEmail": "E-postayı doğrula",

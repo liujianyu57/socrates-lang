@@ -274,7 +274,7 @@
   "textTransactionDetail": "Détails de la transaction",
   "textUser": "Utilisateurs",
   "textValidTime": "Période de validité",
-  "textValidTimeDay": "{value 1} jours",
+  "textValidTimeDay": "{value1} jours",
   "textValidTimeDescription": "Une question sera clôturée si elle ne devient pas tendancielle avant la fin de la période de validité. Si la question devient une tendance, elle sera clôturée conformément aux règles de la plateforme.",
   "textVerificationCode": "Code de vérification",
   "textVerifyEmail": "Vérifier l’e-mail",

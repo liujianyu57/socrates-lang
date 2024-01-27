@@ -274,7 +274,7 @@
   "textTransactionDetail": "トランザクションの詳細",
   "textUser": "ユーザー",
   "textValidTime": "有効期間",
-  "textValidTimeDay": "{value 1}日",
+  "textValidTimeDay": "{value1}日",
   "textValidTimeDescription": "有効期間の終了前にトレンド入りしなかった場合、質問は締め切られます。質問がトレンド入りした場合、プラットフォームのルールに従って締め切られます。",
   "textVerificationCode": "認証コード",
   "textVerifyEmail": "電子メールを認証",

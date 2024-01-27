@@ -274,7 +274,7 @@
   "textTransactionDetail": "Transaction details",
   "textUser": "Users",
   "textValidTime": "Validity period",
-  "textValidTimeDay": "{value 1} days",
+  "textValidTimeDay": "{value1} days",
   "textValidTimeDescription": "A question will close if it does not become trending before reaching the end of the validity time. If the question becomes trending, it will close according to the platform rules.",
   "textVerificationCode": "Verification code",
   "textVerifyEmail": "Verify email",

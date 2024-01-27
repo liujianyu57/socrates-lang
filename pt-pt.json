@@ -274,7 +274,7 @@
   "textTransactionDetail": "Detalhes da transação",
   "textUser": "Utilizadores",
   "textValidTime": "Período de validade",
-  "textValidTimeDay": "{value 1} dias",
+  "textValidTimeDay": "{value1} dias",
   "textValidTimeDescription": "Uma pergunta é fechada se não se tornar tendência antes do fim do período de validade. Se a pergunta se tornar tendência, será fechada de acordo com as regras da plataforma.",
   "textVerificationCode": "Código de verificação",
   "textVerifyEmail": "Verificar e-mail",

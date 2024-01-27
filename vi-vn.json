@@ -274,7 +274,7 @@
   "textTransactionDetail": "Chi tiết giao dịch",
   "textUser": "Người dùng:",
   "textValidTime": "Thời gian hiệu lực",
-  "textValidTimeDay": "{value 1} ngày",
+  "textValidTimeDay": "{value1} ngày",
   "textValidTimeDescription": "Một câu hỏi sẽ đóng nếu câu hỏi đó không trở thành câu hỏi thịnh hành trước khi kết thúc thời gian có hiệu lực. Nếu câu hỏi trở nên trở thành thịnh hành, câu hỏi đó sẽ đóng theo quy tắc của nền tảng.",
   "textVerificationCode": "Mã xác nhận",
   "textVerifyEmail": "Xác nhận email",
