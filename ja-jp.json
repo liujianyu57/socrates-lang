@@ -1790,9 +1790,9 @@
   "textReasonFailed": "{失敗の理由：{value1}}",
   "textSwitchETHList": "申し訳ございませんが、このアドレスはEthereum Mainnetで許可リストに登録されています。ネットワークを切り替えて、もう一度お試しください。",
   "textRequestApprove": "お使いのウォレット内のリクエストを承認してください。",
-  "text4Million": "400万SOCのエアドロップ",
+  "text4Million": "400万SOC",
   "textFirstAirdrop": "Socrates初のコミュニティインセンティブのエアドロップ",
-  "textOlnyClaimETH": "SOCはEthereum Mainnetのみで請求できます。あなたがガス代をカバーするのに十分なETHを持っていることを確認します。",
+  "textOlnyClaimETH": "SOC は {value1} でのみ請求できます。ガス代として十分な ETH を事前にご用意ください。",
   "btnClaimAirdrop": "エアドロップを請求",
   "btnForYou": "あなたにおすすめ",
   "tag1vN": "1 対 100",
@@ -1832,5 +1832,9 @@
   "pointType384": "1 対 100のディベート提案者に対する報酬ポイント",
   "pointType385": "1 対 100のディベートで返還されたポイント",
   "pointType386": "1 対 100のディベートを始めたことに対する報酬",
-  "pointType387": "1 対 100のディベートのプラットフォーム料金"
+  "pointType387": "1 対 100のディベートのプラットフォーム料金",
+  "airdropTransactionTip": "SOC の請求には時間がかかる場合があります。トランザクションが完了するまでお待ちください。",
+  "network": "通信網",
+  "text1vNRewardInfo": "プラットフォーム料金とクリエイターのコミッションは、ユーザーに支払われる前に報酬から差し引かれます。",
+  "error3044": "参加者が定員に達したため質問を終了いたします。"
 }

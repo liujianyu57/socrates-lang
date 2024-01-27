@@ -1790,9 +1790,9 @@
   "textReasonFailed": "{Motivo de falha: {value1}}",
   "textSwitchETHList": "Lamentamos, mas este endereço está na lista de permissões no Ethereum Mainnet. Mude de rede e tente novamente.",
   "textRequestApprove": "Aprove o pedido na sua carteira.",
-  "text4Million": "Airdrop de 4 milhões de SOC",
+  "text4Million": "4 milhões de SOC",
   "textFirstAirdrop": "Primeiro airdrop de incentivo comunitário do Socrates",
-  "textOlnyClaimETH": "Só é possível reclamar SOC na Ethereum Mainnet. Assegure-se de que tem uma quantidade suficiente de ETH para cobrir a taxa de gás.",
+  "textOlnyClaimETH": "SOC só pode ser reivindicado em {value1}. Prepare ETH suficiente com antecedência como taxa de gás.",
   "btnClaimAirdrop": "Solicitar meu airdrop",
   "btnForYou": "Para você",
   "tag1vN": "1 contra 100",
@@ -1832,5 +1832,9 @@
   "pointType384": "Pontos recompensados ao iniciador do 1 vs. 100 debate",
   "pointType385": "Pontos reembolsados pelo 1 vs. 100 debate",
   "pointType386": "Premiação por iniciar o 1 vs. 100 debate",
-  "pointType387": "Taxa da plataforma pelo 1 vs. 100 debate"
+  "pointType387": "Taxa da plataforma pelo 1 vs. 100 debate",
+  "airdropTransactionTip": "A reivindicação do SOC pode demorar um pouco. Aguarde até que a transação seja concluída.",
+  "network": "Rede",
+  "text1vNRewardInfo": "As taxas da plataforma e a comissão do criador serão deduzidas da recompensa antes de ela ser paga aos usuários.",
+  "error3044": "A questão foi encerrada porque o número de participantes atingiu o máximo."
 }

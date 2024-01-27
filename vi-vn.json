@@ -1790,9 +1790,9 @@
   "textReasonFailed": "{Lý do không thành công: {value1}}",
   "textSwitchETHList": "Rất tiếc, địa chỉ này được đưa vào danh sách cho phép trên Ethereum Mainnet. Vui lòng chuyển mạng và thử lại.",
   "textRequestApprove": "Vui lòng phê duyệt yêu cầu trong ví của bạn.",
-  "text4Million": "4 triệu Airdrop SOC",
+  "text4Million": "4 triệu SOC",
   "textFirstAirdrop": "Airdrop được khuyên dùng cho cộng đồng đầu tiên từ Socrates.",
-  "textOlnyClaimETH": "SOC chỉ có thể được nhận trên Ethereum Mainnet. Đảm bảo bạn có đủ ETH để trả phí gas.",
+  "textOlnyClaimETH": "SOC chỉ có thể được yêu cầu trên {value1}. Vui lòng chuẩn bị trước đủ ETH dưới dạng phí gas.",
   "btnClaimAirdrop": "Nhận airdrop của tôi",
   "btnForYou": "Được đề xuất cho bạn",
   "tag1vN": "1 đấu với 100",
@@ -1832,5 +1832,9 @@
   "pointType384": "Điểm thưởng cho người khởi xướng cuộc tranh luận 1 đấu 100",
   "pointType385": "Điểm được hoàn lại cho cuộc tranh luận 1 đấu 100",
   "pointType386": "Phần thưởng để bắt đầu cuộc tranh luận 1 đấu 100",
-  "pointType387": "Phí nền tảng cho cuộc tranh luận 1 đấu 100"
+  "pointType387": "Phí nền tảng cho cuộc tranh luận 1 đấu 100",
+  "airdropTransactionTip": "Việc yêu cầu SOC có thể mất một thời gian. Vui lòng đợi cho đến khi giao dịch hoàn tất.",
+  "network": "Mạng",
+  "text1vNRewardInfo": "Phí nền tảng và hoa hồng của người sáng tạo sẽ được khấu trừ vào phần thưởng trước khi giải ngân cho người dùng.",
+  "error3044": "Câu hỏi kết thúc vì số lượng người tham gia đã đạt đến mức tối đa."
 }

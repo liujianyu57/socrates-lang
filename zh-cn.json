@@ -1790,9 +1790,9 @@
   "textReasonFailed": "{失败原因：{value1}}",
   "textSwitchETHList": "对不起，这个地址的白名单在以太坊网络上。请切换网络再试",
   "textRequestApprove": "请求已发送到您的钱包，请接受",
-  "text4Million": "400万SOC空投",
+  "text4Million": "400万SOC",
   "textFirstAirdrop": "Socrates 第一个社区激励空投",
-  "textOlnyClaimETH": "只能在Ethereum Mainnet上领取SOC，请提前准备好充足的ETH作为Gas费用。",
+  "textOlnyClaimETH": "只能在{value1}上领取SOC，请提前准备好充足的ETH作为Gas费用。",
   "btnClaimAirdrop": "领取我的空投奖励",
   "btnForYou": "推荐",
   "tag1vN": "以一敌百",
@@ -1832,5 +1832,9 @@
   "pointType384": "以一敌百答错提问者奖励积分",
   "pointType385": "以一敌百积分返还",
   "pointType386": "以一敌百提问者抽成",
-  "pointType387": "以一敌百平台抽成"
+  "pointType387": "以一敌百平台抽成",
+  "airdropTransactionTip": "需要一些时间来领取您的空投奖励，请耐心等待交易完成。",
+  "network": "网络",
+  "text1vNRewardInfo": "奖励为扣除平台佣金及提问者佣金的实际到账金额",
+  "error3044": "参与人数已满，问题结束"
 }

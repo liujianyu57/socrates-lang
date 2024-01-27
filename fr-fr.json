@@ -1790,9 +1790,9 @@
   "textReasonFailed": "{Raison de l’échec : {value1}}",
   "textSwitchETHList": "Désolé, cette adresse est sur liste d’attente sur le réseau Ethereum Mainnet. Veuillez changer de réseau et réessayer.",
   "textRequestApprove": "Veuillez approuver la demande dans votre portefeuille.",
-  "text4Million": "Airdrop de 4 millions de SOC",
+  "text4Million": "4 millions de SOC",
   "textFirstAirdrop": "Premier airdrop communautaire d’incitation de Socrates",
-  "textOlnyClaimETH": "Le SOC ne peut être réclamé que sur le réseau Ethereum Mainnet. Assurez-vous d’avoir suffisamment d’ETH pour couvrir les frais de gaz.",
+  "textOlnyClaimETH": "Le SOC ne peut être réclamé que sur {value1}. Veuillez préparer suffisamment d'ETH à l'avance comme frais de gaz.",
   "btnClaimAirdrop": "Réclamer mon airdrop",
   "btnForYou": "Pour vous",
   "tag1vN": "1 contre 100",
@@ -1832,5 +1832,9 @@
   "pointType384": "Points attribués à l'initiateur du débat 1 contre 100",
   "pointType385": "Points remboursés pour le débat 1 contre 100",
   "pointType386": "Récompense pour avoir initié le débat 1 contre 100",
-  "pointType387": "Frais de plate-forme pour le débat 1 contre 100"
+  "pointType387": "Frais de plate-forme pour le débat 1 contre 100",
+  "airdropTransactionTip": "Réclamer le SOC peut prendre un certain temps. Veuillez attendre que la transaction soit terminée.",
+  "network": "Réseau",
+  "text1vNRewardInfo": "Les frais de plateforme et la commission du créateur seront déduits de la récompense avant qu'elle ne soit versée aux utilisateurs.",
+  "error3044": "La question est terminée car le nombre de participants a atteint le maximum."
 }

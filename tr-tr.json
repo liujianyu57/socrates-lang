@@ -1790,9 +1790,9 @@
   "textReasonFailed": "{Hatanın sebebi: {value1}}",
   "textSwitchETHList": "Üzgünüz, bu adres Ethereum Mainnet izin verilenler listesinde değil. Lütfen ağı değiştirip yeniden deneyin.",
   "textRequestApprove": "Lütfen cüzdanınızdaki talebi onaylayın.",
-  "text4Million": "4 Milyon SOC Airdrop",
+  "text4Million": "4 Milyon SOC",
   "textFirstAirdrop": "Socrates'in ilk topluluk teşvik airdrop'u",
-  "textOlnyClaimETH": "SOC, yalnızca Ethereum Mainnet'te talep edilebilir. Gas ücretini karşılamak için yeterli ETH'nizin olduğundan emin olun.",
+  "textOlnyClaimETH": "SOC yalnızca {value1} üzerinden talep edilebilir. Lütfen gaz ücreti olarak yeterli miktarda ETH'yi önceden hazırlayın.",
   "btnClaimAirdrop": "Airdrop'umu talep et",
   "btnForYou": "Sizin için önerilen",
   "tag1vN": "1'e karşı 100",
@@ -1832,5 +1832,9 @@
   "pointType384": "1'e karşı 100 tartışmasını başlatan kişi için puan ödülleri",
   "pointType385": "1'e karşı 100 tartışması için iade edilen puanlar",
   "pointType386": "1'e karşı 100 tartışmasını başlatmak için ödül",
-  "pointType387": "1'e karşı 100 tartışması için platform ücreti"
+  "pointType387": "1'e karşı 100 tartışması için platform ücreti",
+  "airdropTransactionTip": "Airdrop ödüllerinizi almak biraz zaman alacak, lütfen sabırlı olun ve işlemin tamamlanmasını bekleyin.",
+  "network": "ağ",
+  "text1vNRewardInfo": "Ödül, platform komisyonu ve soru soran komisyonu düşüldükten sonra elde edilen gerçek tutardır.",
+  "error3044": "Katılımcı sayısı doldu, soru bitti"
 }
