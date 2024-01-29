@@ -1836,5 +1836,9 @@
   "airdropTransactionTip": "Airdrop ödüllerinizi almak biraz zaman alacak, lütfen sabırlı olun ve işlemin tamamlanmasını bekleyin.",
   "network": "ağ",
   "text1vNRewardInfo": "Ödül, platform komisyonu ve soru soran komisyonu düşüldükten sonra elde edilen gerçek tutardır.",
-  "error3044": "Katılımcı sayısı doldu, soru bitti"
+  "error3044": "Katılımcı sayısı doldu, soru bitti",
+  "airdropranking2": "Airdrop Sıralaması (Sezon 1)",
+  "airdroprankingComment2": "5 milyon SOC, Sokrates ikinci aşama topluluk teşviki airdropu",
+  "airdroprankingillustrate2": "Airdrop sıralamalarının istatistiksel zamanı 30 Ocak 11:00 ile 30 Mart 11:00 (UTC+0) arasıdır; bu süre zarfında kullanıcıları platformda kazandıkları puanlara göre sıralayacağız.",
+  "airdroprankingTipscontentnew": "Ödül puanları kazanmak için platformdaki soru oylama, Soru-Cevap ve tartışma sorularına aktif olarak katılın ve değerli soruları destekleyin."
 }

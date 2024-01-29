@@ -1836,5 +1836,9 @@
   "airdropTransactionTip": "A reivindicação do SOC pode demorar um pouco. Aguarde até que a transação seja concluída.",
   "network": "Rede",
   "text1vNRewardInfo": "As taxas da plataforma e a comissão do criador serão deduzidas da recompensa antes de ela ser paga aos usuários.",
-  "error3044": "A questão foi encerrada porque o número de participantes atingiu o máximo."
+  "error3044": "A questão foi encerrada porque o número de participantes atingiu o máximo.",
+  "airdropranking2": "Classificação do Airdrop (segunda edição)",
+  "airdroprankingComment2": "5 milhões de lançamento aéreo de incentivo comunitário de segunda fase de SOC e Sócrates",
+  "airdroprankingillustrate2": "O horário estatístico para as classificações de airdrop é das 11h do dia 30 de janeiro às 11h do dia 30 de março (UTC+0); durante esse período, classificaremos os usuários com base nos pontos que ganham na plataforma.",
+  "airdroprankingTipscontentnew": "Participe ativamente da votação de perguntas, perguntas e respostas e debata questões na plataforma e apoie perguntas valiosas para ganhar pontos de recompensa."
 }

@@ -1836,5 +1836,9 @@
   "airdropTransactionTip": "Réclamer le SOC peut prendre un certain temps. Veuillez attendre que la transaction soit terminée.",
   "network": "Réseau",
   "text1vNRewardInfo": "Les frais de plateforme et la commission du créateur seront déduits de la récompense avant qu'elle ne soit versée aux utilisateurs.",
-  "error3044": "La question est terminée car le nombre de participants a atteint le maximum."
+  "error3044": "La question est terminée car le nombre de participants a atteint le maximum.",
+  "airdropranking2": "Classement Airdrop (Saison 1)",
+  "airdroprankingComment2": "5 millions de SOC, largage d'incitation communautaire de la deuxième phase de Socrates",
+  "airdroprankingillustrate2": "L'heure statistique pour le classement des parachutages est de 11h00 le 30 janvier à 11h00 le 30 mars (UTC+0) ; pendant cette période, nous classerons les utilisateurs en fonction des points qu'ils gagnent sur la plateforme.",
+  "airdroprankingTipscontentnew": "Participez activement au vote des questions, aux questions-réponses et aux débats sur la plateforme, et soutenez les questions précieuses pour gagner des points de récompense."
 }

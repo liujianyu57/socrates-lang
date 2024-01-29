@@ -1836,5 +1836,9 @@
   "airdropTransactionTip": "需要一些时间来领取您的空投奖励，请耐心等待交易完成。",
   "network": "网络",
   "text1vNRewardInfo": "奖励为扣除平台佣金及提问者佣金的实际到账金额",
-  "error3044": "参与人数已满，问题结束"
+  "error3044": "参与人数已满，问题结束",
+  "airdropranking2": "空投排行榜(第二期)",
+  "airdroprankingComment2": "500万SOC，Socrates二期社区激励空投",
+  "airdroprankingillustrate2": "空投排行榜统计时间为：1月30日11:00至3月30日11:00(UTC+0)；在此期间，我们将根据用户在平台上所赚取的积分进行排名。",
+  "airdroprankingTipscontentnew": "在平台上积极参与问题投票、快问快答和辩论问题，支持有价值的问题，以获得积分奖励。"
 }
