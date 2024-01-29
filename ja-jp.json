@@ -1840,5 +1840,21 @@
   "airdropranking2": "エアドロップランキング（第2回）",
   "airdroprankingComment2": "500 万 SOC、ソクラテスの第 2 段階コミュニティ インセンティブ エアドロップ",
   "airdroprankingillustrate2": "エアドロップランキングの統計時間は、1 月 30 日 11:00 から 3 月 30 日 11:00 (UTC+0) までであり、この期間中、プラットフォームで獲得したポイントに基づいてユーザーをランク付けします。",
-  "airdroprankingTipscontentnew": "プラットフォーム上の質問投票、Q&A、討論の質問に積極的に参加し、貴重な質問をサポートして報酬ポイントを獲得してください。"
+  "airdroprankingTipscontentnew": "プラットフォーム上の質問投票、Q&A、討論の質問に積極的に参加し、貴重な質問をサポートして報酬ポイントを獲得してください。",
+  "textpopstatistics": "簡単な質問と回答の統計",
+  "textpoptotal": "総取引高",
+  "textpoptotalquiz": "質問数",
+  "textAnswerrate": "質問の回答率",
+  "textCreatorCom": "アスカー手数料収入",
+  "textPopDay": "{value1} 日",
+  "textPopAll": "全て",
+  "textPopTrends": "正しいオプションの傾向",
+  "textPopNumber": "正しい選択肢の数",
+  "textPopHistoryRecords": "最近の記録",
+  "textCorrectOpt": "正しいオプション",
+  "textPopCorrectAns": "質問を投稿するときに公開者によって設定された正しいオプション",
+  "textPopRed": "赤は質問投稿者が獲得したポイントを示します",
+  "textPopGreen": "緑色は質問回答者が獲得したポイントを示します",
+  "textPoptime": "時間",
+  "textPopQuiz": "質問数"
 }

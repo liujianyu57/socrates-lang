@@ -1840,5 +1840,21 @@
   "airdropranking2": "Clasificación de lanzamiento aéreo (segunda edición)",
   "airdroprankingComment2": "5 millones de SOC, lanzamiento aéreo de incentivo comunitario de segunda fase de Sócrates",
   "airdroprankingillustrate2": "El tiempo estadístico para las clasificaciones de lanzamiento aéreo es desde las 11:00 del 30 de enero hasta las 11:00 del 30 de marzo (UTC+0); durante este período, clasificaremos a los usuarios según los puntos que ganen en la plataforma.",
-  "airdroprankingTipscontentnew": "Participe activamente en la votación de preguntas, preguntas y respuestas y preguntas de debate en la plataforma, y ​​respalde preguntas valiosas para ganar puntos de recompensa."
+  "airdroprankingTipscontentnew": "Participe activamente en la votación de preguntas, preguntas y respuestas y preguntas de debate en la plataforma, y ​​respalde preguntas valiosas para ganar puntos de recompensa.",
+  "textpopstatistics": "Estadísticas de preguntas y respuestas rápidas",
+  "textpoptotal": "Facturación total",
+  "textpoptotalquiz": "Numero de preguntas",
+  "textAnswerrate": "tasa de respuesta a preguntas",
+  "textCreatorCom": "Ingresos por comisiones del autor de la pregunta",
+  "textPopDay": "{value1} días",
+  "textPopAll": "todo",
+  "textPopTrends": "Tendencia de opción correcta",
+  "textPopNumber": "número de opciones correctas",
+  "textPopHistoryRecords": "registros recientes",
+  "textCorrectOpt": "Opción correcta",
+  "textPopCorrectAns": "Las opciones correctas establecidas por el editor al publicar la pregunta.",
+  "textPopRed": "El rojo indica los puntos obtenidos por el autor de la pregunta.",
+  "textPopGreen": "El verde indica los puntos obtenidos por quienes respondieron las preguntas.",
+  "textPoptime": "tiempo",
+  "textPopQuiz": "Numero de preguntas"
 }

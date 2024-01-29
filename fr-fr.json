@@ -1840,5 +1840,21 @@
   "airdropranking2": "Classement Airdrop (Saison 1)",
   "airdroprankingComment2": "5 millions de SOC, largage d'incitation communautaire de la deuxième phase de Socrates",
   "airdroprankingillustrate2": "L'heure statistique pour le classement des parachutages est de 11h00 le 30 janvier à 11h00 le 30 mars (UTC+0) ; pendant cette période, nous classerons les utilisateurs en fonction des points qu'ils gagnent sur la plateforme.",
-  "airdroprankingTipscontentnew": "Participez activement au vote des questions, aux questions-réponses et aux débats sur la plateforme, et soutenez les questions précieuses pour gagner des points de récompense."
+  "airdroprankingTipscontentnew": "Participez activement au vote des questions, aux questions-réponses et aux débats sur la plateforme, et soutenez les questions précieuses pour gagner des points de récompense.",
+  "textpopstatistics": "Statistiques de questions et réponses rapides",
+  "textpoptotal": "Changement total",
+  "textpoptotalquiz": "Nombre de questions",
+  "textAnswerrate": "taux de réponse aux questions",
+  "textCreatorCom": "Revenu de commission du demandeur",
+  "textPopDay": "{value1} jours",
+  "textPopAll": "tous",
+  "textPopTrends": "Tendance des options correctes",
+  "textPopNumber": "nombre d'options correctes",
+  "textPopHistoryRecords": "enregistrements récents",
+  "textCorrectOpt": "Option correcte",
+  "textPopCorrectAns": "Les options correctes définies par l'éditeur lors de la publication de la question",
+  "textPopRed": "Le rouge indique les points gagnés par l'affiche de la question",
+  "textPopGreen": "Le vert indique les points gagnés par les répondants aux questions",
+  "textPoptime": "temps",
+  "textPopQuiz": "Nombre de questions"
 }

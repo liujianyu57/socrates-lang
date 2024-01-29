@@ -1840,5 +1840,21 @@
   "airdropranking2": "空投排行榜(第二期)",
   "airdroprankingComment2": "500万SOC，Socrates二期社区激励空投",
   "airdroprankingillustrate2": "空投排行榜统计时间为：1月30日11:00至3月30日11:00(UTC+0)；在此期间，我们将根据用户在平台上所赚取的积分进行排名。",
-  "airdroprankingTipscontentnew": "在平台上积极参与问题投票、快问快答和辩论问题，支持有价值的问题，以获得积分奖励。"
+  "airdroprankingTipscontentnew": "在平台上积极参与问题投票、快问快答和辩论问题，支持有价值的问题，以获得积分奖励。",
+  "textpopstatistics": "快问快答数据统计",
+  "textpoptotal": "总流水",
+  "textpoptotalquiz": "提问数量",
+  "textAnswerrate": "问题回答率",
+  "textCreatorCom": "提问者佣金收入",
+  "textPopDay": "{value1}天",
+  "textPopAll": "全部",
+  "textPopTrends": "正确选项趋势",
+  "textPopNumber": "正确选项数量",
+  "textPopHistoryRecords": "最近记录",
+  "textCorrectOpt": "正确选项",
+  "textPopCorrectAns": "发布者发布问题时设置的正确选项",
+  "textPopRed": "红色表示问题发布者赚取的积分",
+  "textPopGreen": "绿色表示问题回答者赚取的积分",
+  "textPoptime": "时间",
+  "textPopQuiz": "问题数量"
 }

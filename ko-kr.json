@@ -1840,5 +1840,21 @@
   "airdropranking2": "에어드랍 순위(두번째)",
   "airdroprankingComment2": "500만 SOC, 소크라테스 2단계 커뮤니티 인센티브 에어드랍",
   "airdroprankingillustrate2": "에어드랍 순위 통계 시간은 1월 30일 11시부터 3월 30일 11시(UTC+0)까지이며, 이 기간 동안 플랫폼에서 획득한 포인트를 기준으로 사용자 순위를 매깁니다.",
-  "airdroprankingTipscontentnew": "플랫폼 내 질문 투표, Q&A, 토론 질문에 적극적으로 참여하고, 가치 있는 질문을 지원하여 포인트를 획득하세요."
+  "airdroprankingTipscontentnew": "플랫폼 내 질문 투표, Q&A, 토론 질문에 적극적으로 참여하고, 가치 있는 질문을 지원하여 포인트를 획득하세요.",
+  "textpopstatistics": "빠른 질문과 답변 통계",
+  "textpoptotal": "총 매출액",
+  "textpoptotalquiz": "질문 수",
+  "textAnswerrate": "질문 답변률",
+  "textCreatorCom": "질문자 수수료 수입",
+  "textPopDay": "{value1}일",
+  "textPopAll": "모두",
+  "textPopTrends": "올바른 옵션 추세",
+  "textPopNumber": "올바른 옵션의 수",
+  "textPopHistoryRecords": "최근 기록",
+  "textCorrectOpt": "올바른 옵션",
+  "textPopCorrectAns": "질문을 게시할 때 게시자가 설정한 올바른 옵션",
+  "textPopRed": "빨간색은 질문 포스터에서 얻은 점수를 나타냅니다.",
+  "textPopGreen": "녹색은 질문 답변자가 획득한 포인트를 나타냅니다.",
+  "textPoptime": "시간",
+  "textPopQuiz": "질문 수"
 }

@@ -1840,5 +1840,21 @@
   "airdropranking2": "Airdrop Sıralaması (Sezon 1)",
   "airdroprankingComment2": "5 milyon SOC, Sokrates ikinci aşama topluluk teşviki airdropu",
   "airdroprankingillustrate2": "Airdrop sıralamalarının istatistiksel zamanı 30 Ocak 11:00 ile 30 Mart 11:00 (UTC+0) arasıdır; bu süre zarfında kullanıcıları platformda kazandıkları puanlara göre sıralayacağız.",
-  "airdroprankingTipscontentnew": "Ödül puanları kazanmak için platformdaki soru oylama, Soru-Cevap ve tartışma sorularına aktif olarak katılın ve değerli soruları destekleyin."
+  "airdroprankingTipscontentnew": "Ödül puanları kazanmak için platformdaki soru oylama, Soru-Cevap ve tartışma sorularına aktif olarak katılın ve değerli soruları destekleyin.",
+  "textpopstatistics": "Hızlı soru ve cevap istatistikleri",
+  "textpoptotal": "Toplam ciro",
+  "textpoptotalquiz": "Soru sayısı",
+  "textAnswerrate": "soru cevap oranı",
+  "textCreatorCom": "Asker komisyon geliri",
+  "textPopDay": "{value1} gün",
+  "textPopAll": "Tümü",
+  "textPopTrends": "Doğru seçenek eğilimi",
+  "textPopNumber": "doğru seçenek sayısı",
+  "textPopHistoryRecords": "son kayıtlar",
+  "textCorrectOpt": "Doğru seçenek",
+  "textPopCorrectAns": "Soru yayınlanırken yayıncının belirlediği doğru seçenekler",
+  "textPopRed": "Kırmızı, soru posterinin kazandığı puanları gösterir",
+  "textPopGreen": "Yeşil, soruyu yanıtlayanların kazandığı puanları gösterir",
+  "textPoptime": "zaman",
+  "textPopQuiz": "Soru sayısı"
 }

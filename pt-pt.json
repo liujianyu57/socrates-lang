@@ -1840,5 +1840,21 @@
   "airdropranking2": "Classificação do Airdrop (segunda edição)",
   "airdroprankingComment2": "5 milhões de lançamento aéreo de incentivo comunitário de segunda fase de SOC e Sócrates",
   "airdroprankingillustrate2": "O horário estatístico para as classificações de airdrop é das 11h do dia 30 de janeiro às 11h do dia 30 de março (UTC+0); durante esse período, classificaremos os usuários com base nos pontos que ganham na plataforma.",
-  "airdroprankingTipscontentnew": "Participe ativamente da votação de perguntas, perguntas e respostas e debata questões na plataforma e apoie perguntas valiosas para ganhar pontos de recompensa."
+  "airdroprankingTipscontentnew": "Participe ativamente da votação de perguntas, perguntas e respostas e debata questões na plataforma e apoie perguntas valiosas para ganhar pontos de recompensa.",
+  "textpopstatistics": "Perguntas rápidas e estatísticas de respostas",
+  "textpoptotal": "Rotatividade total",
+  "textpoptotalquiz": "Número de perguntas",
+  "textAnswerrate": "taxa de resposta a perguntas",
+  "textCreatorCom": "Receita de comissão do solicitante",
+  "textPopDay": "{value1} dias",
+  "textPopAll": "todos",
+  "textPopTrends": "Tendência de opção correta",
+  "textPopNumber": "número de opções corretas",
+  "textPopHistoryRecords": "registros recentes",
+  "textCorrectOpt": "Opção correta",
+  "textPopCorrectAns": "As opções corretas definidas pelo editor ao postar a pergunta",
+  "textPopRed": "Vermelho indica os pontos ganhos pelo autor da pergunta",
+  "textPopGreen": "Verde indica os pontos ganhos pelos respondentes",
+  "textPoptime": "tempo",
+  "textPopQuiz": "Número de perguntas"
 }

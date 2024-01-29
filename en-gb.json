@@ -1840,5 +1840,21 @@
   "airdropranking2": "Airdrop Ranking (Season 2)",
   "airdroprankingComment2": "5 million SOC, Socrates second phase community incentive airdrop",
   "airdroprankingillustrate2": "The statistical time for the airdrop rankings is from 11:00 on January 30 to 11:00 on March 30 (UTC+0); during this period, we will rank users based on the points they earn on the platform.",
-  "airdroprankingTipscontentnew": "Actively participate in question voting, Q&A, and debate questions on the platform, and support valuable questions to earn reward points."
+  "airdroprankingTipscontentnew": "Actively participate in question voting, Q&A, and debate questions on the platform, and support valuable questions to earn reward points.",
+  "textpopstatistics": "Pop quiz statistics",
+  "textpoptotal": "Total transaction amount",
+  "textpoptotalquiz": "Number of created quizzes",
+  "textAnswerrate": "Answer rate",
+  "textCreatorCom": "Creator commissions",
+  "textPopDay": "{value1} days",
+  "textPopAll": "All",
+  "textPopTrends": "Option trends",
+  "textPopNumber": "Number of correct options",
+  "textPopHistoryRecords": "Recent records",
+  "textCorrectOpt": "Correct option",
+  "textPopCorrectAns": "The correct option preset by the quiz creator while creating a quiz.",
+  "textPopRed": "The number in red indicates the points earned by the quiz creator.",
+  "textPopGreen": "The number in green indicates the points earned by the quiz participants.",
+  "textPoptime": "Time",
+  "textPopQuiz": "Number of quizzes"
 }

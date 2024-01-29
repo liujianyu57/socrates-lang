@@ -1840,5 +1840,21 @@
   "airdropranking2": "Xếp hạng Airdrop (Số thứ hai)",
   "airdroprankingComment2": "5 triệu SOC, đợt airdrop khuyến khích cộng đồng giai đoạn hai của Socrates",
   "airdroprankingillustrate2": "Thời gian thống kê cho bảng xếp hạng airdrop là từ 11:00 ngày 30 tháng 1 đến 11:00 ngày 30 tháng 3 (UTC+0); trong khoảng thời gian này, chúng tôi sẽ xếp hạng người dùng dựa trên số điểm họ kiếm được trên nền tảng.",
-  "airdroprankingTipscontentnew": "Tích cực tham gia bình chọn câu hỏi, hỏi đáp và tranh luận các câu hỏi trên nền tảng, đồng thời hỗ trợ các câu hỏi có giá trị để kiếm điểm thưởng."
+  "airdroprankingTipscontentnew": "Tích cực tham gia bình chọn câu hỏi, hỏi đáp và tranh luận các câu hỏi trên nền tảng, đồng thời hỗ trợ các câu hỏi có giá trị để kiếm điểm thưởng.",
+  "textpopstatistics": "Thống kê câu hỏi và trả lời nhanh",
+  "textpoptotal": "Tổng doanh thu",
+  "textpoptotalquiz": "Số lượng các câu hỏi",
+  "textAnswerrate": "tỷ lệ trả lời câu hỏi",
+  "textCreatorCom": "Thu nhập hoa hồng của người hỏi",
+  "textPopDay": "{value1} ngày",
+  "textPopAll": "tất cả",
+  "textPopTrends": "Xu hướng lựa chọn đúng",
+  "textPopNumber": "số phương án đúng",
+  "textPopHistoryRecords": "hồ sơ gần đây",
+  "textCorrectOpt": "Tùy chọn đúng",
+  "textPopCorrectAns": "Các lựa chọn đúng do nhà phát hành đặt ra khi đăng câu hỏi",
+  "textPopRed": "Màu đỏ biểu thị số điểm mà người đăng câu hỏi kiếm được",
+  "textPopGreen": "Màu xanh lá cây biểu thị số điểm mà người trả lời câu hỏi kiếm được",
+  "textPoptime": "thời gian",
+  "textPopQuiz": "Số lượng các câu hỏi"
 }
