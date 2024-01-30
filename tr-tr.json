@@ -1744,7 +1744,7 @@
   "textOopsDebate": "Tüh, biri zaten tartışmaya katılmış.",
   "textTryagainDebate": "Farklı birini deneyin",
   "textCannotDebate": "Katıldığınız bir tartışmada oy veremezsiniz.",
-  "tagStartDebate": "Bir tartışma başlatın",
+  "tagStartDebate": "Peak duel",
   "textFirstCanChoose": "Tartışmada, konunun lehinde ve aleyhinde görüşlerin olması gerekir. Tartışmayı oluşturan kişinin, tartışmada belli bir tarafı seçme ve görüş ekleme ayrıcalığı vardır. Oluşturan kişi, tartışmayı kazanırsa ödül olarak puan kazanabilir.",
   "textWriteTopic": "Tartışma başlığınızı yazın.",
   "tagChooseSide": "Tarafınızı seçin",
@@ -1835,7 +1835,7 @@
   "pointType387": "1'e karşı 100 tartışması için platform ücreti",
   "airdropTransactionTip": "Airdrop ödüllerinizi almak biraz zaman alacak, lütfen sabırlı olun ve işlemin tamamlanmasını bekleyin.",
   "network": "ağ",
-  "text1vNRewardInfo": "Ödül, platform komisyonu ve soru soran komisyonu düşüldükten sonra elde edilen gerçek tutardır.",
+  "text1vNRewardInfo": "Ödül, işlem ücretleri düşüldükten sonra alınan gerçek tutardır.",
   "error3044": "Katılımcı sayısı doldu, soru bitti",
   "airdropranking2": "Airdrop Sıralaması (Sezon 1)",
   "airdroprankingComment2": "5 milyon SOC, Sokrates ikinci aşama topluluk teşviki airdropu",
@@ -1845,7 +1845,7 @@
   "textpoptotal": "Toplam ciro",
   "textpoptotalquiz": "Soru sayısı",
   "textAnswerrate": "soru cevap oranı",
-  "textCreatorCom": "Asker komisyon geliri",
+  "textCreatorCom": "Sorgulayıcı ücreti geliri",
   "textPopDay": "{value1} gün",
   "textPopAll": "Tümü",
   "textPopTrends": "Doğru seçenek eğilimi",
@@ -1856,5 +1856,6 @@
   "textPopRed": "Kırmızı, soru posterinin kazandığı puanları gösterir",
   "textPopGreen": "Yeşil, soruyu yanıtlayanların kazandığı puanları gösterir",
   "textPoptime": "zaman",
-  "textPopQuiz": "Soru sayısı"
+  "textPopQuiz": "Soru sayısı",
+  "textPopPoint": "{value1} puan desteği"
 }

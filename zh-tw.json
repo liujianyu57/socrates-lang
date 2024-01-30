@@ -1744,7 +1744,7 @@
   "textOopsDebate": "好可惜！有人比您先加入辯論",
   "textTryagainDebate": "換個問題試試",
   "textCannotDebate": "不能為自己參與的辯論投票",
-  "tagStartDebate": "發佈辯論",
+  "tagStartDebate": "巔峰對決",
   "textFirstCanChoose": "辯論問題需要正反雙方參加，問題的發佈人有優先選取正反方和發表觀點的權利，辯論勝利後可以獲得積分獎勵。",
   "textWriteTopic": "寫下您的辯論問題",
   "tagChooseSide": "選擇正/反方",
@@ -1835,7 +1835,7 @@
   "pointType387": "以一敵百平台抽成",
   "airdropTransactionTip": "需要一些時間來領取您的空投獎勵，請耐心等待交易完成。",
   "network": "網路",
-  "text1vNRewardInfo": "獎勵為扣除平台佣金及提問者佣金的實際到帳金額",
+  "text1vNRewardInfo": "獎勵為扣除手續費的實際到帳金額",
   "error3044": "參與人數已滿，問題結束",
   "airdropranking2": "空投排行榜(第二期)",
   "airdroprankingComment2": "500萬SOC，Socrates第二期社區激勵空投",
@@ -1845,7 +1845,7 @@
   "textpoptotal": "總流水",
   "textpoptotalquiz": "提問數量",
   "textAnswerrate": "問題回答率",
-  "textCreatorCom": "提問者佣金收入",
+  "textCreatorCom": "提問者手續費收入",
   "textPopDay": "{value1}天",
   "textPopAll": "全部",
   "textPopTrends": "正確選項趨勢",
@@ -1856,5 +1856,6 @@
   "textPopRed": "紅色表示問題發布者賺取的積分",
   "textPopGreen": "綠色表示問題回答者賺取的積分",
   "textPoptime": "時間",
-  "textPopQuiz": "問題數量"
+  "textPopQuiz": "問題數量",
+  "textPopPoint": "{value1} 積分"
 }

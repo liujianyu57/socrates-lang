@@ -1744,7 +1744,7 @@
   "textOopsDebate": "다른 사람이 이미 토론에 참여했습니다.",
   "textTryagainDebate": "다른 토론 시도하기",
   "textCannotDebate": "참여한 토론에는 투표할 수 없습니다.",
-  "tagStartDebate": "토론 시작하기",
+  "tagStartDebate": "첨예한 대결",
   "textFirstCanChoose": "토론에는 주제에 찬성 및 반대하는 논쟁이 필요합니다. 토론 생성자는 토론에서 특정 입장을 선택하고 논쟁을 추가할 권한을 갖습니다. 토론에서 승리할 경우 생성자는 포인트를 보상으로 획득합니다.",
   "textWriteTopic": "토론 주제를 작성하십시오.",
   "tagChooseSide": "입장 선택",
@@ -1835,7 +1835,7 @@
   "pointType387": "1 대 100 토론에 대한 플랫폼 요금",
   "airdropTransactionTip": "SOC 청구에는 다소 시간이 걸릴 수 있습니다. 거래가 완료될 때까지 기다려 주세요.",
   "network": "회로망",
-  "text1vNRewardInfo": "보상이 사용자에게 지급되기 전에 플랫폼 수수료와 창작자 수수료가 보상에서 차감됩니다.",
+  "text1vNRewardInfo": "리워드는 수수료를 차감한 실제 금액입니다.",
   "error3044": "최대 참여인원에 도달하여 질문이 종료되었습니다.",
   "airdropranking2": "에어드랍 순위(두번째)",
   "airdroprankingComment2": "500만 SOC, 소크라테스 2단계 커뮤니티 인센티브 에어드랍",
@@ -1845,7 +1845,7 @@
   "textpoptotal": "총 매출액",
   "textpoptotalquiz": "질문 수",
   "textAnswerrate": "질문 답변률",
-  "textCreatorCom": "질문자 수수료 수입",
+  "textCreatorCom": "크리에이터 수수료 수입",
   "textPopDay": "{value1}일",
   "textPopAll": "모두",
   "textPopTrends": "올바른 옵션 추세",
@@ -1856,5 +1856,6 @@
   "textPopRed": "빨간색은 질문 포스터에서 얻은 점수를 나타냅니다.",
   "textPopGreen": "녹색은 질문 답변자가 획득한 포인트를 나타냅니다.",
   "textPoptime": "시간",
-  "textPopQuiz": "질문 수"
+  "textPopQuiz": "질문 수",
+  "textPopPoint": "{value1}포인트"
 }

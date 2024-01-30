@@ -1744,7 +1744,7 @@
   "textOopsDebate": "Ups, alguien ya se ha unido al debate.",
   "textTryagainDebate": "Prueba otro",
   "textCannotDebate": "No puede votar en un debate en el que haya participado.",
-  "tagStartDebate": "Comenzar un debate",
+  "tagStartDebate": "Duelo decisivo",
   "textFirstCanChoose": "Un debate requiere argumentos a favor y en contra del tema. El creador del debate tiene el privilegio de elegir un bando específico del debate y agregar argumentos. El creador puede ganar puntos como recompensa si gana el debate.",
   "textWriteTopic": "Escriba el tema de su debate.",
   "tagChooseSide": "Elija un bando",
@@ -1835,7 +1835,7 @@
   "pointType387": "Tarifa de la plataforma por el debate 1 versus 100",
   "airdropTransactionTip": "Reclamar SOC puede tardar un poco. Espere hasta que se complete la transacción.",
   "network": "Red",
-  "text1vNRewardInfo": "Las tarifas de la plataforma y la comisión del creador se deducirán de la recompensa antes de que se entregue a los usuarios.",
+  "text1vNRewardInfo": "La recompensa es el importe real recibido después de deducir los gastos de gestión.",
   "error3044": "La pregunta finaliza porque el número de participantes ha alcanzado el máximo.",
   "airdropranking2": "Clasificación de lanzamiento aéreo (segunda edición)",
   "airdroprankingComment2": "5 millones de SOC, lanzamiento aéreo de incentivo comunitario de segunda fase de Sócrates",
@@ -1845,7 +1845,7 @@
   "textpoptotal": "Facturación total",
   "textpoptotalquiz": "Numero de preguntas",
   "textAnswerrate": "tasa de respuesta a preguntas",
-  "textCreatorCom": "Ingresos por comisiones del autor de la pregunta",
+  "textCreatorCom": "Ingresos por honorarios del interrogador",
   "textPopDay": "{value1} días",
   "textPopAll": "todo",
   "textPopTrends": "Tendencia de opción correcta",
@@ -1856,5 +1856,6 @@
   "textPopRed": "El rojo indica los puntos obtenidos por el autor de la pregunta.",
   "textPopGreen": "El verde indica los puntos obtenidos por quienes respondieron las preguntas.",
   "textPoptime": "tiempo",
-  "textPopQuiz": "Numero de preguntas"
+  "textPopQuiz": "Numero de preguntas",
+  "textPopPoint": "{value1} puntos."
 }

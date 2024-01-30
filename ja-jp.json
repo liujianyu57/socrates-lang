@@ -1744,7 +1744,7 @@
   "textOopsDebate": "おっと、すでに誰かがディベートに加わっていたようです。",
   "textTryagainDebate": "他のものを試してみる",
   "textCannotDebate": "自分が参加したディベートに投票することはできません。",
-  "tagStartDebate": "ディベートを開始",
+  "tagStartDebate": "ピークデュエル",
   "textFirstCanChoose": "ディベートには、そのトピックに対する賛成派と反対派が必要です。ディベート作成者は、ディベートで特定のポジションを選択し、ディベートを追加する特権を持っています。ディベートに勝利すると、作成者は報酬としてポイントを獲得できます。",
   "textWriteTopic": "ディベートのトピックを書き出します。",
   "tagChooseSide": "ポジションを選択",
@@ -1835,7 +1835,7 @@
   "pointType387": "1 対 100のディベートのプラットフォーム料金",
   "airdropTransactionTip": "SOC の請求には時間がかかる場合があります。トランザクションが完了するまでお待ちください。",
   "network": "通信網",
-  "text1vNRewardInfo": "プラットフォーム料金とクリエイターのコミッションは、ユーザーに支払われる前に報酬から差し引かれます。",
+  "text1vNRewardInfo": "報酬は手数料を差し引いた実際の受け取り金額となります。",
   "error3044": "参加者が定員に達したため質問を終了いたします。",
   "airdropranking2": "エアドロップランキング（第2回）",
   "airdroprankingComment2": "500 万 SOC、ソクラテスの第 2 段階コミュニティ インセンティブ エアドロップ",
@@ -1845,7 +1845,7 @@
   "textpoptotal": "総取引高",
   "textpoptotalquiz": "質問数",
   "textAnswerrate": "質問の回答率",
-  "textCreatorCom": "アスカー手数料収入",
+  "textCreatorCom": "クリエイター報酬収入",
   "textPopDay": "{value1} 日",
   "textPopAll": "全て",
   "textPopTrends": "正しいオプションの傾向",
@@ -1856,5 +1856,6 @@
   "textPopRed": "赤は質問投稿者が獲得したポイントを示します",
   "textPopGreen": "緑色は質問回答者が獲得したポイントを示します",
   "textPoptime": "時間",
-  "textPopQuiz": "質問数"
+  "textPopQuiz": "質問数",
+  "textPopPoint": "{value1} ポイント"
 }

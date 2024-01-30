@@ -1744,7 +1744,7 @@
   "textOopsDebate": "Rất tiếc, đã có người tham gia cuộc tranh luận.",
   "textTryagainDebate": "Thử một cuộc tranh luận khác",
   "textCannotDebate": "Bạn không thể bình chọn cho cuộc tranh luận mà bạn đã tham gia.",
-  "tagStartDebate": "Bắt đầu một cuộc tranh luận",
+  "tagStartDebate": "Trận đấu đỉnh cao",
   "textFirstCanChoose": "Một cuộc tranh luận đòi hỏi những lập luận ủng hộ và phản biện chủ đề. Người tạo cuộc tranh luận có đặc quyền chọn một bên cụ thể trong cuộc tranh luận và bổ sung các lập luận. Người sáng tạo có thể kiếm được điểm làm phần thưởng nếu họ thắng cuộc tranh luận.",
   "textWriteTopic": "Viết ra chủ đề tranh luận của bạn.",
   "tagChooseSide": "Chọn bên",
@@ -1835,7 +1835,7 @@
   "pointType387": "Phí nền tảng cho cuộc tranh luận 1 đấu 100",
   "airdropTransactionTip": "Việc yêu cầu SOC có thể mất một thời gian. Vui lòng đợi cho đến khi giao dịch hoàn tất.",
   "network": "Mạng",
-  "text1vNRewardInfo": "Phí nền tảng và hoa hồng của người sáng tạo sẽ được khấu trừ vào phần thưởng trước khi giải ngân cho người dùng.",
+  "text1vNRewardInfo": "Phần thưởng là số tiền thực tế nhận được sau khi trừ phí xử lý.",
   "error3044": "Câu hỏi kết thúc vì số lượng người tham gia đã đạt đến mức tối đa.",
   "airdropranking2": "Xếp hạng Airdrop (Số thứ hai)",
   "airdroprankingComment2": "5 triệu SOC, đợt airdrop khuyến khích cộng đồng giai đoạn hai của Socrates",
@@ -1845,7 +1845,7 @@
   "textpoptotal": "Tổng doanh thu",
   "textpoptotalquiz": "Số lượng các câu hỏi",
   "textAnswerrate": "tỷ lệ trả lời câu hỏi",
-  "textCreatorCom": "Thu nhập hoa hồng của người hỏi",
+  "textCreatorCom": "Thu nhập từ phí thẩm vấn",
   "textPopDay": "{value1} ngày",
   "textPopAll": "tất cả",
   "textPopTrends": "Xu hướng lựa chọn đúng",
@@ -1856,5 +1856,6 @@
   "textPopRed": "Màu đỏ biểu thị số điểm mà người đăng câu hỏi kiếm được",
   "textPopGreen": "Màu xanh lá cây biểu thị số điểm mà người trả lời câu hỏi kiếm được",
   "textPoptime": "thời gian",
-  "textPopQuiz": "Số lượng các câu hỏi"
+  "textPopQuiz": "Số lượng các câu hỏi",
+  "textPopPoint": "{value1} điểm"
 }

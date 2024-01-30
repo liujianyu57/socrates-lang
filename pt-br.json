@@ -1744,7 +1744,7 @@
   "textOopsDebate": "Ops, alguém já entrou no debate.",
   "textTryagainDebate": "Tente outro",
   "textCannotDebate": "Não é possível votar no debate do qual você participou.",
-  "tagStartDebate": "Iniciar um debate",
+  "tagStartDebate": "Pico do duelo",
   "textFirstCanChoose": "Um debate requer argumentos a favor e contra o tópico. O criador do debate pode escolher um lado específico no debate e adicionar argumentos. O criador pode ganhar pontos como recompensa caso vença o debate.",
   "textWriteTopic": "Escreva o tópico do seu debate.",
   "tagChooseSide": "Selecionar o lado",
@@ -1835,7 +1835,7 @@
   "pointType387": "Taxa da plataforma pelo 1 vs. 100 debate",
   "airdropTransactionTip": "A reivindicação do SOC pode demorar um pouco. Aguarde até que a transação seja concluída.",
   "network": "Rede",
-  "text1vNRewardInfo": "As taxas da plataforma e a comissão do criador serão deduzidas da recompensa antes de ela ser paga aos usuários.",
+  "text1vNRewardInfo": "A recompensa é o valor real recebido após a dedução das taxas de manuseio.",
   "error3044": "A questão foi encerrada porque o número de participantes atingiu o máximo.",
   "airdropranking2": "Classificação do Airdrop (segunda edição)",
   "airdroprankingComment2": "5 milhões de lançamento aéreo de incentivo comunitário de segunda fase de SOC e Sócrates",
@@ -1845,7 +1845,7 @@
   "textpoptotal": "Rotatividade total",
   "textpoptotalquiz": "Número de perguntas",
   "textAnswerrate": "taxa de resposta a perguntas",
-  "textCreatorCom": "Receita de comissão do solicitante",
+  "textCreatorCom": "Receita de honorários do interrogador",
   "textPopDay": "{value1} dias",
   "textPopAll": "todos",
   "textPopTrends": "Tendência de opção correta",
@@ -1856,5 +1856,6 @@
   "textPopRed": "Vermelho indica os pontos ganhos pelo autor da pergunta",
   "textPopGreen": "Verde indica os pontos ganhos pelos respondentes",
   "textPoptime": "tempo",
-  "textPopQuiz": "Número de perguntas"
+  "textPopQuiz": "Número de perguntas",
+  "textPopPoint": "{value1} pontos"
 }
