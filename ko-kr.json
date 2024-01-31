@@ -1644,7 +1644,7 @@
   "textReceiveNotifi": "Socrates에서 마케팅 커뮤니케이션을 받겠습니다.",
   "tagContinue": "계속",
   "tagOR": "또는",
-  "tagThroughGoogle": "Google로 계속",
+  "tagThroughGoogle": "{value1} 로 계속",
   "textEmailcannotEmpty": "이메일 주소 필드는 비워둘 수 없습니다.",
   "textWrongEmail": "이메일 주소가 유효하지 않습니다.",
   "textWrongVeriCode": "확인 코드가 잘못되었습니다.",

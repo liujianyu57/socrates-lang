@@ -1644,7 +1644,7 @@
   "textReceiveNotifi": "Socrates'ten pazarlama bildirimleri almak istiyorum.",
   "tagContinue": "Devam Et",
   "tagOR": "VEYA",
-  "tagThroughGoogle": "Google ile devam edin",
+  "tagThroughGoogle": "{value1} ile devam edin",
   "textEmailcannotEmpty": "E-posta adresi alanı boş bırakılamaz.",
   "textWrongEmail": "Geçersiz e-posta adresi.",
   "textWrongVeriCode": "Hatalı doğrulama kodu.",

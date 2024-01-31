@@ -1644,7 +1644,7 @@
   "textReceiveNotifi": "Tôi muốn nhận thông tin trao đổi về tiếp thị từ Socrates.",
   "tagContinue": "Tiếp tục",
   "tagOR": "HOẶC",
-  "tagThroughGoogle": "Tiếp tục bằng Google",
+  "tagThroughGoogle": "Tiếp tục bằng {value1}",
   "textEmailcannotEmpty": "Không thể để trống trường địa chỉ email.",
   "textWrongEmail": "Địa chỉ email không hợp lệ.",
   "textWrongVeriCode": "Mã xác minh không chính xác.",

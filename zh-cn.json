@@ -1644,7 +1644,7 @@
   "textReceiveNotifi": "我希望收到Socrates的营销通讯",
   "tagContinue": "继续",
   "tagOR": "或者",
-  "tagThroughGoogle": "通过Google继续",
+  "tagThroughGoogle": "通过 {value1} 继续",
   "textEmailcannotEmpty": "电子邮箱不能为空",
   "textWrongEmail": "电子邮箱格式不正确",
   "textWrongVeriCode": "验证码不正确",

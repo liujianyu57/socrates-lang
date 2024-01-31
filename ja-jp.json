@@ -1644,7 +1644,7 @@
   "textReceiveNotifi": "Socratesからのマーケティングに関する連絡を希望します。",
   "tagContinue": "続ける",
   "tagOR": "または",
-  "tagThroughGoogle": "Googleで続ける",
+  "tagThroughGoogle": "{value1}で続ける",
   "textEmailcannotEmpty": "メールアドレス欄は空欄にはできません。",
   "textWrongEmail": "無効なメールアドレスです。",
   "textWrongVeriCode": "認証コードが正しくありません。",

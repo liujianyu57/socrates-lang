@@ -1644,7 +1644,7 @@
   "textReceiveNotifi": "Я хотел бы получать маркетинговые сообщения от Socrates.",
   "tagContinue": "Продолжить",
   "tagOR": "ИЛИ",
-  "tagThroughGoogle": "Продолжить с Google",
+  "tagThroughGoogle": "Продолжить с {value1}",
   "textEmailcannotEmpty": "Поле адреса электронной почты не может быть пустым.",
   "textWrongEmail": "Неверный адрес электронной почты.",
   "textWrongVeriCode": "Неверный код подтверждения.",

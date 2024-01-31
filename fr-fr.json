@@ -1644,7 +1644,7 @@
   "textReceiveNotifi": "Je souhaite recevoir des communications marketing de la part de Socrates.",
   "tagContinue": "Poursuivre",
   "tagOR": "OU",
-  "tagThroughGoogle": "Continuer avec Google",
+  "tagThroughGoogle": "Continuer avec {value1}",
   "textEmailcannotEmpty": "Le champ de l’e-mail ne peut pas être laissé vide.",
   "textWrongEmail": "E-mail non valide.",
   "textWrongVeriCode": "Code de vérification incorrect.",
