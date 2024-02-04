@@ -1858,7 +1858,7 @@
   "textPoptime": "時間",
   "textPopQuiz": "質問数",
   "textPopPoint": "{value1} ポイント",
-  "textHasBeenVote": "このペンは質問に対する投票に使用されました。",
+  "textHasBeenVoted": "このペンは質問に対する投票に使用されました。",
   "shareJoinTag": "参加する",
   "shareDebateTitle": "ピークデュエルの議論を共有して、ジャックポットを当てましょう!",
   "textRiskAction": "現在の行動にはリスクが伴います。",

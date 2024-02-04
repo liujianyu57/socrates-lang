@@ -1858,7 +1858,7 @@
   "textPoptime": "zaman",
   "textPopQuiz": "Soru sayısı",
   "textPopPoint": "{value1} puan desteği",
-  "textHasBeenVote": "Bu Kalem soruya oy vermek için kullanıldı.",
+  "textHasBeenVoted": "Bu Kalem soruya oy vermek için kullanıldı.",
   "shareJoinTag": "Katılmak",
   "shareDebateTitle": "Zirve Düellosu tartışmasını paylaşın, büyük ikramiyeyi kazanın!",
   "textRiskAction": "Mevcut eyleminizle ilişkili bir risk var.",

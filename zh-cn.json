@@ -1858,7 +1858,7 @@
   "textPoptime": "时间",
   "textPopQuiz": "问题数量",
   "textPopPoint": "{value1}积分",
-  "textHasBeenVote": "此笔已参与过该问题的投票",
+  "textHasBeenVoted": "此笔已参与过该问题的投票",
   "shareJoinTag": "加入",
   "shareDebateTitle": "分享巅峰对决问题，有机会瓜分大奖！",
   "textRiskAction": "当前行为存在风险",

@@ -1858,7 +1858,7 @@
   "textPoptime": "Time",
   "textPopQuiz": "Number of quizzes",
   "textPopPoint": "{value1} points",
-  "textHasBeenVote": "This Pen has been used for voting on the question.",
+  "textHasBeenVoted": "This Pen has been used for voting on the question.",
   "shareJoinTag": "Join",
   "shareDebateTitle": "Share the Peak Duel debate, hit the jackpot!",
   "textRiskAction": "There is a risk associated with your current action.",

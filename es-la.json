@@ -1858,7 +1858,7 @@
   "textPoptime": "tiempo",
   "textPopQuiz": "Numero de preguntas",
   "textPopPoint": "{value1} puntos.",
-  "textHasBeenVote": "Este bolígrafo se ha utilizado para votar sobre la cuestión.",
+  "textHasBeenVoted": "Este bolígrafo se ha utilizado para votar sobre la cuestión.",
   "shareJoinTag": "Unirse",
   "shareDebateTitle": "Comparte el debate Peak Duel, ¡gana el premio mayor!",
   "textRiskAction": "Existe un riesgo asociado con su acción actual.",

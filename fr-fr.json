@@ -1858,7 +1858,7 @@
   "textPoptime": "temps",
   "textPopQuiz": "Nombre de questions",
   "textPopPoint": "{value1} points",
-  "textHasBeenVote": "Ce stylo a été utilisé pour voter sur la question.",
+  "textHasBeenVoted": "Ce stylo a été utilisé pour voter sur la question.",
   "shareJoinTag": "Rejoindre",
   "shareDebateTitle": "Partagez le débat sur Peak Duel et remportez le jackpot !",
   "textRiskAction": "Il existe un risque associé à votre action actuelle.",

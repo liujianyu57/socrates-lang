@@ -1858,7 +1858,7 @@
   "textPoptime": "時間",
   "textPopQuiz": "問題數量",
   "textPopPoint": "{value1} 積分",
-  "textHasBeenVote": "此筆已參與此議題的投票",
+  "textHasBeenVoted": "此筆已參與此議題的投票",
   "shareJoinTag": "加入",
   "shareDebateTitle": "分享巔峰對決問題，有機會瓜分大獎！",
   "textRiskAction": "目前行為存在風險",

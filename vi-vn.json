@@ -1858,7 +1858,7 @@
   "textPoptime": "thời gian",
   "textPopQuiz": "Số lượng các câu hỏi",
   "textPopPoint": "{value1} điểm",
-  "textHasBeenVote": "Chiếc bút này đã được sử dụng để bỏ phiếu cho câu hỏi.",
+  "textHasBeenVoted": "Chiếc bút này đã được sử dụng để bỏ phiếu cho câu hỏi.",
   "shareJoinTag": "Tham gia",
   "shareDebateTitle": "Chia sẻ cuộc tranh luận Đỉnh cao, trúng số độc đắc!",
   "textRiskAction": "Có một rủi ro liên quan đến hành động hiện tại của bạn.",
