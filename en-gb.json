@@ -1884,5 +1884,13 @@
   "textStatEndedEarn": "The 1 vs.100 debate you participated in has ended, and you have earned {value1} points.",
   "textStatBreakRulePost": "Your 1 vs.100 debate has been deleted for violating platform rules. No one joined the debate, and {value1} points have been refunded.",
   "textStatBreakRulePostEarn": "Your 1 vs.100 debate has been deleted for violating platform rules. {value1} users joined the debate, and you earned {value2} points.",
-  "textStatBreakRule": "Your 1 vs.100 debate has been deleted for violating platform rules."
+  "textStatBreakRule": "Your 1 vs.100 debate has been deleted for violating platform rules.",
+  "textShareDuelPeak": "Share the Peak Duel debate, hit the jackpot!",
+  "textShareJoinDebate": "Wow, this argument is lit. Join the debate now!",
+  "textShareVoteWithMe": "Vote with me, share the winner's prize pool.",
+  "textShareAnsandWin": "Join to win big",
+  "textEndedJoinOtherQuestion": "This question has ended. Keep going, more rewards await you.",
+  "textAnsFirst": "Be an early bird to unlock higher rewards",
+  "NeedEmailInform": "The account is not linked to an email address. Please link it to an email address before registration or use an email address to directly register on Socrates.",
+  "error3042": "This account has been voted on for the question."
 }

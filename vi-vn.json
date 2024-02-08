@@ -1884,5 +1884,13 @@
   "textStatEndedEarn": "Cuộc tranh luận 1 vs.100 mà bạn tham gia đã kết thúc và bạn đã kiếm được {value1} điểm.",
   "textStatBreakRulePost": "Cuộc tranh luận 1 vs.100 của bạn đã bị xóa do vi phạm quy tắc nền tảng. Không có ai tham gia cuộc tranh luận và {value1} điểm đã được hoàn lại.",
   "textStatBreakRulePostEarn": "Cuộc tranh luận 1 vs.100 của bạn đã bị xóa do vi phạm quy tắc nền tảng. Người dùng {value1} đã tham gia cuộc tranh luận và bạn đã kiếm được {value2} điểm.",
-  "textStatBreakRule": "Cuộc tranh luận 1 vs.100 của bạn đã bị xóa do vi phạm quy tắc nền tảng."
+  "textStatBreakRule": "Cuộc tranh luận 1 vs.100 của bạn đã bị xóa do vi phạm quy tắc nền tảng.",
+  "textShareDuelPeak": "Chia sẻ các câu hỏi đấu tay đôi đỉnh cao và có cơ hội chia sẻ giải thưởng!",
+  "textShareJoinDebate": "Đây là một điểm tuyệt vời, hãy nhấp vào để tham gia tranh luận!",
+  "textShareVoteWithMe": "Trả lời câu hỏi cùng tôi, bình chọn cho câu trả lời đúng và chia sẻ giải thưởng nếu bạn trả lời đúng",
+  "textShareAnsandWin": "Trả lời câu hỏi và giành giải thưởng lớn",
+  "textEndedJoinOtherQuestion": "Câu hỏi này đã kết thúc. Hãy tham gia trả lời các câu hỏi khác. Ngoài ra còn có những giải thưởng lớn đang chờ bạn.",
+  "textAnsFirst": "Hãy là người đầu tiên trả lời câu hỏi và mở khóa phần thưởng có tỷ lệ hoàn vốn siêu cao",
+  "NeedEmailInform": "Tài khoản thiếu thông tin địa chỉ email, vui lòng liên kết và đăng ký lại hoặc trực tiếp sử dụng địa chỉ email của bạn để đăng ký Socrates.",
+  "error3042": "Tài khoản này đã tham gia bỏ phiếu về vấn đề này"
 }

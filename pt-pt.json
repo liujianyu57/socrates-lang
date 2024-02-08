@@ -1884,5 +1884,13 @@
   "textStatEndedEarn": "O debate 1 x 100 do qual você participou terminou e você ganhou {value1} pontos.",
   "textStatBreakRulePost": "Seu debate 1 x 100 foi excluído por violar as regras da plataforma. Ninguém participou do debate e {value1} pontos foram reembolsados.",
   "textStatBreakRulePostEarn": "Seu debate 1 x 100 foi excluído por violar as regras da plataforma. {value1} usuários participaram do debate e você ganhou {value2} pontos.",
-  "textStatBreakRule": "Seu debate 1 x 100 foi excluído por violar as regras da plataforma."
+  "textStatBreakRule": "Seu debate 1 x 100 foi excluído por violar as regras da plataforma.",
+  "textShareDuelPeak": "Compartilhe as perguntas do pico do duelo e tenha a chance de compartilhar o prêmio!",
+  "textShareJoinDebate": "Este é um ótimo ponto, clique para participar do debate!",
+  "textShareVoteWithMe": "Responda as perguntas comigo, vote nas respostas corretas e compartilhe o prêmio se responder corretamente",
+  "textShareAnsandWin": "Responda perguntas e ganhe grandes prêmios",
+  "textEndedJoinOtherQuestion": "Esta pergunta terminou. Participe respondendo outras perguntas. Também há ótimos prêmios esperando por você.",
+  "textAnsFirst": "Seja o primeiro a responder perguntas e desbloquear recompensas com taxas de retorno superaltas",
+  "NeedEmailInform": "A conta não possui informações de endereço de e-mail. Vincule-a e registre-se novamente ou use seu endereço de e-mail diretamente para registrar o Sócrates.",
+  "error3042": "Esta conta já participou da votação sobre este assunto"
 }

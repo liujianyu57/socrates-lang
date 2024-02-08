@@ -1884,5 +1884,13 @@
   "textStatEndedEarn": "你參與的以一敵百問題已結束，獲得{value1}積分。",
   "textStatBreakRulePost": "你發布的以一敵百問題，因違反平台規定而被刪除。 此問題無人參與，退回{value1}積分。",
   "textStatBreakRulePostEarn": "你發布的以一敵百問題，因違反平台規定而被刪除。 此問題{value1}人參與，共獲得{value2}積分。",
-  "textStatBreakRule": "你發布的以一敵百問題，因違反平台規定而被刪除。"
+  "textStatBreakRule": "你發布的以一敵百問題，因違反平台規定而被刪除。",
+  "textShareDuelPeak": "分享巔峰對決問題，有機會瓜分大獎！",
+  "textShareJoinDebate": "這個觀點很贊，點擊加入辯論！",
+  "textShareVoteWithMe": "和我一起答題，為正確答案投票，答對即可瓜分獎金池",
+  "textShareAnsandWin": "回答問題贏大獎",
+  "textEndedJoinOtherQuestion": "這個問題已經結束了，參與其他問題搶答，同樣有大獎在等你。",
+  "textAnsFirst": "搶先回答問題，解鎖超高報酬率獎勵",
+  "NeedEmailInform": "帳號缺少郵箱地址資訊 請綁定後重新註冊或直接使用郵箱註冊蘇格拉底。",
+  "error3042": "此帳號已參與此問題的投票"
 }

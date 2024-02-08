@@ -1884,5 +1884,13 @@
   "textStatEndedEarn": "你参与的以一敌百问题已结束，获得{value1}积分。",
   "textStatBreakRulePost": "你发布的以一敌百问题，因违反平台规定被删除。该问题无人参与，退回{value1}积分。",
   "textStatBreakRulePostEarn": "你发布的以一敌百问题，因违反平台规定被删除。该问题{value1}人参与，共获得{value2}积分。",
-  "textStatBreakRule": "你发布的以一敌百问题，因违反平台规定被删除。"
+  "textStatBreakRule": "你发布的以一敌百问题，因违反平台规定被删除。",
+  "textShareDuelPeak": "分享巅峰对决问题，有机会瓜分大奖！",
+  "textShareJoinDebate": "这个观点很赞，点击加入辩论！",
+  "textShareVoteWithMe": "和我一起答题\n为正确答案投票，答对即可瓜分奖池",
+  "textShareAnsandWin": "回答问题赢大奖",
+  "textEndedJoinOtherQuestion": "这个问题已经结束了，参与其他问题抢答，同样有大奖在等你。",
+  "textAnsFirst": "抢先回答问题，解锁超高回报率奖励",
+  "NeedEmailInform": "账号缺少邮箱地址信息 请绑定后重新注册或直接使用邮箱注册苏格拉底。",
+  "error3042": "此账号已参与过该问题的投票"
 }

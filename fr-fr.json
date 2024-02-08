@@ -1884,5 +1884,13 @@
   "textStatEndedEarn": "Le débat 1 contre 100 auquel vous avez participé est terminé et vous avez gagné {value1} points.",
   "textStatBreakRulePost": "Votre débat 1 contre 100 a été supprimé pour non-respect des règles de la plateforme. Personne n'a rejoint le débat et les points {value1} ont été remboursés.",
   "textStatBreakRulePostEarn": "Votre débat 1 contre 100 a été supprimé pour non-respect des règles de la plateforme. {value1} utilisateurs ont rejoint le débat et vous avez gagné {value2} points.",
-  "textStatBreakRule": "Votre débat 1 contre 100 a été supprimé pour violation des règles de la plateforme."
+  "textStatBreakRule": "Votre débat 1 contre 100 a été supprimé pour violation des règles de la plateforme.",
+  "textShareDuelPeak": "Partagez les questions du duel de pointe et courez la chance de partager le prix !",
+  "textShareJoinDebate": "C’est un excellent point, cliquez pour rejoindre le débat !",
+  "textShareVoteWithMe": "Répondez aux questions avec moi, votez pour les bonnes réponses et partagez la cagnotte si vous répondez correctement",
+  "textShareAnsandWin": "Répondez aux questions et gagnez de gros prix",
+  "textEndedJoinOtherQuestion": "Cette question est terminée. Participez en répondant à d'autres questions. De superbes prix vous attendent également.",
+  "textAnsFirst": "Soyez le premier à répondre aux questions et débloquez des récompenses à taux de retour très élevé",
+  "NeedEmailInform": "Le compte ne dispose pas d'informations sur l'adresse e-mail. Veuillez le lier et vous réinscrire ou utiliser directement votre adresse e-mail pour enregistrer Socrates.",
+  "error3042": "Ce compte a déjà participé au vote sur cette question"
 }

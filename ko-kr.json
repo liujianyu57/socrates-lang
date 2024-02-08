@@ -1884,5 +1884,13 @@
   "textStatEndedEarn": "귀하가 참여하신 1 대 100 토론이 종료되었으며 귀하는 {value1}점을 획득하셨습니다.",
   "textStatBreakRulePost": "플랫폼 규칙을 위반하여 1대100 토론이 삭제되었습니다. 아무도 토론에 참여하지 않았으며 {value1} 포인트가 환불되었습니다.",
   "textStatBreakRulePostEarn": "플랫폼 규칙을 위반하여 1대100 토론이 삭제되었습니다. {value1}명의 사용자가 토론에 참여했으며 귀하는 {value2}포인트를 획득했습니다.",
-  "textStatBreakRule": "플랫폼 규칙을 위반하여 1대100 토론이 삭제되었습니다."
+  "textStatBreakRule": "플랫폼 규칙을 위반하여 1대100 토론이 삭제되었습니다.",
+  "textShareDuelPeak": "최고 결투 질문을 공유하고 상품을 공유할 기회를 얻으세요!",
+  "textShareJoinDebate": "이것은 매우 중요한 사항입니다. 토론에 참여하려면 클릭하세요!",
+  "textShareVoteWithMe": "저와 함께 질문에 답하고, 정답에 투표하고, 정답을 맞히면 상금을 공유하세요.",
+  "textShareAnsandWin": "질문에 답하고 큰 상품을 받으세요",
+  "textEndedJoinOtherQuestion": "해당 질문은 종료되었습니다. 다른 질문에도 답변해주세요. 푸짐한 상품도 준비되어 있습니다.",
+  "textAnsFirst": "가장 먼저 질문에 답하고 매우 높은 수익률 보상을 받으세요",
+  "NeedEmailInform": "계정에 이메일 주소 정보가 부족합니다. 계정을 바인딩한 후 재등록하거나 이메일 주소를 직접 사용하여 소크라테스를 등록하세요.",
+  "error3042": "이 계정은 이미 이 문제에 대한 투표에 참여했습니다."
 }
